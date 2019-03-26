@@ -1,0 +1,662 @@
+{
+  "author": "Cornelius Gulere",
+  "data": [
+    {
+      "image": "a_very_tall_man_4_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_hoe_was_too_short.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 2,
+                    "word": "His"
+                  },
+                  {
+                    "end": 68,
+                    "start": 45,
+                    "word": "hoe"
+                  },
+                  {
+                    "end": 99,
+                    "start": 69,
+                    "word": "was"
+                  },
+                  {
+                    "end": 118,
+                    "start": 100,
+                    "word": "too"
+                  },
+                  {
+                    "end": 171,
+                    "start": 119,
+                    "word": "short"
+                  }
+                ],
+                "until": 171,
+                "utterances": "His hoe was too short"
+              }
+            ],
+            "sentence": "His hoe was too short."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_doorway_was_too_low.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 19,
+                    "word": "His"
+                  },
+                  {
+                    "end": 100,
+                    "start": 37,
+                    "word": "doorway"
+                  },
+                  {
+                    "end": 123,
+                    "start": 101,
+                    "word": "was"
+                  },
+                  {
+                    "end": 149,
+                    "start": 124,
+                    "word": "too"
+                  },
+                  {
+                    "end": 185,
+                    "start": 150,
+                    "word": "low"
+                  }
+                ],
+                "until": 185,
+                "utterances": "His doorway was too low"
+              }
+            ],
+            "sentence": "His doorway was too low."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_bed_was_too_short.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 2,
+                    "word": "His"
+                  },
+                  {
+                    "end": 79,
+                    "start": 46,
+                    "word": "bed"
+                  },
+                  {
+                    "end": 102,
+                    "start": 80,
+                    "word": "was"
+                  },
+                  {
+                    "end": 123,
+                    "start": 103,
+                    "word": "too"
+                  },
+                  {
+                    "end": 176,
+                    "start": 124,
+                    "word": "short"
+                  }
+                ],
+                "until": 176,
+                "utterances": "His bed was too short"
+              }
+            ],
+            "sentence": "His bed was too short."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_bicycle_was_too_short.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 2,
+                    "word": "His"
+                  },
+                  {
+                    "end": 105,
+                    "start": 43,
+                    "word": "bicycle"
+                  },
+                  {
+                    "end": 131,
+                    "start": 106,
+                    "word": "was"
+                  },
+                  {
+                    "end": 152,
+                    "start": 132,
+                    "word": "too"
+                  },
+                  {
+                    "end": 199,
+                    "start": 153,
+                    "word": "short"
+                  }
+                ],
+                "until": 199,
+                "utterances": "His bicycle was too short"
+              }
+            ],
+            "sentence": "His bicycle was too short."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_man_was_too_tall.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 21,
+                    "word": "This"
+                  },
+                  {
+                    "end": 85,
+                    "start": 49,
+                    "word": "man"
+                  },
+                  {
+                    "end": 106,
+                    "start": 86,
+                    "word": "was"
+                  },
+                  {
+                    "end": 141,
+                    "start": 107,
+                    "word": "too"
+                  },
+                  {
+                    "end": 196,
+                    "start": 154,
+                    "word": "tall"
+                  }
+                ],
+                "until": 196,
+                "utterances": "This man was too tall"
+              }
+            ],
+            "sentence": "This man was too tall!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_made_a_very_long_hoe_handle.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 21,
+                    "word": "He"
+                  },
+                  {
+                    "end": 58,
+                    "start": 31,
+                    "word": "made"
+                  },
+                  {
+                    "end": 61,
+                    "start": 59,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 62,
+                    "word": "very"
+                  },
+                  {
+                    "end": 155,
+                    "start": 111,
+                    "word": "long"
+                  },
+                  {
+                    "end": 182,
+                    "start": 156,
+                    "word": "hoe"
+                  },
+                  {
+                    "end": 238,
+                    "start": 183,
+                    "word": "handle"
+                  }
+                ],
+                "until": 238,
+                "utterances": "He made a very long hoe handle"
+              }
+            ],
+            "sentence": "He made a very long hoe handle."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_made_very_high_door_frames.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 1,
+                    "word": "He"
+                  },
+                  {
+                    "end": 53,
+                    "start": 28,
+                    "word": "made"
+                  },
+                  {
+                    "end": 98,
+                    "start": 54,
+                    "word": "very"
+                  },
+                  {
+                    "end": 137,
+                    "start": 99,
+                    "word": "high"
+                  },
+                  {
+                    "end": 183,
+                    "start": 138,
+                    "word": "door"
+                  },
+                  {
+                    "end": 261,
+                    "start": 184,
+                    "word": "frames"
+                  }
+                ],
+                "until": 261,
+                "utterances": "He made very high door frames"
+              }
+            ],
+            "sentence": "He made very high door frames."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_made_a_very_long_bed.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 63,
+                    "start": 30,
+                    "word": "made"
+                  },
+                  {
+                    "end": 74,
+                    "start": 64,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 75,
+                    "word": "very"
+                  },
+                  {
+                    "end": 183,
+                    "start": 128,
+                    "word": "long"
+                  },
+                  {
+                    "end": 223,
+                    "start": 184,
+                    "word": "bed"
+                  }
+                ],
+                "until": 223,
+                "utterances": "He made a very long bed"
+              }
+            ],
+            "sentence": "He made a very long bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_bought_a_very_high_bicycle.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 59,
+                    "start": 29,
+                    "word": "bought"
+                  },
+                  {
+                    "end": 68,
+                    "start": 60,
+                    "word": "a"
+                  },
+                  {
+                    "end": 111,
+                    "start": 69,
+                    "word": "very"
+                  },
+                  {
+                    "end": 147,
+                    "start": 112,
+                    "word": "high"
+                  },
+                  {
+                    "end": 225,
+                    "start": 168,
+                    "word": "bicycle"
+                  }
+                ],
+                "until": 225,
+                "utterances": "He bought a very high bicycle"
+              }
+            ],
+            "sentence": "He bought a very high bicycle."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_sat_on_a_very_high_chair.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 78,
+                    "start": 30,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 90,
+                    "start": 79,
+                    "word": "on"
+                  },
+                  {
+                    "end": 93,
+                    "start": 91,
+                    "word": "a"
+                  },
+                  {
+                    "end": 144,
+                    "start": 94,
+                    "word": "very"
+                  },
+                  {
+                    "end": 175,
+                    "start": 145,
+                    "word": "high"
+                  },
+                  {
+                    "end": 228,
+                    "start": 176,
+                    "word": "chair"
+                  }
+                ],
+                "until": 228,
+                "utterances": "He sat on a very high chair"
+              }
+            ],
+            "sentence": "He sat on a very high chair."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_ate_with_a_very_long_fork.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 40,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 92,
+                    "start": 75,
+                    "word": "with"
+                  },
+                  {
+                    "end": 95,
+                    "start": 93,
+                    "word": "a"
+                  },
+                  {
+                    "end": 144,
+                    "start": 96,
+                    "word": "very"
+                  },
+                  {
+                    "end": 193,
+                    "start": 145,
+                    "word": "long"
+                  },
+                  {
+                    "end": 243,
+                    "start": 194,
+                    "word": "fork"
+                  }
+                ],
+                "until": 243,
+                "utterances": "He ate with a very long fork"
+              }
+            ],
+            "sentence": "He ate with a very long fork."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_very_tall_man_4_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_left_his_house_and_lived_in_a_big_forest.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 1,
+                    "word": "He"
+                  },
+                  {
+                    "end": 65,
+                    "start": 27,
+                    "word": "left"
+                  },
+                  {
+                    "end": 84,
+                    "start": 66,
+                    "word": "his"
+                  },
+                  {
+                    "end": 131,
+                    "start": 85,
+                    "word": "house"
+                  },
+                  {
+                    "end": 149,
+                    "start": 132,
+                    "word": "and"
+                  },
+                  {
+                    "end": 195,
+                    "start": 150,
+                    "word": "lived"
+                  },
+                  {
+                    "end": 208,
+                    "start": 196,
+                    "word": "in"
+                  },
+                  {
+                    "end": 216,
+                    "start": 209,
+                    "word": "a"
+                  },
+                  {
+                    "end": 272,
+                    "start": 217,
+                    "word": "big"
+                  },
+                  {
+                    "end": 351,
+                    "start": 273,
+                    "word": "forest"
+                  }
+                ],
+                "until": 351,
+                "utterances": "He left his house and lived in a big forest"
+              }
+            ],
+            "sentence": "He left his house and lived in a big forest."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_lived_for_many_years.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 80,
+                    "start": 31,
+                    "word": "lived"
+                  },
+                  {
+                    "end": 111,
+                    "start": 81,
+                    "word": "for"
+                  },
+                  {
+                    "end": 147,
+                    "start": 112,
+                    "word": "many"
+                  },
+                  {
+                    "end": 228,
+                    "start": 148,
+                    "word": "years"
+                  }
+                ],
+                "until": 228,
+                "utterances": "He lived for many years"
+              }
+            ],
+            "sentence": "He lived for many years."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "A Very Tall Man",
+  "titleimage": "a_very_tall_man_4_page_01_image_0001.jpg"
+}

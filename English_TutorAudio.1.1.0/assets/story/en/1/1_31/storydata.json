@@ -1,0 +1,451 @@
+{
+  "author": "Deborah",
+  "data": [
+    {
+      "image": "stealing_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_man_called_kato_lived_in_bunghumu_village.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 20,
+                    "word": "A"
+                  },
+                  {
+                    "end": 59,
+                    "start": 28,
+                    "word": "man"
+                  },
+                  {
+                    "end": 108,
+                    "start": 60,
+                    "word": "called"
+                  },
+                  {
+                    "end": 133,
+                    "start": 109,
+                    "word": "Kato"
+                  },
+                  {
+                    "end": 162,
+                    "start": 134,
+                    "word": "lived"
+                  },
+                  {
+                    "end": 178,
+                    "start": 163,
+                    "word": "in"
+                  },
+                  {
+                    "end": 232,
+                    "start": 179,
+                    "word": "Bunghumu"
+                  },
+                  {
+                    "end": 283,
+                    "start": 233,
+                    "word": "village"
+                  }
+                ],
+                "until": 283,
+                "utterances": "A man called Kato lived in Bunghumu village"
+              }
+            ],
+            "sentence": "A man called Kato lived in Bunghumu village."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_used_to_steal_peoples_animals.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 17,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 27,
+                    "word": "used"
+                  },
+                  {
+                    "end": 64,
+                    "start": 58,
+                    "word": "to"
+                  },
+                  {
+                    "end": 130,
+                    "start": 65,
+                    "word": "steal"
+                  },
+                  {
+                    "end": 181,
+                    "start": 131,
+                    "word": "peoples"
+                  },
+                  {
+                    "end": 253,
+                    "start": 182,
+                    "word": "animals"
+                  }
+                ],
+                "until": 253,
+                "utterances": "He used to steal peoples animals"
+              }
+            ],
+            "sentence": "He used to steal peoples' animals."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "stealing_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_day_he_went_and_stole_a_goat_from_the_neighbouring_village.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 65,
+                    "start": 45,
+                    "word": "day"
+                  },
+                  {
+                    "end": 81,
+                    "start": 66,
+                    "word": "he"
+                  },
+                  {
+                    "end": 109,
+                    "start": 82,
+                    "word": "went"
+                  },
+                  {
+                    "end": 124,
+                    "start": 110,
+                    "word": "and"
+                  },
+                  {
+                    "end": 178,
+                    "start": 125,
+                    "word": "stole"
+                  },
+                  {
+                    "end": 190,
+                    "start": 179,
+                    "word": "a"
+                  },
+                  {
+                    "end": 235,
+                    "start": 191,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 261,
+                    "start": 236,
+                    "word": "from"
+                  },
+                  {
+                    "end": 271,
+                    "start": 262,
+                    "word": "the"
+                  },
+                  {
+                    "end": 333,
+                    "start": 272,
+                    "word": "neighbouring"
+                  },
+                  {
+                    "end": 379,
+                    "start": 334,
+                    "word": "village"
+                  }
+                ],
+                "until": 379,
+                "utterances": "One day he went and stole a goat from the neighbouring village"
+              }
+            ],
+            "sentence": "One day he went and stole a goat from the neighbouring village."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_slaughtered_and_kept_the_meat_in_his_house.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 88,
+                    "start": 30,
+                    "word": "slaughtered"
+                  },
+                  {
+                    "end": 106,
+                    "start": 89,
+                    "word": "and"
+                  },
+                  {
+                    "end": 132,
+                    "start": 107,
+                    "word": "kept"
+                  },
+                  {
+                    "end": 140,
+                    "start": 133,
+                    "word": "the"
+                  },
+                  {
+                    "end": 176,
+                    "start": 141,
+                    "word": "meat"
+                  },
+                  {
+                    "end": 188,
+                    "start": 177,
+                    "word": "in"
+                  },
+                  {
+                    "end": 212,
+                    "start": 189,
+                    "word": "his"
+                  },
+                  {
+                    "end": 264,
+                    "start": 213,
+                    "word": "house"
+                  }
+                ],
+                "until": 264,
+                "utterances": "He slaughtered and kept the meat in his house"
+              }
+            ],
+            "sentence": "He slaughtered and kept the meat in his house."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "stealing_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_following_morning_the_people_found_out_that_kato_had_stolen_the_goat.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 13,
+                    "word": "The"
+                  },
+                  {
+                    "end": 88,
+                    "start": 23,
+                    "word": "following"
+                  },
+                  {
+                    "end": 131,
+                    "start": 89,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 140,
+                    "start": 132,
+                    "word": "the"
+                  },
+                  {
+                    "end": 179,
+                    "start": 141,
+                    "word": "people"
+                  },
+                  {
+                    "end": 214,
+                    "start": 180,
+                    "word": "found"
+                  },
+                  {
+                    "end": 240,
+                    "start": 215,
+                    "word": "out"
+                  },
+                  {
+                    "end": 252,
+                    "start": 241,
+                    "word": "that"
+                  },
+                  {
+                    "end": 287,
+                    "start": 253,
+                    "word": "Kato"
+                  },
+                  {
+                    "end": 308,
+                    "start": 288,
+                    "word": "had"
+                  },
+                  {
+                    "end": 362,
+                    "start": 309,
+                    "word": "stolen"
+                  },
+                  {
+                    "end": 371,
+                    "start": 363,
+                    "word": "the"
+                  },
+                  {
+                    "end": 406,
+                    "start": 372,
+                    "word": "goat"
+                  }
+                ],
+                "until": 406,
+                "utterances": "The following morning the people found out that Kato had stolen the goat"
+              }
+            ],
+            "sentence": "The following morning the people found out that Kato had stolen the goat."
+          },
+          {
+            "narration": [
+              {
+                "audio": "they_started_looking_for_him.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 1,
+                    "word": "They"
+                  },
+                  {
+                    "end": 81,
+                    "start": 35,
+                    "word": "started"
+                  },
+                  {
+                    "end": 113,
+                    "start": 82,
+                    "word": "looking"
+                  },
+                  {
+                    "end": 130,
+                    "start": 114,
+                    "word": "for"
+                  },
+                  {
+                    "end": 152,
+                    "start": 131,
+                    "word": "him"
+                  }
+                ],
+                "until": 152,
+                "utterances": "They started looking for him"
+              }
+            ],
+            "sentence": "They started looking for him."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "stealing_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_they_reached_kato_s_home_they_found_him_roasting_the_meat.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 1,
+                    "word": "When"
+                  },
+                  {
+                    "end": 43,
+                    "start": 35,
+                    "word": "they"
+                  },
+                  {
+                    "end": 82,
+                    "start": 44,
+                    "word": "reached"
+                  },
+                  {
+                    "end": 124,
+                    "start": 83,
+                    "word": "Kato's"
+                  },
+                  {
+                    "end": 149,
+                    "start": 125,
+                    "word": "home"
+                  },
+                  {
+                    "end": 178,
+                    "start": 166,
+                    "word": "they"
+                  },
+                  {
+                    "end": 232,
+                    "start": 179,
+                    "word": "found"
+                  },
+                  {
+                    "end": 261,
+                    "start": 233,
+                    "word": "him"
+                  },
+                  {
+                    "end": 339,
+                    "start": 262,
+                    "word": "roasting"
+                  },
+                  {
+                    "end": 354,
+                    "start": 340,
+                    "word": "the"
+                  },
+                  {
+                    "end": 457,
+                    "start": 355,
+                    "word": "meat"
+                  }
+                ],
+                "until": 457,
+                "utterances": "When they reached Kato's home they found him roasting the meat"
+              }
+            ],
+            "sentence": "When they reached Kato's home, they found him roasting the meat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Stealing",
+  "titleimage": "stealing_page_01_image_0001.jpg"
+}

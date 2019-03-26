@@ -1,0 +1,585 @@
+{
+  "author": "Madhav Chavan",
+  "data": [
+    {
+      "image": "happy_and_sad_1_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_is_the_baby_crying.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 21,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 65,
+                    "start": 45,
+                    "word": "is"
+                  },
+                  {
+                    "end": 72,
+                    "start": 66,
+                    "word": "the"
+                  },
+                  {
+                    "end": 112,
+                    "start": 73,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 152,
+                    "start": 113,
+                    "word": "crying"
+                  }
+                ],
+                "until": 152,
+                "utterances": "Why is the baby crying"
+              }
+            ],
+            "sentence": "Why is the baby crying?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_think_she_is_hungry.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 84,
+                    "start": 50,
+                    "word": "think"
+                  },
+                  {
+                    "end": 98,
+                    "start": 85,
+                    "word": "she"
+                  },
+                  {
+                    "end": 123,
+                    "start": 99,
+                    "word": "is"
+                  },
+                  {
+                    "end": 174,
+                    "start": 124,
+                    "word": "hungry"
+                  }
+                ],
+                "until": 174,
+                "utterances": "I think she is hungry"
+              }
+            ],
+            "sentence": "I think she is hungry."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_is_this_boy_sad.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 19,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 66,
+                    "start": 44,
+                    "word": "is"
+                  },
+                  {
+                    "end": 94,
+                    "start": 67,
+                    "word": "this"
+                  },
+                  {
+                    "end": 131,
+                    "start": 95,
+                    "word": "boy"
+                  },
+                  {
+                    "end": 198,
+                    "start": 132,
+                    "word": "sad"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Why is this boy sad"
+              }
+            ],
+            "sentence": "Why is this boy sad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_think_he_is_missing_his_father.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 69,
+                    "start": 46,
+                    "word": "think"
+                  },
+                  {
+                    "end": 78,
+                    "start": 70,
+                    "word": "he"
+                  },
+                  {
+                    "end": 107,
+                    "start": 79,
+                    "word": "is"
+                  },
+                  {
+                    "end": 145,
+                    "start": 108,
+                    "word": "missing"
+                  },
+                  {
+                    "end": 179,
+                    "start": 146,
+                    "word": "his"
+                  },
+                  {
+                    "end": 252,
+                    "start": 180,
+                    "word": "father"
+                  }
+                ],
+                "until": 252,
+                "utterances": "I think he is missing his father"
+              }
+            ],
+            "sentence": "I think he is missing his father."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_is_this_girl_happy.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 60,
+                    "start": 40,
+                    "word": "is"
+                  },
+                  {
+                    "end": 86,
+                    "start": 61,
+                    "word": "this"
+                  },
+                  {
+                    "end": 114,
+                    "start": 87,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 178,
+                    "start": 115,
+                    "word": "happy"
+                  }
+                ],
+                "until": 178,
+                "utterances": "Why is this girl happy"
+              }
+            ],
+            "sentence": "Why is this girl happy?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_has_a_new_dress.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 63,
+                    "start": 38,
+                    "word": "has"
+                  },
+                  {
+                    "end": 67,
+                    "start": 64,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 68,
+                    "word": "new"
+                  },
+                  {
+                    "end": 180,
+                    "start": 111,
+                    "word": "dress"
+                  }
+                ],
+                "until": 180,
+                "utterances": "She has a new dress"
+              }
+            ],
+            "sentence": "She has a new dress."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_is_the_old_man_laughing.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 56,
+                    "start": 41,
+                    "word": "is"
+                  },
+                  {
+                    "end": 66,
+                    "start": 57,
+                    "word": "the"
+                  },
+                  {
+                    "end": 89,
+                    "start": 67,
+                    "word": "old"
+                  },
+                  {
+                    "end": 131,
+                    "start": 90,
+                    "word": "man"
+                  },
+                  {
+                    "end": 189,
+                    "start": 132,
+                    "word": "laughing"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Why is the old man laughing"
+              }
+            ],
+            "sentence": "Why is the old man laughing?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_reading_a_funny_book.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 52,
+                    "start": 29,
+                    "word": "is"
+                  },
+                  {
+                    "end": 92,
+                    "start": 53,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 100,
+                    "start": 93,
+                    "word": "a"
+                  },
+                  {
+                    "end": 156,
+                    "start": 101,
+                    "word": "funny"
+                  },
+                  {
+                    "end": 212,
+                    "start": 157,
+                    "word": "book"
+                  }
+                ],
+                "until": 212,
+                "utterances": "He is reading a funny book"
+              }
+            ],
+            "sentence": "He is reading a funny book."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_is_this_lady_smiling.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 62,
+                    "start": 42,
+                    "word": "is"
+                  },
+                  {
+                    "end": 83,
+                    "start": 63,
+                    "word": "this"
+                  },
+                  {
+                    "end": 121,
+                    "start": 84,
+                    "word": "lady"
+                  },
+                  {
+                    "end": 205,
+                    "start": 122,
+                    "word": "smiling"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Why is this lady smiling"
+              }
+            ],
+            "sentence": "Why is this lady smiling?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_children_are_reading_quietly.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 2,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 92,
+                    "start": 39,
+                    "word": "children"
+                  },
+                  {
+                    "end": 113,
+                    "start": 93,
+                    "word": "are"
+                  },
+                  {
+                    "end": 148,
+                    "start": 114,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 213,
+                    "start": 149,
+                    "word": "quietly"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Her children are reading quietly"
+              }
+            ],
+            "sentence": "Her children are reading quietly."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_is_this_lady_feeling.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "What"
+                  },
+                  {
+                    "end": 57,
+                    "start": 42,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 58,
+                    "word": "this"
+                  },
+                  {
+                    "end": 110,
+                    "start": 79,
+                    "word": "lady"
+                  },
+                  {
+                    "end": 171,
+                    "start": 111,
+                    "word": "feeling"
+                  }
+                ],
+                "until": 171,
+                "utterances": "What is this lady feeling"
+              }
+            ],
+            "sentence": "What is this lady feeling?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "happy_and_sad_1_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_think_she_is_feeling_shy.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 84,
+                    "start": 50,
+                    "word": "think"
+                  },
+                  {
+                    "end": 101,
+                    "start": 85,
+                    "word": "she"
+                  },
+                  {
+                    "end": 130,
+                    "start": 102,
+                    "word": "is"
+                  },
+                  {
+                    "end": 174,
+                    "start": 131,
+                    "word": "feeling"
+                  },
+                  {
+                    "end": 234,
+                    "start": 175,
+                    "word": "shy"
+                  }
+                ],
+                "until": 234,
+                "utterances": "I think she is feeling shy"
+              }
+            ],
+            "sentence": "I think she is feeling shy."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Happy and Sad",
+  "titleimage": "happy_and_sad_1_page_01_image_0001.jpg"
+}

@@ -1,0 +1,112 @@
+{
+  "author": "Oku Modesto",
+  "data": [
+    {
+      "image": "my_picture_book_8_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "person.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Person"
+                  }
+                ],
+                "until": 68,
+                "utterances": "Person"
+              }
+            ],
+            "sentence": "Person"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_picture_book_8_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bird.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Bird"
+                  }
+                ],
+                "until": 77,
+                "utterances": "Bird"
+              }
+            ],
+            "sentence": "Bird"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_picture_book_8_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dog.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 2,
+                    "word": "Dog"
+                  }
+                ],
+                "until": 69,
+                "utterances": "Dog"
+              }
+            ],
+            "sentence": "Dog"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_picture_book_8_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cat.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 22,
+                    "word": "Cat"
+                  }
+                ],
+                "until": 71,
+                "utterances": "Cat"
+              }
+            ],
+            "sentence": "Cat"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "My Picture Book",
+  "titleimage": "my_picture_book_8_page_01_image_0001.jpg"
+}

@@ -1,0 +1,373 @@
+{
+  "author": "Nina Orange",
+  "data": [
+    {
+      "image": "more_of_what_are_you_doing_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_singing.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 15,
+                    "word": "I"
+                  },
+                  {
+                    "end": 93,
+                    "start": 75,
+                    "word": "am"
+                  },
+                  {
+                    "end": 162,
+                    "start": 94,
+                    "word": "singing"
+                  }
+                ],
+                "until": 162,
+                "utterances": "I am singing"
+              }
+            ],
+            "sentence": "I am singing."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_is_waving.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "She"
+                  },
+                  {
+                    "end": 67,
+                    "start": 42,
+                    "word": "is"
+                  },
+                  {
+                    "end": 128,
+                    "start": 68,
+                    "word": "waving"
+                  }
+                ],
+                "until": 128,
+                "utterances": "She is waving"
+              }
+            ],
+            "sentence": "She is waving."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_clapping.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 2,
+                    "word": "I"
+                  },
+                  {
+                    "end": 73,
+                    "start": 46,
+                    "word": "am"
+                  },
+                  {
+                    "end": 131,
+                    "start": 74,
+                    "word": "clapping"
+                  }
+                ],
+                "until": 131,
+                "utterances": "I am clapping"
+              }
+            ],
+            "sentence": "I am clapping."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_is_stretching.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 16,
+                    "word": "She"
+                  },
+                  {
+                    "end": 68,
+                    "start": 47,
+                    "word": "is"
+                  },
+                  {
+                    "end": 172,
+                    "start": 69,
+                    "word": "stretching"
+                  }
+                ],
+                "until": 172,
+                "utterances": "She is stretching"
+              }
+            ],
+            "sentence": "She is stretching."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_calling.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 59,
+                    "start": 29,
+                    "word": "is"
+                  },
+                  {
+                    "end": 157,
+                    "start": 60,
+                    "word": "calling"
+                  }
+                ],
+                "until": 157,
+                "utterances": "He is calling"
+              }
+            ],
+            "sentence": "He is calling."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_answering.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 49,
+                    "start": 39,
+                    "word": "am"
+                  },
+                  {
+                    "end": 143,
+                    "start": 50,
+                    "word": "answering"
+                  }
+                ],
+                "until": 143,
+                "utterances": "I am answering"
+              }
+            ],
+            "sentence": "I am answering."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_is_listening.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 64,
+                    "start": 43,
+                    "word": "is"
+                  },
+                  {
+                    "end": 133,
+                    "start": 65,
+                    "word": "listening"
+                  }
+                ],
+                "until": 133,
+                "utterances": "She is listening"
+              }
+            ],
+            "sentence": "She is listening."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_are_you_doing.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "What"
+                  },
+                  {
+                    "end": 46,
+                    "start": 42,
+                    "word": "are"
+                  },
+                  {
+                    "end": 66,
+                    "start": 47,
+                    "word": "you"
+                  },
+                  {
+                    "end": 106,
+                    "start": 67,
+                    "word": "doing"
+                  }
+                ],
+                "until": 106,
+                "utterances": "What are you doing"
+              }
+            ],
+            "sentence": "What are you doing?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_swimming.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 42,
+                    "word": "am"
+                  },
+                  {
+                    "end": 107,
+                    "start": 58,
+                    "word": "swimming"
+                  }
+                ],
+                "until": 107,
+                "utterances": "I am swimming"
+              }
+            ],
+            "sentence": "I am swimming."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "more_of_what_are_you_doing_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_skipping.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 60,
+                    "start": 47,
+                    "word": "am"
+                  },
+                  {
+                    "end": 112,
+                    "start": 61,
+                    "word": "skipping"
+                  }
+                ],
+                "until": 112,
+                "utterances": "I am skipping"
+              }
+            ],
+            "sentence": "I am skipping."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "More of \"What Are You Doing?\"",
+  "titleimage": "more_of_what_are_you_doing_page_01_image_0001.jpg"
+}

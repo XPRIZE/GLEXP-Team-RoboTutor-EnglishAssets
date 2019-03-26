@@ -1,0 +1,906 @@
+{
+  "author": "Tracy Lynn Chemaly and Sarah-Jane Williams",
+  "data": [
+    {
+      "image": "bathtub_safari_2_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bathtime_is_jack_s_favourite_part_of_the_day.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 1,
+                    "word": "Bathtime"
+                  },
+                  {
+                    "end": 117,
+                    "start": 98,
+                    "word": "is"
+                  },
+                  {
+                    "end": 162,
+                    "start": 118,
+                    "word": "Jack's"
+                  },
+                  {
+                    "end": 232,
+                    "start": 163,
+                    "word": "favourite"
+                  },
+                  {
+                    "end": 268,
+                    "start": 233,
+                    "word": "part"
+                  },
+                  {
+                    "end": 280,
+                    "start": 269,
+                    "word": "of"
+                  },
+                  {
+                    "end": 297,
+                    "start": 281,
+                    "word": "the"
+                  },
+                  {
+                    "end": 305,
+                    "start": 298,
+                    "word": "day"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Bathtime is Jack's favourite part of the day"
+              }
+            ],
+            "sentence": "Bathtime is Jack's favourite part of the day."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_ll_be_back_in_a_few_moments_says_his_mom.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 22,
+                    "word": "I'll"
+                  },
+                  {
+                    "end": 58,
+                    "start": 45,
+                    "word": "be"
+                  },
+                  {
+                    "end": 88,
+                    "start": 59,
+                    "word": "back"
+                  },
+                  {
+                    "end": 95,
+                    "start": 89,
+                    "word": "in"
+                  },
+                  {
+                    "end": 100,
+                    "start": 96,
+                    "word": "a"
+                  },
+                  {
+                    "end": 117,
+                    "start": 101,
+                    "word": "few"
+                  },
+                  {
+                    "end": 191,
+                    "start": 118,
+                    "word": "moments"
+                  },
+                  {
+                    "end": 214,
+                    "start": 192,
+                    "word": "says"
+                  },
+                  {
+                    "end": 234,
+                    "start": 215,
+                    "word": "his"
+                  },
+                  {
+                    "end": 275,
+                    "start": 235,
+                    "word": "mom"
+                  }
+                ],
+                "until": 275,
+                "utterances": "I'll be back in a few moments says his mom"
+              }
+            ],
+            "sentence": "'I'll be back in a few moments,' says his mom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "make_sure_to_clean_behind_your_ears.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 16,
+                    "word": "Make"
+                  },
+                  {
+                    "end": 72,
+                    "start": 39,
+                    "word": "sure"
+                  },
+                  {
+                    "end": 78,
+                    "start": 73,
+                    "word": "to"
+                  },
+                  {
+                    "end": 125,
+                    "start": 79,
+                    "word": "clean"
+                  },
+                  {
+                    "end": 170,
+                    "start": 126,
+                    "word": "behind"
+                  },
+                  {
+                    "end": 185,
+                    "start": 171,
+                    "word": "your"
+                  },
+                  {
+                    "end": 256,
+                    "start": 186,
+                    "word": "ears"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Make sure to clean behind your ears"
+              }
+            ],
+            "sentence": "'Make sure to clean behind your ears.'"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_s_a_swoosh.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 18,
+                    "word": "There's"
+                  },
+                  {
+                    "end": 52,
+                    "start": 49,
+                    "word": "a"
+                  },
+                  {
+                    "end": 114,
+                    "start": 53,
+                    "word": "SWOOSH"
+                  }
+                ],
+                "until": 114,
+                "utterances": "There's a SWOOSH"
+              }
+            ],
+            "sentence": "There's a SWOOSH."
+          },
+          {
+            "narration": [
+              {
+                "audio": "and_a_swish_of_a_tail.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 19,
+                    "word": "And"
+                  },
+                  {
+                    "end": 36,
+                    "start": 34,
+                    "word": "a"
+                  },
+                  {
+                    "end": 98,
+                    "start": 37,
+                    "word": "swish"
+                  },
+                  {
+                    "end": 110,
+                    "start": 99,
+                    "word": "of"
+                  },
+                  {
+                    "end": 115,
+                    "start": 111,
+                    "word": "a"
+                  },
+                  {
+                    "end": 163,
+                    "start": 116,
+                    "word": "tail"
+                  }
+                ],
+                "until": 163,
+                "utterances": "And a swish of a tail"
+              }
+            ],
+            "sentence": "And a swish of a tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_then.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 15,
+                    "start": 1,
+                    "word": "And"
+                  },
+                  {
+                    "end": 79,
+                    "start": 16,
+                    "word": "then"
+                  }
+                ],
+                "until": 79,
+                "utterances": "And then"
+              }
+            ],
+            "sentence": "And then..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jack_s_bathtub_safari_begins.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Jack's"
+                  },
+                  {
+                    "end": 162,
+                    "start": 87,
+                    "word": "bathtub"
+                  },
+                  {
+                    "end": 240,
+                    "start": 163,
+                    "word": "safari"
+                  },
+                  {
+                    "end": 329,
+                    "start": 241,
+                    "word": "begins"
+                  }
+                ],
+                "until": 329,
+                "utterances": "Jack's bathtub safari begins"
+              }
+            ],
+            "sentence": "Jack's bathtub safari begins!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_what_s_coming.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 20,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 55,
+                    "start": 46,
+                    "word": "at"
+                  },
+                  {
+                    "end": 80,
+                    "start": 56,
+                    "word": "what's"
+                  },
+                  {
+                    "end": 120,
+                    "start": 81,
+                    "word": "coming"
+                  }
+                ],
+                "until": 120,
+                "utterances": "Look at what's coming"
+              }
+            ],
+            "sentence": "Look at what's coming!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_s_a_twist_and_a_turn.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 2,
+                    "word": "There's"
+                  },
+                  {
+                    "end": 48,
+                    "start": 46,
+                    "word": "a"
+                  },
+                  {
+                    "end": 107,
+                    "start": 49,
+                    "word": "twist"
+                  },
+                  {
+                    "end": 122,
+                    "start": 108,
+                    "word": "and"
+                  },
+                  {
+                    "end": 128,
+                    "start": 123,
+                    "word": "a"
+                  },
+                  {
+                    "end": 178,
+                    "start": 129,
+                    "word": "turn"
+                  }
+                ],
+                "until": 178,
+                "utterances": "There's a twist and a turn"
+              },
+              {
+                "audio": "something_s_growing.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 19,
+                    "word": "Something's"
+                  },
+                  {
+                    "end": 148,
+                    "start": 96,
+                    "word": "growing"
+                  }
+                ],
+                "until": 148,
+                "utterances": "Something's growing"
+              }
+            ],
+            "sentence": "There's a twist and a turn... Something's growing..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_s_a.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 20,
+                    "word": "It's"
+                  },
+                  {
+                    "end": 65,
+                    "start": 47,
+                    "word": "a"
+                  }
+                ],
+                "until": 65,
+                "utterances": "It's a"
+              }
+            ],
+            "sentence": "It's a..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tooot.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 21,
+                    "word": "Tooot"
+                  }
+                ],
+                "until": 104,
+                "utterances": "Tooot"
+              }
+            ],
+            "sentence": "Tooot!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_s_a_rumble.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "There's"
+                  },
+                  {
+                    "end": 48,
+                    "start": 42,
+                    "word": "a"
+                  },
+                  {
+                    "end": 153,
+                    "start": 49,
+                    "word": "RUMBLE"
+                  }
+                ],
+                "until": 153,
+                "utterances": "There's a RUMBLE"
+              }
+            ],
+            "sentence": "There's a RUMBLE!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_s_going_up_up_up.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 19,
+                    "word": "It's"
+                  },
+                  {
+                    "end": 76,
+                    "start": 44,
+                    "word": "going"
+                  },
+                  {
+                    "end": 119,
+                    "start": 77,
+                    "word": "up"
+                  },
+                  {
+                    "end": 157,
+                    "start": 120,
+                    "word": "UP"
+                  },
+                  {
+                    "end": 176,
+                    "start": 158,
+                    "word": "UP"
+                  }
+                ],
+                "until": 176,
+                "utterances": "It's going up UP UP"
+              }
+            ],
+            "sentence": "It's going up UP UP..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 133,
+                    "start": 51,
+                    "word": "And"
+                  }
+                ],
+                "until": 133,
+                "utterances": "And"
+              }
+            ],
+            "sentence": "And..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "splash.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 14,
+                    "word": "SPLASH"
+                  }
+                ],
+                "until": 108,
+                "utterances": "SPLASH"
+              }
+            ],
+            "sentence": "SPLASH!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_s_a_splosh.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 19,
+                    "word": "There's"
+                  },
+                  {
+                    "end": 44,
+                    "start": 41,
+                    "word": "a"
+                  },
+                  {
+                    "end": 131,
+                    "start": 45,
+                    "word": "SPLOSH"
+                  }
+                ],
+                "until": 131,
+                "utterances": "There's a SPLOSH"
+              }
+            ],
+            "sentence": "There's a SPLOSH."
+          },
+          {
+            "narration": [
+              {
+                "audio": "something_bubbles.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 14,
+                    "word": "Something"
+                  },
+                  {
+                    "end": 175,
+                    "start": 93,
+                    "word": "bubbles"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Something bubbles"
+              }
+            ],
+            "sentence": "Something bubbles."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_s_time_to.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 19,
+                    "word": "It's"
+                  },
+                  {
+                    "end": 96,
+                    "start": 51,
+                    "word": "time"
+                  },
+                  {
+                    "end": 117,
+                    "start": 97,
+                    "word": "to"
+                  }
+                ],
+                "until": 117,
+                "utterances": "It's time to"
+              }
+            ],
+            "sentence": "It's time to..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_14_image_0001.jpg",
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aaaaaah.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 19,
+                    "word": "AAAAAAH"
+                  }
+                ],
+                "until": 104,
+                "utterances": "AAAAAAH"
+              }
+            ],
+            "sentence": "AAAAAAH....."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_something_s_lurking_in_the_background.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 1,
+                    "word": "But"
+                  },
+                  {
+                    "end": 92,
+                    "start": 31,
+                    "word": "something's"
+                  },
+                  {
+                    "end": 141,
+                    "start": 93,
+                    "word": "lurking"
+                  },
+                  {
+                    "end": 150,
+                    "start": 142,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 276,
+                    "start": 157,
+                    "word": "background"
+                  }
+                ],
+                "until": 276,
+                "utterances": "But something's lurking in the background"
+              }
+            ],
+            "sentence": "But something's lurking in the background...."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_15_image_0001.jpg",
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "roar.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 167,
+                    "start": 21,
+                    "word": "ROAR"
+                  }
+                ],
+                "until": 167,
+                "utterances": "ROAR"
+              }
+            ],
+            "sentence": "ROAR!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bathtub_safari_2_page_16_image_0001.jpg",
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_to_get_out.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 1,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 79,
+                    "start": 55,
+                    "word": "to"
+                  },
+                  {
+                    "end": 120,
+                    "start": 80,
+                    "word": "get"
+                  },
+                  {
+                    "end": 175,
+                    "start": 121,
+                    "word": "out"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Time to get out"
+              }
+            ],
+            "sentence": "'Time to get out."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_hope_you_re_clean_and_ready_for_bed.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 3,
+                    "start": 1,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 20,
+                    "word": "hope"
+                  },
+                  {
+                    "end": 77,
+                    "start": 66,
+                    "word": "you're"
+                  },
+                  {
+                    "end": 123,
+                    "start": 78,
+                    "word": "clean"
+                  },
+                  {
+                    "end": 145,
+                    "start": 124,
+                    "word": "and"
+                  },
+                  {
+                    "end": 173,
+                    "start": 146,
+                    "word": "ready"
+                  },
+                  {
+                    "end": 190,
+                    "start": 174,
+                    "word": "for"
+                  },
+                  {
+                    "end": 279,
+                    "start": 191,
+                    "word": "bed"
+                  }
+                ],
+                "until": 279,
+                "utterances": "I hope you're clean and ready for bed"
+              }
+            ],
+            "sentence": "I hope you're clean and ready for bed.'"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Bathtub Safari",
+  "titleimage": "bathtub_safari_2_page_01_image_0001.jpg"
+}

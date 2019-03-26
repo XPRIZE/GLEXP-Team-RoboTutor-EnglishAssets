@@ -1,0 +1,2558 @@
+{
+  "author": "Judith Baker and Lorato Trok",
+  "data": [
+    {
+      "image": "curious_baby_elephant_2_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "everyone_knows_that_the_elephant_has_a_very_long_nose.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Everyone"
+                  },
+                  {
+                    "end": 126,
+                    "start": 67,
+                    "word": "knows"
+                  },
+                  {
+                    "end": 143,
+                    "start": 127,
+                    "word": "that"
+                  },
+                  {
+                    "end": 163,
+                    "start": 144,
+                    "word": "the"
+                  },
+                  {
+                    "end": 215,
+                    "start": 164,
+                    "word": "elephant"
+                  },
+                  {
+                    "end": 232,
+                    "start": 216,
+                    "word": "has"
+                  },
+                  {
+                    "end": 238,
+                    "start": 233,
+                    "word": "a"
+                  },
+                  {
+                    "end": 279,
+                    "start": 239,
+                    "word": "very"
+                  },
+                  {
+                    "end": 314,
+                    "start": 280,
+                    "word": "long"
+                  },
+                  {
+                    "end": 382,
+                    "start": 315,
+                    "word": "nose"
+                  }
+                ],
+                "until": 382,
+                "utterances": "Everyone knows that the elephant has a very long nose"
+              }
+            ],
+            "sentence": "Everyone knows that the elephant has a very long nose."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_a_long_time_ago_the_elephant_s_nose_was_short_and_fat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 43,
+                    "start": 36,
+                    "word": "a"
+                  },
+                  {
+                    "end": 75,
+                    "start": 44,
+                    "word": "long"
+                  },
+                  {
+                    "end": 105,
+                    "start": 76,
+                    "word": "time"
+                  },
+                  {
+                    "end": 136,
+                    "start": 106,
+                    "word": "ago"
+                  },
+                  {
+                    "end": 194,
+                    "start": 176,
+                    "word": "the"
+                  },
+                  {
+                    "end": 243,
+                    "start": 195,
+                    "word": "elephant's"
+                  },
+                  {
+                    "end": 284,
+                    "start": 244,
+                    "word": "nose"
+                  },
+                  {
+                    "end": 311,
+                    "start": 285,
+                    "word": "was"
+                  },
+                  {
+                    "end": 355,
+                    "start": 312,
+                    "word": "short"
+                  },
+                  {
+                    "end": 372,
+                    "start": 356,
+                    "word": "and"
+                  },
+                  {
+                    "end": 410,
+                    "start": 373,
+                    "word": "fat"
+                  }
+                ],
+                "until": 410,
+                "utterances": "But a long time ago the elephant's nose was short and fat"
+              }
+            ],
+            "sentence": "But a long time ago, the elephant's nose was short and fat."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "like_a_shoe_in_the_middle_of_its_face.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "Like"
+                  },
+                  {
+                    "end": 45,
+                    "start": 42,
+                    "word": "a"
+                  },
+                  {
+                    "end": 85,
+                    "start": 46,
+                    "word": "shoe"
+                  },
+                  {
+                    "end": 96,
+                    "start": 86,
+                    "word": "in"
+                  },
+                  {
+                    "end": 120,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 157,
+                    "start": 121,
+                    "word": "middle"
+                  },
+                  {
+                    "end": 172,
+                    "start": 158,
+                    "word": "of"
+                  },
+                  {
+                    "end": 193,
+                    "start": 173,
+                    "word": "its"
+                  },
+                  {
+                    "end": 243,
+                    "start": 194,
+                    "word": "face"
+                  }
+                ],
+                "until": 243,
+                "utterances": "Like a shoe in the middle of its face"
+              }
+            ],
+            "sentence": "Like a shoe in the middle of its face."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_day_a_baby_elephant_was_born.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 56,
+                    "start": 47,
+                    "word": "day"
+                  },
+                  {
+                    "end": 95,
+                    "start": 57,
+                    "word": "a"
+                  },
+                  {
+                    "end": 146,
+                    "start": 96,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 189,
+                    "start": 147,
+                    "word": "elephant"
+                  },
+                  {
+                    "end": 212,
+                    "start": 190,
+                    "word": "was"
+                  },
+                  {
+                    "end": 258,
+                    "start": 213,
+                    "word": "born"
+                  }
+                ],
+                "until": 258,
+                "utterances": "One day a baby elephant was born"
+              }
+            ],
+            "sentence": "One day a baby elephant was born."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_was_curious_about_everything.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 62,
+                    "start": 36,
+                    "word": "was"
+                  },
+                  {
+                    "end": 115,
+                    "start": 63,
+                    "word": "curious"
+                  },
+                  {
+                    "end": 143,
+                    "start": 116,
+                    "word": "about"
+                  },
+                  {
+                    "end": 205,
+                    "start": 144,
+                    "word": "everything"
+                  }
+                ],
+                "until": 205,
+                "utterances": "She was curious about everything"
+              }
+            ],
+            "sentence": "She was curious about everything."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_had_a_question_for_every_animal.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 19,
+                    "word": "She"
+                  },
+                  {
+                    "end": 51,
+                    "start": 37,
+                    "word": "had"
+                  },
+                  {
+                    "end": 62,
+                    "start": 52,
+                    "word": "a"
+                  },
+                  {
+                    "end": 120,
+                    "start": 63,
+                    "word": "question"
+                  },
+                  {
+                    "end": 169,
+                    "start": 121,
+                    "word": "for"
+                  },
+                  {
+                    "end": 196,
+                    "start": 170,
+                    "word": "every"
+                  },
+                  {
+                    "end": 234,
+                    "start": 197,
+                    "word": "animal"
+                  }
+                ],
+                "until": 234,
+                "utterances": "She had a question for every animal"
+              }
+            ],
+            "sentence": "She had a question for every animal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_was_curious_about_giraffe.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 61,
+                    "start": 37,
+                    "word": "was"
+                  },
+                  {
+                    "end": 115,
+                    "start": 62,
+                    "word": "curious"
+                  },
+                  {
+                    "end": 155,
+                    "start": 116,
+                    "word": "about"
+                  },
+                  {
+                    "end": 219,
+                    "start": 156,
+                    "word": "Giraffe"
+                  }
+                ],
+                "until": 219,
+                "utterances": "She was curious about Giraffe"
+              }
+            ],
+            "sentence": "She was curious about Giraffe."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_do_you_have_a_long_neck.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 69,
+                    "start": 43,
+                    "word": "do"
+                  },
+                  {
+                    "end": 77,
+                    "start": 70,
+                    "word": "you"
+                  },
+                  {
+                    "end": 96,
+                    "start": 78,
+                    "word": "have"
+                  },
+                  {
+                    "end": 101,
+                    "start": 97,
+                    "word": "a"
+                  },
+                  {
+                    "end": 147,
+                    "start": 102,
+                    "word": "long"
+                  },
+                  {
+                    "end": 193,
+                    "start": 148,
+                    "word": "neck"
+                  }
+                ],
+                "until": 193,
+                "utterances": "Why do you have a long neck"
+              },
+              {
+                "audio": "she_asked.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 20,
+                    "word": "she"
+                  },
+                  {
+                    "end": 98,
+                    "start": 52,
+                    "word": "asked"
+                  }
+                ],
+                "until": 98,
+                "utterances": "she asked"
+              }
+            ],
+            "sentence": "\"Why do you have a long neck?\" she asked."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_was_curious_about_rhino.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 19,
+                    "word": "She"
+                  },
+                  {
+                    "end": 60,
+                    "start": 37,
+                    "word": "was"
+                  },
+                  {
+                    "end": 109,
+                    "start": 61,
+                    "word": "curious"
+                  },
+                  {
+                    "end": 136,
+                    "start": 110,
+                    "word": "about"
+                  },
+                  {
+                    "end": 193,
+                    "start": 137,
+                    "word": "Rhino"
+                  }
+                ],
+                "until": 193,
+                "utterances": "She was curious about Rhino"
+              }
+            ],
+            "sentence": "She was curious about Rhino."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_does_your_horn_have_a_sharp_point.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 60,
+                    "start": 37,
+                    "word": "does"
+                  },
+                  {
+                    "end": 81,
+                    "start": 61,
+                    "word": "your"
+                  },
+                  {
+                    "end": 116,
+                    "start": 82,
+                    "word": "horn"
+                  },
+                  {
+                    "end": 135,
+                    "start": 117,
+                    "word": "have"
+                  },
+                  {
+                    "end": 141,
+                    "start": 136,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 142,
+                    "word": "sharp"
+                  },
+                  {
+                    "end": 235,
+                    "start": 195,
+                    "word": "point"
+                  }
+                ],
+                "until": 235,
+                "utterances": "Why does your horn have a sharp point"
+              }
+            ],
+            "sentence": "\"Why does your horn have a sharp point?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_was_curious_about_hippo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 19,
+                    "word": "She"
+                  },
+                  {
+                    "end": 62,
+                    "start": 39,
+                    "word": "was"
+                  },
+                  {
+                    "end": 112,
+                    "start": 63,
+                    "word": "curious"
+                  },
+                  {
+                    "end": 138,
+                    "start": 113,
+                    "word": "about"
+                  },
+                  {
+                    "end": 189,
+                    "start": 139,
+                    "word": "Hippo"
+                  }
+                ],
+                "until": 189,
+                "utterances": "She was curious about Hippo"
+              }
+            ],
+            "sentence": "She was curious about Hippo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "why_do_you_have_red_eyes.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 2,
+                    "word": "Why"
+                  },
+                  {
+                    "end": 54,
+                    "start": 41,
+                    "word": "do"
+                  },
+                  {
+                    "end": 66,
+                    "start": 55,
+                    "word": "you"
+                  },
+                  {
+                    "end": 89,
+                    "start": 67,
+                    "word": "have"
+                  },
+                  {
+                    "end": 121,
+                    "start": 90,
+                    "word": "red"
+                  },
+                  {
+                    "end": 182,
+                    "start": 122,
+                    "word": "eyes"
+                  }
+                ],
+                "until": 182,
+                "utterances": "Why do you have red eyes"
+              },
+              {
+                "audio": "she_asked.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 20,
+                    "word": "she"
+                  },
+                  {
+                    "end": 98,
+                    "start": 52,
+                    "word": "asked"
+                  }
+                ],
+                "until": 98,
+                "utterances": "she asked"
+              }
+            ],
+            "sentence": "\"Why do you have red eyes?\" she asked."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_she_was_very_curious_about_crocodile.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 18,
+                    "word": "And"
+                  },
+                  {
+                    "end": 50,
+                    "start": 37,
+                    "word": "she"
+                  },
+                  {
+                    "end": 78,
+                    "start": 51,
+                    "word": "was"
+                  },
+                  {
+                    "end": 154,
+                    "start": 79,
+                    "word": "VERY"
+                  },
+                  {
+                    "end": 209,
+                    "start": 155,
+                    "word": "curious"
+                  },
+                  {
+                    "end": 244,
+                    "start": 210,
+                    "word": "about"
+                  },
+                  {
+                    "end": 317,
+                    "start": 245,
+                    "word": "Crocodile"
+                  }
+                ],
+                "until": 317,
+                "utterances": "And she was VERY curious about Crocodile"
+              }
+            ],
+            "sentence": "And she was VERY curious about Crocodile."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_does_crocodile_eat_for_dinner.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 21,
+                    "word": "What"
+                  },
+                  {
+                    "end": 58,
+                    "start": 39,
+                    "word": "does"
+                  },
+                  {
+                    "end": 137,
+                    "start": 59,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 159,
+                    "start": 138,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 178,
+                    "start": 160,
+                    "word": "for"
+                  },
+                  {
+                    "end": 222,
+                    "start": 179,
+                    "word": "dinner"
+                  }
+                ],
+                "until": 222,
+                "utterances": "What does Crocodile eat for dinner"
+              },
+              {
+                "audio": "she_asked.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 20,
+                    "word": "she"
+                  },
+                  {
+                    "end": 98,
+                    "start": 52,
+                    "word": "asked"
+                  }
+                ],
+                "until": 98,
+                "utterances": "she asked"
+              }
+            ],
+            "sentence": "\"What does Crocodile eat for dinner?\" she asked."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "never_ask_a_question_like_that.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 1,
+                    "word": "Never"
+                  },
+                  {
+                    "end": 83,
+                    "start": 58,
+                    "word": "ask"
+                  },
+                  {
+                    "end": 94,
+                    "start": 84,
+                    "word": "a"
+                  },
+                  {
+                    "end": 148,
+                    "start": 95,
+                    "word": "question"
+                  },
+                  {
+                    "end": 174,
+                    "start": 149,
+                    "word": "like"
+                  },
+                  {
+                    "end": 261,
+                    "start": 175,
+                    "word": "that"
+                  }
+                ],
+                "until": 261,
+                "utterances": "Never ask a question like that"
+              },
+              {
+                "audio": "said_her_mother.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 21,
+                    "word": "said"
+                  },
+                  {
+                    "end": 57,
+                    "start": 45,
+                    "word": "her"
+                  },
+                  {
+                    "end": 108,
+                    "start": 58,
+                    "word": "mother"
+                  }
+                ],
+                "until": 108,
+                "utterances": "said her mother"
+              }
+            ],
+            "sentence": "\"Never ask a question like that!\" said her mother."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_walked_off_frowning.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 53,
+                    "start": 39,
+                    "word": "she"
+                  },
+                  {
+                    "end": 92,
+                    "start": 54,
+                    "word": "walked"
+                  },
+                  {
+                    "end": 120,
+                    "start": 93,
+                    "word": "off"
+                  },
+                  {
+                    "end": 188,
+                    "start": 121,
+                    "word": "frowning"
+                  }
+                ],
+                "until": 188,
+                "utterances": "Then she walked off frowning"
+              }
+            ],
+            "sentence": "Then she walked off, frowning."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "quickly_crow_flew_down_to_baby_elephant.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 1,
+                    "word": "Quickly"
+                  },
+                  {
+                    "end": 122,
+                    "start": 88,
+                    "word": "Crow"
+                  },
+                  {
+                    "end": 150,
+                    "start": 123,
+                    "word": "flew"
+                  },
+                  {
+                    "end": 195,
+                    "start": 151,
+                    "word": "down"
+                  },
+                  {
+                    "end": 205,
+                    "start": 196,
+                    "word": "to"
+                  },
+                  {
+                    "end": 250,
+                    "start": 206,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 298,
+                    "start": 251,
+                    "word": "elephant"
+                  }
+                ],
+                "until": 298,
+                "utterances": "Quickly Crow flew down to baby elephant"
+              }
+            ],
+            "sentence": "Quickly Crow flew down to baby elephant."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "follow_me_to_the_river.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 2,
+                    "word": "Follow"
+                  },
+                  {
+                    "end": 72,
+                    "start": 56,
+                    "word": "me"
+                  },
+                  {
+                    "end": 87,
+                    "start": 73,
+                    "word": "to"
+                  },
+                  {
+                    "end": 95,
+                    "start": 88,
+                    "word": "the"
+                  },
+                  {
+                    "end": 137,
+                    "start": 96,
+                    "word": "river"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Follow me to the river"
+              }
+            ],
+            "sentence": "\"Follow me to the river."
+          },
+          {
+            "narration": [
+              {
+                "audio": "there_you_will_see_what_crocodile_eats_for_dinner_squawked_crow.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 18,
+                    "word": "There"
+                  },
+                  {
+                    "end": 59,
+                    "start": 49,
+                    "word": "you"
+                  },
+                  {
+                    "end": 71,
+                    "start": 60,
+                    "word": "will"
+                  },
+                  {
+                    "end": 94,
+                    "start": 72,
+                    "word": "see"
+                  },
+                  {
+                    "end": 116,
+                    "start": 95,
+                    "word": "what"
+                  },
+                  {
+                    "end": 183,
+                    "start": 117,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 208,
+                    "start": 184,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 218,
+                    "start": 209,
+                    "word": "for"
+                  },
+                  {
+                    "end": 262,
+                    "start": 219,
+                    "word": "dinner"
+                  },
+                  {
+                    "end": 319,
+                    "start": 273,
+                    "word": "squawked"
+                  },
+                  {
+                    "end": 375,
+                    "start": 320,
+                    "word": "Crow"
+                  }
+                ],
+                "until": 375,
+                "utterances": "There you will see what Crocodile eats for dinner squawked Crow"
+              }
+            ],
+            "sentence": "There you will see what Crocodile eats for dinner,\" squawked Crow."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_the_baby_elephant_followed_crow_down_to_the_river.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 21,
+                    "word": "So"
+                  },
+                  {
+                    "end": 52,
+                    "start": 41,
+                    "word": "the"
+                  },
+                  {
+                    "end": 94,
+                    "start": 53,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 140,
+                    "start": 95,
+                    "word": "elephant"
+                  },
+                  {
+                    "end": 195,
+                    "start": 141,
+                    "word": "followed"
+                  },
+                  {
+                    "end": 223,
+                    "start": 196,
+                    "word": "Crow"
+                  },
+                  {
+                    "end": 266,
+                    "start": 224,
+                    "word": "down"
+                  },
+                  {
+                    "end": 277,
+                    "start": 267,
+                    "word": "to"
+                  },
+                  {
+                    "end": 287,
+                    "start": 278,
+                    "word": "the"
+                  },
+                  {
+                    "end": 318,
+                    "start": 288,
+                    "word": "river"
+                  }
+                ],
+                "until": 318,
+                "utterances": "So the baby elephant followed Crow down to the river"
+              }
+            ],
+            "sentence": "So the baby elephant followed Crow down to the river."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_pushed_through_the_reeds_and_stood_on_the_bank.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 91,
+                    "start": 42,
+                    "word": "pushed"
+                  },
+                  {
+                    "end": 110,
+                    "start": 92,
+                    "word": "through"
+                  },
+                  {
+                    "end": 123,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 182,
+                    "start": 124,
+                    "word": "reeds"
+                  },
+                  {
+                    "end": 198,
+                    "start": 183,
+                    "word": "and"
+                  },
+                  {
+                    "end": 240,
+                    "start": 199,
+                    "word": "stood"
+                  },
+                  {
+                    "end": 259,
+                    "start": 241,
+                    "word": "on"
+                  },
+                  {
+                    "end": 266,
+                    "start": 260,
+                    "word": "the"
+                  },
+                  {
+                    "end": 320,
+                    "start": 267,
+                    "word": "bank"
+                  }
+                ],
+                "until": 320,
+                "utterances": "She pushed through the reeds and stood on the bank"
+              }
+            ],
+            "sentence": "She pushed through the reeds and stood on the bank."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_looked_into_the_water.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 77,
+                    "start": 36,
+                    "word": "looked"
+                  },
+                  {
+                    "end": 105,
+                    "start": 78,
+                    "word": "into"
+                  },
+                  {
+                    "end": 114,
+                    "start": 106,
+                    "word": "the"
+                  },
+                  {
+                    "end": 158,
+                    "start": 115,
+                    "word": "water"
+                  }
+                ],
+                "until": 158,
+                "utterances": "She looked into the water"
+              }
+            ],
+            "sentence": "She looked into the water."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_was_crocodile.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 2,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 62,
+                    "start": 39,
+                    "word": "was"
+                  },
+                  {
+                    "end": 139,
+                    "start": 63,
+                    "word": "Crocodile"
+                  }
+                ],
+                "until": 139,
+                "utterances": "Where was Crocodile"
+              }
+            ],
+            "sentence": "Where was Crocodile?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hello_said_a_stone_near_the_river_bank.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 19,
+                    "word": "Hello"
+                  },
+                  {
+                    "end": 94,
+                    "start": 65,
+                    "word": "said"
+                  },
+                  {
+                    "end": 98,
+                    "start": 95,
+                    "word": "a"
+                  },
+                  {
+                    "end": 158,
+                    "start": 99,
+                    "word": "stone"
+                  },
+                  {
+                    "end": 183,
+                    "start": 159,
+                    "word": "near"
+                  },
+                  {
+                    "end": 191,
+                    "start": 184,
+                    "word": "the"
+                  },
+                  {
+                    "end": 223,
+                    "start": 192,
+                    "word": "river"
+                  },
+                  {
+                    "end": 270,
+                    "start": 224,
+                    "word": "bank"
+                  }
+                ],
+                "until": 270,
+                "utterances": "Hello said a stone near the river bank"
+              }
+            ],
+            "sentence": "\"Hello,\" said a stone near the river bank."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hello_said_baby_elephant.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "Hello"
+                  },
+                  {
+                    "end": 84,
+                    "start": 57,
+                    "word": "said"
+                  },
+                  {
+                    "end": 123,
+                    "start": 85,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 175,
+                    "start": 124,
+                    "word": "Elephant"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Hello said Baby Elephant"
+              }
+            ],
+            "sentence": "\"Hello,\" said Baby Elephant."
+          },
+          {
+            "narration": [
+              {
+                "audio": "can_you_tell_me_what_crocodile_eats_for_dinner.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 49,
+                    "start": 36,
+                    "word": "you"
+                  },
+                  {
+                    "end": 80,
+                    "start": 50,
+                    "word": "tell"
+                  },
+                  {
+                    "end": 90,
+                    "start": 81,
+                    "word": "me"
+                  },
+                  {
+                    "end": 118,
+                    "start": 91,
+                    "word": "what"
+                  },
+                  {
+                    "end": 187,
+                    "start": 119,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 213,
+                    "start": 188,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 227,
+                    "start": 214,
+                    "word": "for"
+                  },
+                  {
+                    "end": 284,
+                    "start": 228,
+                    "word": "dinner"
+                  }
+                ],
+                "until": 284,
+                "utterances": "Can you tell me what Crocodile eats for dinner"
+              },
+              {
+                "audio": "she_asked.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 20,
+                    "word": "she"
+                  },
+                  {
+                    "end": 98,
+                    "start": 52,
+                    "word": "asked"
+                  }
+                ],
+                "until": 98,
+                "utterances": "she asked"
+              }
+            ],
+            "sentence": "\"Can you tell me what Crocodile eats for dinner?\" she asked."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_14_image_0001.jpg",
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bend_down_and_i_will_tell_you_said_the_stone.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Bend"
+                  },
+                  {
+                    "end": 107,
+                    "start": 51,
+                    "word": "down"
+                  },
+                  {
+                    "end": 116,
+                    "start": 108,
+                    "word": "and"
+                  },
+                  {
+                    "end": 123,
+                    "start": 117,
+                    "word": "I"
+                  },
+                  {
+                    "end": 157,
+                    "start": 124,
+                    "word": "will"
+                  },
+                  {
+                    "end": 203,
+                    "start": 158,
+                    "word": "tell"
+                  },
+                  {
+                    "end": 223,
+                    "start": 204,
+                    "word": "you"
+                  },
+                  {
+                    "end": 254,
+                    "start": 224,
+                    "word": "said"
+                  },
+                  {
+                    "end": 265,
+                    "start": 255,
+                    "word": "the"
+                  },
+                  {
+                    "end": 339,
+                    "start": 266,
+                    "word": "stone"
+                  }
+                ],
+                "until": 339,
+                "utterances": "Bend down and I will tell you said the stone"
+              }
+            ],
+            "sentence": "\"Bend down and I will tell you,\" said the stone."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lower_lower_said_the_stone.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Lower"
+                  },
+                  {
+                    "end": 163,
+                    "start": 96,
+                    "word": "lower"
+                  },
+                  {
+                    "end": 194,
+                    "start": 164,
+                    "word": "said"
+                  },
+                  {
+                    "end": 200,
+                    "start": 195,
+                    "word": "the"
+                  },
+                  {
+                    "end": 246,
+                    "start": 201,
+                    "word": "stone"
+                  }
+                ],
+                "until": 246,
+                "utterances": "Lower lower said the stone"
+              }
+            ],
+            "sentence": "\"Lower, lower,\" said the stone."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_baby_elephant_bent_down_lower_and_lower.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 21,
+                    "word": "So"
+                  },
+                  {
+                    "end": 92,
+                    "start": 43,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 140,
+                    "start": 93,
+                    "word": "Elephant"
+                  },
+                  {
+                    "end": 179,
+                    "start": 141,
+                    "word": "bent"
+                  },
+                  {
+                    "end": 225,
+                    "start": 180,
+                    "word": "down"
+                  },
+                  {
+                    "end": 285,
+                    "start": 226,
+                    "word": "lower"
+                  },
+                  {
+                    "end": 334,
+                    "start": 298,
+                    "word": "and"
+                  },
+                  {
+                    "end": 394,
+                    "start": 335,
+                    "word": "lower"
+                  }
+                ],
+                "until": 394,
+                "utterances": "So Baby Elephant bent down lower and lower"
+              }
+            ],
+            "sentence": "So Baby Elephant bent down lower, and lower."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_15_image_0001.jpg",
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_suddenly_snap.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 2,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 94,
+                    "start": 40,
+                    "word": "suddenly"
+                  },
+                  {
+                    "end": 153,
+                    "start": 95,
+                    "word": "Snap"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Then suddenly Snap"
+              }
+            ],
+            "sentence": "Then suddenly, \"Snap!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "baby_elephant_s_nose_was_caught_in_crocodile_s_jaws.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 129,
+                    "start": 68,
+                    "word": "Elephant's"
+                  },
+                  {
+                    "end": 189,
+                    "start": 130,
+                    "word": "nose"
+                  },
+                  {
+                    "end": 221,
+                    "start": 190,
+                    "word": "was"
+                  },
+                  {
+                    "end": 266,
+                    "start": 222,
+                    "word": "caught"
+                  },
+                  {
+                    "end": 278,
+                    "start": 267,
+                    "word": "in"
+                  },
+                  {
+                    "end": 370,
+                    "start": 279,
+                    "word": "Crocodile's"
+                  },
+                  {
+                    "end": 446,
+                    "start": 371,
+                    "word": "jaws"
+                  }
+                ],
+                "until": 446,
+                "utterances": "Baby Elephant's nose was caught in Crocodile's jaws"
+              }
+            ],
+            "sentence": "Baby Elephant's nose was caught in Crocodile's jaws."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "crocodile_will_eat_you_for_dinner.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 1,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 113,
+                    "start": 83,
+                    "word": "will"
+                  },
+                  {
+                    "end": 134,
+                    "start": 114,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 174,
+                    "start": 135,
+                    "word": "you"
+                  },
+                  {
+                    "end": 195,
+                    "start": 175,
+                    "word": "for"
+                  },
+                  {
+                    "end": 240,
+                    "start": 196,
+                    "word": "dinner"
+                  }
+                ],
+                "until": 240,
+                "utterances": "Crocodile will eat you for dinner"
+              },
+              {
+                "audio": "squawked_crow_and_flew_away.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "squawked"
+                  },
+                  {
+                    "end": 124,
+                    "start": 77,
+                    "word": "Crow"
+                  },
+                  {
+                    "end": 161,
+                    "start": 140,
+                    "word": "and"
+                  },
+                  {
+                    "end": 204,
+                    "start": 162,
+                    "word": "flew"
+                  },
+                  {
+                    "end": 251,
+                    "start": 205,
+                    "word": "away"
+                  }
+                ],
+                "until": 251,
+                "utterances": "squawked Crow and flew away"
+              }
+            ],
+            "sentence": "\"Crocodile will eat you for dinner!\" squawked Crow, and flew away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_16_image_0001.jpg",
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baby_elephant_sat_back_on_her_strong_legs_and_pulled.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 1,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 103,
+                    "start": 59,
+                    "word": "Elephant"
+                  },
+                  {
+                    "end": 134,
+                    "start": 104,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 190,
+                    "start": 135,
+                    "word": "back"
+                  },
+                  {
+                    "end": 203,
+                    "start": 191,
+                    "word": "on"
+                  },
+                  {
+                    "end": 221,
+                    "start": 204,
+                    "word": "her"
+                  },
+                  {
+                    "end": 292,
+                    "start": 222,
+                    "word": "strong"
+                  },
+                  {
+                    "end": 341,
+                    "start": 293,
+                    "word": "legs"
+                  },
+                  {
+                    "end": 382,
+                    "start": 342,
+                    "word": "and"
+                  },
+                  {
+                    "end": 514,
+                    "start": 383,
+                    "word": "pulled"
+                  }
+                ],
+                "until": 514,
+                "utterances": "Baby Elephant sat back on her strong legs and pulled"
+              }
+            ],
+            "sentence": "Baby Elephant sat back on her strong legs and pulled."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_pulled_and_pulled.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 16,
+                    "word": "She"
+                  },
+                  {
+                    "end": 126,
+                    "start": 58,
+                    "word": "pulled"
+                  },
+                  {
+                    "end": 155,
+                    "start": 127,
+                    "word": "and"
+                  },
+                  {
+                    "end": 269,
+                    "start": 156,
+                    "word": "pulled"
+                  }
+                ],
+                "until": 269,
+                "utterances": "She pulled and pulled"
+              }
+            ],
+            "sentence": "She pulled, and pulled."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_crocodile_did_not_let_go_of_her_nose.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 101,
+                    "start": 29,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 123,
+                    "start": 102,
+                    "word": "did"
+                  },
+                  {
+                    "end": 159,
+                    "start": 124,
+                    "word": "not"
+                  },
+                  {
+                    "end": 179,
+                    "start": 160,
+                    "word": "let"
+                  },
+                  {
+                    "end": 193,
+                    "start": 180,
+                    "word": "go"
+                  },
+                  {
+                    "end": 209,
+                    "start": 194,
+                    "word": "of"
+                  },
+                  {
+                    "end": 224,
+                    "start": 210,
+                    "word": "her"
+                  },
+                  {
+                    "end": 292,
+                    "start": 225,
+                    "word": "nose"
+                  }
+                ],
+                "until": 292,
+                "utterances": "But Crocodile did not let go of her nose"
+              }
+            ],
+            "sentence": "But Crocodile did not let go of her nose."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_17_image_0001.jpg",
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baby_elephant_s_nose_stretched_and_stretched_and_stretched.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 2,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 109,
+                    "start": 66,
+                    "word": "Elephant's"
+                  },
+                  {
+                    "end": 138,
+                    "start": 110,
+                    "word": "nose"
+                  },
+                  {
+                    "end": 247,
+                    "start": 139,
+                    "word": "stretched"
+                  },
+                  {
+                    "end": 267,
+                    "start": 248,
+                    "word": "and"
+                  },
+                  {
+                    "end": 365,
+                    "start": 268,
+                    "word": "stretched"
+                  },
+                  {
+                    "end": 382,
+                    "start": 366,
+                    "word": "and"
+                  },
+                  {
+                    "end": 477,
+                    "start": 383,
+                    "word": "stretched"
+                  }
+                ],
+                "until": 477,
+                "utterances": "Baby Elephant's nose stretched and stretched and stretched"
+              }
+            ],
+            "sentence": "Baby Elephant's nose stretched, and stretched, and stretched."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_thud.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 1,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 175,
+                    "start": 60,
+                    "word": "Thud"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Then Thud"
+              },
+              {
+                "audio": "she_fell_on_her_back.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 20,
+                    "word": "she"
+                  },
+                  {
+                    "end": 81,
+                    "start": 41,
+                    "word": "fell"
+                  },
+                  {
+                    "end": 105,
+                    "start": 82,
+                    "word": "on"
+                  },
+                  {
+                    "end": 128,
+                    "start": 106,
+                    "word": "her"
+                  },
+                  {
+                    "end": 178,
+                    "start": 129,
+                    "word": "back"
+                  }
+                ],
+                "until": 178,
+                "utterances": "she fell on her back"
+              }
+            ],
+            "sentence": "Then, \"Thud!\" she fell on her back."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_18_image_0001.jpg",
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "crocodile_sunk_back_into_the_water.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 2,
+                    "word": "Crocodile"
+                  },
+                  {
+                    "end": 138,
+                    "start": 98,
+                    "word": "sunk"
+                  },
+                  {
+                    "end": 194,
+                    "start": 139,
+                    "word": "back"
+                  },
+                  {
+                    "end": 238,
+                    "start": 195,
+                    "word": "into"
+                  },
+                  {
+                    "end": 247,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 295,
+                    "start": 248,
+                    "word": "water"
+                  }
+                ],
+                "until": 295,
+                "utterances": "Crocodile sunk back into the water"
+              }
+            ],
+            "sentence": "Crocodile sunk back into the water."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_was_cross_about_losing_his_dinner.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 54,
+                    "start": 29,
+                    "word": "was"
+                  },
+                  {
+                    "end": 97,
+                    "start": 55,
+                    "word": "cross"
+                  },
+                  {
+                    "end": 124,
+                    "start": 98,
+                    "word": "about"
+                  },
+                  {
+                    "end": 167,
+                    "start": 125,
+                    "word": "losing"
+                  },
+                  {
+                    "end": 198,
+                    "start": 168,
+                    "word": "his"
+                  },
+                  {
+                    "end": 237,
+                    "start": 199,
+                    "word": "dinner"
+                  }
+                ],
+                "until": 237,
+                "utterances": "He was cross about losing his dinner"
+              }
+            ],
+            "sentence": "He was cross about losing his dinner."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_19_image_0001.jpg",
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baby_elephant_looked_at_her_nose.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 2,
+                    "word": "Baby"
+                  },
+                  {
+                    "end": 100,
+                    "start": 57,
+                    "word": "Elephant"
+                  },
+                  {
+                    "end": 125,
+                    "start": 101,
+                    "word": "looked"
+                  },
+                  {
+                    "end": 137,
+                    "start": 126,
+                    "word": "at"
+                  },
+                  {
+                    "end": 151,
+                    "start": 138,
+                    "word": "her"
+                  },
+                  {
+                    "end": 210,
+                    "start": 152,
+                    "word": "nose"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Baby Elephant looked at her nose"
+              }
+            ],
+            "sentence": "Baby Elephant looked at her nose."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_stretched_very_long.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 61,
+                    "start": 46,
+                    "word": "was"
+                  },
+                  {
+                    "end": 132,
+                    "start": 62,
+                    "word": "stretched"
+                  },
+                  {
+                    "end": 189,
+                    "start": 133,
+                    "word": "very"
+                  },
+                  {
+                    "end": 251,
+                    "start": 190,
+                    "word": "long"
+                  }
+                ],
+                "until": 251,
+                "utterances": "It was stretched very long"
+              }
+            ],
+            "sentence": "It was stretched very long."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_could_not_see_where_it_ended.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 60,
+                    "start": 40,
+                    "word": "could"
+                  },
+                  {
+                    "end": 84,
+                    "start": 61,
+                    "word": "not"
+                  },
+                  {
+                    "end": 107,
+                    "start": 85,
+                    "word": "see"
+                  },
+                  {
+                    "end": 138,
+                    "start": 108,
+                    "word": "where"
+                  },
+                  {
+                    "end": 144,
+                    "start": 139,
+                    "word": "it"
+                  },
+                  {
+                    "end": 199,
+                    "start": 145,
+                    "word": "ended"
+                  }
+                ],
+                "until": 199,
+                "utterances": "She could not see where it ended"
+              }
+            ],
+            "sentence": "She could not see where it ended!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_20_image_0001.jpg",
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_nose_was_so_long_she_could_pick_fruit_from_high_branches.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 17,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "nose"
+                  },
+                  {
+                    "end": 94,
+                    "start": 79,
+                    "word": "was"
+                  },
+                  {
+                    "end": 123,
+                    "start": 95,
+                    "word": "so"
+                  },
+                  {
+                    "end": 176,
+                    "start": 124,
+                    "word": "long"
+                  },
+                  {
+                    "end": 192,
+                    "start": 177,
+                    "word": "she"
+                  },
+                  {
+                    "end": 213,
+                    "start": 193,
+                    "word": "could"
+                  },
+                  {
+                    "end": 243,
+                    "start": 214,
+                    "word": "pick"
+                  },
+                  {
+                    "end": 271,
+                    "start": 244,
+                    "word": "fruit"
+                  },
+                  {
+                    "end": 310,
+                    "start": 272,
+                    "word": "from"
+                  },
+                  {
+                    "end": 351,
+                    "start": 311,
+                    "word": "high"
+                  },
+                  {
+                    "end": 429,
+                    "start": 352,
+                    "word": "branches"
+                  }
+                ],
+                "until": 429,
+                "utterances": "Her nose was so long she could pick fruit from high branches"
+              }
+            ],
+            "sentence": "Her nose was so long she could pick fruit from high branches."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "curious_baby_elephant_2_page_21_image_0001.jpg",
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_nose_was_so_long_she_could_shower_her_back_with_water.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 15,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 69,
+                    "start": 32,
+                    "word": "nose"
+                  },
+                  {
+                    "end": 82,
+                    "start": 70,
+                    "word": "was"
+                  },
+                  {
+                    "end": 101,
+                    "start": 83,
+                    "word": "so"
+                  },
+                  {
+                    "end": 151,
+                    "start": 102,
+                    "word": "long"
+                  },
+                  {
+                    "end": 175,
+                    "start": 152,
+                    "word": "she"
+                  },
+                  {
+                    "end": 196,
+                    "start": 176,
+                    "word": "could"
+                  },
+                  {
+                    "end": 248,
+                    "start": 197,
+                    "word": "shower"
+                  },
+                  {
+                    "end": 258,
+                    "start": 249,
+                    "word": "her"
+                  },
+                  {
+                    "end": 295,
+                    "start": 259,
+                    "word": "back"
+                  },
+                  {
+                    "end": 309,
+                    "start": 296,
+                    "word": "with"
+                  },
+                  {
+                    "end": 358,
+                    "start": 310,
+                    "word": "water"
+                  }
+                ],
+                "until": 358,
+                "utterances": "Her nose was so long she could shower her back with water"
+              }
+            ],
+            "sentence": "Her nose was so long she could shower her back with water."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "from_that_day_all_elephants_had_long_and_useful_trunks.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "From"
+                  },
+                  {
+                    "end": 69,
+                    "start": 42,
+                    "word": "that"
+                  },
+                  {
+                    "end": 82,
+                    "start": 70,
+                    "word": "day"
+                  },
+                  {
+                    "end": 165,
+                    "start": 119,
+                    "word": "all"
+                  },
+                  {
+                    "end": 221,
+                    "start": 166,
+                    "word": "elephants"
+                  },
+                  {
+                    "end": 236,
+                    "start": 222,
+                    "word": "had"
+                  },
+                  {
+                    "end": 297,
+                    "start": 237,
+                    "word": "long"
+                  },
+                  {
+                    "end": 323,
+                    "start": 298,
+                    "word": "and"
+                  },
+                  {
+                    "end": 376,
+                    "start": 324,
+                    "word": "useful"
+                  },
+                  {
+                    "end": 457,
+                    "start": 377,
+                    "word": "trunks"
+                  }
+                ],
+                "until": 457,
+                "utterances": "From that day all elephants had long and useful trunks"
+              }
+            ],
+            "sentence": "From that day, all elephants had long and useful trunks."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Curious Baby Elephant",
+  "titleimage": "curious_baby_elephant_2_page_01_image_0001.jpg"
+}

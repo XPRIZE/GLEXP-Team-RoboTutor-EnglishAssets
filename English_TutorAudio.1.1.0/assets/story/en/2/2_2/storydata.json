@@ -1,0 +1,1051 @@
+{
+  "author": "Ursula Nafula",
+  "data": [
+    {
+      "image": "annoying_mosquito_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "knock.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 19,
+                    "word": "Knock"
+                  }
+                ],
+                "until": 48,
+                "utterances": "Knock"
+              }
+            ],
+            "sentence": "Knock!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "knock.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 19,
+                    "word": "Knock"
+                  }
+                ],
+                "until": 48,
+                "utterances": "Knock"
+              }
+            ],
+            "sentence": "Knock!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "who_is_there.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "Who"
+                  },
+                  {
+                    "end": 54,
+                    "start": 42,
+                    "word": "is"
+                  },
+                  {
+                    "end": 97,
+                    "start": 55,
+                    "word": "there"
+                  }
+                ],
+                "until": 97,
+                "utterances": "Who is there"
+              }
+            ],
+            "sentence": "\"Who is there?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_ask_sleepily.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 76,
+                    "start": 41,
+                    "word": "ask"
+                  },
+                  {
+                    "end": 163,
+                    "start": 77,
+                    "word": "sleepily"
+                  }
+                ],
+                "until": 163,
+                "utterances": "I ask sleepily"
+              }
+            ],
+            "sentence": "I ask sleepily."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_me_a_shrill_voice_says.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 39,
+                    "word": "is"
+                  },
+                  {
+                    "end": 66,
+                    "start": 57,
+                    "word": "me"
+                  },
+                  {
+                    "end": 146,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 186,
+                    "start": 147,
+                    "word": "shrill"
+                  },
+                  {
+                    "end": 256,
+                    "start": 187,
+                    "word": "voice"
+                  },
+                  {
+                    "end": 334,
+                    "start": 257,
+                    "word": "says"
+                  }
+                ],
+                "until": 334,
+                "utterances": "It is me a shrill voice says"
+              }
+            ],
+            "sentence": "\"It is me,\" a shrill voice says."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "who_is_me.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 2,
+                    "word": "Who"
+                  },
+                  {
+                    "end": 71,
+                    "start": 43,
+                    "word": "is"
+                  },
+                  {
+                    "end": 104,
+                    "start": 72,
+                    "word": "me"
+                  }
+                ],
+                "until": 104,
+                "utterances": "Who is me"
+              }
+            ],
+            "sentence": "\"Who is 'me'?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_ask.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 85,
+                    "start": 37,
+                    "word": "ask"
+                  }
+                ],
+                "until": 85,
+                "utterances": "I ask"
+              }
+            ],
+            "sentence": "I ask."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_told_you_it_is_o_n_l_y_m_e_the_same_voice_says.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 18,
+                    "word": "I"
+                  },
+                  {
+                    "end": 90,
+                    "start": 48,
+                    "word": "told"
+                  },
+                  {
+                    "end": 125,
+                    "start": 91,
+                    "word": "you"
+                  },
+                  {
+                    "end": 146,
+                    "start": 126,
+                    "word": "it"
+                  },
+                  {
+                    "end": 165,
+                    "start": 147,
+                    "word": "is"
+                  },
+                  {
+                    "end": 286,
+                    "start": 166,
+                    "word": "o-n-l-y"
+                  },
+                  {
+                    "end": 304,
+                    "start": 287,
+                    "word": "m-e"
+                  },
+                  {
+                    "end": 320,
+                    "start": 305,
+                    "word": "the"
+                  },
+                  {
+                    "end": 363,
+                    "start": 321,
+                    "word": "same"
+                  },
+                  {
+                    "end": 407,
+                    "start": 364,
+                    "word": "voice"
+                  },
+                  {
+                    "end": 465,
+                    "start": 408,
+                    "word": "says"
+                  }
+                ],
+                "until": 465,
+                "utterances": "I told you it is o-n-l-y m-e the same voice says"
+              }
+            ],
+            "sentence": "\"I told you, it is o-n-l-y m-e,\" the same voice says."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_don_t_know_anyone_called_o_n_l_y_m_e_i_reply.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 35,
+                    "word": "don't"
+                  },
+                  {
+                    "end": 99,
+                    "start": 69,
+                    "word": "know"
+                  },
+                  {
+                    "end": 152,
+                    "start": 100,
+                    "word": "anyone"
+                  },
+                  {
+                    "end": 191,
+                    "start": 153,
+                    "word": "called"
+                  },
+                  {
+                    "end": 352,
+                    "start": 274,
+                    "word": "o-n-l-y"
+                  },
+                  {
+                    "end": 358,
+                    "start": 353,
+                    "word": "m-e"
+                  },
+                  {
+                    "end": 374,
+                    "start": 359,
+                    "word": "I"
+                  },
+                  {
+                    "end": 439,
+                    "start": 375,
+                    "word": "reply"
+                  }
+                ],
+                "until": 439,
+                "utterances": "I don't know anyone called o-n-l-y m-e I reply"
+              }
+            ],
+            "sentence": "\"I don't know anyone called, 'o-n-l-y m-e',\" I reply."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_check_that_my_mosquito_net_is_tucked_in_around_my_bed.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "check"
+                  },
+                  {
+                    "end": 87,
+                    "start": 74,
+                    "word": "that"
+                  },
+                  {
+                    "end": 100,
+                    "start": 88,
+                    "word": "my"
+                  },
+                  {
+                    "end": 159,
+                    "start": 101,
+                    "word": "mosquito"
+                  },
+                  {
+                    "end": 197,
+                    "start": 160,
+                    "word": "net"
+                  },
+                  {
+                    "end": 223,
+                    "start": 198,
+                    "word": "is"
+                  },
+                  {
+                    "end": 251,
+                    "start": 224,
+                    "word": "tucked"
+                  },
+                  {
+                    "end": 277,
+                    "start": 252,
+                    "word": "in"
+                  },
+                  {
+                    "end": 320,
+                    "start": 278,
+                    "word": "around"
+                  },
+                  {
+                    "end": 342,
+                    "start": 321,
+                    "word": "my"
+                  },
+                  {
+                    "end": 447,
+                    "start": 343,
+                    "word": "bed"
+                  }
+                ],
+                "until": 447,
+                "utterances": "I check that my mosquito net is tucked in around my bed"
+              }
+            ],
+            "sentence": "I check that my mosquito net is tucked in around my bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "well_my_name_is_amos.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 20,
+                    "word": "Well"
+                  },
+                  {
+                    "end": 77,
+                    "start": 48,
+                    "word": "my"
+                  },
+                  {
+                    "end": 129,
+                    "start": 78,
+                    "word": "name"
+                  },
+                  {
+                    "end": 146,
+                    "start": 130,
+                    "word": "is"
+                  },
+                  {
+                    "end": 232,
+                    "start": 147,
+                    "word": "Amos"
+                  }
+                ],
+                "until": 232,
+                "utterances": "Well my name is Amos"
+              }
+            ],
+            "sentence": "\"Well, my name is Amos.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_voice_sounds_more_shrill_than_before.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 19,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 31,
+                    "word": "voice"
+                  },
+                  {
+                    "end": 106,
+                    "start": 69,
+                    "word": "sounds"
+                  },
+                  {
+                    "end": 138,
+                    "start": 107,
+                    "word": "more"
+                  },
+                  {
+                    "end": 195,
+                    "start": 139,
+                    "word": "shrill"
+                  },
+                  {
+                    "end": 213,
+                    "start": 196,
+                    "word": "than"
+                  },
+                  {
+                    "end": 282,
+                    "start": 214,
+                    "word": "before"
+                  }
+                ],
+                "until": 282,
+                "utterances": "The voice sounds more shrill than before"
+              }
+            ],
+            "sentence": "The voice sounds more shrill than before."
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_is_very_close_to_my_ear.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 51,
+                    "start": 33,
+                    "word": "is"
+                  },
+                  {
+                    "end": 94,
+                    "start": 52,
+                    "word": "very"
+                  },
+                  {
+                    "end": 136,
+                    "start": 95,
+                    "word": "close"
+                  },
+                  {
+                    "end": 147,
+                    "start": 137,
+                    "word": "to"
+                  },
+                  {
+                    "end": 164,
+                    "start": 148,
+                    "word": "my"
+                  },
+                  {
+                    "end": 213,
+                    "start": 165,
+                    "word": "ear"
+                  }
+                ],
+                "until": 213,
+                "utterances": "It is very close to my ear"
+              }
+            ],
+            "sentence": "It is very close to my ear."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "amos_who.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "Amos"
+                  },
+                  {
+                    "end": 98,
+                    "start": 71,
+                    "word": "who"
+                  }
+                ],
+                "until": 98,
+                "utterances": "Amos who"
+              }
+            ],
+            "sentence": "\"Amos who?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_ask_as_i_look_under_the_net.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 22,
+                    "word": "I"
+                  },
+                  {
+                    "end": 80,
+                    "start": 45,
+                    "word": "ask"
+                  },
+                  {
+                    "end": 94,
+                    "start": 81,
+                    "word": "as"
+                  },
+                  {
+                    "end": 99,
+                    "start": 95,
+                    "word": "I"
+                  },
+                  {
+                    "end": 125,
+                    "start": 100,
+                    "word": "look"
+                  },
+                  {
+                    "end": 154,
+                    "start": 126,
+                    "word": "under"
+                  },
+                  {
+                    "end": 167,
+                    "start": 155,
+                    "word": "the"
+                  },
+                  {
+                    "end": 193,
+                    "start": 168,
+                    "word": "net"
+                  }
+                ],
+                "until": 193,
+                "utterances": "I ask as I look under the net"
+              }
+            ],
+            "sentence": "I ask as I look under the net."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "amos_quito_the_voice_finally_says.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 21,
+                    "word": "Amos"
+                  },
+                  {
+                    "end": 106,
+                    "start": 60,
+                    "word": "Quito"
+                  },
+                  {
+                    "end": 178,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 218,
+                    "start": 179,
+                    "word": "voice"
+                  },
+                  {
+                    "end": 261,
+                    "start": 219,
+                    "word": "finally"
+                  },
+                  {
+                    "end": 316,
+                    "start": 262,
+                    "word": "says"
+                  }
+                ],
+                "until": 316,
+                "utterances": "Amos Quito the voice finally says"
+              }
+            ],
+            "sentence": "\"Amos Quito,\" the voice finally says."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_feel_a_bite_on_my_ear.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 53,
+                    "start": 31,
+                    "word": "feel"
+                  },
+                  {
+                    "end": 73,
+                    "start": 54,
+                    "word": "a"
+                  },
+                  {
+                    "end": 126,
+                    "start": 74,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 140,
+                    "start": 127,
+                    "word": "on"
+                  },
+                  {
+                    "end": 153,
+                    "start": 141,
+                    "word": "my"
+                  },
+                  {
+                    "end": 204,
+                    "start": 154,
+                    "word": "ear"
+                  }
+                ],
+                "until": 204,
+                "utterances": "I feel a bite on my ear"
+              }
+            ],
+            "sentence": "I feel a bite on my ear."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ouch.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 21,
+                    "word": "Ouch"
+                  }
+                ],
+                "until": 55,
+                "utterances": "Ouch"
+              }
+            ],
+            "sentence": "\"Ouch!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_jump_up_and_begin_to_search.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 16,
+                    "start": 2,
+                    "word": "I"
+                  },
+                  {
+                    "end": 60,
+                    "start": 17,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 87,
+                    "start": 61,
+                    "word": "up"
+                  },
+                  {
+                    "end": 105,
+                    "start": 88,
+                    "word": "and"
+                  },
+                  {
+                    "end": 141,
+                    "start": 106,
+                    "word": "begin"
+                  },
+                  {
+                    "end": 152,
+                    "start": 142,
+                    "word": "to"
+                  },
+                  {
+                    "end": 214,
+                    "start": 153,
+                    "word": "search"
+                  }
+                ],
+                "until": 214,
+                "utterances": "I jump up and begin to search"
+              }
+            ],
+            "sentence": "I jump up and begin to search."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_will_pay_for_this.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 21,
+                    "word": "You"
+                  },
+                  {
+                    "end": 64,
+                    "start": 38,
+                    "word": "will"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "pay"
+                  },
+                  {
+                    "end": 114,
+                    "start": 96,
+                    "word": "for"
+                  },
+                  {
+                    "end": 161,
+                    "start": 115,
+                    "word": "this"
+                  }
+                ],
+                "until": 161,
+                "utterances": "You will pay for this"
+              }
+            ],
+            "sentence": "\"You will pay for this!\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_shout.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 133,
+                    "start": 34,
+                    "word": "shout"
+                  }
+                ],
+                "until": 133,
+                "utterances": "I shout"
+              }
+            ],
+            "sentence": "I shout."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "angrily_i_get_out_of_bed_and_switch_on_the_light.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Angrily"
+                  },
+                  {
+                    "end": 105,
+                    "start": 97,
+                    "word": "I"
+                  },
+                  {
+                    "end": 152,
+                    "start": 106,
+                    "word": "get"
+                  },
+                  {
+                    "end": 174,
+                    "start": 153,
+                    "word": "out"
+                  },
+                  {
+                    "end": 193,
+                    "start": 175,
+                    "word": "of"
+                  },
+                  {
+                    "end": 236,
+                    "start": 194,
+                    "word": "bed"
+                  },
+                  {
+                    "end": 253,
+                    "start": 237,
+                    "word": "and"
+                  },
+                  {
+                    "end": 299,
+                    "start": 254,
+                    "word": "switch"
+                  },
+                  {
+                    "end": 338,
+                    "start": 309,
+                    "word": "on"
+                  },
+                  {
+                    "end": 344,
+                    "start": 339,
+                    "word": "the"
+                  },
+                  {
+                    "end": 396,
+                    "start": 345,
+                    "word": "light"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Angrily I get out of bed and switch on the light"
+              }
+            ],
+            "sentence": "Angrily, I get out of bed and switch on the light."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "annoying_mosquito_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_declare_war_on_the_annoying_amos_quito.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 16,
+                    "word": "I"
+                  },
+                  {
+                    "end": 75,
+                    "start": 27,
+                    "word": "declare"
+                  },
+                  {
+                    "end": 135,
+                    "start": 76,
+                    "word": "war"
+                  },
+                  {
+                    "end": 150,
+                    "start": 136,
+                    "word": "on"
+                  },
+                  {
+                    "end": 156,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 221,
+                    "start": 157,
+                    "word": "annoying"
+                  },
+                  {
+                    "end": 295,
+                    "start": 232,
+                    "word": "Amos"
+                  },
+                  {
+                    "end": 338,
+                    "start": 296,
+                    "word": "Quito"
+                  }
+                ],
+                "until": 338,
+                "utterances": "I declare war on the annoying Amos Quito"
+              }
+            ],
+            "sentence": "I declare war on the annoying Amos Quito!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Annoying Mosquito",
+  "titleimage": "annoying_mosquito_page_01_image_0001.jpg"
+}

@@ -1,0 +1,385 @@
+{
+  "author": "Jack Mostow",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_alphabet_song.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 20,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 37,
+                    "word": "Alphabet"
+                  },
+                  {
+                    "end": 128,
+                    "start": 87,
+                    "word": "Song"
+                  }
+                ],
+                "until": 128,
+                "utterances": "The Alphabet Song"
+              }
+            ],
+            "sentence": "The Alphabet Song"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [],
+            "sentence": "A B C D"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [],
+            "sentence": "E F G"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "h_i_j_k.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 20,
+                    "word": "H"
+                  },
+                  {
+                    "end": 99,
+                    "start": 92,
+                    "word": "I"
+                  },
+                  {
+                    "end": 141,
+                    "start": 100,
+                    "word": "J"
+                  },
+                  {
+                    "end": 255,
+                    "start": 198,
+                    "word": "K"
+                  }
+                ],
+                "until": 255,
+                "utterances": "H I J K"
+              }
+            ],
+            "sentence": "H I J K"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "l_m_n_o_p.mp3",
+                "from": 27,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 27,
+                    "word": "L"
+                  },
+                  {
+                    "end": 72,
+                    "start": 52,
+                    "word": "M"
+                  },
+                  {
+                    "end": 93,
+                    "start": 73,
+                    "word": "N"
+                  },
+                  {
+                    "end": 127,
+                    "start": 94,
+                    "word": "O"
+                  },
+                  {
+                    "end": 155,
+                    "start": 128,
+                    "word": "P"
+                  }
+                ],
+                "until": 155,
+                "utterances": "L M N O P"
+              }
+            ],
+            "sentence": "L M N O P"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "q_r_s.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 2,
+                    "word": "Q"
+                  },
+                  {
+                    "end": 116,
+                    "start": 78,
+                    "word": "R"
+                  },
+                  {
+                    "end": 177,
+                    "start": 127,
+                    "word": "S"
+                  }
+                ],
+                "until": 177,
+                "utterances": "Q R S"
+              }
+            ],
+            "sentence": "Q R S"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "t_u_v.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "T"
+                  },
+                  {
+                    "end": 95,
+                    "start": 80,
+                    "word": "U"
+                  },
+                  {
+                    "end": 175,
+                    "start": 122,
+                    "word": "V"
+                  }
+                ],
+                "until": 175,
+                "utterances": "T U V"
+              }
+            ],
+            "sentence": "T U V"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "w_and_x_y_z.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 1,
+                    "word": "W"
+                  },
+                  {
+                    "end": 174,
+                    "start": 120,
+                    "word": "and"
+                  },
+                  {
+                    "end": 218,
+                    "start": 175,
+                    "word": "X"
+                  },
+                  {
+                    "end": 239,
+                    "start": 219,
+                    "word": "Y"
+                  },
+                  {
+                    "end": 300,
+                    "start": 240,
+                    "word": "Z"
+                  }
+                ],
+                "until": 300,
+                "utterances": "W and X Y Z"
+              }
+            ],
+            "sentence": "W and X Y Z"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_i_know_my_a_b_c.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 18,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 90,
+                    "start": 43,
+                    "word": "I"
+                  },
+                  {
+                    "end": 146,
+                    "start": 91,
+                    "word": "know"
+                  },
+                  {
+                    "end": 183,
+                    "start": 147,
+                    "word": "my"
+                  },
+                  {
+                    "end": 231,
+                    "start": 184,
+                    "word": "A"
+                  },
+                  {
+                    "end": 245,
+                    "start": 232,
+                    "word": "B"
+                  },
+                  {
+                    "end": 315,
+                    "start": 266,
+                    "word": "C"
+                  }
+                ],
+                "until": 315,
+                "utterances": "Now I know my A B C"
+              }
+            ],
+            "sentence": "Now I know my A B C."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "next_time_won_t_you_sing_with_me.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Next"
+                  },
+                  {
+                    "end": 106,
+                    "start": 67,
+                    "word": "time"
+                  },
+                  {
+                    "end": 143,
+                    "start": 107,
+                    "word": "won't"
+                  },
+                  {
+                    "end": 167,
+                    "start": 144,
+                    "word": "you"
+                  },
+                  {
+                    "end": 231,
+                    "start": 178,
+                    "word": "sing"
+                  },
+                  {
+                    "end": 272,
+                    "start": 232,
+                    "word": "with"
+                  },
+                  {
+                    "end": 327,
+                    "start": 273,
+                    "word": "me"
+                  }
+                ],
+                "until": 327,
+                "utterances": "Next time won't you sing with me"
+              }
+            ],
+            "sentence": "Next time won't you sing with me? "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "COUNT",
+  "title": "The Alphabet Song",
+  "titleimage": null
+}

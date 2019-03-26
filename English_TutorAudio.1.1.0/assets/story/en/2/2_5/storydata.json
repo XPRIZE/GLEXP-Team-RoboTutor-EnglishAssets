@@ -1,0 +1,563 @@
+{
+  "author": "",
+  "data": [
+    {
+      "image": "bean_and_coal_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_was_a_bean_and_piece_of_coal.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 19,
+                    "word": "There"
+                  },
+                  {
+                    "end": 50,
+                    "start": 37,
+                    "word": "was"
+                  },
+                  {
+                    "end": 56,
+                    "start": 51,
+                    "word": "a"
+                  },
+                  {
+                    "end": 81,
+                    "start": 57,
+                    "word": "bean"
+                  },
+                  {
+                    "end": 142,
+                    "start": 125,
+                    "word": "and"
+                  },
+                  {
+                    "end": 173,
+                    "start": 143,
+                    "word": "piece"
+                  },
+                  {
+                    "end": 186,
+                    "start": 174,
+                    "word": "of"
+                  },
+                  {
+                    "end": 226,
+                    "start": 187,
+                    "word": "coal"
+                  }
+                ],
+                "until": 226,
+                "utterances": "There was a bean and piece of coal"
+              }
+            ],
+            "sentence": "There was a bean and piece of coal."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_were_going_to_another_village.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 21,
+                    "word": "They"
+                  },
+                  {
+                    "end": 50,
+                    "start": 31,
+                    "word": "were"
+                  },
+                  {
+                    "end": 90,
+                    "start": 51,
+                    "word": "going"
+                  },
+                  {
+                    "end": 108,
+                    "start": 91,
+                    "word": "to"
+                  },
+                  {
+                    "end": 144,
+                    "start": 109,
+                    "word": "another"
+                  },
+                  {
+                    "end": 211,
+                    "start": 145,
+                    "word": "village"
+                  }
+                ],
+                "until": 211,
+                "utterances": "They were going to another village"
+              }
+            ],
+            "sentence": "They were going to another village."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bean_and_coal_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_arrived_at_the_river_where_they_needed_to_cross.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "They"
+                  },
+                  {
+                    "end": 79,
+                    "start": 29,
+                    "word": "arrived"
+                  },
+                  {
+                    "end": 85,
+                    "start": 80,
+                    "word": "at"
+                  },
+                  {
+                    "end": 98,
+                    "start": 86,
+                    "word": "the"
+                  },
+                  {
+                    "end": 136,
+                    "start": 99,
+                    "word": "river"
+                  },
+                  {
+                    "end": 157,
+                    "start": 137,
+                    "word": "where"
+                  },
+                  {
+                    "end": 172,
+                    "start": 158,
+                    "word": "they"
+                  },
+                  {
+                    "end": 211,
+                    "start": 173,
+                    "word": "needed"
+                  },
+                  {
+                    "end": 220,
+                    "start": 212,
+                    "word": "to"
+                  },
+                  {
+                    "end": 284,
+                    "start": 221,
+                    "word": "cross"
+                  }
+                ],
+                "until": 284,
+                "utterances": "They arrived at the river where they needed to cross"
+              }
+            ],
+            "sentence": "They arrived at the river where they needed to cross."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_found_the_river_deep_and_flowing_fast.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 19,
+                    "word": "They"
+                  },
+                  {
+                    "end": 71,
+                    "start": 31,
+                    "word": "found"
+                  },
+                  {
+                    "end": 78,
+                    "start": 72,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 79,
+                    "word": "river"
+                  },
+                  {
+                    "end": 170,
+                    "start": 118,
+                    "word": "deep"
+                  },
+                  {
+                    "end": 190,
+                    "start": 171,
+                    "word": "and"
+                  },
+                  {
+                    "end": 243,
+                    "start": 191,
+                    "word": "flowing"
+                  },
+                  {
+                    "end": 332,
+                    "start": 244,
+                    "word": "fast"
+                  }
+                ],
+                "until": 332,
+                "utterances": "They found the river deep and flowing fast"
+              }
+            ],
+            "sentence": "They found the river deep and flowing fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bean_and_coal_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_started_to_argue_about_crossing_the_river.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 2,
+                    "word": "They"
+                  },
+                  {
+                    "end": 74,
+                    "start": 26,
+                    "word": "started"
+                  },
+                  {
+                    "end": 83,
+                    "start": 75,
+                    "word": "to"
+                  },
+                  {
+                    "end": 134,
+                    "start": 84,
+                    "word": "argue"
+                  },
+                  {
+                    "end": 176,
+                    "start": 135,
+                    "word": "about"
+                  },
+                  {
+                    "end": 220,
+                    "start": 177,
+                    "word": "crossing"
+                  },
+                  {
+                    "end": 234,
+                    "start": 221,
+                    "word": "the"
+                  },
+                  {
+                    "end": 270,
+                    "start": 235,
+                    "word": "river"
+                  }
+                ],
+                "until": 270,
+                "utterances": "They started to argue about crossing the river"
+              }
+            ],
+            "sentence": "They started to argue about crossing the river."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_bean_said_coal_you_cross_first.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 1,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 69,
+                    "start": 44,
+                    "word": "Bean"
+                  },
+                  {
+                    "end": 125,
+                    "start": 70,
+                    "word": "said"
+                  },
+                  {
+                    "end": 141,
+                    "start": 126,
+                    "word": "Coal"
+                  },
+                  {
+                    "end": 192,
+                    "start": 175,
+                    "word": "you"
+                  },
+                  {
+                    "end": 230,
+                    "start": 193,
+                    "word": "cross"
+                  },
+                  {
+                    "end": 330,
+                    "start": 231,
+                    "word": "first"
+                  }
+                ],
+                "until": 330,
+                "utterances": "Then Bean said Coal you cross first"
+              }
+            ],
+            "sentence": "Then Bean said, \"Coal, you cross first.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_coal_said_no_you_cross_first.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 54,
+                    "start": 32,
+                    "word": "Coal"
+                  },
+                  {
+                    "end": 92,
+                    "start": 55,
+                    "word": "said"
+                  },
+                  {
+                    "end": 148,
+                    "start": 93,
+                    "word": "No"
+                  },
+                  {
+                    "end": 168,
+                    "start": 149,
+                    "word": "you"
+                  },
+                  {
+                    "end": 208,
+                    "start": 169,
+                    "word": "cross"
+                  },
+                  {
+                    "end": 269,
+                    "start": 209,
+                    "word": "first"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Then Coal said No you cross first"
+              }
+            ],
+            "sentence": "Then Coal said, \"No, you cross first.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bean_and_coal_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_argued_until_bean_crossed.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 20,
+                    "word": "They"
+                  },
+                  {
+                    "end": 88,
+                    "start": 34,
+                    "word": "argued"
+                  },
+                  {
+                    "end": 120,
+                    "start": 89,
+                    "word": "until"
+                  },
+                  {
+                    "end": 169,
+                    "start": 121,
+                    "word": "Bean"
+                  },
+                  {
+                    "end": 250,
+                    "start": 170,
+                    "word": "crossed"
+                  }
+                ],
+                "until": 250,
+                "utterances": "They argued until Bean crossed"
+              }
+            ],
+            "sentence": "They argued until Bean crossed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bean_and_coal_page_6_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_coal_crossed_he_fell_into_the_river_pshhhhhhhhhhhh.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 52,
+                    "start": 24,
+                    "word": "Coal"
+                  },
+                  {
+                    "end": 126,
+                    "start": 53,
+                    "word": "crossed"
+                  },
+                  {
+                    "end": 134,
+                    "start": 127,
+                    "word": "he"
+                  },
+                  {
+                    "end": 168,
+                    "start": 135,
+                    "word": "fell"
+                  },
+                  {
+                    "end": 188,
+                    "start": 169,
+                    "word": "into"
+                  },
+                  {
+                    "end": 199,
+                    "start": 189,
+                    "word": "the"
+                  },
+                  {
+                    "end": 234,
+                    "start": 200,
+                    "word": "river"
+                  },
+                  {
+                    "end": 371,
+                    "start": 235,
+                    "word": "Pshhhhhhhhhhhh"
+                  }
+                ],
+                "until": 371,
+                "utterances": "When Coal crossed he fell into the river Pshhhhhhhhhhhh"
+              }
+            ],
+            "sentence": "When Coal crossed, he fell into the river, \"Pshhhhhhhhhhhh!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "bean_laughed_until_he_split_into_two.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Bean"
+                  },
+                  {
+                    "end": 101,
+                    "start": 53,
+                    "word": "laughed"
+                  },
+                  {
+                    "end": 133,
+                    "start": 102,
+                    "word": "until"
+                  },
+                  {
+                    "end": 141,
+                    "start": 134,
+                    "word": "he"
+                  },
+                  {
+                    "end": 190,
+                    "start": 142,
+                    "word": "split"
+                  },
+                  {
+                    "end": 209,
+                    "start": 191,
+                    "word": "into"
+                  },
+                  {
+                    "end": 233,
+                    "start": 210,
+                    "word": "two"
+                  }
+                ],
+                "until": 233,
+                "utterances": "Bean laughed until he split into two"
+              }
+            ],
+            "sentence": "Bean laughed until he split into two."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Bean and Coal",
+  "titleimage": "bean_and_coal_page_01_image_0001.jpg"
+}

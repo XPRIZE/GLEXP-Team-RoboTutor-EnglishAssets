@@ -1,0 +1,857 @@
+{
+  "author": "Lawrence A. Konjuro",
+  "data": [
+    {
+      "image": "azizi_the_doll_2_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_is_azizi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "This"
+                  },
+                  {
+                    "end": 70,
+                    "start": 55,
+                    "word": "is"
+                  },
+                  {
+                    "end": 110,
+                    "start": 71,
+                    "word": "Azizi"
+                  }
+                ],
+                "until": 110,
+                "utterances": "This is Azizi"
+              }
+            ],
+            "sentence": "This is Azizi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "azizi_is_my_doll.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 20,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 94,
+                    "start": 71,
+                    "word": "is"
+                  },
+                  {
+                    "end": 105,
+                    "start": 95,
+                    "word": "my"
+                  },
+                  {
+                    "end": 157,
+                    "start": 106,
+                    "word": "doll"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Azizi is my doll"
+              }
+            ],
+            "sentence": "Azizi is my doll."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_like_azizi_because_he_always_smiles.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 37,
+                    "word": "like"
+                  },
+                  {
+                    "end": 114,
+                    "start": 69,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 158,
+                    "start": 115,
+                    "word": "because"
+                  },
+                  {
+                    "end": 177,
+                    "start": 159,
+                    "word": "he"
+                  },
+                  {
+                    "end": 222,
+                    "start": 178,
+                    "word": "always"
+                  },
+                  {
+                    "end": 296,
+                    "start": 223,
+                    "word": "smiles"
+                  }
+                ],
+                "until": 296,
+                "utterances": "I like Azizi because he always smiles"
+              }
+            ],
+            "sentence": "I like Azizi because he always smiles."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "after_i_wake_up_i_wash_my_face.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 20,
+                    "word": "After"
+                  },
+                  {
+                    "end": 70,
+                    "start": 61,
+                    "word": "I"
+                  },
+                  {
+                    "end": 100,
+                    "start": 71,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 145,
+                    "start": 101,
+                    "word": "up"
+                  },
+                  {
+                    "end": 150,
+                    "start": 146,
+                    "word": "I"
+                  },
+                  {
+                    "end": 190,
+                    "start": 151,
+                    "word": "wash"
+                  },
+                  {
+                    "end": 200,
+                    "start": 191,
+                    "word": "my"
+                  },
+                  {
+                    "end": 261,
+                    "start": 201,
+                    "word": "face"
+                  }
+                ],
+                "until": 261,
+                "utterances": "After I wake up I wash my face"
+              }
+            ],
+            "sentence": "After I wake up I wash my face."
+          },
+          {
+            "narration": [
+              {
+                "audio": "then_i_look_for_azizi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 2,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 56,
+                    "start": 48,
+                    "word": "I"
+                  },
+                  {
+                    "end": 80,
+                    "start": 57,
+                    "word": "look"
+                  },
+                  {
+                    "end": 101,
+                    "start": 81,
+                    "word": "for"
+                  },
+                  {
+                    "end": 136,
+                    "start": 102,
+                    "word": "Azizi"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Then I look for Azizi"
+              }
+            ],
+            "sentence": "Then I look for Azizi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_i_find_azizi_i_brush_his_hair.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 46,
+                    "start": 44,
+                    "word": "I"
+                  },
+                  {
+                    "end": 78,
+                    "start": 47,
+                    "word": "find"
+                  },
+                  {
+                    "end": 121,
+                    "start": 79,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 163,
+                    "start": 151,
+                    "word": "I"
+                  },
+                  {
+                    "end": 196,
+                    "start": 164,
+                    "word": "brush"
+                  },
+                  {
+                    "end": 214,
+                    "start": 197,
+                    "word": "his"
+                  },
+                  {
+                    "end": 242,
+                    "start": 215,
+                    "word": "hair"
+                  }
+                ],
+                "until": 242,
+                "utterances": "When I find Azizi I brush his hair"
+              }
+            ],
+            "sentence": "When I find Azizi I brush his hair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_i_eat_breakfast_i_feed_azizi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 43,
+                    "start": 35,
+                    "word": "I"
+                  },
+                  {
+                    "end": 64,
+                    "start": 44,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 138,
+                    "start": 65,
+                    "word": "breakfast"
+                  },
+                  {
+                    "end": 142,
+                    "start": 139,
+                    "word": "I"
+                  },
+                  {
+                    "end": 178,
+                    "start": 143,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 219,
+                    "start": 179,
+                    "word": "Azizi"
+                  }
+                ],
+                "until": 219,
+                "utterances": "When I eat breakfast I feed Azizi"
+              }
+            ],
+            "sentence": "When I eat breakfast I feed Azizi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_i_eat_sweets_i_give_one_to_azizi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 55,
+                    "start": 52,
+                    "word": "I"
+                  },
+                  {
+                    "end": 66,
+                    "start": 56,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 130,
+                    "start": 67,
+                    "word": "sweets"
+                  },
+                  {
+                    "end": 136,
+                    "start": 131,
+                    "word": "I"
+                  },
+                  {
+                    "end": 163,
+                    "start": 137,
+                    "word": "give"
+                  },
+                  {
+                    "end": 182,
+                    "start": 164,
+                    "word": "one"
+                  },
+                  {
+                    "end": 196,
+                    "start": 183,
+                    "word": "to"
+                  },
+                  {
+                    "end": 239,
+                    "start": 197,
+                    "word": "Azizi"
+                  }
+                ],
+                "until": 239,
+                "utterances": "When I eat sweets I give one to Azizi"
+              }
+            ],
+            "sentence": "When I eat sweets I give one to Azizi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_azizi_never_eats_his_sweet.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 1,
+                    "word": "But"
+                  },
+                  {
+                    "end": 79,
+                    "start": 32,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 139,
+                    "start": 80,
+                    "word": "never"
+                  },
+                  {
+                    "end": 167,
+                    "start": 140,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 192,
+                    "start": 168,
+                    "word": "his"
+                  },
+                  {
+                    "end": 216,
+                    "start": 193,
+                    "word": "sweet"
+                  }
+                ],
+                "until": 216,
+                "utterances": "But Azizi never eats his sweet"
+              }
+            ],
+            "sentence": "But Azizi never eats his sweet."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_wonder_why.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 64,
+                    "start": 32,
+                    "word": "wonder"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "why"
+                  }
+                ],
+                "until": 95,
+                "utterances": "I wonder why"
+              }
+            ],
+            "sentence": "I wonder why!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_walk_around_the_compound_picking_flowers.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 28,
+                    "word": "walk"
+                  },
+                  {
+                    "end": 94,
+                    "start": 66,
+                    "word": "around"
+                  },
+                  {
+                    "end": 101,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 102,
+                    "word": "compound"
+                  },
+                  {
+                    "end": 224,
+                    "start": 179,
+                    "word": "picking"
+                  },
+                  {
+                    "end": 299,
+                    "start": 225,
+                    "word": "flowers"
+                  }
+                ],
+                "until": 299,
+                "utterances": "I walk around the compound picking flowers"
+              }
+            ],
+            "sentence": "I walk around the compound picking flowers."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_give_a_flower_to_azizi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 53,
+                    "start": 29,
+                    "word": "give"
+                  },
+                  {
+                    "end": 59,
+                    "start": 54,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 60,
+                    "word": "flower"
+                  },
+                  {
+                    "end": 128,
+                    "start": 111,
+                    "word": "to"
+                  },
+                  {
+                    "end": 168,
+                    "start": 129,
+                    "word": "Azizi"
+                  }
+                ],
+                "until": 168,
+                "utterances": "I give a flower to Azizi"
+              }
+            ],
+            "sentence": "I give a flower to Azizi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "but_he_never_says_thank_you.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 42,
+                    "start": 35,
+                    "word": "he"
+                  },
+                  {
+                    "end": 71,
+                    "start": 43,
+                    "word": "never"
+                  },
+                  {
+                    "end": 108,
+                    "start": 72,
+                    "word": "says"
+                  },
+                  {
+                    "end": 140,
+                    "start": 109,
+                    "word": "Thank"
+                  },
+                  {
+                    "end": 162,
+                    "start": 141,
+                    "word": "you"
+                  }
+                ],
+                "until": 162,
+                "utterances": "But he never says Thank you"
+              }
+            ],
+            "sentence": "But he never says, \"Thank you.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wash_azizi_clean_before_my_mother_bathes_me.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 18,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 31,
+                    "word": "wash"
+                  },
+                  {
+                    "end": 116,
+                    "start": 73,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 164,
+                    "start": 117,
+                    "word": "clean"
+                  },
+                  {
+                    "end": 217,
+                    "start": 165,
+                    "word": "before"
+                  },
+                  {
+                    "end": 232,
+                    "start": 218,
+                    "word": "my"
+                  },
+                  {
+                    "end": 274,
+                    "start": 233,
+                    "word": "mother"
+                  },
+                  {
+                    "end": 305,
+                    "start": 275,
+                    "word": "bathes"
+                  },
+                  {
+                    "end": 323,
+                    "start": 306,
+                    "word": "me"
+                  }
+                ],
+                "until": 323,
+                "utterances": "I wash Azizi clean before my mother bathes me"
+              }
+            ],
+            "sentence": "I wash Azizi clean before my mother bathes me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_dress_azizi_in_red_because_i_love_the_colour_red.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 29,
+                    "word": "dress"
+                  },
+                  {
+                    "end": 103,
+                    "start": 66,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 120,
+                    "start": 104,
+                    "word": "in"
+                  },
+                  {
+                    "end": 160,
+                    "start": 121,
+                    "word": "red"
+                  },
+                  {
+                    "end": 191,
+                    "start": 161,
+                    "word": "because"
+                  },
+                  {
+                    "end": 196,
+                    "start": 192,
+                    "word": "I"
+                  },
+                  {
+                    "end": 239,
+                    "start": 197,
+                    "word": "love"
+                  },
+                  {
+                    "end": 248,
+                    "start": 240,
+                    "word": "the"
+                  },
+                  {
+                    "end": 280,
+                    "start": 249,
+                    "word": "colour"
+                  },
+                  {
+                    "end": 362,
+                    "start": 281,
+                    "word": "red"
+                  }
+                ],
+                "until": 362,
+                "utterances": "I dress Azizi in red because I love the colour red"
+              }
+            ],
+            "sentence": "I dress Azizi in red because I love the colour red."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "azizi_the_doll_2_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_i_go_to_sleep_i_lay_azizi_beside_me.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 1,
+                    "word": "When"
+                  },
+                  {
+                    "end": 43,
+                    "start": 38,
+                    "word": "I"
+                  },
+                  {
+                    "end": 63,
+                    "start": 44,
+                    "word": "go"
+                  },
+                  {
+                    "end": 69,
+                    "start": 64,
+                    "word": "to"
+                  },
+                  {
+                    "end": 131,
+                    "start": 70,
+                    "word": "sleep"
+                  },
+                  {
+                    "end": 139,
+                    "start": 132,
+                    "word": "I"
+                  },
+                  {
+                    "end": 154,
+                    "start": 140,
+                    "word": "lay"
+                  },
+                  {
+                    "end": 214,
+                    "start": 155,
+                    "word": "Azizi"
+                  },
+                  {
+                    "end": 274,
+                    "start": 215,
+                    "word": "beside"
+                  },
+                  {
+                    "end": 282,
+                    "start": 275,
+                    "word": "me"
+                  }
+                ],
+                "until": 282,
+                "utterances": "When I go to sleep I lay Azizi beside me"
+              }
+            ],
+            "sentence": "When I go to sleep, I lay Azizi beside me."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Azizi the Doll",
+  "titleimage": "azizi_the_doll_2_page_01_image_0001.jpg"
+}

@@ -1,0 +1,692 @@
+{
+  "author": "Bukheye Mulongo Christopher",
+  "data": [
+    {
+      "image": "feet_hands_and_head_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_use_my_feet_to_run_jump_and_kick.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 67,
+                    "start": 35,
+                    "word": "use"
+                  },
+                  {
+                    "end": 78,
+                    "start": 68,
+                    "word": "my"
+                  },
+                  {
+                    "end": 124,
+                    "start": 79,
+                    "word": "feet"
+                  },
+                  {
+                    "end": 154,
+                    "start": 125,
+                    "word": "to"
+                  },
+                  {
+                    "end": 199,
+                    "start": 155,
+                    "word": "run"
+                  },
+                  {
+                    "end": 251,
+                    "start": 200,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 275,
+                    "start": 252,
+                    "word": "and"
+                  },
+                  {
+                    "end": 312,
+                    "start": 276,
+                    "word": "kick"
+                  }
+                ],
+                "until": 312,
+                "utterances": "I use my feet to run jump and kick"
+              }
+            ],
+            "sentence": "I use my feet to run, jump, and kick."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_use_my_hands_to_eat_work_and_hug.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 31,
+                    "word": "use"
+                  },
+                  {
+                    "end": 76,
+                    "start": 60,
+                    "word": "my"
+                  },
+                  {
+                    "end": 135,
+                    "start": 77,
+                    "word": "hands"
+                  },
+                  {
+                    "end": 153,
+                    "start": 136,
+                    "word": "to"
+                  },
+                  {
+                    "end": 185,
+                    "start": 154,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 270,
+                    "start": 228,
+                    "word": "work"
+                  },
+                  {
+                    "end": 306,
+                    "start": 282,
+                    "word": "and"
+                  },
+                  {
+                    "end": 355,
+                    "start": 307,
+                    "word": "hug"
+                  }
+                ],
+                "until": 355,
+                "utterances": "I use my hands to eat work and hug"
+              }
+            ],
+            "sentence": "I use my hands to eat, work, and hug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_head_is_more_important_than_feet_or_hands.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 49,
+                    "start": 38,
+                    "word": "the"
+                  },
+                  {
+                    "end": 79,
+                    "start": 50,
+                    "word": "head"
+                  },
+                  {
+                    "end": 100,
+                    "start": 80,
+                    "word": "is"
+                  },
+                  {
+                    "end": 125,
+                    "start": 101,
+                    "word": "more"
+                  },
+                  {
+                    "end": 202,
+                    "start": 126,
+                    "word": "important"
+                  },
+                  {
+                    "end": 218,
+                    "start": 203,
+                    "word": "than"
+                  },
+                  {
+                    "end": 264,
+                    "start": 219,
+                    "word": "feet"
+                  },
+                  {
+                    "end": 279,
+                    "start": 265,
+                    "word": "or"
+                  },
+                  {
+                    "end": 338,
+                    "start": 280,
+                    "word": "hands"
+                  }
+                ],
+                "until": 338,
+                "utterances": "But the head is more important than feet or hands"
+              }
+            ],
+            "sentence": "But the head is more important than feet or hands."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_has_the_eyes.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 32,
+                    "word": "head"
+                  },
+                  {
+                    "end": 107,
+                    "start": 83,
+                    "word": "has"
+                  },
+                  {
+                    "end": 123,
+                    "start": 108,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 124,
+                    "word": "eyes"
+                  }
+                ],
+                "until": 195,
+                "utterances": "The head has the eyes"
+              }
+            ],
+            "sentence": "The head has the eyes."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_see_with_my_eyes.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 12,
+                    "word": "I"
+                  },
+                  {
+                    "end": 79,
+                    "start": 30,
+                    "word": "see"
+                  },
+                  {
+                    "end": 103,
+                    "start": 80,
+                    "word": "with"
+                  },
+                  {
+                    "end": 123,
+                    "start": 104,
+                    "word": "my"
+                  },
+                  {
+                    "end": 194,
+                    "start": 161,
+                    "word": "eyes"
+                  }
+                ],
+                "until": 194,
+                "utterances": "I see with my eyes"
+              }
+            ],
+            "sentence": "I see with my eyes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_has_the_nose.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 20,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 40,
+                    "word": "head"
+                  },
+                  {
+                    "end": 104,
+                    "start": 81,
+                    "word": "has"
+                  },
+                  {
+                    "end": 113,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 114,
+                    "word": "nose"
+                  }
+                ],
+                "until": 174,
+                "utterances": "The head has the nose"
+              }
+            ],
+            "sentence": "The head has the nose."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_smell_with_my_nose.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 90,
+                    "start": 33,
+                    "word": "smell"
+                  },
+                  {
+                    "end": 118,
+                    "start": 91,
+                    "word": "with"
+                  },
+                  {
+                    "end": 132,
+                    "start": 119,
+                    "word": "my"
+                  },
+                  {
+                    "end": 210,
+                    "start": 133,
+                    "word": "nose"
+                  }
+                ],
+                "until": 210,
+                "utterances": "I smell with my nose"
+              }
+            ],
+            "sentence": "I smell with my nose."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_has_the_ears.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 19,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 30,
+                    "word": "head"
+                  },
+                  {
+                    "end": 108,
+                    "start": 88,
+                    "word": "has"
+                  },
+                  {
+                    "end": 118,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 119,
+                    "word": "ears"
+                  }
+                ],
+                "until": 185,
+                "utterances": "The head has the ears"
+              }
+            ],
+            "sentence": "The head has the ears."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_hear_with_my_ears.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 15,
+                    "word": "I"
+                  },
+                  {
+                    "end": 86,
+                    "start": 41,
+                    "word": "hear"
+                  },
+                  {
+                    "end": 106,
+                    "start": 87,
+                    "word": "with"
+                  },
+                  {
+                    "end": 120,
+                    "start": 107,
+                    "word": "my"
+                  },
+                  {
+                    "end": 201,
+                    "start": 121,
+                    "word": "ears"
+                  }
+                ],
+                "until": 201,
+                "utterances": "I hear with my ears"
+              }
+            ],
+            "sentence": "I hear with my ears."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_has_the_tongue.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 21,
+                    "word": "The"
+                  },
+                  {
+                    "end": 69,
+                    "start": 42,
+                    "word": "head"
+                  },
+                  {
+                    "end": 97,
+                    "start": 70,
+                    "word": "has"
+                  },
+                  {
+                    "end": 105,
+                    "start": 98,
+                    "word": "the"
+                  },
+                  {
+                    "end": 157,
+                    "start": 106,
+                    "word": "tongue"
+                  }
+                ],
+                "until": 157,
+                "utterances": "The head has the tongue"
+              }
+            ],
+            "sentence": "The head has the tongue."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_taste_salty_and_sweet.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 77,
+                    "start": 29,
+                    "word": "taste"
+                  },
+                  {
+                    "end": 149,
+                    "start": 78,
+                    "word": "salty"
+                  },
+                  {
+                    "end": 162,
+                    "start": 150,
+                    "word": "and"
+                  },
+                  {
+                    "end": 265,
+                    "start": 163,
+                    "word": "sweet"
+                  }
+                ],
+                "until": 265,
+                "utterances": "I taste salty and sweet"
+              }
+            ],
+            "sentence": "I taste salty and sweet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_has_the_mouth.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 20,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "head"
+                  },
+                  {
+                    "end": 96,
+                    "start": 71,
+                    "word": "has"
+                  },
+                  {
+                    "end": 104,
+                    "start": 97,
+                    "word": "the"
+                  },
+                  {
+                    "end": 166,
+                    "start": 105,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 166,
+                "utterances": "The head has the mouth"
+              }
+            ],
+            "sentence": "The head has the mouth."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_speak_with_my_mouth.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 82,
+                    "start": 32,
+                    "word": "speak"
+                  },
+                  {
+                    "end": 102,
+                    "start": 83,
+                    "word": "with"
+                  },
+                  {
+                    "end": 114,
+                    "start": 103,
+                    "word": "my"
+                  },
+                  {
+                    "end": 174,
+                    "start": 115,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 174,
+                "utterances": "I speak with my mouth"
+              }
+            ],
+            "sentence": "I speak with my mouth."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "feet_hands_and_head_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_head_controls_the_whole_body.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 18,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 35,
+                    "word": "head"
+                  },
+                  {
+                    "end": 151,
+                    "start": 72,
+                    "word": "controls"
+                  },
+                  {
+                    "end": 160,
+                    "start": 152,
+                    "word": "the"
+                  },
+                  {
+                    "end": 243,
+                    "start": 161,
+                    "word": "whole"
+                  },
+                  {
+                    "end": 309,
+                    "start": 244,
+                    "word": "body"
+                  }
+                ],
+                "until": 309,
+                "utterances": "The head controls the whole body"
+              }
+            ],
+            "sentence": "The head controls the whole body!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Feet, Hands, and Head!",
+  "titleimage": "feet_hands_and_head_page_01_image_0001.jpg"
+}

@@ -1,0 +1,294 @@
+{
+  "author": "Clark Ness",
+  "data": [
+    {
+      "image": "clouds_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "clouds_can_bring_rain.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Clouds"
+                  },
+                  {
+                    "end": 88,
+                    "start": 67,
+                    "word": "can"
+                  },
+                  {
+                    "end": 110,
+                    "start": 89,
+                    "word": "bring"
+                  },
+                  {
+                    "end": 158,
+                    "start": 111,
+                    "word": "rain"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Clouds can bring rain"
+              }
+            ],
+            "sentence": "Clouds can bring rain."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_like_clouds.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "like"
+                  },
+                  {
+                    "end": 134,
+                    "start": 71,
+                    "word": "clouds"
+                  }
+                ],
+                "until": 134,
+                "utterances": "I like clouds"
+              }
+            ],
+            "sentence": "I like clouds."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clouds_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "clouds_can_bring_snow.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Clouds"
+                  },
+                  {
+                    "end": 74,
+                    "start": 59,
+                    "word": "can"
+                  },
+                  {
+                    "end": 94,
+                    "start": 75,
+                    "word": "bring"
+                  },
+                  {
+                    "end": 125,
+                    "start": 95,
+                    "word": "snow"
+                  }
+                ],
+                "until": 125,
+                "utterances": "Clouds can bring snow"
+              }
+            ],
+            "sentence": "Clouds can bring snow."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_like_clouds.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "like"
+                  },
+                  {
+                    "end": 134,
+                    "start": 71,
+                    "word": "clouds"
+                  }
+                ],
+                "until": 134,
+                "utterances": "I like clouds"
+              }
+            ],
+            "sentence": "I like clouds."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clouds_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "clouds_can_hide_the_sun.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Clouds"
+                  },
+                  {
+                    "end": 82,
+                    "start": 69,
+                    "word": "can"
+                  },
+                  {
+                    "end": 138,
+                    "start": 83,
+                    "word": "hide"
+                  },
+                  {
+                    "end": 146,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 202,
+                    "start": 147,
+                    "word": "sun"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Clouds can hide the sun"
+              }
+            ],
+            "sentence": "Clouds can hide the sun."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_like_clouds.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "like"
+                  },
+                  {
+                    "end": 134,
+                    "start": 71,
+                    "word": "clouds"
+                  }
+                ],
+                "until": 134,
+                "utterances": "I like clouds"
+              }
+            ],
+            "sentence": "I like clouds."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clouds_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "clouds_can_hide_the_stars.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 2,
+                    "word": "Clouds"
+                  },
+                  {
+                    "end": 73,
+                    "start": 61,
+                    "word": "can"
+                  },
+                  {
+                    "end": 112,
+                    "start": 74,
+                    "word": "hide"
+                  },
+                  {
+                    "end": 121,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 122,
+                    "word": "stars"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Clouds can hide the stars"
+              }
+            ],
+            "sentence": "Clouds can hide the stars."
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_like_clouds.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "like"
+                  },
+                  {
+                    "end": 134,
+                    "start": 71,
+                    "word": "clouds"
+                  }
+                ],
+                "until": 134,
+                "utterances": "I like clouds"
+              }
+            ],
+            "sentence": "I like clouds."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Clouds",
+  "titleimage": "clouds_page_01_image_0001.jpg"
+}

@@ -1,0 +1,531 @@
+{
+  "author": "Zimbili Dlamini and Hlengiwe Zondi",
+  "data": [
+    {
+      "image": "my_teacher_1_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_love_my_teacher.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 111,
+                    "start": 52,
+                    "word": "love"
+                  },
+                  {
+                    "end": 127,
+                    "start": 112,
+                    "word": "my"
+                  },
+                  {
+                    "end": 197,
+                    "start": 128,
+                    "word": "teacher"
+                  }
+                ],
+                "until": 197,
+                "utterances": "I love my teacher"
+              }
+            ],
+            "sentence": "I love my teacher."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_is_a_good_teacher.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 72,
+                    "start": 44,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 73,
+                    "word": "a"
+                  },
+                  {
+                    "end": 126,
+                    "start": 79,
+                    "word": "good"
+                  },
+                  {
+                    "end": 182,
+                    "start": 127,
+                    "word": "teacher"
+                  }
+                ],
+                "until": 182,
+                "utterances": "She is a good teacher"
+              }
+            ],
+            "sentence": "She is a good teacher."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_is_kind_and_patient.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 19,
+                    "word": "She"
+                  },
+                  {
+                    "end": 69,
+                    "start": 43,
+                    "word": "is"
+                  },
+                  {
+                    "end": 125,
+                    "start": 100,
+                    "word": "kind"
+                  },
+                  {
+                    "end": 152,
+                    "start": 126,
+                    "word": "and"
+                  },
+                  {
+                    "end": 217,
+                    "start": 153,
+                    "word": "patient"
+                  }
+                ],
+                "until": 217,
+                "utterances": "She is kind and patient"
+              }
+            ],
+            "sentence": "She is kind and patient."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_has_braided_her_hair_so_nicely.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 21,
+                    "word": "She"
+                  },
+                  {
+                    "end": 67,
+                    "start": 38,
+                    "word": "has"
+                  },
+                  {
+                    "end": 107,
+                    "start": 68,
+                    "word": "braided"
+                  },
+                  {
+                    "end": 130,
+                    "start": 108,
+                    "word": "her"
+                  },
+                  {
+                    "end": 163,
+                    "start": 131,
+                    "word": "hair"
+                  },
+                  {
+                    "end": 204,
+                    "start": 164,
+                    "word": "so"
+                  },
+                  {
+                    "end": 263,
+                    "start": 205,
+                    "word": "nicely"
+                  }
+                ],
+                "until": 263,
+                "utterances": "She has braided her hair so nicely"
+              }
+            ],
+            "sentence": "She has braided her hair so nicely."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_has_put_colourful_beads_in_her_hair.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "She"
+                  },
+                  {
+                    "end": 59,
+                    "start": 39,
+                    "word": "has"
+                  },
+                  {
+                    "end": 87,
+                    "start": 60,
+                    "word": "put"
+                  },
+                  {
+                    "end": 147,
+                    "start": 88,
+                    "word": "colourful"
+                  },
+                  {
+                    "end": 193,
+                    "start": 148,
+                    "word": "beads"
+                  },
+                  {
+                    "end": 208,
+                    "start": 194,
+                    "word": "in"
+                  },
+                  {
+                    "end": 229,
+                    "start": 209,
+                    "word": "her"
+                  },
+                  {
+                    "end": 267,
+                    "start": 230,
+                    "word": "hair"
+                  }
+                ],
+                "until": 267,
+                "utterances": "She has put colourful beads in her hair"
+              }
+            ],
+            "sentence": "She has put colourful beads in her hair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_beads_are_green_white_red_and_yellow.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 2,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 66,
+                    "start": 24,
+                    "word": "beads"
+                  },
+                  {
+                    "end": 77,
+                    "start": 67,
+                    "word": "are"
+                  },
+                  {
+                    "end": 147,
+                    "start": 78,
+                    "word": "green"
+                  },
+                  {
+                    "end": 219,
+                    "start": 175,
+                    "word": "white"
+                  },
+                  {
+                    "end": 300,
+                    "start": 250,
+                    "word": "red"
+                  },
+                  {
+                    "end": 322,
+                    "start": 301,
+                    "word": "and"
+                  },
+                  {
+                    "end": 369,
+                    "start": 323,
+                    "word": "yellow"
+                  }
+                ],
+                "until": 369,
+                "utterances": "Her beads are green white red and yellow"
+              }
+            ],
+            "sentence": "Her beads are green, white, red, and yellow."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_please_would_you_braid_my_hair_like_my_teacher_s.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 20,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 112,
+                    "start": 62,
+                    "word": "please"
+                  },
+                  {
+                    "end": 129,
+                    "start": 113,
+                    "word": "would"
+                  },
+                  {
+                    "end": 149,
+                    "start": 130,
+                    "word": "you"
+                  },
+                  {
+                    "end": 184,
+                    "start": 150,
+                    "word": "braid"
+                  },
+                  {
+                    "end": 213,
+                    "start": 185,
+                    "word": "my"
+                  },
+                  {
+                    "end": 244,
+                    "start": 214,
+                    "word": "hair"
+                  },
+                  {
+                    "end": 276,
+                    "start": 245,
+                    "word": "like"
+                  },
+                  {
+                    "end": 287,
+                    "start": 277,
+                    "word": "my"
+                  },
+                  {
+                    "end": 371,
+                    "start": 288,
+                    "word": "teacher's"
+                  }
+                ],
+                "until": 371,
+                "utterances": "Mom please would you braid my hair like my teacher's"
+              }
+            ],
+            "sentence": "Mom, please would you braid my hair like my teacher's?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_i_am_older_i_will_put_beads_in_my_hair.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 53,
+                    "start": 50,
+                    "word": "I"
+                  },
+                  {
+                    "end": 62,
+                    "start": 54,
+                    "word": "am"
+                  },
+                  {
+                    "end": 121,
+                    "start": 63,
+                    "word": "older"
+                  },
+                  {
+                    "end": 139,
+                    "start": 122,
+                    "word": "I"
+                  },
+                  {
+                    "end": 154,
+                    "start": 140,
+                    "word": "will"
+                  },
+                  {
+                    "end": 181,
+                    "start": 155,
+                    "word": "put"
+                  },
+                  {
+                    "end": 216,
+                    "start": 182,
+                    "word": "beads"
+                  },
+                  {
+                    "end": 225,
+                    "start": 217,
+                    "word": "in"
+                  },
+                  {
+                    "end": 252,
+                    "start": 226,
+                    "word": "my"
+                  },
+                  {
+                    "end": 284,
+                    "start": 253,
+                    "word": "hair"
+                  }
+                ],
+                "until": 284,
+                "utterances": "When I am older I will put beads in my hair"
+              }
+            ],
+            "sentence": "When I am older I will put beads in my hair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_teacher_1_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_will_grow_up_to_be_just_like_my_teacher.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 48,
+                    "start": 33,
+                    "word": "will"
+                  },
+                  {
+                    "end": 79,
+                    "start": 49,
+                    "word": "grow"
+                  },
+                  {
+                    "end": 87,
+                    "start": 80,
+                    "word": "up"
+                  },
+                  {
+                    "end": 101,
+                    "start": 88,
+                    "word": "to"
+                  },
+                  {
+                    "end": 114,
+                    "start": 102,
+                    "word": "be"
+                  },
+                  {
+                    "end": 169,
+                    "start": 115,
+                    "word": "just"
+                  },
+                  {
+                    "end": 201,
+                    "start": 170,
+                    "word": "like"
+                  },
+                  {
+                    "end": 217,
+                    "start": 202,
+                    "word": "my"
+                  },
+                  {
+                    "end": 282,
+                    "start": 218,
+                    "word": "teacher"
+                  }
+                ],
+                "until": 282,
+                "utterances": "I will grow up to be just like my teacher"
+              }
+            ],
+            "sentence": "I will grow up to be just like my teacher!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "My Teacher",
+  "titleimage": "my_teacher_1_page_01_image_0001.jpg"
+}

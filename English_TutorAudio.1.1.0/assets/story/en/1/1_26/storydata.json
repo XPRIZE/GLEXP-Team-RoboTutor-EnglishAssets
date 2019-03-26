@@ -1,0 +1,496 @@
+{
+  "author": "Simon Ipoo",
+  "data": [
+    {
+      "image": "palm_tree_3_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_me_tell_you_about_the_palm_tree.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 17,
+                    "word": "Let"
+                  },
+                  {
+                    "end": 51,
+                    "start": 41,
+                    "word": "me"
+                  },
+                  {
+                    "end": 82,
+                    "start": 52,
+                    "word": "tell"
+                  },
+                  {
+                    "end": 100,
+                    "start": 83,
+                    "word": "you"
+                  },
+                  {
+                    "end": 133,
+                    "start": 101,
+                    "word": "about"
+                  },
+                  {
+                    "end": 141,
+                    "start": 134,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 142,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 205,
+                    "start": 181,
+                    "word": "tree"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Let me tell you about the palm tree"
+              }
+            ],
+            "sentence": "Let me tell you about the palm tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_tree_lives_when_everything_else_is_dry.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 20,
+                    "word": "This"
+                  },
+                  {
+                    "end": 70,
+                    "start": 51,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 113,
+                    "start": 71,
+                    "word": "lives"
+                  },
+                  {
+                    "end": 142,
+                    "start": 114,
+                    "word": "when"
+                  },
+                  {
+                    "end": 188,
+                    "start": 143,
+                    "word": "everything"
+                  },
+                  {
+                    "end": 223,
+                    "start": 189,
+                    "word": "else"
+                  },
+                  {
+                    "end": 247,
+                    "start": 224,
+                    "word": "is"
+                  },
+                  {
+                    "end": 298,
+                    "start": 248,
+                    "word": "dry"
+                  }
+                ],
+                "until": 298,
+                "utterances": "This tree lives when everything else is dry"
+              }
+            ],
+            "sentence": "This tree lives when everything else is dry."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_shade_from_a_palm_tree_is_always_cool.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 18,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 28,
+                    "word": "shade"
+                  },
+                  {
+                    "end": 105,
+                    "start": 85,
+                    "word": "from"
+                  },
+                  {
+                    "end": 111,
+                    "start": 106,
+                    "word": "a"
+                  },
+                  {
+                    "end": 152,
+                    "start": 112,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 174,
+                    "start": 153,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 199,
+                    "start": 175,
+                    "word": "is"
+                  },
+                  {
+                    "end": 296,
+                    "start": 200,
+                    "word": "always"
+                  },
+                  {
+                    "end": 386,
+                    "start": 297,
+                    "word": "cool"
+                  }
+                ],
+                "until": 386,
+                "utterances": "The shade from a palm tree is always cool"
+              }
+            ],
+            "sentence": "The shade from a palm tree is always cool."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_eat_fruit_from_the_palm_tree.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 61,
+                    "start": 33,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 113,
+                    "start": 62,
+                    "word": "fruit"
+                  },
+                  {
+                    "end": 142,
+                    "start": 114,
+                    "word": "from"
+                  },
+                  {
+                    "end": 149,
+                    "start": 143,
+                    "word": "the"
+                  },
+                  {
+                    "end": 187,
+                    "start": 150,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 211,
+                    "start": 188,
+                    "word": "tree"
+                  }
+                ],
+                "until": 211,
+                "utterances": "We eat fruit from the palm tree"
+              }
+            ],
+            "sentence": "We eat fruit from the palm tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_use_palm_leaves_to_thatch_our_houses.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "We"
+                  },
+                  {
+                    "end": 52,
+                    "start": 31,
+                    "word": "use"
+                  },
+                  {
+                    "end": 96,
+                    "start": 53,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 145,
+                    "start": 97,
+                    "word": "leaves"
+                  },
+                  {
+                    "end": 159,
+                    "start": 146,
+                    "word": "to"
+                  },
+                  {
+                    "end": 216,
+                    "start": 160,
+                    "word": "thatch"
+                  },
+                  {
+                    "end": 244,
+                    "start": 217,
+                    "word": "our"
+                  },
+                  {
+                    "end": 309,
+                    "start": 245,
+                    "word": "houses"
+                  }
+                ],
+                "until": 309,
+                "utterances": "We use palm leaves to thatch our houses"
+              }
+            ],
+            "sentence": "We use palm leaves to thatch our houses."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_make_brooms_and_mats_from_palm_leaves.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 55,
+                    "start": 30,
+                    "word": "make"
+                  },
+                  {
+                    "end": 114,
+                    "start": 56,
+                    "word": "brooms"
+                  },
+                  {
+                    "end": 139,
+                    "start": 115,
+                    "word": "and"
+                  },
+                  {
+                    "end": 188,
+                    "start": 140,
+                    "word": "mats"
+                  },
+                  {
+                    "end": 217,
+                    "start": 189,
+                    "word": "from"
+                  },
+                  {
+                    "end": 254,
+                    "start": 218,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 307,
+                    "start": 255,
+                    "word": "leaves"
+                  }
+                ],
+                "until": 307,
+                "utterances": "We make brooms and mats from palm leaves"
+              }
+            ],
+            "sentence": "We make brooms and mats from palm leaves."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_use_palm_tree_seeds_for_fuel.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 20,
+                    "word": "We"
+                  },
+                  {
+                    "end": 52,
+                    "start": 31,
+                    "word": "use"
+                  },
+                  {
+                    "end": 91,
+                    "start": 53,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 111,
+                    "start": 92,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 179,
+                    "start": 112,
+                    "word": "seeds"
+                  },
+                  {
+                    "end": 195,
+                    "start": 180,
+                    "word": "for"
+                  },
+                  {
+                    "end": 256,
+                    "start": 196,
+                    "word": "fuel"
+                  }
+                ],
+                "until": 256,
+                "utterances": "We use palm tree seeds for fuel"
+              }
+            ],
+            "sentence": "We use palm tree seeds for fuel."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "palm_tree_3_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_see_why_the_palm_tree_is_important.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 1,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 41,
+                    "start": 36,
+                    "word": "you"
+                  },
+                  {
+                    "end": 71,
+                    "start": 42,
+                    "word": "see"
+                  },
+                  {
+                    "end": 93,
+                    "start": 72,
+                    "word": "why"
+                  },
+                  {
+                    "end": 107,
+                    "start": 94,
+                    "word": "the"
+                  },
+                  {
+                    "end": 145,
+                    "start": 108,
+                    "word": "palm"
+                  },
+                  {
+                    "end": 177,
+                    "start": 146,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 202,
+                    "start": 178,
+                    "word": "is"
+                  },
+                  {
+                    "end": 277,
+                    "start": 203,
+                    "word": "important"
+                  }
+                ],
+                "until": 277,
+                "utterances": "Do you see why the palm tree is important"
+              }
+            ],
+            "sentence": "Do you see why the palm tree is important?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Palm Tree",
+  "titleimage": "palm_tree_3_page_01_image_0001.jpg"
+}

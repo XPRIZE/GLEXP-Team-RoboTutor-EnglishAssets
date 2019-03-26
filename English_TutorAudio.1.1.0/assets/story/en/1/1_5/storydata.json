@@ -1,0 +1,188 @@
+{
+  "author": "Jack Mostow",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "counting_by_10_s_to_100.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 2,
+                    "word": "Counting"
+                  },
+                  {
+                    "end": 81,
+                    "start": 72,
+                    "word": "by"
+                  },
+                  {
+                    "end": 152,
+                    "start": 82,
+                    "word": "10's"
+                  },
+                  {
+                    "end": 168,
+                    "start": 153,
+                    "word": "to"
+                  },
+                  {
+                    "end": 226,
+                    "start": 169,
+                    "word": "100"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Counting by 10's to 100"
+              }
+            ],
+            "sentence": "Counting by 10's to 100"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10_20_30.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 22,
+                    "word": "10"
+                  },
+                  {
+                    "end": 171,
+                    "start": 106,
+                    "word": "20"
+                  },
+                  {
+                    "end": 246,
+                    "start": 193,
+                    "word": "30"
+                  }
+                ],
+                "until": 246,
+                "utterances": "10 20 30"
+              }
+            ],
+            "sentence": "10, 20, 30"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "40_50_60.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 2,
+                    "word": "40"
+                  },
+                  {
+                    "end": 148,
+                    "start": 93,
+                    "word": "50"
+                  },
+                  {
+                    "end": 226,
+                    "start": 163,
+                    "word": "60"
+                  }
+                ],
+                "until": 226,
+                "utterances": "40 50 60"
+              }
+            ],
+            "sentence": "40, 50, 60"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "70_80_90.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 21,
+                    "word": "70"
+                  },
+                  {
+                    "end": 165,
+                    "start": 112,
+                    "word": "80"
+                  },
+                  {
+                    "end": 234,
+                    "start": 182,
+                    "word": "90"
+                  }
+                ],
+                "until": 234,
+                "utterances": "70 80 90"
+              }
+            ],
+            "sentence": "70, 80, 90"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "100.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "100"
+                  }
+                ],
+                "until": 85,
+                "utterances": "100"
+              }
+            ],
+            "sentence": "100!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Counting by 10's to 100",
+  "titleimage": null
+}

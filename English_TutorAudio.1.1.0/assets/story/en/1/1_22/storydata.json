@@ -1,0 +1,734 @@
+{
+  "author": "Marion Drew",
+  "data": [
+    {
+      "image": "my_red_ball_1_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ball.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 2,
+                    "word": "Ball"
+                  }
+                ],
+                "until": 57,
+                "utterances": "Ball"
+              }
+            ],
+            "sentence": "Ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_ball.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "My"
+                  },
+                  {
+                    "end": 86,
+                    "start": 39,
+                    "word": "ball"
+                  }
+                ],
+                "until": 86,
+                "utterances": "My ball"
+              }
+            ],
+            "sentence": "My ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_red_ball.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "My"
+                  },
+                  {
+                    "end": 61,
+                    "start": 35,
+                    "word": "red"
+                  },
+                  {
+                    "end": 98,
+                    "start": 62,
+                    "word": "ball"
+                  }
+                ],
+                "until": 98,
+                "utterances": "My red ball"
+              }
+            ],
+            "sentence": "My red ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_big_red_ball.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 21,
+                    "word": "My"
+                  },
+                  {
+                    "end": 88,
+                    "start": 54,
+                    "word": "big"
+                  },
+                  {
+                    "end": 120,
+                    "start": 89,
+                    "word": "red"
+                  },
+                  {
+                    "end": 168,
+                    "start": 121,
+                    "word": "ball"
+                  }
+                ],
+                "until": 168,
+                "utterances": "My big red ball"
+              }
+            ],
+            "sentence": "My big red ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_kick.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 87,
+                    "start": 39,
+                    "word": "kick"
+                  }
+                ],
+                "until": 87,
+                "utterances": "I kick"
+              }
+            ],
+            "sentence": "I kick."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_kick_my_ball.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 22,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 39,
+                    "word": "kick"
+                  },
+                  {
+                    "end": 87,
+                    "start": 73,
+                    "word": "my"
+                  },
+                  {
+                    "end": 135,
+                    "start": 88,
+                    "word": "ball"
+                  }
+                ],
+                "until": 135,
+                "utterances": "I kick my ball"
+              }
+            ],
+            "sentence": "I kick my ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_kick_my_red_ball.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 60,
+                    "start": 31,
+                    "word": "kick"
+                  },
+                  {
+                    "end": 75,
+                    "start": 61,
+                    "word": "my"
+                  },
+                  {
+                    "end": 110,
+                    "start": 76,
+                    "word": "red"
+                  },
+                  {
+                    "end": 146,
+                    "start": 111,
+                    "word": "ball"
+                  }
+                ],
+                "until": 146,
+                "utterances": "I kick my red ball"
+              }
+            ],
+            "sentence": "I kick my red ball."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_kick_my_red_ball_hard.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 15,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 27,
+                    "word": "kick"
+                  },
+                  {
+                    "end": 82,
+                    "start": 66,
+                    "word": "my"
+                  },
+                  {
+                    "end": 114,
+                    "start": 83,
+                    "word": "red"
+                  },
+                  {
+                    "end": 157,
+                    "start": 115,
+                    "word": "ball"
+                  },
+                  {
+                    "end": 285,
+                    "start": 158,
+                    "word": "hard"
+                  }
+                ],
+                "until": 285,
+                "utterances": "I kick my red ball hard"
+              }
+            ],
+            "sentence": "I kick my red ball hard!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Where"
+                  }
+                ],
+                "until": 67,
+                "utterances": "Where"
+              }
+            ],
+            "sentence": "Where?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_is_my_ball.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 20,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 68,
+                    "start": 51,
+                    "word": "is"
+                  },
+                  {
+                    "end": 81,
+                    "start": 69,
+                    "word": "my"
+                  },
+                  {
+                    "end": 130,
+                    "start": 82,
+                    "word": "ball"
+                  }
+                ],
+                "until": 130,
+                "utterances": "Where is my ball"
+              }
+            ],
+            "sentence": "Where is my ball?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_is_my_ball_now.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 20,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 56,
+                    "start": 45,
+                    "word": "is"
+                  },
+                  {
+                    "end": 72,
+                    "start": 57,
+                    "word": "my"
+                  },
+                  {
+                    "end": 105,
+                    "start": 73,
+                    "word": "ball"
+                  },
+                  {
+                    "end": 157,
+                    "start": 106,
+                    "word": "now"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Where is my ball now"
+              }
+            ],
+            "sentence": "Where is my ball now?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_is_my_red_ball_now.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 20,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 61,
+                    "start": 46,
+                    "word": "is"
+                  },
+                  {
+                    "end": 76,
+                    "start": 62,
+                    "word": "my"
+                  },
+                  {
+                    "end": 125,
+                    "start": 77,
+                    "word": "red"
+                  },
+                  {
+                    "end": 154,
+                    "start": 126,
+                    "word": "ball"
+                  },
+                  {
+                    "end": 202,
+                    "start": 155,
+                    "word": "now"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Where is my red ball now"
+              }
+            ],
+            "sentence": "Where is my red ball now?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_14_image_0001.jpg",
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_up.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 57,
+                    "start": 39,
+                    "word": "is"
+                  },
+                  {
+                    "end": 80,
+                    "start": 58,
+                    "word": "up"
+                  }
+                ],
+                "until": 80,
+                "utterances": "It is up"
+              }
+            ],
+            "sentence": "It is up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_15_image_0001.jpg",
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_high_up.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 67,
+                    "start": 40,
+                    "word": "is"
+                  },
+                  {
+                    "end": 143,
+                    "start": 134,
+                    "word": "high"
+                  },
+                  {
+                    "end": 168,
+                    "start": 144,
+                    "word": "up"
+                  }
+                ],
+                "until": 168,
+                "utterances": "It is high up"
+              }
+            ],
+            "sentence": "It is high up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_16_image_0001.jpg",
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_high_up_in_the_sky.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 19,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 38,
+                    "word": "is"
+                  },
+                  {
+                    "end": 115,
+                    "start": 60,
+                    "word": "high"
+                  },
+                  {
+                    "end": 149,
+                    "start": 116,
+                    "word": "up"
+                  },
+                  {
+                    "end": 168,
+                    "start": 150,
+                    "word": "in"
+                  },
+                  {
+                    "end": 178,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 179,
+                    "word": "sky"
+                  }
+                ],
+                "until": 212,
+                "utterances": "It is high up in the sky"
+              }
+            ],
+            "sentence": "It is high up in the sky."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_red_ball_1_page_17_image_0001.jpg",
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_high_up_in_the_sky.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 19,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 38,
+                    "word": "is"
+                  },
+                  {
+                    "end": 115,
+                    "start": 60,
+                    "word": "high"
+                  },
+                  {
+                    "end": 149,
+                    "start": 116,
+                    "word": "up"
+                  },
+                  {
+                    "end": 168,
+                    "start": 150,
+                    "word": "in"
+                  },
+                  {
+                    "end": 178,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 179,
+                    "word": "sky"
+                  }
+                ],
+                "until": 212,
+                "utterances": "It is high up in the sky"
+              }
+            ],
+            "sentence": "It is high up in the sky."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_over_the_moon.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 52,
+                    "start": 35,
+                    "word": "is"
+                  },
+                  {
+                    "end": 100,
+                    "start": 92,
+                    "word": "over"
+                  },
+                  {
+                    "end": 110,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 164,
+                    "start": 111,
+                    "word": "moon"
+                  }
+                ],
+                "until": 164,
+                "utterances": "It is over the moon"
+              }
+            ],
+            "sentence": "It is over the moon."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_gone.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 63,
+                    "start": 39,
+                    "word": "is"
+                  },
+                  {
+                    "end": 131,
+                    "start": 64,
+                    "word": "gone"
+                  }
+                ],
+                "until": 131,
+                "utterances": "It is gone"
+              }
+            ],
+            "sentence": "It is gone!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "My Red Ball",
+  "titleimage": "my_red_ball_1_page_01_image_0001.jpg"
+}

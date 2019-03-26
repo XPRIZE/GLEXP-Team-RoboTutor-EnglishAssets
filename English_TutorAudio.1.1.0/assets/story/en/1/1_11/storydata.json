@@ -1,0 +1,526 @@
+{
+  "author": "Sebongile Daniel, Mpho Ntlhanngoe, and Khothatso Ranoosi",
+  "data": [
+    {
+      "image": "cow_with_one_horn_2_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "heeeee.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Heeeee"
+                  }
+                ],
+                "until": 31,
+                "utterances": "Heeeee"
+              }
+            ],
+            "sentence": "Heeeee!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_is_a_beautiful_cow_at_home.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 20,
+                    "word": "There"
+                  },
+                  {
+                    "end": 47,
+                    "start": 35,
+                    "word": "is"
+                  },
+                  {
+                    "end": 51,
+                    "start": 48,
+                    "word": "a"
+                  },
+                  {
+                    "end": 118,
+                    "start": 52,
+                    "word": "beautiful"
+                  },
+                  {
+                    "end": 158,
+                    "start": 119,
+                    "word": "cow"
+                  },
+                  {
+                    "end": 177,
+                    "start": 159,
+                    "word": "at"
+                  },
+                  {
+                    "end": 219,
+                    "start": 178,
+                    "word": "home"
+                  }
+                ],
+                "until": 219,
+                "utterances": "There is a beautiful cow at home"
+              }
+            ],
+            "sentence": "There is a beautiful cow at home."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_has_only_one_horn_and_no_tail.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 34,
+                    "word": "has"
+                  },
+                  {
+                    "end": 79,
+                    "start": 57,
+                    "word": "only"
+                  },
+                  {
+                    "end": 108,
+                    "start": 80,
+                    "word": "one"
+                  },
+                  {
+                    "end": 158,
+                    "start": 109,
+                    "word": "horn"
+                  },
+                  {
+                    "end": 194,
+                    "start": 176,
+                    "word": "and"
+                  },
+                  {
+                    "end": 213,
+                    "start": 195,
+                    "word": "no"
+                  },
+                  {
+                    "end": 264,
+                    "start": 214,
+                    "word": "tail"
+                  }
+                ],
+                "until": 264,
+                "utterances": "It has only one horn and no tail"
+              }
+            ],
+            "sentence": "It has only one horn, and no tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_fat_with_a_big_stomach.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 51,
+                    "start": 33,
+                    "word": "is"
+                  },
+                  {
+                    "end": 84,
+                    "start": 52,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 139,
+                    "start": 118,
+                    "word": "with"
+                  },
+                  {
+                    "end": 147,
+                    "start": 140,
+                    "word": "a"
+                  },
+                  {
+                    "end": 203,
+                    "start": 148,
+                    "word": "big"
+                  },
+                  {
+                    "end": 263,
+                    "start": 204,
+                    "word": "stomach"
+                  }
+                ],
+                "until": 263,
+                "utterances": "It is fat with a big stomach"
+              }
+            ],
+            "sentence": "It is fat, with a big stomach."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_powerful_cow.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 40,
+                    "word": "is"
+                  },
+                  {
+                    "end": 63,
+                    "start": 57,
+                    "word": "a"
+                  },
+                  {
+                    "end": 148,
+                    "start": 64,
+                    "word": "powerful"
+                  },
+                  {
+                    "end": 187,
+                    "start": 149,
+                    "word": "cow"
+                  }
+                ],
+                "until": 187,
+                "utterances": "It is a powerful cow"
+              }
+            ],
+            "sentence": "It is a powerful cow."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_shepherd_loves_this_cow_the_most.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 21,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 30,
+                    "word": "shepherd"
+                  },
+                  {
+                    "end": 122,
+                    "start": 90,
+                    "word": "loves"
+                  },
+                  {
+                    "end": 153,
+                    "start": 123,
+                    "word": "this"
+                  },
+                  {
+                    "end": 182,
+                    "start": 154,
+                    "word": "cow"
+                  },
+                  {
+                    "end": 197,
+                    "start": 183,
+                    "word": "the"
+                  },
+                  {
+                    "end": 273,
+                    "start": 198,
+                    "word": "most"
+                  }
+                ],
+                "until": 273,
+                "utterances": "The shepherd loves this cow the most"
+              }
+            ],
+            "sentence": "The shepherd loves this cow the most."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_the_other_cattle_graze_this_one_eats_alone.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 21,
+                    "word": "When"
+                  },
+                  {
+                    "end": 50,
+                    "start": 36,
+                    "word": "the"
+                  },
+                  {
+                    "end": 76,
+                    "start": 51,
+                    "word": "other"
+                  },
+                  {
+                    "end": 108,
+                    "start": 77,
+                    "word": "cattle"
+                  },
+                  {
+                    "end": 171,
+                    "start": 109,
+                    "word": "graze"
+                  },
+                  {
+                    "end": 208,
+                    "start": 172,
+                    "word": "this"
+                  },
+                  {
+                    "end": 250,
+                    "start": 209,
+                    "word": "one"
+                  },
+                  {
+                    "end": 268,
+                    "start": 251,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 315,
+                    "start": 269,
+                    "word": "alone"
+                  }
+                ],
+                "until": 315,
+                "utterances": "When the other cattle graze this one eats alone"
+              }
+            ],
+            "sentence": "When the other cattle graze, this one eats alone."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_cow_is_a_fighter.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 21,
+                    "word": "This"
+                  },
+                  {
+                    "end": 80,
+                    "start": 50,
+                    "word": "cow"
+                  },
+                  {
+                    "end": 102,
+                    "start": 81,
+                    "word": "is"
+                  },
+                  {
+                    "end": 108,
+                    "start": 103,
+                    "word": "a"
+                  },
+                  {
+                    "end": 183,
+                    "start": 109,
+                    "word": "fighter"
+                  }
+                ],
+                "until": 183,
+                "utterances": "This cow is a fighter"
+              }
+            ],
+            "sentence": "This cow is a fighter."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "other_cows_leave_it_alone.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 23,
+                    "word": "Other"
+                  },
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "cows"
+                  },
+                  {
+                    "end": 120,
+                    "start": 100,
+                    "word": "leave"
+                  },
+                  {
+                    "end": 132,
+                    "start": 121,
+                    "word": "it"
+                  },
+                  {
+                    "end": 182,
+                    "start": 133,
+                    "word": "alone"
+                  }
+                ],
+                "until": 182,
+                "utterances": "Other cows leave it alone"
+              }
+            ],
+            "sentence": "Other cows leave it alone."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cow_with_one_horn_2_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "if_you_met_such_a_cow_what_would_you_do.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "If"
+                  },
+                  {
+                    "end": 55,
+                    "start": 42,
+                    "word": "you"
+                  },
+                  {
+                    "end": 79,
+                    "start": 56,
+                    "word": "met"
+                  },
+                  {
+                    "end": 106,
+                    "start": 80,
+                    "word": "such"
+                  },
+                  {
+                    "end": 115,
+                    "start": 107,
+                    "word": "a"
+                  },
+                  {
+                    "end": 156,
+                    "start": 116,
+                    "word": "cow"
+                  },
+                  {
+                    "end": 206,
+                    "start": 185,
+                    "word": "what"
+                  },
+                  {
+                    "end": 223,
+                    "start": 207,
+                    "word": "would"
+                  },
+                  {
+                    "end": 237,
+                    "start": 224,
+                    "word": "you"
+                  },
+                  {
+                    "end": 269,
+                    "start": 238,
+                    "word": "do"
+                  }
+                ],
+                "until": 269,
+                "utterances": "If you met such a cow what would you do"
+              }
+            ],
+            "sentence": "If you met such a cow, what would you do?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Cow With One Horn",
+  "titleimage": "cow_with_one_horn_2_page_01_image_0001.jpg"
+}

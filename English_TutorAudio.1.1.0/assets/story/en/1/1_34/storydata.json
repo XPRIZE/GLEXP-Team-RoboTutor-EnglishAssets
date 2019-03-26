@@ -1,0 +1,1085 @@
+{
+  "author": "Noni",
+  "data": [
+    {
+      "image": "the_moon_and_the_cap_1_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "all_of_us_went_to_the_fun_fair.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 19,
+                    "word": "All"
+                  },
+                  {
+                    "end": 56,
+                    "start": 47,
+                    "word": "of"
+                  },
+                  {
+                    "end": 81,
+                    "start": 57,
+                    "word": "us"
+                  },
+                  {
+                    "end": 104,
+                    "start": 82,
+                    "word": "went"
+                  },
+                  {
+                    "end": 115,
+                    "start": 105,
+                    "word": "to"
+                  },
+                  {
+                    "end": 127,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 182,
+                    "start": 128,
+                    "word": "fun"
+                  },
+                  {
+                    "end": 233,
+                    "start": 183,
+                    "word": "fair"
+                  }
+                ],
+                "until": 233,
+                "utterances": "All of us went to the fun fair"
+              }
+            ],
+            "sentence": "All of us went to the fun fair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "father_bought_brother_fancy_glasses.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 1,
+                    "word": "Father"
+                  },
+                  {
+                    "end": 129,
+                    "start": 89,
+                    "word": "bought"
+                  },
+                  {
+                    "end": 180,
+                    "start": 130,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 247,
+                    "start": 181,
+                    "word": "fancy"
+                  },
+                  {
+                    "end": 327,
+                    "start": 248,
+                    "word": "glasses"
+                  }
+                ],
+                "until": 327,
+                "utterances": "Father bought brother fancy glasses"
+              }
+            ],
+            "sentence": "Father bought brother fancy glasses."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mother_bought_me_a_bright_blue_cap.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 21,
+                    "word": "Mother"
+                  },
+                  {
+                    "end": 102,
+                    "start": 75,
+                    "word": "bought"
+                  },
+                  {
+                    "end": 138,
+                    "start": 103,
+                    "word": "me"
+                  },
+                  {
+                    "end": 142,
+                    "start": 139,
+                    "word": "a"
+                  },
+                  {
+                    "end": 202,
+                    "start": 143,
+                    "word": "bright"
+                  },
+                  {
+                    "end": 233,
+                    "start": 203,
+                    "word": "blue"
+                  },
+                  {
+                    "end": 286,
+                    "start": 234,
+                    "word": "cap"
+                  }
+                ],
+                "until": 286,
+                "utterances": "Mother bought me a bright blue cap"
+              }
+            ],
+            "sentence": "Mother bought me a bright blue cap."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_baby_got_sugar_candy.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 20,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 102,
+                    "start": 72,
+                    "word": "got"
+                  },
+                  {
+                    "end": 144,
+                    "start": 103,
+                    "word": "sugar"
+                  },
+                  {
+                    "end": 196,
+                    "start": 145,
+                    "word": "candy"
+                  }
+                ],
+                "until": 196,
+                "utterances": "The baby got sugar candy"
+              }
+            ],
+            "sentence": "The baby got sugar candy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "on_the_way_home_a_very_strong_wind_came.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 19,
+                    "word": "On"
+                  },
+                  {
+                    "end": 44,
+                    "start": 39,
+                    "word": "the"
+                  },
+                  {
+                    "end": 64,
+                    "start": 45,
+                    "word": "way"
+                  },
+                  {
+                    "end": 79,
+                    "start": 65,
+                    "word": "home"
+                  },
+                  {
+                    "end": 137,
+                    "start": 132,
+                    "word": "a"
+                  },
+                  {
+                    "end": 184,
+                    "start": 138,
+                    "word": "very"
+                  },
+                  {
+                    "end": 272,
+                    "start": 185,
+                    "word": "strong"
+                  },
+                  {
+                    "end": 315,
+                    "start": 273,
+                    "word": "wind"
+                  },
+                  {
+                    "end": 361,
+                    "start": 316,
+                    "word": "came"
+                  }
+                ],
+                "until": 361,
+                "utterances": "On the way home a very strong wind came"
+              }
+            ],
+            "sentence": "On the way home, a very strong wind came."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_blew_my_cap_away.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 73,
+                    "start": 52,
+                    "word": "blew"
+                  },
+                  {
+                    "end": 92,
+                    "start": 74,
+                    "word": "my"
+                  },
+                  {
+                    "end": 136,
+                    "start": 93,
+                    "word": "cap"
+                  },
+                  {
+                    "end": 176,
+                    "start": 137,
+                    "word": "away"
+                  }
+                ],
+                "until": 176,
+                "utterances": "It blew my cap away"
+              }
+            ],
+            "sentence": "It blew my cap away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_cap_got_stuck_on_a_branch_of_a_big_old_tree.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "My"
+                  },
+                  {
+                    "end": 78,
+                    "start": 32,
+                    "word": "cap"
+                  },
+                  {
+                    "end": 99,
+                    "start": 79,
+                    "word": "got"
+                  },
+                  {
+                    "end": 157,
+                    "start": 100,
+                    "word": "stuck"
+                  },
+                  {
+                    "end": 174,
+                    "start": 158,
+                    "word": "on"
+                  },
+                  {
+                    "end": 182,
+                    "start": 175,
+                    "word": "a"
+                  },
+                  {
+                    "end": 239,
+                    "start": 183,
+                    "word": "branch"
+                  },
+                  {
+                    "end": 261,
+                    "start": 247,
+                    "word": "of"
+                  },
+                  {
+                    "end": 278,
+                    "start": 262,
+                    "word": "a"
+                  },
+                  {
+                    "end": 304,
+                    "start": 279,
+                    "word": "big"
+                  },
+                  {
+                    "end": 383,
+                    "start": 340,
+                    "word": "old"
+                  },
+                  {
+                    "end": 422,
+                    "start": 384,
+                    "word": "tree"
+                  }
+                ],
+                "until": 422,
+                "utterances": "My cap got stuck on a branch of a big old tree"
+              }
+            ],
+            "sentence": "My cap got stuck on a branch of a big old tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_cried_a_lot.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 108,
+                    "start": 37,
+                    "word": "cried"
+                  },
+                  {
+                    "end": 129,
+                    "start": 109,
+                    "word": "a"
+                  },
+                  {
+                    "end": 203,
+                    "start": 130,
+                    "word": "lot"
+                  }
+                ],
+                "until": 203,
+                "utterances": "I cried a lot"
+              }
+            ],
+            "sentence": "I cried a lot."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_i_did_not_eat_my_dinner.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 19,
+                    "word": "And"
+                  },
+                  {
+                    "end": 39,
+                    "start": 37,
+                    "word": "I"
+                  },
+                  {
+                    "end": 75,
+                    "start": 40,
+                    "word": "did"
+                  },
+                  {
+                    "end": 133,
+                    "start": 76,
+                    "word": "not"
+                  },
+                  {
+                    "end": 164,
+                    "start": 134,
+                    "word": "eat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 165,
+                    "word": "my"
+                  },
+                  {
+                    "end": 257,
+                    "start": 193,
+                    "word": "dinner"
+                  }
+                ],
+                "until": 257,
+                "utterances": "And I did not eat my dinner"
+              }
+            ],
+            "sentence": "And I did not eat my dinner."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "later_that_night_the_moon_came_up.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 14,
+                    "word": "Later"
+                  },
+                  {
+                    "end": 89,
+                    "start": 59,
+                    "word": "that"
+                  },
+                  {
+                    "end": 148,
+                    "start": 90,
+                    "word": "night"
+                  },
+                  {
+                    "end": 157,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 218,
+                    "start": 158,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 261,
+                    "start": 219,
+                    "word": "came"
+                  },
+                  {
+                    "end": 281,
+                    "start": 262,
+                    "word": "up"
+                  }
+                ],
+                "until": 281,
+                "utterances": "Later that night the moon came up"
+              }
+            ],
+            "sentence": "Later that night, the moon came up."
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_looked_at_my_cap_in_the_big_old_tree.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 73,
+                    "start": 41,
+                    "word": "looked"
+                  },
+                  {
+                    "end": 84,
+                    "start": 74,
+                    "word": "at"
+                  },
+                  {
+                    "end": 98,
+                    "start": 85,
+                    "word": "my"
+                  },
+                  {
+                    "end": 152,
+                    "start": 99,
+                    "word": "cap"
+                  },
+                  {
+                    "end": 164,
+                    "start": 153,
+                    "word": "in"
+                  },
+                  {
+                    "end": 173,
+                    "start": 165,
+                    "word": "the"
+                  },
+                  {
+                    "end": 224,
+                    "start": 174,
+                    "word": "big"
+                  },
+                  {
+                    "end": 259,
+                    "start": 225,
+                    "word": "old"
+                  },
+                  {
+                    "end": 282,
+                    "start": 260,
+                    "word": "tree"
+                  }
+                ],
+                "until": 282,
+                "utterances": "It looked at my cap in the big old tree"
+              }
+            ],
+            "sentence": "It looked at my cap in the big old tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_moon_tried_on_my_cap.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 29,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 113,
+                    "start": 72,
+                    "word": "tried"
+                  },
+                  {
+                    "end": 141,
+                    "start": 114,
+                    "word": "on"
+                  },
+                  {
+                    "end": 155,
+                    "start": 142,
+                    "word": "my"
+                  },
+                  {
+                    "end": 202,
+                    "start": 156,
+                    "word": "cap"
+                  }
+                ],
+                "until": 202,
+                "utterances": "The moon tried on my cap"
+              }
+            ],
+            "sentence": "The moon tried on my cap."
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_smiled_happily.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "It"
+                  },
+                  {
+                    "end": 101,
+                    "start": 42,
+                    "word": "smiled"
+                  },
+                  {
+                    "end": 155,
+                    "start": 102,
+                    "word": "happily"
+                  }
+                ],
+                "until": 155,
+                "utterances": "It smiled happily"
+              }
+            ],
+            "sentence": "It smiled happily."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_had_to_smile_too.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 78,
+                    "start": 48,
+                    "word": "had"
+                  },
+                  {
+                    "end": 88,
+                    "start": 79,
+                    "word": "to"
+                  },
+                  {
+                    "end": 137,
+                    "start": 89,
+                    "word": "smile"
+                  },
+                  {
+                    "end": 179,
+                    "start": 138,
+                    "word": "too"
+                  }
+                ],
+                "until": 179,
+                "utterances": "I had to smile too"
+              }
+            ],
+            "sentence": "I had to smile too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "after_school_the_next_day_my_mother_gave_me_a_shiny_new_red_cap.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 19,
+                    "word": "After"
+                  },
+                  {
+                    "end": 98,
+                    "start": 59,
+                    "word": "school"
+                  },
+                  {
+                    "end": 106,
+                    "start": 99,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 107,
+                    "word": "next"
+                  },
+                  {
+                    "end": 154,
+                    "start": 140,
+                    "word": "day"
+                  },
+                  {
+                    "end": 240,
+                    "start": 224,
+                    "word": "my"
+                  },
+                  {
+                    "end": 286,
+                    "start": 241,
+                    "word": "mother"
+                  },
+                  {
+                    "end": 312,
+                    "start": 287,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 339,
+                    "start": 313,
+                    "word": "me"
+                  },
+                  {
+                    "end": 342,
+                    "start": 340,
+                    "word": "a"
+                  },
+                  {
+                    "end": 398,
+                    "start": 343,
+                    "word": "shiny"
+                  },
+                  {
+                    "end": 438,
+                    "start": 399,
+                    "word": "new"
+                  },
+                  {
+                    "end": 480,
+                    "start": 439,
+                    "word": "red"
+                  },
+                  {
+                    "end": 510,
+                    "start": 481,
+                    "word": "cap"
+                  }
+                ],
+                "until": 510,
+                "utterances": "After school the next day my mother gave me a shiny new red cap"
+              }
+            ],
+            "sentence": "After school the next day, my mother gave me a shiny new red cap."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_moon_sent_it_she_said.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 1,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 31,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 108,
+                    "start": 73,
+                    "word": "sent"
+                  },
+                  {
+                    "end": 126,
+                    "start": 109,
+                    "word": "it"
+                  },
+                  {
+                    "end": 143,
+                    "start": 127,
+                    "word": "she"
+                  },
+                  {
+                    "end": 250,
+                    "start": 144,
+                    "word": "said"
+                  }
+                ],
+                "until": 250,
+                "utterances": "The moon sent it she said"
+              }
+            ],
+            "sentence": "\"The moon sent it,\" she said."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_night_both_the_moon_and_i_wore_our_caps_and_smiled.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 1,
+                    "word": "That"
+                  },
+                  {
+                    "end": 90,
+                    "start": 46,
+                    "word": "night"
+                  },
+                  {
+                    "end": 127,
+                    "start": 91,
+                    "word": "both"
+                  },
+                  {
+                    "end": 135,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 136,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 194,
+                    "start": 173,
+                    "word": "and"
+                  },
+                  {
+                    "end": 199,
+                    "start": 195,
+                    "word": "I"
+                  },
+                  {
+                    "end": 232,
+                    "start": 200,
+                    "word": "wore"
+                  },
+                  {
+                    "end": 305,
+                    "start": 253,
+                    "word": "our"
+                  },
+                  {
+                    "end": 362,
+                    "start": 306,
+                    "word": "caps"
+                  },
+                  {
+                    "end": 396,
+                    "start": 373,
+                    "word": "and"
+                  },
+                  {
+                    "end": 530,
+                    "start": 397,
+                    "word": "smiled"
+                  }
+                ],
+                "until": 530,
+                "utterances": "That night both the moon and I wore our caps and smiled"
+              }
+            ],
+            "sentence": "That night, both the moon and I wore our caps and smiled."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_were_happy.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 71,
+                    "start": 41,
+                    "word": "were"
+                  },
+                  {
+                    "end": 110,
+                    "start": 72,
+                    "word": "happy"
+                  }
+                ],
+                "until": 110,
+                "utterances": "We were happy"
+              }
+            ],
+            "sentence": "We were happy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_think_the_sun_needs_a_hat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 40,
+                    "start": 33,
+                    "word": "you"
+                  },
+                  {
+                    "end": 71,
+                    "start": 41,
+                    "word": "think"
+                  },
+                  {
+                    "end": 80,
+                    "start": 72,
+                    "word": "the"
+                  },
+                  {
+                    "end": 121,
+                    "start": 81,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 146,
+                    "start": 122,
+                    "word": "needs"
+                  },
+                  {
+                    "end": 156,
+                    "start": 147,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 157,
+                    "word": "hat"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Do you think the sun needs a hat"
+              }
+            ],
+            "sentence": "Do you think the sun needs a hat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "the_moon_and_the_cap_1_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "guess_which_cap_i_am_wearing_today.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 2,
+                    "word": "Guess"
+                  },
+                  {
+                    "end": 69,
+                    "start": 49,
+                    "word": "which"
+                  },
+                  {
+                    "end": 80,
+                    "start": 70,
+                    "word": "cap"
+                  },
+                  {
+                    "end": 88,
+                    "start": 81,
+                    "word": "I"
+                  },
+                  {
+                    "end": 112,
+                    "start": 89,
+                    "word": "am"
+                  },
+                  {
+                    "end": 175,
+                    "start": 113,
+                    "word": "wearing"
+                  },
+                  {
+                    "end": 231,
+                    "start": 176,
+                    "word": "today"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Guess which cap I am wearing today"
+              }
+            ],
+            "sentence": "Guess which cap I am wearing today!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "The Moon and the Cap",
+  "titleimage": "the_moon_and_the_cap_1_page_01_image_0001.jpg"
+}

@@ -1,0 +1,481 @@
+{
+  "author": "Alice Kapolondo",
+  "data": [
+    {
+      "image": "sherry_in_the_market_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sherry_likes_her_school_bag.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 20,
+                    "word": "Sherry"
+                  },
+                  {
+                    "end": 94,
+                    "start": 55,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 100,
+                    "start": 95,
+                    "word": "her"
+                  },
+                  {
+                    "end": 138,
+                    "start": 101,
+                    "word": "school"
+                  },
+                  {
+                    "end": 181,
+                    "start": 139,
+                    "word": "bag"
+                  }
+                ],
+                "until": 181,
+                "utterances": "Sherry likes her school bag"
+              }
+            ],
+            "sentence": "Sherry likes her school bag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_sherry_s_birthday.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 45,
+                    "start": 34,
+                    "word": "is"
+                  },
+                  {
+                    "end": 93,
+                    "start": 46,
+                    "word": "Sherry's"
+                  },
+                  {
+                    "end": 154,
+                    "start": 94,
+                    "word": "birthday"
+                  }
+                ],
+                "until": 154,
+                "utterances": "It is Sherry's birthday"
+              }
+            ],
+            "sentence": "It is Sherry's birthday."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sherry_at_the_tax_park.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "Sherry"
+                  },
+                  {
+                    "end": 92,
+                    "start": 72,
+                    "word": "at"
+                  },
+                  {
+                    "end": 98,
+                    "start": 93,
+                    "word": "the"
+                  },
+                  {
+                    "end": 140,
+                    "start": 99,
+                    "word": "tax"
+                  },
+                  {
+                    "end": 183,
+                    "start": 141,
+                    "word": "park"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Sherry at the tax park"
+              }
+            ],
+            "sentence": "Sherry at the tax park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sherry_with_her_friends.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 20,
+                    "word": "Sherry"
+                  },
+                  {
+                    "end": 84,
+                    "start": 60,
+                    "word": "with"
+                  },
+                  {
+                    "end": 99,
+                    "start": 85,
+                    "word": "her"
+                  },
+                  {
+                    "end": 166,
+                    "start": 100,
+                    "word": "friends"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Sherry with her friends"
+              }
+            ],
+            "sentence": "Sherry with her friends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sherry_at_the_market_with_her_mum.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "Sherry"
+                  },
+                  {
+                    "end": 75,
+                    "start": 65,
+                    "word": "at"
+                  },
+                  {
+                    "end": 83,
+                    "start": 76,
+                    "word": "the"
+                  },
+                  {
+                    "end": 137,
+                    "start": 84,
+                    "word": "market"
+                  },
+                  {
+                    "end": 149,
+                    "start": 138,
+                    "word": "with"
+                  },
+                  {
+                    "end": 159,
+                    "start": 150,
+                    "word": "her"
+                  },
+                  {
+                    "end": 197,
+                    "start": 160,
+                    "word": "mum"
+                  }
+                ],
+                "until": 197,
+                "utterances": "Sherry at the market with her mum"
+              }
+            ],
+            "sentence": "Sherry at the market with her mum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oh.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 20,
+                    "word": "Oh"
+                  }
+                ],
+                "until": 59,
+                "utterances": "Oh"
+              }
+            ],
+            "sentence": "Oh!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_is_time_for_food.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 20,
+                    "word": "it"
+                  },
+                  {
+                    "end": 49,
+                    "start": 36,
+                    "word": "is"
+                  },
+                  {
+                    "end": 81,
+                    "start": 50,
+                    "word": "time"
+                  },
+                  {
+                    "end": 94,
+                    "start": 82,
+                    "word": "for"
+                  },
+                  {
+                    "end": 194,
+                    "start": 95,
+                    "word": "food"
+                  }
+                ],
+                "until": 194,
+                "utterances": "it is time for food"
+              }
+            ],
+            "sentence": "it is time for food."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sweet_oranges.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 20,
+                    "word": "Sweet"
+                  },
+                  {
+                    "end": 191,
+                    "start": 101,
+                    "word": "oranges"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Sweet oranges"
+              }
+            ],
+            "sentence": "Sweet oranges."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_where_is_mother_mother.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 12,
+                    "word": "But"
+                  },
+                  {
+                    "end": 58,
+                    "start": 31,
+                    "word": "where"
+                  },
+                  {
+                    "end": 73,
+                    "start": 59,
+                    "word": "is"
+                  },
+                  {
+                    "end": 109,
+                    "start": 74,
+                    "word": "mother"
+                  },
+                  {
+                    "end": 150,
+                    "start": 110,
+                    "word": "mother"
+                  }
+                ],
+                "until": 150,
+                "utterances": "But where is mother mother"
+              }
+            ],
+            "sentence": "But where is mother mother?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_went_to_buy_a_birthday_gift_for_you.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 40,
+                    "word": "went"
+                  },
+                  {
+                    "end": 75,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 91,
+                    "start": 76,
+                    "word": "buy"
+                  },
+                  {
+                    "end": 109,
+                    "start": 92,
+                    "word": "a"
+                  },
+                  {
+                    "end": 159,
+                    "start": 110,
+                    "word": "birthday"
+                  },
+                  {
+                    "end": 201,
+                    "start": 160,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 210,
+                    "start": 202,
+                    "word": "for"
+                  },
+                  {
+                    "end": 239,
+                    "start": 211,
+                    "word": "you"
+                  }
+                ],
+                "until": 239,
+                "utterances": "I went to buy a birthday gift for you"
+              }
+            ],
+            "sentence": "I went to buy a birthday gift for you."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherry_in_the_market_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thank_you_mum.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 2,
+                    "word": "Thank"
+                  },
+                  {
+                    "end": 62,
+                    "start": 51,
+                    "word": "you"
+                  },
+                  {
+                    "end": 109,
+                    "start": 63,
+                    "word": "mum"
+                  }
+                ],
+                "until": 109,
+                "utterances": "Thank you mum"
+              }
+            ],
+            "sentence": "Thank you mum!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Sherry in the Market",
+  "titleimage": "sherry_in_the_market_page_01_image_0001.jpg"
+}

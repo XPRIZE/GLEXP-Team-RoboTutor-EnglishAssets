@@ -1,0 +1,982 @@
+{
+  "author": "Joan Chepkorir",
+  "data": [
+    {
+      "image": "otoyo__0_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_is_otoyo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 21,
+                    "word": "This"
+                  },
+                  {
+                    "end": 73,
+                    "start": 53,
+                    "word": "is"
+                  },
+                  {
+                    "end": 131,
+                    "start": 74,
+                    "word": "Otoyo"
+                  }
+                ],
+                "until": 131,
+                "utterances": "This is Otoyo"
+              }
+            ],
+            "sentence": "This is Otoyo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_is_eight_years_old.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 1,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 35,
+                    "word": "is"
+                  },
+                  {
+                    "end": 85,
+                    "start": 58,
+                    "word": "eight"
+                  },
+                  {
+                    "end": 119,
+                    "start": 86,
+                    "word": "years"
+                  },
+                  {
+                    "end": 168,
+                    "start": 120,
+                    "word": "old"
+                  }
+                ],
+                "until": 168,
+                "utterances": "He is eight years old"
+              }
+            ],
+            "sentence": "He is eight years old."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_is_in_standard_three.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 18,
+                    "word": "He"
+                  },
+                  {
+                    "end": 54,
+                    "start": 37,
+                    "word": "is"
+                  },
+                  {
+                    "end": 63,
+                    "start": 55,
+                    "word": "in"
+                  },
+                  {
+                    "end": 120,
+                    "start": 64,
+                    "word": "standard"
+                  },
+                  {
+                    "end": 168,
+                    "start": 121,
+                    "word": "three"
+                  }
+                ],
+                "until": 168,
+                "utterances": "He is in standard three"
+              }
+            ],
+            "sentence": "He is in standard three."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_a_younger_sister_in_standard_one.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 20,
+                    "word": "He"
+                  },
+                  {
+                    "end": 49,
+                    "start": 28,
+                    "word": "has"
+                  },
+                  {
+                    "end": 53,
+                    "start": 50,
+                    "word": "a"
+                  },
+                  {
+                    "end": 93,
+                    "start": 54,
+                    "word": "younger"
+                  },
+                  {
+                    "end": 155,
+                    "start": 94,
+                    "word": "sister"
+                  },
+                  {
+                    "end": 178,
+                    "start": 163,
+                    "word": "in"
+                  },
+                  {
+                    "end": 243,
+                    "start": 179,
+                    "word": "standard"
+                  },
+                  {
+                    "end": 267,
+                    "start": 244,
+                    "word": "one"
+                  }
+                ],
+                "until": 267,
+                "utterances": "He has a younger sister in standard one"
+              }
+            ],
+            "sentence": "He has a younger sister in standard one."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_likes_her_so_much.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 18,
+                    "word": "He"
+                  },
+                  {
+                    "end": 68,
+                    "start": 29,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 77,
+                    "start": 69,
+                    "word": "her"
+                  },
+                  {
+                    "end": 128,
+                    "start": 78,
+                    "word": "so"
+                  },
+                  {
+                    "end": 181,
+                    "start": 129,
+                    "word": "much"
+                  }
+                ],
+                "until": 181,
+                "utterances": "He likes her so much"
+              }
+            ],
+            "sentence": "He likes her so much."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_plays_with_her_and_their_friend_akinyi_during_the_weekends.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 58,
+                    "start": 25,
+                    "word": "plays"
+                  },
+                  {
+                    "end": 80,
+                    "start": 59,
+                    "word": "with"
+                  },
+                  {
+                    "end": 124,
+                    "start": 81,
+                    "word": "her"
+                  },
+                  {
+                    "end": 138,
+                    "start": 125,
+                    "word": "and"
+                  },
+                  {
+                    "end": 152,
+                    "start": 139,
+                    "word": "their"
+                  },
+                  {
+                    "end": 190,
+                    "start": 153,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 258,
+                    "start": 191,
+                    "word": "Akinyi"
+                  },
+                  {
+                    "end": 315,
+                    "start": 285,
+                    "word": "during"
+                  },
+                  {
+                    "end": 325,
+                    "start": 316,
+                    "word": "the"
+                  },
+                  {
+                    "end": 388,
+                    "start": 326,
+                    "word": "weekends"
+                  }
+                ],
+                "until": 388,
+                "utterances": "He plays with her and their friend Akinyi during the weekends"
+              }
+            ],
+            "sentence": "He plays with her and their friend Akinyi during the weekends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_lives_with_his_parents_and_his_grandparents.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 65,
+                    "start": 31,
+                    "word": "lives"
+                  },
+                  {
+                    "end": 84,
+                    "start": 66,
+                    "word": "with"
+                  },
+                  {
+                    "end": 102,
+                    "start": 85,
+                    "word": "his"
+                  },
+                  {
+                    "end": 164,
+                    "start": 103,
+                    "word": "parents"
+                  },
+                  {
+                    "end": 184,
+                    "start": 165,
+                    "word": "and"
+                  },
+                  {
+                    "end": 208,
+                    "start": 185,
+                    "word": "his"
+                  },
+                  {
+                    "end": 297,
+                    "start": 209,
+                    "word": "grandparents"
+                  }
+                ],
+                "until": 297,
+                "utterances": "He lives with his parents and his grandparents"
+              }
+            ],
+            "sentence": "He lives with his parents and his grandparents."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_does_his_duties_very_well.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 31,
+                    "word": "does"
+                  },
+                  {
+                    "end": 74,
+                    "start": 58,
+                    "word": "his"
+                  },
+                  {
+                    "end": 123,
+                    "start": 75,
+                    "word": "duties"
+                  },
+                  {
+                    "end": 161,
+                    "start": 124,
+                    "word": "very"
+                  },
+                  {
+                    "end": 198,
+                    "start": 162,
+                    "word": "well"
+                  }
+                ],
+                "until": 198,
+                "utterances": "He does his duties very well"
+              }
+            ],
+            "sentence": "He does his duties very well."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_is_otoyo_s_school.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 19,
+                    "word": "This"
+                  },
+                  {
+                    "end": 60,
+                    "start": 48,
+                    "word": "is"
+                  },
+                  {
+                    "end": 127,
+                    "start": 61,
+                    "word": "Otoyo's"
+                  },
+                  {
+                    "end": 169,
+                    "start": 128,
+                    "word": "school"
+                  }
+                ],
+                "until": 169,
+                "utterances": "This is Otoyo's school"
+              }
+            ],
+            "sentence": "This is Otoyo's school."
+          },
+          {
+            "narration": [
+              {
+                "audio": "it_is_called_umoja_primary_school.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 21,
+                    "word": "It"
+                  },
+                  {
+                    "end": 53,
+                    "start": 33,
+                    "word": "is"
+                  },
+                  {
+                    "end": 101,
+                    "start": 54,
+                    "word": "called"
+                  },
+                  {
+                    "end": 167,
+                    "start": 102,
+                    "word": "Umoja"
+                  },
+                  {
+                    "end": 231,
+                    "start": 168,
+                    "word": "primary"
+                  },
+                  {
+                    "end": 276,
+                    "start": 232,
+                    "word": "school"
+                  }
+                ],
+                "until": 276,
+                "utterances": "It is called Umoja primary school"
+              }
+            ],
+            "sentence": "It is called Umoja primary school."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_class_he_works_hard.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "In"
+                  },
+                  {
+                    "end": 83,
+                    "start": 39,
+                    "word": "class"
+                  },
+                  {
+                    "end": 90,
+                    "start": 84,
+                    "word": "he"
+                  },
+                  {
+                    "end": 125,
+                    "start": 91,
+                    "word": "works"
+                  },
+                  {
+                    "end": 167,
+                    "start": 126,
+                    "word": "hard"
+                  }
+                ],
+                "until": 167,
+                "utterances": "In class he works hard"
+              }
+            ],
+            "sentence": "In class he works hard."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_respects_his_teacher.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 83,
+                    "start": 29,
+                    "word": "respects"
+                  },
+                  {
+                    "end": 97,
+                    "start": 84,
+                    "word": "his"
+                  },
+                  {
+                    "end": 138,
+                    "start": 98,
+                    "word": "teacher"
+                  }
+                ],
+                "until": 138,
+                "utterances": "He respects his teacher"
+              }
+            ],
+            "sentence": "He respects his teacher."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_is_always_top_in_his_class.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 19,
+                    "word": "He"
+                  },
+                  {
+                    "end": 44,
+                    "start": 33,
+                    "word": "is"
+                  },
+                  {
+                    "end": 85,
+                    "start": 45,
+                    "word": "always"
+                  },
+                  {
+                    "end": 123,
+                    "start": 86,
+                    "word": "top"
+                  },
+                  {
+                    "end": 139,
+                    "start": 124,
+                    "word": "in"
+                  },
+                  {
+                    "end": 162,
+                    "start": 140,
+                    "word": "his"
+                  },
+                  {
+                    "end": 217,
+                    "start": 163,
+                    "word": "class"
+                  }
+                ],
+                "until": 217,
+                "utterances": "He is always top in his class"
+              }
+            ],
+            "sentence": "He is always top in his class."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_father_is_a_game_warden_and_he_takes_them_to_the_animal_park_during_holidays.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 20,
+                    "word": "His"
+                  },
+                  {
+                    "end": 88,
+                    "start": 45,
+                    "word": "father"
+                  },
+                  {
+                    "end": 97,
+                    "start": 89,
+                    "word": "is"
+                  },
+                  {
+                    "end": 105,
+                    "start": 98,
+                    "word": "a"
+                  },
+                  {
+                    "end": 137,
+                    "start": 106,
+                    "word": "game"
+                  },
+                  {
+                    "end": 182,
+                    "start": 138,
+                    "word": "warden"
+                  },
+                  {
+                    "end": 216,
+                    "start": 202,
+                    "word": "and"
+                  },
+                  {
+                    "end": 227,
+                    "start": 217,
+                    "word": "he"
+                  },
+                  {
+                    "end": 261,
+                    "start": 228,
+                    "word": "takes"
+                  },
+                  {
+                    "end": 272,
+                    "start": 262,
+                    "word": "them"
+                  },
+                  {
+                    "end": 286,
+                    "start": 273,
+                    "word": "to"
+                  },
+                  {
+                    "end": 300,
+                    "start": 287,
+                    "word": "the"
+                  },
+                  {
+                    "end": 342,
+                    "start": 301,
+                    "word": "animal"
+                  },
+                  {
+                    "end": 387,
+                    "start": 343,
+                    "word": "park"
+                  },
+                  {
+                    "end": 421,
+                    "start": 388,
+                    "word": "during"
+                  },
+                  {
+                    "end": 496,
+                    "start": 422,
+                    "word": "holidays"
+                  }
+                ],
+                "until": 496,
+                "utterances": "His father is a game warden and he takes them to the animal park during holidays"
+              }
+            ],
+            "sentence": "His father is a game warden and he takes them to the animal park during holidays."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "on_sundays_otoyo_accompanies_his_parents_to_the_church.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 21,
+                    "word": "On"
+                  },
+                  {
+                    "end": 104,
+                    "start": 36,
+                    "word": "Sundays"
+                  },
+                  {
+                    "end": 164,
+                    "start": 105,
+                    "word": "Otoyo"
+                  },
+                  {
+                    "end": 226,
+                    "start": 165,
+                    "word": "accompanies"
+                  },
+                  {
+                    "end": 239,
+                    "start": 227,
+                    "word": "his"
+                  },
+                  {
+                    "end": 292,
+                    "start": 240,
+                    "word": "parents"
+                  },
+                  {
+                    "end": 310,
+                    "start": 293,
+                    "word": "to"
+                  },
+                  {
+                    "end": 321,
+                    "start": 311,
+                    "word": "the"
+                  },
+                  {
+                    "end": 370,
+                    "start": 322,
+                    "word": "church"
+                  }
+                ],
+                "until": 370,
+                "utterances": "On Sundays Otoyo accompanies his parents to the church"
+              }
+            ],
+            "sentence": "On Sundays, Otoyo accompanies his parents to the church."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_likes_singing.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 68,
+                    "start": 27,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 117,
+                    "start": 69,
+                    "word": "singing"
+                  }
+                ],
+                "until": 117,
+                "utterances": "He likes singing"
+              }
+            ],
+            "sentence": "He likes singing."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_teaches_his_friends_how_to_sing_too.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 76,
+                    "start": 30,
+                    "word": "teaches"
+                  },
+                  {
+                    "end": 94,
+                    "start": 77,
+                    "word": "his"
+                  },
+                  {
+                    "end": 137,
+                    "start": 95,
+                    "word": "friends"
+                  },
+                  {
+                    "end": 153,
+                    "start": 138,
+                    "word": "how"
+                  },
+                  {
+                    "end": 163,
+                    "start": 154,
+                    "word": "to"
+                  },
+                  {
+                    "end": 190,
+                    "start": 164,
+                    "word": "sing"
+                  },
+                  {
+                    "end": 229,
+                    "start": 191,
+                    "word": "too"
+                  }
+                ],
+                "until": 229,
+                "utterances": "He teaches his friends how to sing too"
+              }
+            ],
+            "sentence": "He teaches his friends how to sing too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "otoyo__0_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "otoyo_is_a_good_boy.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 16,
+                    "word": "Otoyo"
+                  },
+                  {
+                    "end": 88,
+                    "start": 77,
+                    "word": "is"
+                  },
+                  {
+                    "end": 94,
+                    "start": 89,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 95,
+                    "word": "good"
+                  },
+                  {
+                    "end": 173,
+                    "start": 130,
+                    "word": "boy"
+                  }
+                ],
+                "until": 173,
+                "utterances": "Otoyo is a good boy"
+              }
+            ],
+            "sentence": "Otoyo is a good boy."
+          },
+          {
+            "narration": [
+              {
+                "audio": "who_would_not_wish_to_be_like_him.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 2,
+                    "word": "Who"
+                  },
+                  {
+                    "end": 52,
+                    "start": 37,
+                    "word": "would"
+                  },
+                  {
+                    "end": 75,
+                    "start": 53,
+                    "word": "not"
+                  },
+                  {
+                    "end": 95,
+                    "start": 76,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 104,
+                    "start": 96,
+                    "word": "to"
+                  },
+                  {
+                    "end": 114,
+                    "start": 105,
+                    "word": "be"
+                  },
+                  {
+                    "end": 144,
+                    "start": 115,
+                    "word": "like"
+                  },
+                  {
+                    "end": 175,
+                    "start": 145,
+                    "word": "him"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Who would not wish to be like him"
+              }
+            ],
+            "sentence": "Who would not wish to be like him?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 1,
+                    "word": "The"
+                  },
+                  {
+                    "end": 99,
+                    "start": 59,
+                    "word": "End"
+                  }
+                ],
+                "until": 99,
+                "utterances": "The End"
+              }
+            ],
+            "sentence": "The End..."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Otoyo",
+  "titleimage": "otoyo__0_page_01_image_0001.jpg"
+}
