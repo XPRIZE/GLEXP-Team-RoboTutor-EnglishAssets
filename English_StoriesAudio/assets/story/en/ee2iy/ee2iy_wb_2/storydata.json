@@ -1,0 +1,590 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_queen_had_a_pet_eel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 26,
+                    "word": "queen"
+                  },
+                  {
+                    "end": 111,
+                    "start": 90,
+                    "word": "had"
+                  },
+                  {
+                    "end": 121,
+                    "start": 112,
+                    "word": "a"
+                  },
+                  {
+                    "end": 155,
+                    "start": 122,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 220,
+                    "start": 177,
+                    "word": "eel"
+                  }
+                ],
+                "until": 220,
+                "utterances": "The queen had a pet eel"
+              }
+            ],
+            "sentence": "The queen had a pet eel."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_did_the_eel_feel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 90,
+                    "start": 53,
+                    "word": "did"
+                  },
+                  {
+                    "end": 111,
+                    "start": 91,
+                    "word": "the"
+                  },
+                  {
+                    "end": 158,
+                    "start": 118,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 219,
+                    "start": 162,
+                    "word": "feel"
+                  }
+                ],
+                "until": 219,
+                "utterances": "How did the eel feel"
+              }
+            ],
+            "sentence": "How did the eel feel?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_eel_felt_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 76,
+                    "start": 34,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 119,
+                    "start": 82,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 153,
+                    "start": 120,
+                    "word": "wet"
+                  }
+                ],
+                "until": 153,
+                "utterances": "The eel felt wet"
+              }
+            ],
+            "sentence": "The eel felt wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_eel_need_a_meal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 49,
+                    "start": 37,
+                    "word": "the"
+                  },
+                  {
+                    "end": 106,
+                    "start": 59,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 155,
+                    "start": 107,
+                    "word": "need"
+                  },
+                  {
+                    "end": 173,
+                    "start": 156,
+                    "word": "a"
+                  },
+                  {
+                    "end": 230,
+                    "start": 174,
+                    "word": "meal"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Did the eel need a meal"
+              }
+            ],
+            "sentence": "Did the eel need a meal?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_queen_had_to_feed_the_eel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 106,
+                    "start": 39,
+                    "word": "queen"
+                  },
+                  {
+                    "end": 149,
+                    "start": 123,
+                    "word": "had"
+                  },
+                  {
+                    "end": 166,
+                    "start": 150,
+                    "word": "to"
+                  },
+                  {
+                    "end": 224,
+                    "start": 167,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 275,
+                    "start": 232,
+                    "word": "the"
+                  },
+                  {
+                    "end": 306,
+                    "start": 276,
+                    "word": "eel"
+                  }
+                ],
+                "until": 306,
+                "utterances": "The queen had to feed the eel"
+              }
+            ],
+            "sentence": "The queen had to feed the eel."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_the_queen_feed_the_eel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 70,
+                    "start": 45,
+                    "word": "did"
+                  },
+                  {
+                    "end": 79,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 137,
+                    "start": 80,
+                    "word": "queen"
+                  },
+                  {
+                    "end": 195,
+                    "start": 138,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 218,
+                    "start": 196,
+                    "word": "the"
+                  },
+                  {
+                    "end": 262,
+                    "start": 219,
+                    "word": "eel"
+                  }
+                ],
+                "until": 262,
+                "utterances": "What did the queen feed the eel"
+              }
+            ],
+            "sentence": "What did the queen feed the eel?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_green_bean.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 69,
+                    "start": 27,
+                    "word": "green"
+                  },
+                  {
+                    "end": 118,
+                    "start": 73,
+                    "word": "bean"
+                  }
+                ],
+                "until": 118,
+                "utterances": "A green bean"
+              }
+            ],
+            "sentence": "A green bean!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_what_did_the_queen_feed_the_eel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 79,
+                    "start": 60,
+                    "word": "what"
+                  },
+                  {
+                    "end": 104,
+                    "start": 89,
+                    "word": "did"
+                  },
+                  {
+                    "end": 116,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 117,
+                    "word": "queen"
+                  },
+                  {
+                    "end": 218,
+                    "start": 168,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 250,
+                    "start": 219,
+                    "word": "the"
+                  },
+                  {
+                    "end": 278,
+                    "start": 251,
+                    "word": "eel"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Then what did the queen feed the eel"
+              }
+            ],
+            "sentence": "Then what did the queen feed the eel?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_pop_tart.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 95,
+                    "start": 24,
+                    "word": "pop-tart"
+                  }
+                ],
+                "until": 95,
+                "utterances": "A pop-tart"
+              }
+            ],
+            "sentence": "A pop-tart!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_eel_had_a_big_meal_to_eat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 76,
+                    "start": 34,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 96,
+                    "start": 81,
+                    "word": "had"
+                  },
+                  {
+                    "end": 103,
+                    "start": 97,
+                    "word": "a"
+                  },
+                  {
+                    "end": 154,
+                    "start": 104,
+                    "word": "big"
+                  },
+                  {
+                    "end": 205,
+                    "start": 155,
+                    "word": "meal"
+                  },
+                  {
+                    "end": 227,
+                    "start": 206,
+                    "word": "to"
+                  },
+                  {
+                    "end": 263,
+                    "start": 238,
+                    "word": "eat"
+                  }
+                ],
+                "until": 263,
+                "utterances": "The eel had a big meal to eat"
+              }
+            ],
+            "sentence": "The eel had a big meal to eat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_how_did_the_eel_feel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 84,
+                    "start": 44,
+                    "word": "how"
+                  },
+                  {
+                    "end": 113,
+                    "start": 85,
+                    "word": "did"
+                  },
+                  {
+                    "end": 139,
+                    "start": 114,
+                    "word": "the"
+                  },
+                  {
+                    "end": 160,
+                    "start": 140,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 213,
+                    "start": 161,
+                    "word": "feel"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Then how did the eel feel"
+              }
+            ],
+            "sentence": "Then how did the eel feel?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_eel_felt_fat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 35,
+                    "word": "eel"
+                  },
+                  {
+                    "end": 115,
+                    "start": 66,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 143,
+                    "start": 116,
+                    "word": "fat"
+                  }
+                ],
+                "until": 143,
+                "utterances": "The eel felt fat"
+              }
+            ],
+            "sentence": "The eel felt fat!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Pet Eel",
+  "titleimage": null
+}

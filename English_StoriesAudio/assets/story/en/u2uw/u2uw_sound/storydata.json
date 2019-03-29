@@ -1,0 +1,451 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cute.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "cute"
+                  }
+                ],
+                "until": 62,
+                "utterances": "cute"
+              }
+            ],
+            "sentence": "cute "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mule.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "mule"
+                  }
+                ],
+                "until": 62,
+                "utterances": "mule"
+              }
+            ],
+            "sentence": "mule "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "use.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 10,
+                    "word": "USE"
+                  }
+                ],
+                "until": 82,
+                "utterances": "USE"
+              }
+            ],
+            "sentence": "use "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_u_make_in_the_words_cute_mule_and_use.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 72,
+                    "start": 32,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 86,
+                    "start": 73,
+                    "word": "does"
+                  },
+                  {
+                    "end": 95,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 130,
+                    "start": 96,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 166,
+                    "start": 131,
+                    "word": "U"
+                  },
+                  {
+                    "end": 204,
+                    "start": 167,
+                    "word": "make"
+                  },
+                  {
+                    "end": 215,
+                    "start": 205,
+                    "word": "in"
+                  },
+                  {
+                    "end": 221,
+                    "start": 216,
+                    "word": "the"
+                  },
+                  {
+                    "end": 259,
+                    "start": 222,
+                    "word": "words"
+                  },
+                  {
+                    "end": 320,
+                    "start": 260,
+                    "word": "CUTE"
+                  },
+                  {
+                    "end": 378,
+                    "start": 321,
+                    "word": "MULE"
+                  },
+                  {
+                    "end": 395,
+                    "start": 379,
+                    "word": "and"
+                  },
+                  {
+                    "end": 456,
+                    "start": 396,
+                    "word": "USE"
+                  }
+                ],
+                "until": 456,
+                "utterances": "What sound does the Letter U make in the words CUTE MULE and USE"
+              }
+            ],
+            "sentence": "What sound does the letter u make in the words cute, mule, and use?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cube.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "CUBE"
+                  }
+                ],
+                "until": 65,
+                "utterances": "CUBE"
+              }
+            ],
+            "sentence": "cube "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fume.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "FUME"
+                  }
+                ],
+                "until": 74,
+                "utterances": "FUME"
+              }
+            ],
+            "sentence": "fume "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mute.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "MUTE"
+                  }
+                ],
+                "until": 63,
+                "utterances": "MUTE"
+              }
+            ],
+            "sentence": "mute "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "huge.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 10,
+                    "word": "huge"
+                  }
+                ],
+                "until": 77,
+                "utterances": "huge"
+              }
+            ],
+            "sentence": "huge "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fuse.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 10,
+                    "word": "FUSE"
+                  }
+                ],
+                "until": 91,
+                "utterances": "FUSE"
+              }
+            ],
+            "sentence": "fuse "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "usually_i_refuse_to.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 10,
+                    "word": "Usually"
+                  },
+                  {
+                    "end": 103,
+                    "start": 96,
+                    "word": "I"
+                  },
+                  {
+                    "end": 182,
+                    "start": 104,
+                    "word": "refuse"
+                  },
+                  {
+                    "end": 215,
+                    "start": 183,
+                    "word": "to"
+                  }
+                ],
+                "until": 215,
+                "utterances": "Usually I refuse to"
+              },
+              {
+                "audio": "confuse.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 10,
+                    "word": "confuse"
+                  }
+                ],
+                "until": 94,
+                "utterances": "confuse"
+              },
+              {
+                "audio": "a.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "a"
+                  }
+                ],
+                "until": 37,
+                "utterances": "a"
+              },
+              {
+                "audio": "cute.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "cute"
+                  }
+                ],
+                "until": 62,
+                "utterances": "cute"
+              },
+              {
+                "audio": "mule.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "mule"
+                  }
+                ],
+                "until": 62,
+                "utterances": "mule"
+              }
+            ],
+            "sentence": "Usually, I refuse to confuse a cute mule."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_was_a_job_well_done.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 51,
+                    "start": 33,
+                    "word": "was"
+                  },
+                  {
+                    "end": 57,
+                    "start": 52,
+                    "word": "a"
+                  },
+                  {
+                    "end": 89,
+                    "start": 58,
+                    "word": "job"
+                  },
+                  {
+                    "end": 116,
+                    "start": 90,
+                    "word": "well"
+                  },
+                  {
+                    "end": 158,
+                    "start": 117,
+                    "word": "done"
+                  }
+                ],
+                "until": 158,
+                "utterances": "That was a job well done"
+              }
+            ],
+            "sentence": "That was a job well done! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letter U in CUTE, MULE, and USE",
+  "titleimage": null
+}

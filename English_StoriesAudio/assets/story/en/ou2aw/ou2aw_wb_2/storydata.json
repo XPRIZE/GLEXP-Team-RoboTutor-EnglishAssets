@@ -1,0 +1,979 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "trout_is_a_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 10,
+                    "word": "Trout"
+                  },
+                  {
+                    "end": 130,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 148,
+                    "start": 131,
+                    "word": "a"
+                  },
+                  {
+                    "end": 211,
+                    "start": 149,
+                    "word": "fish"
+                  }
+                ],
+                "until": 211,
+                "utterances": "Trout is a fish"
+              }
+            ],
+            "sentence": "Trout is a fish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "trout_swim_in_lakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Trout"
+                  },
+                  {
+                    "end": 150,
+                    "start": 76,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 163,
+                    "start": 151,
+                    "word": "in"
+                  },
+                  {
+                    "end": 227,
+                    "start": 164,
+                    "word": "lakes"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Trout swim in lakes"
+              }
+            ],
+            "sentence": "Trout swim in lakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_like_to_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 56,
+                    "start": 29,
+                    "word": "you"
+                  },
+                  {
+                    "end": 84,
+                    "start": 57,
+                    "word": "like"
+                  },
+                  {
+                    "end": 101,
+                    "start": 85,
+                    "word": "to"
+                  },
+                  {
+                    "end": 157,
+                    "start": 102,
+                    "word": "fish"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Do you like to fish"
+              }
+            ],
+            "sentence": "Do you like to fish?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_and_ray_go_fishing.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 73,
+                    "start": 55,
+                    "word": "and"
+                  },
+                  {
+                    "end": 115,
+                    "start": 74,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 156,
+                    "start": 131,
+                    "word": "go"
+                  },
+                  {
+                    "end": 201,
+                    "start": 157,
+                    "word": "fishing"
+                  }
+                ],
+                "until": 201,
+                "utterances": "Jay and Ray go fishing"
+              }
+            ],
+            "sentence": "Jay and Ray go fishing."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_look_for_trout.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 64,
+                    "start": 5,
+                    "word": "look"
+                  },
+                  {
+                    "end": 89,
+                    "start": 65,
+                    "word": "for"
+                  },
+                  {
+                    "end": 145,
+                    "start": 90,
+                    "word": "trout"
+                  }
+                ],
+                "until": 145,
+                "utterances": "They look for trout"
+              }
+            ],
+            "sentence": "They look for trout."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_found_a_good_spot_said_ray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 97,
+                    "start": 42,
+                    "word": "found"
+                  },
+                  {
+                    "end": 100,
+                    "start": 98,
+                    "word": "a"
+                  },
+                  {
+                    "end": 130,
+                    "start": 101,
+                    "word": "good"
+                  },
+                  {
+                    "end": 197,
+                    "start": 145,
+                    "word": "spot"
+                  },
+                  {
+                    "end": 240,
+                    "start": 207,
+                    "word": "said"
+                  },
+                  {
+                    "end": 273,
+                    "start": 241,
+                    "word": "Ray"
+                  }
+                ],
+                "until": 273,
+                "utterances": "I found a good spot said Ray"
+              }
+            ],
+            "sentence": "\"I found a good spot,\" said Ray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_not_shout_said_jay.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 48,
+                    "start": 24,
+                    "word": "not"
+                  },
+                  {
+                    "end": 110,
+                    "start": 49,
+                    "word": "shout"
+                  },
+                  {
+                    "end": 162,
+                    "start": 133,
+                    "word": "said"
+                  },
+                  {
+                    "end": 204,
+                    "start": 163,
+                    "word": "Jay"
+                  }
+                ],
+                "until": 204,
+                "utterances": "Do not shout said Jay"
+              }
+            ],
+            "sentence": "\"Do not shout,\" said Jay."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_will_scare_the_trout.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 49,
+                    "start": 28,
+                    "word": "will"
+                  },
+                  {
+                    "end": 107,
+                    "start": 50,
+                    "word": "scare"
+                  },
+                  {
+                    "end": 120,
+                    "start": 108,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 121,
+                    "word": "trout"
+                  }
+                ],
+                "until": 178,
+                "utterances": "It will scare the trout"
+              }
+            ],
+            "sentence": "\"It will scare the trout."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "be_soft_not_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "Be"
+                  },
+                  {
+                    "end": 110,
+                    "start": 27,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 150,
+                    "start": 111,
+                    "word": "not"
+                  },
+                  {
+                    "end": 207,
+                    "start": 151,
+                    "word": "loud"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Be soft not loud"
+              }
+            ],
+            "sentence": "Be soft, not loud.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_and_ray_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 58,
+                    "start": 29,
+                    "word": "and"
+                  },
+                  {
+                    "end": 104,
+                    "start": 79,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 139,
+                    "start": 108,
+                    "word": "sat"
+                  }
+                ],
+                "until": 139,
+                "utterances": "Jay and Ray sat"
+              }
+            ],
+            "sentence": "Jay and Ray sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_sat_on_the_ground.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 108,
+                    "start": 46,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 140,
+                    "start": 109,
+                    "word": "on"
+                  },
+                  {
+                    "end": 152,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 208,
+                    "start": 153,
+                    "word": "ground"
+                  }
+                ],
+                "until": 208,
+                "utterances": "They sat on the ground"
+              }
+            ],
+            "sentence": "They sat on the ground."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_had_a_fishing_pole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 46,
+                    "start": 30,
+                    "word": "had"
+                  },
+                  {
+                    "end": 76,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 132,
+                    "start": 77,
+                    "word": "fishing"
+                  },
+                  {
+                    "end": 195,
+                    "start": 145,
+                    "word": "pole"
+                  }
+                ],
+                "until": 195,
+                "utterances": "They had a fishing pole"
+              }
+            ],
+            "sentence": "They had a fishing pole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pole_had_a_hook_on_the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 92,
+                    "start": 50,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 107,
+                    "start": 97,
+                    "word": "had"
+                  },
+                  {
+                    "end": 131,
+                    "start": 108,
+                    "word": "a"
+                  },
+                  {
+                    "end": 196,
+                    "start": 146,
+                    "word": "hook"
+                  },
+                  {
+                    "end": 238,
+                    "start": 203,
+                    "word": "on"
+                  },
+                  {
+                    "end": 257,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 308,
+                    "start": 274,
+                    "word": "end"
+                  }
+                ],
+                "until": 308,
+                "utterances": "The pole had a hook on the end"
+              }
+            ],
+            "sentence": "The pole had a hook on the end."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_put_bait_on_the_hook.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 67,
+                    "start": 43,
+                    "word": "put"
+                  },
+                  {
+                    "end": 160,
+                    "start": 68,
+                    "word": "bait"
+                  },
+                  {
+                    "end": 209,
+                    "start": 161,
+                    "word": "on"
+                  },
+                  {
+                    "end": 225,
+                    "start": 213,
+                    "word": "the"
+                  },
+                  {
+                    "end": 276,
+                    "start": 226,
+                    "word": "hook"
+                  }
+                ],
+                "until": 276,
+                "utterances": "They put bait on the hook"
+              }
+            ],
+            "sentence": "They put bait on the hook."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_any_trout_bite_the_bait.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 71,
+                    "start": 41,
+                    "word": "any"
+                  },
+                  {
+                    "end": 147,
+                    "start": 72,
+                    "word": "trout"
+                  },
+                  {
+                    "end": 182,
+                    "start": 157,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 209,
+                    "start": 191,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 210,
+                    "word": "bait"
+                  }
+                ],
+                "until": 258,
+                "utterances": "Did any trout bite the bait"
+              }
+            ],
+            "sentence": "Did any trout bite the bait?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hook_got_a_mouth.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 32,
+                    "word": "hook"
+                  },
+                  {
+                    "end": 102,
+                    "start": 80,
+                    "word": "got"
+                  },
+                  {
+                    "end": 121,
+                    "start": 117,
+                    "word": "a"
+                  },
+                  {
+                    "end": 183,
+                    "start": 122,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 183,
+                "utterances": "The hook got a mouth"
+              }
+            ],
+            "sentence": "The hook got a mouth."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_got_one_said_jay.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 66,
+                    "start": 36,
+                    "word": "got"
+                  },
+                  {
+                    "end": 102,
+                    "start": 67,
+                    "word": "one"
+                  },
+                  {
+                    "end": 153,
+                    "start": 125,
+                    "word": "said"
+                  },
+                  {
+                    "end": 202,
+                    "start": 154,
+                    "word": "Jay"
+                  }
+                ],
+                "until": 202,
+                "utterances": "We got one said Jay"
+              }
+            ],
+            "sentence": "\"We got one,\" said Jay."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ouch_said_the_trout.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Ouch"
+                  },
+                  {
+                    "end": 110,
+                    "start": 77,
+                    "word": "said"
+                  },
+                  {
+                    "end": 121,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 166,
+                    "start": 122,
+                    "word": "trout"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Ouch said the trout"
+              }
+            ],
+            "sentence": "\"Ouch,\" said the trout."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "get_that_out_of_my_mouth.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Get"
+                  },
+                  {
+                    "end": 38,
+                    "start": 8,
+                    "word": "that"
+                  },
+                  {
+                    "end": 71,
+                    "start": 39,
+                    "word": "out"
+                  },
+                  {
+                    "end": 84,
+                    "start": 72,
+                    "word": "of"
+                  },
+                  {
+                    "end": 106,
+                    "start": 85,
+                    "word": "my"
+                  },
+                  {
+                    "end": 166,
+                    "start": 107,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Get that out of my mouth"
+              }
+            ],
+            "sentence": "\"Get that out of my mouth!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_and_ray_let_the_trout_go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 71,
+                    "start": 50,
+                    "word": "and"
+                  },
+                  {
+                    "end": 99,
+                    "start": 72,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 135,
+                    "start": 115,
+                    "word": "let"
+                  },
+                  {
+                    "end": 160,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 161,
+                    "word": "trout"
+                  },
+                  {
+                    "end": 238,
+                    "start": 210,
+                    "word": "go"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Jay and Ray let the trout go"
+              }
+            ],
+            "sentence": "Jay and Ray let the trout go."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 35,
+                    "word": "end"
+                  }
+                ],
+                "until": 72,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Fishing For Trout",
+  "titleimage": null
+}

@@ -1,0 +1,847 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_is_a_nun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 108,
+                    "start": 67,
+                    "word": "is"
+                  },
+                  {
+                    "end": 132,
+                    "start": 109,
+                    "word": "a"
+                  },
+                  {
+                    "end": 174,
+                    "start": 133,
+                    "word": "nun"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Val is a nun"
+              }
+            ],
+            "sentence": "Val is a nun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_is_a_kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 99,
+                    "start": 70,
+                    "word": "is"
+                  },
+                  {
+                    "end": 114,
+                    "start": 100,
+                    "word": "a"
+                  },
+                  {
+                    "end": 155,
+                    "start": 115,
+                    "word": "kid"
+                  }
+                ],
+                "until": 155,
+                "utterances": "Tom is a kid"
+              }
+            ],
+            "sentence": "Tom is a kid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_asks_tom_to_sit.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 7,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 117,
+                    "start": 63,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 167,
+                    "start": 118,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 192,
+                    "start": 168,
+                    "word": "to"
+                  },
+                  {
+                    "end": 247,
+                    "start": 193,
+                    "word": "sit"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Val asks Tom to sit"
+              }
+            ],
+            "sentence": "Val asks Tom to sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_said_sit_in_the_van_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 81,
+                    "start": 10,
+                    "word": "said"
+                  },
+                  {
+                    "end": 118,
+                    "start": 82,
+                    "word": "Sit"
+                  },
+                  {
+                    "end": 147,
+                    "start": 127,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 148,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 157,
+                    "word": "van"
+                  },
+                  {
+                    "end": 259,
+                    "start": 210,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 259,
+                "utterances": "Val said Sit in the van Tom"
+              }
+            ],
+            "sentence": "Val said, \"Sit in the van, Tom.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_did_not_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 66,
+                    "start": 46,
+                    "word": "did"
+                  },
+                  {
+                    "end": 105,
+                    "start": 67,
+                    "word": "not"
+                  },
+                  {
+                    "end": 158,
+                    "start": 106,
+                    "word": "sit"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Tom did not sit"
+              }
+            ],
+            "sentence": "Tom did not sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_said_i_can_not_sit_in_the_van.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 103,
+                    "start": 45,
+                    "word": "said"
+                  },
+                  {
+                    "end": 121,
+                    "start": 104,
+                    "word": "I"
+                  },
+                  {
+                    "end": 151,
+                    "start": 122,
+                    "word": "can"
+                  },
+                  {
+                    "end": 194,
+                    "start": 152,
+                    "word": "not"
+                  },
+                  {
+                    "end": 240,
+                    "start": 195,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 261,
+                    "start": 241,
+                    "word": "in"
+                  },
+                  {
+                    "end": 271,
+                    "start": 262,
+                    "word": "the"
+                  },
+                  {
+                    "end": 326,
+                    "start": 272,
+                    "word": "van"
+                  }
+                ],
+                "until": 326,
+                "utterances": "Tom said I can not sit in the van"
+              }
+            ],
+            "sentence": "Tom said, \"I can not sit in the van."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_not_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 50,
+                    "start": 30,
+                    "word": "is"
+                  },
+                  {
+                    "end": 91,
+                    "start": 51,
+                    "word": "not"
+                  },
+                  {
+                    "end": 151,
+                    "start": 92,
+                    "word": "fun"
+                  }
+                ],
+                "until": 151,
+                "utterances": "It is not fun"
+              }
+            ],
+            "sentence": "It is not fun!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_can_nag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 98,
+                    "start": 69,
+                    "word": "can"
+                  },
+                  {
+                    "end": 170,
+                    "start": 99,
+                    "word": "nag"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Val can nag"
+              }
+            ],
+            "sentence": "Val can nag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_said_the_van_is_vast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 107,
+                    "start": 53,
+                    "word": "said"
+                  },
+                  {
+                    "end": 115,
+                    "start": 108,
+                    "word": "The"
+                  },
+                  {
+                    "end": 166,
+                    "start": 116,
+                    "word": "van"
+                  },
+                  {
+                    "end": 195,
+                    "start": 167,
+                    "word": "is"
+                  },
+                  {
+                    "end": 273,
+                    "start": 196,
+                    "word": "vast"
+                  }
+                ],
+                "until": 273,
+                "utterances": "Val said The van is vast"
+              }
+            ],
+            "sentence": "Val said, \"The van is vast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_soft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 108,
+                    "start": 36,
+                    "word": "soft"
+                  }
+                ],
+                "until": 108,
+                "utterances": "And soft"
+              }
+            ],
+            "sentence": "And soft!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 72,
+                    "start": 34,
+                    "word": "is"
+                  },
+                  {
+                    "end": 125,
+                    "start": 73,
+                    "word": "fun"
+                  }
+                ],
+                "until": 125,
+                "utterances": "It is fun"
+              }
+            ],
+            "sentence": "It is fun!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_vast_soft_van.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 57,
+                    "start": 39,
+                    "word": "is"
+                  },
+                  {
+                    "end": 73,
+                    "start": 58,
+                    "word": "a"
+                  },
+                  {
+                    "end": 153,
+                    "start": 74,
+                    "word": "vast"
+                  },
+                  {
+                    "end": 198,
+                    "start": 154,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 251,
+                    "start": 199,
+                    "word": "van"
+                  }
+                ],
+                "until": 251,
+                "utterances": "It is a vast soft van"
+              }
+            ],
+            "sentence": "It is a vast, soft van."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_sit_in_the_van.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 107,
+                    "start": 64,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 134,
+                    "start": 112,
+                    "word": "in"
+                  },
+                  {
+                    "end": 144,
+                    "start": 135,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 145,
+                    "word": "van"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Tom sit in the van"
+              }
+            ],
+            "sentence": "Tom, sit in the van.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_sat_in_the_van.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 135,
+                    "start": 114,
+                    "word": "in"
+                  },
+                  {
+                    "end": 152,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 153,
+                    "word": "van"
+                  }
+                ],
+                "until": 203,
+                "utterances": "Tom sat in the van"
+              }
+            ],
+            "sentence": "Tom sat in the van."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_did_not_grin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 83,
+                    "start": 55,
+                    "word": "did"
+                  },
+                  {
+                    "end": 126,
+                    "start": 84,
+                    "word": "not"
+                  },
+                  {
+                    "end": 174,
+                    "start": 127,
+                    "word": "grin"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Tom did not grin"
+              }
+            ],
+            "sentence": "Tom did not grin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 106,
+                    "start": 62,
+                    "word": "did"
+                  }
+                ],
+                "until": 106,
+                "utterances": "Val did"
+              }
+            ],
+            "sentence": "Val did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_van_has_no_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 85,
+                    "start": 43,
+                    "word": "van"
+                  },
+                  {
+                    "end": 117,
+                    "start": 86,
+                    "word": "has"
+                  },
+                  {
+                    "end": 144,
+                    "start": 118,
+                    "word": "no"
+                  },
+                  {
+                    "end": 208,
+                    "start": 145,
+                    "word": "gas"
+                  }
+                ],
+                "until": 208,
+                "utterances": "The van has no gas"
+              }
+            ],
+            "sentence": "The van has no gas."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_said_no_gas_in_the_van.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 103,
+                    "start": 50,
+                    "word": "said"
+                  },
+                  {
+                    "end": 136,
+                    "start": 104,
+                    "word": "no"
+                  },
+                  {
+                    "end": 188,
+                    "start": 137,
+                    "word": "gas"
+                  },
+                  {
+                    "end": 208,
+                    "start": 189,
+                    "word": "in"
+                  },
+                  {
+                    "end": 223,
+                    "start": 209,
+                    "word": "the"
+                  },
+                  {
+                    "end": 276,
+                    "start": 227,
+                    "word": "van"
+                  }
+                ],
+                "until": 276,
+                "utterances": "Val said no gas in the van"
+              }
+            ],
+            "sentence": "Val said, \"no gas in the van!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_must_run.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 80,
+                    "start": 36,
+                    "word": "must"
+                  },
+                  {
+                    "end": 129,
+                    "start": 81,
+                    "word": "run"
+                  }
+                ],
+                "until": 129,
+                "utterances": "We must run"
+              }
+            ],
+            "sentence": "We must run."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Val is a Nun",
+  "titleimage": null
+}

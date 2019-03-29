@@ -1,0 +1,593 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lad_lit_the_loft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 20,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 133,
+                    "start": 97,
+                    "word": "lit"
+                  },
+                  {
+                    "end": 142,
+                    "start": 134,
+                    "word": "the"
+                  },
+                  {
+                    "end": 249,
+                    "start": 165,
+                    "word": "loft"
+                  }
+                ],
+                "until": 249,
+                "utterances": "The lad lit the loft"
+              }
+            ],
+            "sentence": "The lad lit the loft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_the_last_loft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 39,
+                    "start": 24,
+                    "word": "was"
+                  },
+                  {
+                    "end": 49,
+                    "start": 40,
+                    "word": "the"
+                  },
+                  {
+                    "end": 89,
+                    "start": 50,
+                    "word": "last"
+                  },
+                  {
+                    "end": 151,
+                    "start": 90,
+                    "word": "loft"
+                  }
+                ],
+                "until": 151,
+                "utterances": "It was the last loft"
+              },
+              {
+                "audio": "on_the_list.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "on"
+                  },
+                  {
+                    "end": 38,
+                    "start": 31,
+                    "word": "the"
+                  },
+                  {
+                    "end": 99,
+                    "start": 39,
+                    "word": "list"
+                  }
+                ],
+                "until": 99,
+                "utterances": "on the list"
+              }
+            ],
+            "sentence": "It was the last loft on the list."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lad_lost_the_lid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 100,
+                    "start": 19,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 165,
+                    "start": 105,
+                    "word": "lost"
+                  },
+                  {
+                    "end": 195,
+                    "start": 186,
+                    "word": "the"
+                  },
+                  {
+                    "end": 242,
+                    "start": 196,
+                    "word": "lid"
+                  }
+                ],
+                "until": 242,
+                "utterances": "The lad lost the lid"
+              }
+            ],
+            "sentence": "The lad lost the lid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_he_do.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 57,
+                    "start": 40,
+                    "word": "did"
+                  },
+                  {
+                    "end": 65,
+                    "start": 58,
+                    "word": "he"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "do"
+                  }
+                ],
+                "until": 112,
+                "utterances": "What did he do"
+              }
+            ],
+            "sentence": "What did he do?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_hid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 62,
+                    "start": 25,
+                    "word": "hid"
+                  }
+                ],
+                "until": 62,
+                "utterances": "He hid"
+              }
+            ],
+            "sentence": "He hid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sat_on_the_lid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 136,
+                    "start": 99,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 148,
+                    "start": 137,
+                    "word": "on"
+                  },
+                  {
+                    "end": 157,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 158,
+                    "word": "lid"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Sis sat on the lid"
+              }
+            ],
+            "sentence": "Sis sat on the lid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lid_was_not_hid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "lid"
+                  },
+                  {
+                    "end": 88,
+                    "start": 68,
+                    "word": "was"
+                  },
+                  {
+                    "end": 119,
+                    "start": 89,
+                    "word": "not"
+                  },
+                  {
+                    "end": 166,
+                    "start": 120,
+                    "word": "hid"
+                  }
+                ],
+                "until": 166,
+                "utterances": "The lid was not hid"
+              }
+            ],
+            "sentence": "The lid was not hid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lid_was_in_the_loft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 28,
+                    "word": "lid"
+                  },
+                  {
+                    "end": 107,
+                    "start": 79,
+                    "word": "was"
+                  },
+                  {
+                    "end": 126,
+                    "start": 108,
+                    "word": "in"
+                  },
+                  {
+                    "end": 136,
+                    "start": 127,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 137,
+                    "word": "loft"
+                  }
+                ],
+                "until": 209,
+                "utterances": "The lid was in the loft"
+              }
+            ],
+            "sentence": "The lid was in the loft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_loft_was_lit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 26,
+                    "word": "loft"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "was"
+                  },
+                  {
+                    "end": 142,
+                    "start": 87,
+                    "word": "lit"
+                  }
+                ],
+                "until": 142,
+                "utterances": "The loft was lit"
+              }
+            ],
+            "sentence": "The loft was lit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_was_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 54,
+                    "start": 40,
+                    "word": "was"
+                  },
+                  {
+                    "end": 139,
+                    "start": 55,
+                    "word": "mad"
+                  }
+                ],
+                "until": 139,
+                "utterances": "Dad was mad"
+              }
+            ],
+            "sentence": "Dad was mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_and_the_lad_got_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 110,
+                    "start": 92,
+                    "word": "and"
+                  },
+                  {
+                    "end": 116,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 175,
+                    "start": 117,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 202,
+                    "start": 176,
+                    "word": "got"
+                  },
+                  {
+                    "end": 256,
+                    "start": 203,
+                    "word": "sad"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Sis and the lad got sad"
+              }
+            ],
+            "sentence": "Sis and the lad got sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_not_a_fad_to_lift_the_lids_in_lit_lofts.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 42,
+                    "start": 26,
+                    "word": "is"
+                  },
+                  {
+                    "end": 69,
+                    "start": 43,
+                    "word": "not"
+                  },
+                  {
+                    "end": 73,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 74,
+                    "word": "fad"
+                  },
+                  {
+                    "end": 161,
+                    "start": 145,
+                    "word": "to"
+                  },
+                  {
+                    "end": 198,
+                    "start": 162,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 207,
+                    "start": 199,
+                    "word": "the"
+                  },
+                  {
+                    "end": 273,
+                    "start": 211,
+                    "word": "lids"
+                  },
+                  {
+                    "end": 291,
+                    "start": 274,
+                    "word": "in"
+                  },
+                  {
+                    "end": 324,
+                    "start": 292,
+                    "word": "lit"
+                  },
+                  {
+                    "end": 391,
+                    "start": 325,
+                    "word": "lofts"
+                  }
+                ],
+                "until": 391,
+                "utterances": "It is not a fad to lift the lids in lit lofts"
+              }
+            ],
+            "sentence": "It is not a fad to lift the lids in lit lofts."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Loft",
+  "titleimage": null
+}

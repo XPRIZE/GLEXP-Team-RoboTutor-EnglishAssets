@@ -1,0 +1,630 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_has_six_cups.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 88,
+                    "start": 57,
+                    "word": "has"
+                  },
+                  {
+                    "end": 143,
+                    "start": 89,
+                    "word": "six"
+                  },
+                  {
+                    "end": 207,
+                    "start": 144,
+                    "word": "cups"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Mom has six cups"
+              }
+            ],
+            "sentence": "Mom has six cups."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_set_them_in_a_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "set"
+                  },
+                  {
+                    "end": 110,
+                    "start": 83,
+                    "word": "them"
+                  },
+                  {
+                    "end": 142,
+                    "start": 118,
+                    "word": "in"
+                  },
+                  {
+                    "end": 160,
+                    "start": 143,
+                    "word": "a"
+                  },
+                  {
+                    "end": 232,
+                    "start": 161,
+                    "word": "box"
+                  }
+                ],
+                "until": 232,
+                "utterances": "She set them in a box"
+              }
+            ],
+            "sentence": "She set them in a box."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_set_the_box_on_the_desk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 90,
+                    "start": 68,
+                    "word": "she"
+                  },
+                  {
+                    "end": 124,
+                    "start": 91,
+                    "word": "set"
+                  },
+                  {
+                    "end": 138,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 139,
+                    "word": "box"
+                  },
+                  {
+                    "end": 228,
+                    "start": 196,
+                    "word": "on"
+                  },
+                  {
+                    "end": 239,
+                    "start": 229,
+                    "word": "the"
+                  },
+                  {
+                    "end": 298,
+                    "start": 240,
+                    "word": "desk"
+                  }
+                ],
+                "until": 298,
+                "utterances": "Then she set the box on the desk"
+              }
+            ],
+            "sentence": "Then, she set the box on the desk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_has_six_plants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 80,
+                    "start": 57,
+                    "word": "has"
+                  },
+                  {
+                    "end": 123,
+                    "start": 81,
+                    "word": "six"
+                  },
+                  {
+                    "end": 203,
+                    "start": 124,
+                    "word": "plants"
+                  }
+                ],
+                "until": 203,
+                "utterances": "Mom has six plants"
+              }
+            ],
+            "sentence": "Mom has six plants."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_set_them_with_the_cups.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 81,
+                    "start": 47,
+                    "word": "set"
+                  },
+                  {
+                    "end": 127,
+                    "start": 82,
+                    "word": "them"
+                  },
+                  {
+                    "end": 163,
+                    "start": 128,
+                    "word": "with"
+                  },
+                  {
+                    "end": 180,
+                    "start": 164,
+                    "word": "the"
+                  },
+                  {
+                    "end": 241,
+                    "start": 181,
+                    "word": "cups"
+                  }
+                ],
+                "until": 241,
+                "utterances": "She set them with the cups"
+              }
+            ],
+            "sentence": "She set them with the cups."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_went_to_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 71,
+                    "start": 48,
+                    "word": "she"
+                  },
+                  {
+                    "end": 109,
+                    "start": 72,
+                    "word": "went"
+                  },
+                  {
+                    "end": 126,
+                    "start": 110,
+                    "word": "to"
+                  },
+                  {
+                    "end": 137,
+                    "start": 127,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 138,
+                    "word": "pond"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Then she went to the pond"
+              }
+            ],
+            "sentence": "Then she went to the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_got_a_bag_of_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 73,
+                    "start": 37,
+                    "word": "got"
+                  },
+                  {
+                    "end": 79,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 101,
+                    "start": 80,
+                    "word": "bag"
+                  },
+                  {
+                    "end": 124,
+                    "start": 102,
+                    "word": "of"
+                  },
+                  {
+                    "end": 181,
+                    "start": 142,
+                    "word": "mud"
+                  }
+                ],
+                "until": 181,
+                "utterances": "She got a bag of mud"
+              }
+            ],
+            "sentence": "She got a bag of mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_mom_do_next.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 65,
+                    "start": 46,
+                    "word": "did"
+                  },
+                  {
+                    "end": 105,
+                    "start": 66,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 124,
+                    "start": 106,
+                    "word": "do"
+                  },
+                  {
+                    "end": 184,
+                    "start": 125,
+                    "word": "next"
+                  }
+                ],
+                "until": 184,
+                "utterances": "What did Mom do next"
+              }
+            ],
+            "sentence": "What did Mom do next?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_slid_the_mud_in_the_cups.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 104,
+                    "start": 53,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 119,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 120,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 182,
+                    "start": 168,
+                    "word": "in"
+                  },
+                  {
+                    "end": 192,
+                    "start": 183,
+                    "word": "the"
+                  },
+                  {
+                    "end": 250,
+                    "start": 193,
+                    "word": "cups"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Mom slid the mud in the cups"
+              }
+            ],
+            "sentence": "Mom slid the mud in the cups."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_had_to_mix_the_mud.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 8,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 98,
+                    "start": 74,
+                    "word": "she"
+                  },
+                  {
+                    "end": 117,
+                    "start": 99,
+                    "word": "had"
+                  },
+                  {
+                    "end": 136,
+                    "start": 118,
+                    "word": "to"
+                  },
+                  {
+                    "end": 179,
+                    "start": 137,
+                    "word": "mix"
+                  },
+                  {
+                    "end": 190,
+                    "start": 180,
+                    "word": "the"
+                  },
+                  {
+                    "end": 214,
+                    "start": 191,
+                    "word": "mud"
+                  }
+                ],
+                "until": 214,
+                "utterances": "Then she had to mix the mud"
+              }
+            ],
+            "sentence": "Then she had to mix the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "last_mom_set_the_plants_in_the_cups_with_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Last"
+                  },
+                  {
+                    "end": 126,
+                    "start": 88,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 151,
+                    "start": 127,
+                    "word": "set"
+                  },
+                  {
+                    "end": 166,
+                    "start": 158,
+                    "word": "the"
+                  },
+                  {
+                    "end": 216,
+                    "start": 167,
+                    "word": "plants"
+                  },
+                  {
+                    "end": 238,
+                    "start": 217,
+                    "word": "in"
+                  },
+                  {
+                    "end": 248,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 289,
+                    "start": 249,
+                    "word": "cups"
+                  },
+                  {
+                    "end": 313,
+                    "start": 290,
+                    "word": "with"
+                  },
+                  {
+                    "end": 320,
+                    "start": 314,
+                    "word": "the"
+                  },
+                  {
+                    "end": 352,
+                    "start": 321,
+                    "word": "mud"
+                  }
+                ],
+                "until": 352,
+                "utterances": "Last Mom set the plants in the cups with the mud"
+              }
+            ],
+            "sentence": "Last, Mom set the plants in the cups with the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_looks_good_mom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 67,
+                    "start": 35,
+                    "word": "looks"
+                  },
+                  {
+                    "end": 101,
+                    "start": 68,
+                    "word": "good"
+                  },
+                  {
+                    "end": 141,
+                    "start": 102,
+                    "word": "Mom"
+                  }
+                ],
+                "until": 141,
+                "utterances": "That looks good Mom"
+              }
+            ],
+            "sentence": "That looks good, Mom!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Mom has Six Cups",
+  "titleimage": null
+}

@@ -1,0 +1,831 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_is_a_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 73,
+                    "start": 53,
+                    "word": "is"
+                  },
+                  {
+                    "end": 117,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 165,
+                    "start": 118,
+                    "word": "man"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Pat is a man"
+              }
+            ],
+            "sentence": "Pat is a man."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_a_wife.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 66,
+                    "start": 37,
+                    "word": "has"
+                  },
+                  {
+                    "end": 69,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 138,
+                    "start": 70,
+                    "word": "wife"
+                  }
+                ],
+                "until": 138,
+                "utterances": "He has a wife"
+              }
+            ],
+            "sentence": "He has a wife."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_name_is_patty.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 77,
+                    "start": 65,
+                    "word": "name"
+                  },
+                  {
+                    "end": 99,
+                    "start": 83,
+                    "word": "is"
+                  },
+                  {
+                    "end": 150,
+                    "start": 100,
+                    "word": "Patty"
+                  }
+                ],
+                "until": 150,
+                "utterances": "Her name is Patty"
+              }
+            ],
+            "sentence": "Her name is Patty."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_makes_pat_smile.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 80,
+                    "start": 48,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 101,
+                    "start": 81,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 177,
+                    "start": 116,
+                    "word": "smile"
+                  }
+                ],
+                "until": 177,
+                "utterances": "Patty makes Pat smile"
+              }
+            ],
+            "sentence": "Patty makes Pat smile."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_and_pat_like_to_hike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 74,
+                    "start": 48,
+                    "word": "and"
+                  },
+                  {
+                    "end": 108,
+                    "start": 97,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 144,
+                    "start": 109,
+                    "word": "like"
+                  },
+                  {
+                    "end": 164,
+                    "start": 145,
+                    "word": "to"
+                  },
+                  {
+                    "end": 202,
+                    "start": 165,
+                    "word": "hike"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Patty and Pat like to hike"
+              }
+            ],
+            "sentence": "Patty and Pat like to hike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_take_a_hike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 73,
+                    "start": 44,
+                    "word": "take"
+                  },
+                  {
+                    "end": 81,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 122,
+                    "start": 89,
+                    "word": "hike"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Let's take a hike"
+              }
+            ],
+            "sentence": "Let's take a hike!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_hike_past_the_elm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 60,
+                    "start": 31,
+                    "word": "hike"
+                  },
+                  {
+                    "end": 114,
+                    "start": 61,
+                    "word": "past"
+                  },
+                  {
+                    "end": 129,
+                    "start": 115,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 136,
+                    "word": "elm"
+                  }
+                ],
+                "until": 172,
+                "utterances": "They hike past the elm"
+              }
+            ],
+            "sentence": "They hike past the elm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_hike_past_the_pine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 54,
+                    "start": 29,
+                    "word": "hike"
+                  },
+                  {
+                    "end": 111,
+                    "start": 55,
+                    "word": "past"
+                  },
+                  {
+                    "end": 121,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 122,
+                    "word": "pine"
+                  }
+                ],
+                "until": 178,
+                "utterances": "They hike past the pine"
+              }
+            ],
+            "sentence": "They hike past the pine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_hike_past_the_vine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 63,
+                    "start": 29,
+                    "word": "hike"
+                  },
+                  {
+                    "end": 112,
+                    "start": 64,
+                    "word": "past"
+                  },
+                  {
+                    "end": 124,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 149,
+                    "word": "vine"
+                  }
+                ],
+                "until": 185,
+                "utterances": "They hike past the vine"
+              }
+            ],
+            "sentence": "They hike past the vine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_and_pat_like_to_drive.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 78,
+                    "start": 49,
+                    "word": "and"
+                  },
+                  {
+                    "end": 109,
+                    "start": 79,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 144,
+                    "start": 110,
+                    "word": "like"
+                  },
+                  {
+                    "end": 158,
+                    "start": 145,
+                    "word": "to"
+                  },
+                  {
+                    "end": 204,
+                    "start": 159,
+                    "word": "drive"
+                  }
+                ],
+                "until": 204,
+                "utterances": "Patty and Pat like to drive"
+              }
+            ],
+            "sentence": "Patty and Pat like to drive."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_take_a_ride.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 60,
+                    "start": 34,
+                    "word": "take"
+                  },
+                  {
+                    "end": 69,
+                    "start": 61,
+                    "word": "a"
+                  },
+                  {
+                    "end": 117,
+                    "start": 70,
+                    "word": "ride"
+                  }
+                ],
+                "until": 117,
+                "utterances": "Let's take a ride"
+              }
+            ],
+            "sentence": "Let's take a ride!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_and_pat_drive_to_the_side_of_the_lake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 84,
+                    "start": 61,
+                    "word": "and"
+                  },
+                  {
+                    "end": 124,
+                    "start": 85,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 177,
+                    "start": 125,
+                    "word": "drive"
+                  },
+                  {
+                    "end": 192,
+                    "start": 178,
+                    "word": "to"
+                  },
+                  {
+                    "end": 202,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 226,
+                    "start": 203,
+                    "word": "side"
+                  },
+                  {
+                    "end": 238,
+                    "start": 227,
+                    "word": "of"
+                  },
+                  {
+                    "end": 249,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 305,
+                    "start": 258,
+                    "word": "lake"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Patty and Pat drive to the side of the lake"
+              }
+            ],
+            "sentence": "Patty and Pat drive to the side of the lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_fine_drive.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 53,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 116,
+                    "start": 54,
+                    "word": "fine"
+                  },
+                  {
+                    "end": 187,
+                    "start": 117,
+                    "word": "drive"
+                  }
+                ],
+                "until": 187,
+                "utterances": "What a fine drive"
+              }
+            ],
+            "sentence": "What a fine drive!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_and_pat_like_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 78,
+                    "start": 52,
+                    "word": "and"
+                  },
+                  {
+                    "end": 108,
+                    "start": 79,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 143,
+                    "start": 109,
+                    "word": "like"
+                  },
+                  {
+                    "end": 184,
+                    "start": 144,
+                    "word": "cake"
+                  }
+                ],
+                "until": 184,
+                "utterances": "Patty and Pat like cake"
+              }
+            ],
+            "sentence": " Patty and Pat like cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_take_a_bite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 65,
+                    "start": 39,
+                    "word": "take"
+                  },
+                  {
+                    "end": 72,
+                    "start": 66,
+                    "word": "a"
+                  },
+                  {
+                    "end": 120,
+                    "start": 73,
+                    "word": "bite"
+                  }
+                ],
+                "until": 120,
+                "utterances": "Let's take a bite"
+              }
+            ],
+            "sentence": "Let's take a bite!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "patty_and_pat_bite_the_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 71,
+                    "start": 45,
+                    "word": "and"
+                  },
+                  {
+                    "end": 98,
+                    "start": 72,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 142,
+                    "start": 99,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 162,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 207,
+                    "start": 163,
+                    "word": "cake"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Patty and Pat bite the cake"
+              }
+            ],
+            "sentence": "Patty and Pat bite the cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cake_makes_patty_and_pat_smile.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 24,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 105,
+                    "start": 78,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 147,
+                    "start": 106,
+                    "word": "Patty"
+                  },
+                  {
+                    "end": 162,
+                    "start": 148,
+                    "word": "and"
+                  },
+                  {
+                    "end": 195,
+                    "start": 163,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 258,
+                    "start": 196,
+                    "word": "smile"
+                  }
+                ],
+                "until": 258,
+                "utterances": "The cake makes Patty and Pat smile"
+              }
+            ],
+            "sentence": "The cake makes Patty and Pat smile!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 76,
+                    "start": 35,
+                    "word": "end"
+                  }
+                ],
+                "until": 76,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "Word",
+  "title": "Pat and Patty",
+  "titleimage": null
+}

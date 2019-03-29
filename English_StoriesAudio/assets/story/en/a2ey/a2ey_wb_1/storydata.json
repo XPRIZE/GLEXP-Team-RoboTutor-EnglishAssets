@@ -1,0 +1,800 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_name_is_joe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 67,
+                    "start": 31,
+                    "word": "name"
+                  },
+                  {
+                    "end": 86,
+                    "start": 68,
+                    "word": "is"
+                  },
+                  {
+                    "end": 121,
+                    "start": 87,
+                    "word": "Joe"
+                  }
+                ],
+                "until": 121,
+                "utterances": "My name is Joe"
+              }
+            ],
+            "sentence": "My name is Joe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_love_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 17,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 69,
+                    "start": 37,
+                    "word": "Love"
+                  },
+                  {
+                    "end": 124,
+                    "start": 70,
+                    "word": "Cake"
+                  }
+                ],
+                "until": 124,
+                "utterances": "I Love Cake"
+              }
+            ],
+            "sentence": "I love cake!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cake_makes_me_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Cake"
+                  },
+                  {
+                    "end": 97,
+                    "start": 69,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 112,
+                    "start": 98,
+                    "word": "me"
+                  },
+                  {
+                    "end": 137,
+                    "start": 113,
+                    "word": "glad"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Cake makes me glad"
+              }
+            ],
+            "sentence": "Cake makes me glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_had_a_big_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 37,
+                    "word": "had"
+                  },
+                  {
+                    "end": 62,
+                    "start": 58,
+                    "word": "a"
+                  },
+                  {
+                    "end": 100,
+                    "start": 63,
+                    "word": "big"
+                  },
+                  {
+                    "end": 144,
+                    "start": 101,
+                    "word": "cake"
+                  }
+                ],
+                "until": 144,
+                "utterances": "I had a big cake"
+              }
+            ],
+            "sentence": "I had a big cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_mom_gave_the_cake_to_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 82,
+                    "start": 35,
+                    "word": "mom"
+                  },
+                  {
+                    "end": 113,
+                    "start": 83,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 131,
+                    "start": 121,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 132,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 185,
+                    "start": 170,
+                    "word": "to"
+                  },
+                  {
+                    "end": 211,
+                    "start": 186,
+                    "word": "me"
+                  }
+                ],
+                "until": 211,
+                "utterances": "My mom gave the cake to me"
+              }
+            ],
+            "sentence": "My mom gave the cake to me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_i_ate_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 47,
+                    "start": 29,
+                    "word": "I"
+                  },
+                  {
+                    "end": 85,
+                    "start": 69,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 109,
+                    "start": 86,
+                    "word": "it"
+                  }
+                ],
+                "until": 109,
+                "utterances": "But I ate it"
+              }
+            ],
+            "sentence": "But I ate it!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_did_save_a_bit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 25,
+                    "word": "did"
+                  },
+                  {
+                    "end": 120,
+                    "start": 71,
+                    "word": "save"
+                  },
+                  {
+                    "end": 144,
+                    "start": 129,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 145,
+                    "word": "bit"
+                  }
+                ],
+                "until": 194,
+                "utterances": "I did save a bit"
+              }
+            ],
+            "sentence": "I did save a bit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_i_ate_that_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 64,
+                    "start": 48,
+                    "word": "I"
+                  },
+                  {
+                    "end": 98,
+                    "start": 76,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 131,
+                    "start": 99,
+                    "word": "that"
+                  },
+                  {
+                    "end": 172,
+                    "start": 138,
+                    "word": "too"
+                  }
+                ],
+                "until": 172,
+                "utterances": "But I ate that too"
+              }
+            ],
+            "sentence": "But I ate that, too!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_mom_can_bake_lots_of_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 74,
+                    "start": 35,
+                    "word": "mom"
+                  },
+                  {
+                    "end": 103,
+                    "start": 75,
+                    "word": "can"
+                  },
+                  {
+                    "end": 145,
+                    "start": 104,
+                    "word": "bake"
+                  },
+                  {
+                    "end": 194,
+                    "start": 158,
+                    "word": "lots"
+                  },
+                  {
+                    "end": 202,
+                    "start": 195,
+                    "word": "of"
+                  },
+                  {
+                    "end": 265,
+                    "start": 203,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 265,
+                "utterances": "My mom can bake lots of cakes"
+              }
+            ],
+            "sentence": "My mom can bake lots of cakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_bake_hot_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 68,
+                    "start": 44,
+                    "word": "can"
+                  },
+                  {
+                    "end": 97,
+                    "start": 69,
+                    "word": "bake"
+                  },
+                  {
+                    "end": 135,
+                    "start": 98,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 194,
+                    "start": 136,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 194,
+                "utterances": "She can bake hot cakes"
+              }
+            ],
+            "sentence": "She can bake hot cakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_bake_mint_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 59,
+                    "start": 35,
+                    "word": "can"
+                  },
+                  {
+                    "end": 90,
+                    "start": 60,
+                    "word": "bake"
+                  },
+                  {
+                    "end": 127,
+                    "start": 91,
+                    "word": "mint"
+                  },
+                  {
+                    "end": 192,
+                    "start": 128,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 192,
+                "utterances": "She can bake mint cakes"
+              }
+            ],
+            "sentence": "She can bake mint cakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_bake_red_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 55,
+                    "start": 34,
+                    "word": "can"
+                  },
+                  {
+                    "end": 90,
+                    "start": 56,
+                    "word": "bake"
+                  },
+                  {
+                    "end": 118,
+                    "start": 91,
+                    "word": "red"
+                  },
+                  {
+                    "end": 184,
+                    "start": 119,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 184,
+                "utterances": "She can bake red cakes"
+              }
+            ],
+            "sentence": "She can bake red cakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_mom_can_bake_the_best_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 71,
+                    "start": 27,
+                    "word": "mom"
+                  },
+                  {
+                    "end": 99,
+                    "start": 76,
+                    "word": "can"
+                  },
+                  {
+                    "end": 127,
+                    "start": 100,
+                    "word": "bake"
+                  },
+                  {
+                    "end": 137,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 138,
+                    "word": "best"
+                  },
+                  {
+                    "end": 244,
+                    "start": 175,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 244,
+                "utterances": "My mom can bake the best cakes"
+              }
+            ],
+            "sentence": "My mom can bake the best cakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_made_me_ten_cakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 55,
+                    "start": 27,
+                    "word": "made"
+                  },
+                  {
+                    "end": 69,
+                    "start": 56,
+                    "word": "me"
+                  },
+                  {
+                    "end": 111,
+                    "start": 70,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 190,
+                    "start": 112,
+                    "word": "cakes"
+                  }
+                ],
+                "until": 190,
+                "utterances": "She made me ten cakes"
+              }
+            ],
+            "sentence": "She made me ten cakes!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ten_cakes_makes_me_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Ten"
+                  },
+                  {
+                    "end": 93,
+                    "start": 40,
+                    "word": "cakes"
+                  },
+                  {
+                    "end": 127,
+                    "start": 94,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 158,
+                    "start": 128,
+                    "word": "me"
+                  },
+                  {
+                    "end": 211,
+                    "start": 159,
+                    "word": "glad"
+                  }
+                ],
+                "until": 211,
+                "utterances": "Ten cakes makes me glad"
+              }
+            ],
+            "sentence": "Ten cakes makes me glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_cakes_makes_me_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 97,
+                    "start": 39,
+                    "word": "cakes"
+                  },
+                  {
+                    "end": 139,
+                    "start": 110,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 153,
+                    "start": 140,
+                    "word": "me"
+                  },
+                  {
+                    "end": 206,
+                    "start": 154,
+                    "word": "sad"
+                  }
+                ],
+                "until": 206,
+                "utterances": "No cakes makes me sad"
+              }
+            ],
+            "sentence": "No cakes makes me sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_love_the_taste_of_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 17,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 94,
+                    "start": 18,
+                    "word": "love"
+                  },
+                  {
+                    "end": 110,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 160,
+                    "start": 111,
+                    "word": "taste"
+                  },
+                  {
+                    "end": 168,
+                    "start": 161,
+                    "word": "of"
+                  },
+                  {
+                    "end": 215,
+                    "start": 169,
+                    "word": "cake"
+                  }
+                ],
+                "until": 215,
+                "utterances": "I love the taste of cake"
+              }
+            ],
+            "sentence": "I love the taste of cake!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "I Love Cake",
+  "titleimage": null
+}

@@ -1,0 +1,918 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jill_is_a_girl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Jill"
+                  },
+                  {
+                    "end": 66,
+                    "start": 51,
+                    "word": "is"
+                  },
+                  {
+                    "end": 74,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 121,
+                    "start": 75,
+                    "word": "girl"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Jill is a girl"
+              }
+            ],
+            "sentence": "Jill is a girl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_helps_her_mom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 80,
+                    "start": 43,
+                    "word": "helps"
+                  },
+                  {
+                    "end": 101,
+                    "start": 90,
+                    "word": "her"
+                  },
+                  {
+                    "end": 142,
+                    "start": 102,
+                    "word": "mom"
+                  }
+                ],
+                "until": 142,
+                "utterances": "She helps her mom"
+              }
+            ],
+            "sentence": "She helps her mom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jill_is_a_good_girl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Jill"
+                  },
+                  {
+                    "end": 71,
+                    "start": 56,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 72,
+                    "word": "a"
+                  },
+                  {
+                    "end": 116,
+                    "start": 79,
+                    "word": "good"
+                  },
+                  {
+                    "end": 155,
+                    "start": 117,
+                    "word": "girl"
+                  }
+                ],
+                "until": 155,
+                "utterances": "Jill is a good girl"
+              }
+            ],
+            "sentence": "Jill is a good girl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_says_get_up_jill.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 94,
+                    "start": 41,
+                    "word": "says"
+                  },
+                  {
+                    "end": 113,
+                    "start": 95,
+                    "word": "get"
+                  },
+                  {
+                    "end": 138,
+                    "start": 114,
+                    "word": "up"
+                  },
+                  {
+                    "end": 178,
+                    "start": 139,
+                    "word": "Jill"
+                  }
+                ],
+                "until": 178,
+                "utterances": "Mom says get up Jill"
+              }
+            ],
+            "sentence": "Mom says, \"get up Jill."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wake_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Wake"
+                  },
+                  {
+                    "end": 66,
+                    "start": 40,
+                    "word": "up"
+                  }
+                ],
+                "until": 66,
+                "utterances": "Wake up"
+              }
+            ],
+            "sentence": "Wake up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "put_on_a_skirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Put"
+                  },
+                  {
+                    "end": 66,
+                    "start": 40,
+                    "word": "on"
+                  },
+                  {
+                    "end": 79,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 124,
+                    "start": 80,
+                    "word": "skirt"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Put on a skirt"
+              }
+            ],
+            "sentence": "Put on a skirt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "put_on_a_shirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Put"
+                  },
+                  {
+                    "end": 76,
+                    "start": 43,
+                    "word": "on"
+                  },
+                  {
+                    "end": 91,
+                    "start": 81,
+                    "word": "a"
+                  },
+                  {
+                    "end": 152,
+                    "start": 92,
+                    "word": "shirt"
+                  }
+                ],
+                "until": 152,
+                "utterances": "Put on a shirt"
+              }
+            ],
+            "sentence": "Put on a shirt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_to_get_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 67,
+                    "start": 51,
+                    "word": "to"
+                  },
+                  {
+                    "end": 98,
+                    "start": 68,
+                    "word": "get"
+                  },
+                  {
+                    "end": 121,
+                    "start": 99,
+                    "word": "up"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Time to get up"
+              }
+            ],
+            "sentence": "Time to get up.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_jill_gets_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 75,
+                    "start": 41,
+                    "word": "Jill"
+                  },
+                  {
+                    "end": 104,
+                    "start": 76,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 138,
+                    "start": 105,
+                    "word": "up"
+                  }
+                ],
+                "until": 138,
+                "utterances": "So Jill gets up"
+              }
+            ],
+            "sentence": "So Jill gets up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_she_puts_on_a_shirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 104,
+                    "start": 83,
+                    "word": "she"
+                  },
+                  {
+                    "end": 136,
+                    "start": 105,
+                    "word": "puts"
+                  },
+                  {
+                    "end": 165,
+                    "start": 137,
+                    "word": "on"
+                  },
+                  {
+                    "end": 177,
+                    "start": 166,
+                    "word": "a"
+                  },
+                  {
+                    "end": 232,
+                    "start": 178,
+                    "word": "shirt"
+                  }
+                ],
+                "until": 232,
+                "utterances": "First she puts on a shirt"
+              }
+            ],
+            "sentence": "First, she puts on a shirt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_puts_on_a_skirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 70,
+                    "start": 47,
+                    "word": "she"
+                  },
+                  {
+                    "end": 107,
+                    "start": 71,
+                    "word": "puts"
+                  },
+                  {
+                    "end": 141,
+                    "start": 108,
+                    "word": "on"
+                  },
+                  {
+                    "end": 152,
+                    "start": 142,
+                    "word": "a"
+                  },
+                  {
+                    "end": 218,
+                    "start": 153,
+                    "word": "skirt"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Then she puts on a skirt"
+              }
+            ],
+            "sentence": "Then she puts on a skirt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_to_cook.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 58,
+                    "start": 51,
+                    "word": "to"
+                  },
+                  {
+                    "end": 107,
+                    "start": 59,
+                    "word": "cook"
+                  }
+                ],
+                "until": 107,
+                "utterances": "Time to cook"
+              }
+            ],
+            "sentence": "Time to cook!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_says_stir_this.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 101,
+                    "start": 45,
+                    "word": "says"
+                  },
+                  {
+                    "end": 172,
+                    "start": 130,
+                    "word": "stir"
+                  },
+                  {
+                    "end": 228,
+                    "start": 173,
+                    "word": "this"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Mom says stir this"
+              }
+            ],
+            "sentence": "Mom says, \"stir this."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "stir_that.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Stir"
+                  },
+                  {
+                    "end": 103,
+                    "start": 54,
+                    "word": "that"
+                  }
+                ],
+                "until": 103,
+                "utterances": "Stir that"
+              }
+            ],
+            "sentence": "Stir that."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_mix_this.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 98,
+                    "start": 59,
+                    "word": "mix"
+                  },
+                  {
+                    "end": 155,
+                    "start": 99,
+                    "word": "this"
+                  }
+                ],
+                "until": 155,
+                "utterances": "First mix this"
+              },
+              {
+                "audio": "then_mix_that.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 91,
+                    "start": 47,
+                    "word": "mix"
+                  },
+                  {
+                    "end": 143,
+                    "start": 92,
+                    "word": "that"
+                  }
+                ],
+                "until": 143,
+                "utterances": "Then mix that"
+              }
+            ],
+            "sentence": "First mix this. Then mix that."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "stir_it_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Stir"
+                  },
+                  {
+                    "end": 62,
+                    "start": 55,
+                    "word": "it"
+                  },
+                  {
+                    "end": 99,
+                    "start": 63,
+                    "word": "up"
+                  }
+                ],
+                "until": 99,
+                "utterances": "Stir it up"
+              }
+            ],
+            "sentence": "Stir it up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_you_stir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 78,
+                    "start": 65,
+                    "word": "you"
+                  },
+                  {
+                    "end": 132,
+                    "start": 79,
+                    "word": "stir"
+                  }
+                ],
+                "until": 132,
+                "utterances": "First you stir"
+              }
+            ],
+            "sentence": "First you stir."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "second_you_stir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Second"
+                  },
+                  {
+                    "end": 86,
+                    "start": 76,
+                    "word": "you"
+                  },
+                  {
+                    "end": 134,
+                    "start": 87,
+                    "word": "stir"
+                  }
+                ],
+                "until": 134,
+                "utterances": "Second you stir"
+              }
+            ],
+            "sentence": "Second you stir."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "third_stir_some_more.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "Third"
+                  },
+                  {
+                    "end": 132,
+                    "start": 92,
+                    "word": "stir"
+                  },
+                  {
+                    "end": 156,
+                    "start": 133,
+                    "word": "some"
+                  },
+                  {
+                    "end": 207,
+                    "start": 157,
+                    "word": "more"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Third stir some more"
+              }
+            ],
+            "sentence": "Third, stir some more!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jill_had_to_stir_and_stir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Jill"
+                  },
+                  {
+                    "end": 68,
+                    "start": 47,
+                    "word": "had"
+                  },
+                  {
+                    "end": 82,
+                    "start": 69,
+                    "word": "to"
+                  },
+                  {
+                    "end": 140,
+                    "start": 83,
+                    "word": "stir"
+                  },
+                  {
+                    "end": 172,
+                    "start": 141,
+                    "word": "and"
+                  },
+                  {
+                    "end": 217,
+                    "start": 173,
+                    "word": "stir"
+                  }
+                ],
+                "until": 217,
+                "utterances": "Jill had to stir and stir"
+              }
+            ],
+            "sentence": "Jill had to stir and stir."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_good_girl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 46,
+                    "start": 40,
+                    "word": "a"
+                  },
+                  {
+                    "end": 90,
+                    "start": 47,
+                    "word": "good"
+                  },
+                  {
+                    "end": 142,
+                    "start": 91,
+                    "word": "girl"
+                  }
+                ],
+                "until": 142,
+                "utterances": "What a good girl"
+              }
+            ],
+            "sentence": "What a good girl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 32,
+                    "word": "end"
+                  }
+                ],
+                "until": 68,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Let's Make Food",
+  "titleimage": null
+}

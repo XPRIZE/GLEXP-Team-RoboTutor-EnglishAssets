@@ -1,0 +1,780 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_had_a_hot_rod.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 64,
+                    "start": 41,
+                    "word": "had"
+                  },
+                  {
+                    "end": 71,
+                    "start": 65,
+                    "word": "a"
+                  },
+                  {
+                    "end": 101,
+                    "start": 72,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 145,
+                    "start": 102,
+                    "word": "rod"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Dad had a hot rod"
+              }
+            ],
+            "sentence": "Dad had a hot rod."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 52,
+                    "start": 28,
+                    "word": "was"
+                  },
+                  {
+                    "end": 55,
+                    "start": 53,
+                    "word": "a"
+                  },
+                  {
+                    "end": 119,
+                    "start": 56,
+                    "word": "gift"
+                  }
+                ],
+                "until": 119,
+                "utterances": "It was a gift"
+              }
+            ],
+            "sentence": "It was a gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_was_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 52,
+                    "start": 36,
+                    "word": "was"
+                  },
+                  {
+                    "end": 108,
+                    "start": 53,
+                    "word": "glad"
+                  }
+                ],
+                "until": 108,
+                "utterances": "Dad was glad"
+              }
+            ],
+            "sentence": "Dad was glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "glad_dad_hid_the_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Glad"
+                  },
+                  {
+                    "end": 81,
+                    "start": 44,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 102,
+                    "start": 82,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 111,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 373,
+                    "start": 112,
+                    "word": "ham"
+                  }
+                ],
+                "until": 373,
+                "utterances": "Glad Dad hid the ham"
+              }
+            ],
+            "sentence": "Glad Dad hid the ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "was_the_ham_in_the_drift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Was"
+                  },
+                  {
+                    "end": 18,
+                    "start": 8,
+                    "word": "the"
+                  },
+                  {
+                    "end": 68,
+                    "start": 19,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 82,
+                    "start": 69,
+                    "word": "in"
+                  },
+                  {
+                    "end": 90,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 153,
+                    "start": 91,
+                    "word": "drift"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Was the ham in the drift"
+              }
+            ],
+            "sentence": "Was the ham in the drift?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 71,
+                "utterances": "No"
+              },
+              {
+                "audio": "was_the_ham_in_the_lift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Was"
+                  },
+                  {
+                    "end": 46,
+                    "start": 36,
+                    "word": "the"
+                  },
+                  {
+                    "end": 88,
+                    "start": 47,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 97,
+                    "start": 89,
+                    "word": "in"
+                  },
+                  {
+                    "end": 106,
+                    "start": 98,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 107,
+                    "word": "lift"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Was the ham in the lift"
+              }
+            ],
+            "sentence": "No. Was the ham in the lift?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 71,
+                "utterances": "No"
+              },
+              {
+                "audio": "the_ham_was_in_the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 97,
+                    "start": 26,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 137,
+                    "start": 107,
+                    "word": "was"
+                  },
+                  {
+                    "end": 165,
+                    "start": 138,
+                    "word": "in"
+                  },
+                  {
+                    "end": 181,
+                    "start": 166,
+                    "word": "the"
+                  },
+                  {
+                    "end": 299,
+                    "start": 182,
+                    "word": "hat"
+                  }
+                ],
+                "until": 299,
+                "utterances": "The ham was in the hat"
+              }
+            ],
+            "sentence": "No. The ham was in the hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_the_hat_of_the_lad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 49,
+                    "start": 29,
+                    "word": "was"
+                  },
+                  {
+                    "end": 63,
+                    "start": 50,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 64,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 148,
+                    "start": 134,
+                    "word": "of"
+                  },
+                  {
+                    "end": 156,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 157,
+                    "word": "lad"
+                  }
+                ],
+                "until": 222,
+                "utterances": "It was the hat of the lad"
+              }
+            ],
+            "sentence": "It was the hat of the lad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lad_got_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 112,
+                    "start": 84,
+                    "word": "got"
+                  },
+                  {
+                    "end": 190,
+                    "start": 113,
+                    "word": "mad"
+                  }
+                ],
+                "until": 190,
+                "utterances": "The lad got mad"
+              }
+            ],
+            "sentence": "The lad got mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lad_hid_the_ham_on_the_raft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 23,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 110,
+                    "start": 86,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 121,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 198,
+                    "start": 122,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 227,
+                    "start": 208,
+                    "word": "on"
+                  },
+                  {
+                    "end": 237,
+                    "start": 228,
+                    "word": "the"
+                  },
+                  {
+                    "end": 381,
+                    "start": 238,
+                    "word": "raft"
+                  }
+                ],
+                "until": 381,
+                "utterances": "The lad hid the ham on the raft"
+              }
+            ],
+            "sentence": "The lad hid the ham on the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_raft_slid_on_the_dim_dot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 25,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 124,
+                    "start": 67,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 141,
+                    "start": 125,
+                    "word": "on"
+                  },
+                  {
+                    "end": 148,
+                    "start": 142,
+                    "word": "the"
+                  },
+                  {
+                    "end": 183,
+                    "start": 149,
+                    "word": "dim"
+                  },
+                  {
+                    "end": 245,
+                    "start": 184,
+                    "word": "dot"
+                  }
+                ],
+                "until": 245,
+                "utterances": "The raft slid on the dim dot"
+              }
+            ],
+            "sentence": "The raft slid on the dim dot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 43,
+                    "start": 24,
+                    "word": "was"
+                  },
+                  {
+                    "end": 100,
+                    "start": 44,
+                    "word": "hot"
+                  }
+                ],
+                "until": 100,
+                "utterances": "It was hot"
+              }
+            ],
+            "sentence": "It was hot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lad_hit_the_lid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 20,
+                    "word": "lad"
+                  },
+                  {
+                    "end": 136,
+                    "start": 109,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 154,
+                    "start": 137,
+                    "word": "the"
+                  },
+                  {
+                    "end": 301,
+                    "start": 155,
+                    "word": "lid"
+                  }
+                ],
+                "until": 301,
+                "utterances": "The lad hit the lid"
+              }
+            ],
+            "sentence": "The lad hit the lid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lid_slid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 59,
+                    "start": 23,
+                    "word": "lid"
+                  },
+                  {
+                    "end": 128,
+                    "start": 60,
+                    "word": "slid"
+                  }
+                ],
+                "until": 128,
+                "utterances": "The lid slid"
+              }
+            ],
+            "sentence": "The lid slid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_lid_slid_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 47,
+                    "start": 22,
+                    "word": "lid"
+                  },
+                  {
+                    "end": 88,
+                    "start": 48,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 165,
+                    "start": 89,
+                    "word": "fast"
+                  }
+                ],
+                "until": 165,
+                "utterances": "The lid slid fast"
+              }
+            ],
+            "sentence": "The lid slid fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_fit_on_the_soft_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 65,
+                    "start": 28,
+                    "word": "fit"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "on"
+                  },
+                  {
+                    "end": 95,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 148,
+                    "start": 96,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 206,
+                    "start": 149,
+                    "word": "mat"
+                  }
+                ],
+                "until": 206,
+                "utterances": "It fit on the soft mat"
+              }
+            ],
+            "sentence": "It fit on the soft mat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Hot Rod",
+  "titleimage": null
+}

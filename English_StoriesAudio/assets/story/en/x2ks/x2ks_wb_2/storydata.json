@@ -1,0 +1,580 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_the_red_fox.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 70,
+                    "start": 52,
+                    "word": "at"
+                  },
+                  {
+                    "end": 82,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "red"
+                  },
+                  {
+                    "end": 183,
+                    "start": 116,
+                    "word": "fox"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Look at the red fox"
+              }
+            ],
+            "sentence": "Look at the red fox."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fox_steps_up_on_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 26,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 129,
+                    "start": 90,
+                    "word": "steps"
+                  },
+                  {
+                    "end": 167,
+                    "start": 130,
+                    "word": "up"
+                  },
+                  {
+                    "end": 188,
+                    "start": 168,
+                    "word": "on"
+                  },
+                  {
+                    "end": 197,
+                    "start": 189,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 198,
+                    "word": "box"
+                  }
+                ],
+                "until": 258,
+                "utterances": "The fox steps up on the box"
+              }
+            ],
+            "sentence": "The fox steps up on the box."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fox_felt_its_leg_twist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 23,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 124,
+                    "start": 83,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 140,
+                    "start": 125,
+                    "word": "its"
+                  },
+                  {
+                    "end": 179,
+                    "start": 141,
+                    "word": "leg"
+                  },
+                  {
+                    "end": 233,
+                    "start": 180,
+                    "word": "twist"
+                  }
+                ],
+                "until": 233,
+                "utterances": "The fox felt its leg twist"
+              }
+            ],
+            "sentence": "The fox felt its leg twist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_to_yank_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 62,
+                    "start": 30,
+                    "word": "had"
+                  },
+                  {
+                    "end": 82,
+                    "start": 63,
+                    "word": "to"
+                  },
+                  {
+                    "end": 116,
+                    "start": 83,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 125,
+                    "start": 117,
+                    "word": "it"
+                  }
+                ],
+                "until": 125,
+                "utterances": "He had to yank it"
+              }
+            ],
+            "sentence": "He had to yank it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "help_help_said_the_fox.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Help"
+                  },
+                  {
+                    "end": 92,
+                    "start": 57,
+                    "word": "help"
+                  },
+                  {
+                    "end": 121,
+                    "start": 93,
+                    "word": "said"
+                  },
+                  {
+                    "end": 130,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 194,
+                    "start": 131,
+                    "word": "fox"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Help help said the fox"
+              }
+            ],
+            "sentence": "\"Help, help,\" said the fox."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_leg_got_bent.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 59,
+                    "start": 27,
+                    "word": "leg"
+                  },
+                  {
+                    "end": 79,
+                    "start": 60,
+                    "word": "got"
+                  },
+                  {
+                    "end": 129,
+                    "start": 80,
+                    "word": "bent"
+                  }
+                ],
+                "until": 129,
+                "utterances": "My leg got bent"
+              }
+            ],
+            "sentence": "\"My leg got bent!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_can_help.mp3",
+                "from": 9,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 9,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 30,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 109,
+                    "start": 80,
+                    "word": "can"
+                  },
+                  {
+                    "end": 151,
+                    "start": 110,
+                    "word": "help"
+                  }
+                ],
+                "until": 151,
+                "utterances": "The pig can help"
+              }
+            ],
+            "sentence": "The pig can help."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_said_ask_the_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 33,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 115,
+                    "start": 68,
+                    "word": "said"
+                  },
+                  {
+                    "end": 185,
+                    "start": 153,
+                    "word": "ask"
+                  },
+                  {
+                    "end": 203,
+                    "start": 186,
+                    "word": "the"
+                  },
+                  {
+                    "end": 226,
+                    "start": 204,
+                    "word": "vet"
+                  }
+                ],
+                "until": 226,
+                "utterances": "The pig said ask the vet"
+              }
+            ],
+            "sentence": "The pig said, \"ask the vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_vet_can_fix_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 26,
+                    "word": "vet"
+                  },
+                  {
+                    "end": 83,
+                    "start": 64,
+                    "word": "can"
+                  },
+                  {
+                    "end": 120,
+                    "start": 84,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 135,
+                    "start": 121,
+                    "word": "it"
+                  }
+                ],
+                "until": 135,
+                "utterances": "The vet can fix it"
+              }
+            ],
+            "sentence": "The vet can fix it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_got_the_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 108,
+                    "start": 83,
+                    "word": "got"
+                  },
+                  {
+                    "end": 125,
+                    "start": 115,
+                    "word": "the"
+                  },
+                  {
+                    "end": 149,
+                    "start": 126,
+                    "word": "vet"
+                  }
+                ],
+                "until": 149,
+                "utterances": "The pig got the vet"
+              }
+            ],
+            "sentence": "The pig got the vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fox_said_can_you_fix_my_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 32,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 121,
+                    "start": 81,
+                    "word": "said"
+                  },
+                  {
+                    "end": 165,
+                    "start": 144,
+                    "word": "can"
+                  },
+                  {
+                    "end": 198,
+                    "start": 166,
+                    "word": "you"
+                  },
+                  {
+                    "end": 237,
+                    "start": 202,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 254,
+                    "start": 238,
+                    "word": "my"
+                  },
+                  {
+                    "end": 301,
+                    "start": 255,
+                    "word": "leg"
+                  }
+                ],
+                "until": 301,
+                "utterances": "The fox said can you fix my leg"
+              }
+            ],
+            "sentence": "The fox said, \"can you fix my leg?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_vet_said_yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 35,
+                    "word": "vet"
+                  },
+                  {
+                    "end": 107,
+                    "start": 66,
+                    "word": "said"
+                  },
+                  {
+                    "end": 168,
+                    "start": 108,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 168,
+                "utterances": "The vet said Yes"
+              }
+            ],
+            "sentence": "The vet said, \"Yes!\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Red Fox",
+  "titleimage": null
+}

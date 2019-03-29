@@ -1,0 +1,687 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_go_out_to_the_park.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 73,
+                    "start": 42,
+                    "word": "go"
+                  },
+                  {
+                    "end": 96,
+                    "start": 74,
+                    "word": "out"
+                  },
+                  {
+                    "end": 129,
+                    "start": 108,
+                    "word": "to"
+                  },
+                  {
+                    "end": 140,
+                    "start": 130,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 141,
+                    "word": "park"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Let's go out to the park"
+              }
+            ],
+            "sentence": "Let's go out to the park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "does_that_sound_like_a_good_plan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Does"
+                  },
+                  {
+                    "end": 65,
+                    "start": 34,
+                    "word": "that"
+                  },
+                  {
+                    "end": 118,
+                    "start": 66,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 143,
+                    "start": 119,
+                    "word": "like"
+                  },
+                  {
+                    "end": 151,
+                    "start": 144,
+                    "word": "a"
+                  },
+                  {
+                    "end": 185,
+                    "start": 152,
+                    "word": "good"
+                  },
+                  {
+                    "end": 233,
+                    "start": 186,
+                    "word": "plan"
+                  }
+                ],
+                "until": 233,
+                "utterances": "Does that sound like a good plan"
+              }
+            ],
+            "sentence": "Does that sound like a good plan?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_it_does.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 90,
+                    "start": 73,
+                    "word": "it"
+                  },
+                  {
+                    "end": 156,
+                    "start": 105,
+                    "word": "does"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Yes it does"
+              }
+            ],
+            "sentence": "Yes, it does."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_can_go_out_to_the_park_and_play.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 59,
+                    "start": 36,
+                    "word": "can"
+                  },
+                  {
+                    "end": 98,
+                    "start": 60,
+                    "word": "go"
+                  },
+                  {
+                    "end": 123,
+                    "start": 99,
+                    "word": "out"
+                  },
+                  {
+                    "end": 155,
+                    "start": 133,
+                    "word": "to"
+                  },
+                  {
+                    "end": 166,
+                    "start": 156,
+                    "word": "the"
+                  },
+                  {
+                    "end": 223,
+                    "start": 167,
+                    "word": "park"
+                  },
+                  {
+                    "end": 256,
+                    "start": 224,
+                    "word": "and"
+                  },
+                  {
+                    "end": 290,
+                    "start": 257,
+                    "word": "play"
+                  }
+                ],
+                "until": 290,
+                "utterances": "We can go out to the park and play"
+              }
+            ],
+            "sentence": "We can go out to the park and play."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_park_has_a_playground.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 83,
+                    "start": 25,
+                    "word": "park"
+                  },
+                  {
+                    "end": 138,
+                    "start": 84,
+                    "word": "has"
+                  },
+                  {
+                    "end": 156,
+                    "start": 142,
+                    "word": "a"
+                  },
+                  {
+                    "end": 237,
+                    "start": 157,
+                    "word": "playground"
+                  }
+                ],
+                "until": 237,
+                "utterances": "The park has a playground"
+              }
+            ],
+            "sentence": "The park has a playground."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_can_shout_at_the_park.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 64,
+                    "start": 37,
+                    "word": "can"
+                  },
+                  {
+                    "end": 130,
+                    "start": 65,
+                    "word": "shout"
+                  },
+                  {
+                    "end": 150,
+                    "start": 142,
+                    "word": "at"
+                  },
+                  {
+                    "end": 164,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 230,
+                    "start": 165,
+                    "word": "park"
+                  }
+                ],
+                "until": 230,
+                "utterances": "We can shout at the park"
+              }
+            ],
+            "sentence": "We can shout at the park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_can_shout_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 53,
+                    "start": 30,
+                    "word": "can"
+                  },
+                  {
+                    "end": 104,
+                    "start": 54,
+                    "word": "shout"
+                  },
+                  {
+                    "end": 169,
+                    "start": 105,
+                    "word": "loud"
+                  }
+                ],
+                "until": 169,
+                "utterances": "We can shout loud"
+              }
+            ],
+            "sentence": "We can shout loud!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_see_that_cloud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 45,
+                    "start": 29,
+                    "word": "you"
+                  },
+                  {
+                    "end": 79,
+                    "start": 46,
+                    "word": "see"
+                  },
+                  {
+                    "end": 104,
+                    "start": 80,
+                    "word": "that"
+                  },
+                  {
+                    "end": 155,
+                    "start": 105,
+                    "word": "cloud"
+                  }
+                ],
+                "until": 155,
+                "utterances": "Do you see that cloud"
+              }
+            ],
+            "sentence": "Do you see that cloud?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_it_a_rain_cloud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 51,
+                    "start": 32,
+                    "word": "it"
+                  },
+                  {
+                    "end": 55,
+                    "start": 52,
+                    "word": "a"
+                  },
+                  {
+                    "end": 96,
+                    "start": 56,
+                    "word": "rain"
+                  },
+                  {
+                    "end": 146,
+                    "start": 97,
+                    "word": "cloud"
+                  }
+                ],
+                "until": 146,
+                "utterances": "Is it a rain cloud"
+              }
+            ],
+            "sentence": "Is it a rain cloud?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_hope_it_does_not_rain_at_the_park.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 55,
+                    "start": 31,
+                    "word": "hope"
+                  },
+                  {
+                    "end": 68,
+                    "start": 56,
+                    "word": "it"
+                  },
+                  {
+                    "end": 91,
+                    "start": 69,
+                    "word": "does"
+                  },
+                  {
+                    "end": 113,
+                    "start": 92,
+                    "word": "not"
+                  },
+                  {
+                    "end": 159,
+                    "start": 123,
+                    "word": "rain"
+                  },
+                  {
+                    "end": 177,
+                    "start": 160,
+                    "word": "at"
+                  },
+                  {
+                    "end": 192,
+                    "start": 178,
+                    "word": "the"
+                  },
+                  {
+                    "end": 241,
+                    "start": 193,
+                    "word": "park"
+                  }
+                ],
+                "until": 241,
+                "utterances": "I hope it does not rain at the park"
+              }
+            ],
+            "sentence": "I hope it does not rain at the park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_hear_that_sound.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 44,
+                    "start": 25,
+                    "word": "you"
+                  },
+                  {
+                    "end": 72,
+                    "start": 45,
+                    "word": "hear"
+                  },
+                  {
+                    "end": 93,
+                    "start": 73,
+                    "word": "that"
+                  },
+                  {
+                    "end": 155,
+                    "start": 94,
+                    "word": "sound"
+                  }
+                ],
+                "until": 155,
+                "utterances": "Do you hear that sound"
+              }
+            ],
+            "sentence": "Do you hear that sound?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_the_sound_of_the_ice_cream_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 37,
+                    "word": "is"
+                  },
+                  {
+                    "end": 65,
+                    "start": 57,
+                    "word": "the"
+                  },
+                  {
+                    "end": 124,
+                    "start": 66,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 151,
+                    "start": 133,
+                    "word": "of"
+                  },
+                  {
+                    "end": 167,
+                    "start": 152,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 168,
+                    "word": "ice"
+                  },
+                  {
+                    "end": 230,
+                    "start": 204,
+                    "word": "cream"
+                  },
+                  {
+                    "end": 273,
+                    "start": 231,
+                    "word": "man"
+                  }
+                ],
+                "until": 273,
+                "utterances": "It is the sound of the ice cream man"
+              }
+            ],
+            "sentence": "It is the sound of the ice cream man."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 91,
+                    "start": 57,
+                    "word": "go"
+                  }
+                ],
+                "until": 91,
+                "utterances": "Let's go"
+              }
+            ],
+            "sentence": "Let's go!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 46,
+                    "word": "end"
+                  }
+                ],
+                "until": 84,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "A Day at the Park",
+  "titleimage": null
+}

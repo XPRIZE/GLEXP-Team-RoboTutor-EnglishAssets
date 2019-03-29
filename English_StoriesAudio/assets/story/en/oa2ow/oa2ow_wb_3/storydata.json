@@ -1,0 +1,646 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_felt_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 100,
+                    "start": 50,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 138,
+                    "start": 101,
+                    "word": "sad"
+                  }
+                ],
+                "until": 138,
+                "utterances": "Jen felt sad"
+              }
+            ],
+            "sentence": "Jen felt sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wish_i_had_toast_said_jen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 92,
+                    "start": 34,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 115,
+                    "start": 93,
+                    "word": "I"
+                  },
+                  {
+                    "end": 162,
+                    "start": 116,
+                    "word": "had"
+                  },
+                  {
+                    "end": 216,
+                    "start": 171,
+                    "word": "toast"
+                  },
+                  {
+                    "end": 258,
+                    "start": 217,
+                    "word": "said"
+                  },
+                  {
+                    "end": 319,
+                    "start": 259,
+                    "word": "Jen"
+                  }
+                ],
+                "until": 319,
+                "utterances": "I wish I had toast said Jen"
+              }
+            ],
+            "sentence": "\"I wish I had toast,\" said Jen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_got_toast_for_jen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 90,
+                    "start": 56,
+                    "word": "got"
+                  },
+                  {
+                    "end": 155,
+                    "start": 104,
+                    "word": "toast"
+                  },
+                  {
+                    "end": 190,
+                    "start": 167,
+                    "word": "for"
+                  },
+                  {
+                    "end": 227,
+                    "start": 191,
+                    "word": "Jen"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Bob got toast for Jen"
+              }
+            ],
+            "sentence": "Bob got toast for Jen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toast_had_fresh_jam.mp3",
+                "from": 9,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 9,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 34,
+                    "word": "toast"
+                  },
+                  {
+                    "end": 130,
+                    "start": 95,
+                    "word": "had"
+                  },
+                  {
+                    "end": 192,
+                    "start": 131,
+                    "word": "fresh"
+                  },
+                  {
+                    "end": 242,
+                    "start": 193,
+                    "word": "jam"
+                  }
+                ],
+                "until": 242,
+                "utterances": "The toast had fresh jam"
+              }
+            ],
+            "sentence": "The toast had fresh jam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_felt_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 98,
+                    "start": 47,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 141,
+                    "start": 99,
+                    "word": "glad"
+                  }
+                ],
+                "until": 141,
+                "utterances": "Jen felt glad"
+              }
+            ],
+            "sentence": "Jen felt glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_got_jam_on_her_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 84,
+                    "start": 45,
+                    "word": "got"
+                  },
+                  {
+                    "end": 144,
+                    "start": 95,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 174,
+                    "start": 145,
+                    "word": "on"
+                  },
+                  {
+                    "end": 197,
+                    "start": 175,
+                    "word": "her"
+                  },
+                  {
+                    "end": 249,
+                    "start": 207,
+                    "word": "hand"
+                  }
+                ],
+                "until": 249,
+                "utterances": "Jen got jam on her hand"
+              }
+            ],
+            "sentence": "Jen got jam on her hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_had_jam_on_her_skin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 92,
+                    "start": 53,
+                    "word": "had"
+                  },
+                  {
+                    "end": 140,
+                    "start": 93,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 164,
+                    "start": 141,
+                    "word": "on"
+                  },
+                  {
+                    "end": 179,
+                    "start": 165,
+                    "word": "her"
+                  },
+                  {
+                    "end": 138,
+                    "start": 5,
+                    "word": "skin"
+                  }
+                ],
+                "until": 138,
+                "utterances": "Jen had jam on her skin"
+              }
+            ],
+            "sentence": "Jen had jam on her skin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_had_to_get_soap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 90,
+                    "start": 42,
+                    "word": "had"
+                  },
+                  {
+                    "end": 109,
+                    "start": 91,
+                    "word": "to"
+                  },
+                  {
+                    "end": 148,
+                    "start": 110,
+                    "word": "get"
+                  },
+                  {
+                    "end": 215,
+                    "start": 149,
+                    "word": "soap"
+                  }
+                ],
+                "until": 215,
+                "utterances": "She had to get soap"
+              }
+            ],
+            "sentence": "She had to get soap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_jen_had_to_soak_her_hand_with_soap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 121,
+                    "start": 78,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 153,
+                    "start": 125,
+                    "word": "had"
+                  },
+                  {
+                    "end": 169,
+                    "start": 154,
+                    "word": "to"
+                  },
+                  {
+                    "end": 225,
+                    "start": 170,
+                    "word": "soak"
+                  },
+                  {
+                    "end": 238,
+                    "start": 226,
+                    "word": "her"
+                  },
+                  {
+                    "end": 309,
+                    "start": 262,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 336,
+                    "start": 310,
+                    "word": "with"
+                  },
+                  {
+                    "end": 393,
+                    "start": 337,
+                    "word": "soap"
+                  }
+                ],
+                "until": 393,
+                "utterances": "Then Jen had to soak her hand with soap"
+              }
+            ],
+            "sentence": "Then Jen had to soak her hand with soap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_got_it_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 67,
+                    "start": 38,
+                    "word": "got"
+                  },
+                  {
+                    "end": 104,
+                    "start": 87,
+                    "word": "it"
+                  },
+                  {
+                    "end": 165,
+                    "start": 105,
+                    "word": "wet"
+                  }
+                ],
+                "until": 165,
+                "utterances": "She got it wet"
+              }
+            ],
+            "sentence": "She got it wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_had_to_rub_in_the_soap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 87,
+                    "start": 57,
+                    "word": "she"
+                  },
+                  {
+                    "end": 130,
+                    "start": 88,
+                    "word": "had"
+                  },
+                  {
+                    "end": 151,
+                    "start": 131,
+                    "word": "to"
+                  },
+                  {
+                    "end": 205,
+                    "start": 152,
+                    "word": "rub"
+                  },
+                  {
+                    "end": 248,
+                    "start": 212,
+                    "word": "in"
+                  },
+                  {
+                    "end": 261,
+                    "start": 249,
+                    "word": "the"
+                  },
+                  {
+                    "end": 329,
+                    "start": 262,
+                    "word": "soap"
+                  }
+                ],
+                "until": 329,
+                "utterances": "Then she had to rub in the soap"
+              }
+            ],
+            "sentence": "Then she had to rub in the soap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_soap_made_foam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 76,
+                    "start": 24,
+                    "word": "soap"
+                  },
+                  {
+                    "end": 117,
+                    "start": 77,
+                    "word": "made"
+                  },
+                  {
+                    "end": 169,
+                    "start": 118,
+                    "word": "foam"
+                  }
+                ],
+                "until": 169,
+                "utterances": "The soap made foam"
+              }
+            ],
+            "sentence": "The soap made foam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her_hand_went_splash_in_the_soap_foam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Her"
+                  },
+                  {
+                    "end": 97,
+                    "start": 54,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 130,
+                    "start": 98,
+                    "word": "went"
+                  },
+                  {
+                    "end": 214,
+                    "start": 131,
+                    "word": "splash"
+                  },
+                  {
+                    "end": 228,
+                    "start": 215,
+                    "word": "in"
+                  },
+                  {
+                    "end": 237,
+                    "start": 229,
+                    "word": "the"
+                  },
+                  {
+                    "end": 288,
+                    "start": 238,
+                    "word": "soap"
+                  },
+                  {
+                    "end": 330,
+                    "start": 289,
+                    "word": "foam"
+                  }
+                ],
+                "until": 330,
+                "utterances": "Her hand went splash in the soap foam"
+              }
+            ],
+            "sentence": "Her hand went \"splash\" in the soap foam."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Jen Felt Sad",
+  "titleimage": null
+}

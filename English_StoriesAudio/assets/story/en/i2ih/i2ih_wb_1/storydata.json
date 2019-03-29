@@ -1,0 +1,577 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sits.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 122,
+                    "start": 52,
+                    "word": "sits"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Dad sits"
+              }
+            ],
+            "sentence": "Dad sits."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sits.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 141,
+                    "start": 72,
+                    "word": "sits"
+                  }
+                ],
+                "until": 141,
+                "utterances": "Sam sits"
+              }
+            ],
+            "sentence": "Sam sits."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_sam_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 80,
+                    "start": 62,
+                    "word": "and"
+                  },
+                  {
+                    "end": 139,
+                    "start": 81,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 196,
+                    "start": 140,
+                    "word": "sit"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Dad and Sam sit"
+              }
+            ],
+            "sentence": "Dad and Sam sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_sis_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 96,
+                    "start": 34,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 141,
+                    "start": 97,
+                    "word": "sit"
+                  }
+                ],
+                "until": 141,
+                "utterances": "Did Sis sit"
+              }
+            ],
+            "sentence": "Did Sis sit?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_sis_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 107,
+                    "start": 56,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 169,
+                    "start": 118,
+                    "word": "mad"
+                  }
+                ],
+                "until": 169,
+                "utterances": "Is Sis mad"
+              }
+            ],
+            "sentence": "Is Sis mad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_sam_sit_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 96,
+                    "start": 69,
+                    "word": "and"
+                  },
+                  {
+                    "end": 157,
+                    "start": 97,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 198,
+                    "start": 158,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 260,
+                    "start": 220,
+                    "word": "on"
+                  },
+                  {
+                    "end": 286,
+                    "start": 261,
+                    "word": "the"
+                  },
+                  {
+                    "end": 322,
+                    "start": 287,
+                    "word": "mat"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Dad and Sam sit on the mat"
+              }
+            ],
+            "sentence": "Dad and Sam sit on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_on_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 77,
+                    "start": 52,
+                    "word": "is"
+                  },
+                  {
+                    "end": 117,
+                    "start": 78,
+                    "word": "on"
+                  },
+                  {
+                    "end": 158,
+                    "start": 118,
+                    "word": "it"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Dad is on it"
+              }
+            ],
+            "sentence": "Dad is on it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_is_on_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 99,
+                    "start": 78,
+                    "word": "is"
+                  },
+                  {
+                    "end": 138,
+                    "start": 100,
+                    "word": "on"
+                  },
+                  {
+                    "end": 147,
+                    "start": 139,
+                    "word": "it"
+                  }
+                ],
+                "until": 147,
+                "utterances": "Sam is on it"
+              }
+            ],
+            "sentence": "Sam is on it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_and_dad_sit_on_it.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 7,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 84,
+                    "start": 58,
+                    "word": "and"
+                  },
+                  {
+                    "end": 116,
+                    "start": 85,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 157,
+                    "start": 117,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 176,
+                    "start": 158,
+                    "word": "on"
+                  },
+                  {
+                    "end": 205,
+                    "start": 177,
+                    "word": "it"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Sam and Dad sit on it"
+              }
+            ],
+            "sentence": "Sam and Dad sit on it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_sis_sit_on_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 98,
+                    "start": 36,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 143,
+                    "start": 99,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 167,
+                    "start": 144,
+                    "word": "on"
+                  },
+                  {
+                    "end": 191,
+                    "start": 168,
+                    "word": "it"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Did Sis sit on it"
+              }
+            ],
+            "sentence": "Did Sis sit on it?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 110,
+                    "start": 83,
+                    "word": "is"
+                  },
+                  {
+                    "end": 164,
+                    "start": 111,
+                    "word": "mad"
+                  }
+                ],
+                "until": 164,
+                "utterances": "Sis is mad"
+              }
+            ],
+            "sentence": "Sis is mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 118,
+                    "start": 89,
+                    "word": "is"
+                  },
+                  {
+                    "end": 165,
+                    "start": 119,
+                    "word": "sad"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Sis is sad"
+              }
+            ],
+            "sentence": "Sis is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_did_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 99,
+                    "start": 56,
+                    "word": "did"
+                  },
+                  {
+                    "end": 158,
+                    "start": 100,
+                    "word": "sit"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Sis did sit"
+              }
+            ],
+            "sentence": "Sis did sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_did_sit_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 130,
+                    "start": 88,
+                    "word": "did"
+                  },
+                  {
+                    "end": 197,
+                    "start": 131,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 232,
+                    "start": 198,
+                    "word": "on"
+                  },
+                  {
+                    "end": 268,
+                    "start": 233,
+                    "word": "the"
+                  },
+                  {
+                    "end": 324,
+                    "start": 269,
+                    "word": "mat"
+                  }
+                ],
+                "until": 324,
+                "utterances": "Sis did sit on the mat"
+              }
+            ],
+            "sentence": "Sis did sit on the mat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Sit",
+  "titleimage": null
+}

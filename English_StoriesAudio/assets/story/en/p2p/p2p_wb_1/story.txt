@@ -1,0 +1,100 @@
+{The Pen} {Project LISTEN} {WORD}
+
+
+The pen sits by the pad.
+
+
+
+
+
+The pad sits by the cup.
+
+
+
+
+
+The cup sits by the plant.
+
+
+
+
+
+The plant sits by the lamp.
+
+
+
+
+
+The pen, the pad, the cup, the plant, and the lamp sit on the desk.
+
+
+
+
+
+The pen slips.
+
+
+
+
+
+Grab the pen!
+
+
+
+
+
+The pen drops.
+
+
+
+
+
+The pad slips.
+
+
+
+
+
+Grab the pad!
+
+
+
+
+
+The pad drops.
+
+
+
+
+
+The cup slips.
+
+
+
+
+
+Grab the cup!
+
+
+
+
+
+The cup drops.
+
+
+
+
+
+The plant and the lamp slip.
+
+
+
+
+
+Grab the plant and the lamp.
+
+
+
+
+
+Oh no!

@@ -1,0 +1,1260 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_wrote_a_note_for_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 99,
+                    "start": 62,
+                    "word": "wrote"
+                  },
+                  {
+                    "end": 44,
+                    "start": 33,
+                    "word": "a"
+                  },
+                  {
+                    "end": 86,
+                    "start": 51,
+                    "word": "note"
+                  },
+                  {
+                    "end": 114,
+                    "start": 87,
+                    "word": "for"
+                  },
+                  {
+                    "end": 156,
+                    "start": 115,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Mom wrote a note for Dad"
+              }
+            ],
+            "sentence": "Mom wrote a note for Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_she_write.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 68,
+                    "start": 51,
+                    "word": "did"
+                  },
+                  {
+                    "end": 96,
+                    "start": 69,
+                    "word": "she"
+                  },
+                  {
+                    "end": 137,
+                    "start": 97,
+                    "word": "write"
+                  }
+                ],
+                "until": 137,
+                "utterances": "What did she write"
+              }
+            ],
+            "sentence": "What did she write?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_wrote_fix_the_sink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 78,
+                    "start": 39,
+                    "word": "wrote"
+                  },
+                  {
+                    "end": 118,
+                    "start": 79,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 127,
+                    "start": 119,
+                    "word": "the"
+                  },
+                  {
+                    "end": 259,
+                    "start": 128,
+                    "word": "sink"
+                  }
+                ],
+                "until": 259,
+                "utterances": "She wrote fix the sink"
+              }
+            ],
+            "sentence": "She wrote, \"fix the sink.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_sink_had_a_leak.mp3",
+                "from": 6,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 6,
+                    "word": "The"
+                  },
+                  {
+                    "end": 96,
+                    "start": 48,
+                    "word": "sink"
+                  },
+                  {
+                    "end": 105,
+                    "start": 97,
+                    "word": "had"
+                  },
+                  {
+                    "end": 121,
+                    "start": 106,
+                    "word": "a"
+                  },
+                  {
+                    "end": 173,
+                    "start": 122,
+                    "word": "leak"
+                  }
+                ],
+                "until": 173,
+                "utterances": "The sink had a leak"
+              }
+            ],
+            "sentence": "The sink had a leak."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_dad_fix_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 67,
+                    "start": 32,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 101,
+                    "start": 68,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 116,
+                    "start": 102,
+                    "word": "it"
+                  }
+                ],
+                "until": 116,
+                "utterances": "Can Dad fix it"
+              }
+            ],
+            "sentence": "Can Dad fix it?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_took_a_look_at_the_sink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 81,
+                    "start": 34,
+                    "word": "took"
+                  },
+                  {
+                    "end": 85,
+                    "start": 82,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 86,
+                    "word": "look"
+                  },
+                  {
+                    "end": 29,
+                    "start": 21,
+                    "word": "at"
+                  },
+                  {
+                    "end": 52,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 123,
+                    "start": 70,
+                    "word": "sink"
+                  }
+                ],
+                "until": 123,
+                "utterances": "He took a look at the sink"
+              }
+            ],
+            "sentence": "He took a look at the sink."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_had_to_think.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 77,
+                    "start": 47,
+                    "word": "had"
+                  },
+                  {
+                    "end": 90,
+                    "start": 78,
+                    "word": "to"
+                  },
+                  {
+                    "end": 134,
+                    "start": 91,
+                    "word": "think"
+                  }
+                ],
+                "until": 134,
+                "utterances": "Dad had to think"
+              }
+            ],
+            "sentence": "Dad had to think."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_a_wrinkle_on_his_head.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 48,
+                    "start": 31,
+                    "word": "got"
+                  },
+                  {
+                    "end": 35,
+                    "start": 14,
+                    "word": "a"
+                  },
+                  {
+                    "end": 91,
+                    "start": 36,
+                    "word": "wrinkle"
+                  },
+                  {
+                    "end": 114,
+                    "start": 95,
+                    "word": "on"
+                  },
+                  {
+                    "end": 135,
+                    "start": 115,
+                    "word": "his"
+                  },
+                  {
+                    "end": 170,
+                    "start": 136,
+                    "word": "head"
+                  }
+                ],
+                "until": 170,
+                "utterances": "He got a wrinkle on his head"
+              },
+              {
+                "audio": "dad_gets_a_big_wrinkle_when_he_thinks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 68,
+                    "start": 42,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 76,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 112,
+                    "start": 77,
+                    "word": "big"
+                  },
+                  {
+                    "end": 161,
+                    "start": 113,
+                    "word": "wrinkle"
+                  },
+                  {
+                    "end": 179,
+                    "start": 162,
+                    "word": "when"
+                  },
+                  {
+                    "end": 193,
+                    "start": 180,
+                    "word": "he"
+                  },
+                  {
+                    "end": 276,
+                    "start": 194,
+                    "word": "thinks"
+                  }
+                ],
+                "until": 276,
+                "utterances": "Dad gets a big wrinkle when he thinks"
+              }
+            ],
+            "sentence": "He got a wrinkle on his head. Dad gets a big wrinkle when he thinks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_dad_got_a_wrench.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 93,
+                    "start": 48,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 129,
+                    "start": 94,
+                    "word": "got"
+                  },
+                  {
+                    "end": 147,
+                    "start": 130,
+                    "word": "a"
+                  },
+                  {
+                    "end": 202,
+                    "start": 148,
+                    "word": "wrench"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Then Dad got a wrench"
+              }
+            ],
+            "sentence": "Then Dad got a wrench."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_wrench_is_a_tool.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 76,
+                    "start": 27,
+                    "word": "wrench"
+                  },
+                  {
+                    "end": 103,
+                    "start": 85,
+                    "word": "is"
+                  },
+                  {
+                    "end": 111,
+                    "start": 104,
+                    "word": "a"
+                  },
+                  {
+                    "end": 173,
+                    "start": 112,
+                    "word": "tool"
+                  }
+                ],
+                "until": 173,
+                "utterances": "A wrench is a tool"
+              }
+            ],
+            "sentence": "A wrench is a tool."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_wrench_helps_you_twist_and_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 68,
+                    "start": 25,
+                    "word": "wrench"
+                  },
+                  {
+                    "end": 93,
+                    "start": 69,
+                    "word": "helps"
+                  },
+                  {
+                    "end": 107,
+                    "start": 94,
+                    "word": "you"
+                  },
+                  {
+                    "end": 160,
+                    "start": 108,
+                    "word": "twist"
+                  },
+                  {
+                    "end": 194,
+                    "start": 171,
+                    "word": "and"
+                  },
+                  {
+                    "end": 240,
+                    "start": 195,
+                    "word": "turn"
+                  }
+                ],
+                "until": 240,
+                "utterances": "A wrench helps you twist and turn"
+              }
+            ],
+            "sentence": "A wrench helps you twist and turn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_had_to_turn_the_pipe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 68,
+                    "start": 43,
+                    "word": "had"
+                  },
+                  {
+                    "end": 78,
+                    "start": 69,
+                    "word": "to"
+                  },
+                  {
+                    "end": 124,
+                    "start": 79,
+                    "word": "turn"
+                  },
+                  {
+                    "end": 135,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 136,
+                    "word": "pipe"
+                  }
+                ],
+                "until": 177,
+                "utterances": "Dad had to turn the pipe"
+              }
+            ],
+            "sentence": "Dad had to turn the pipe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_put_the_wrench_on_the_pipe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 48,
+                    "start": 26,
+                    "word": "put"
+                  },
+                  {
+                    "end": 65,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 46,
+                    "start": 5,
+                    "word": "wrench"
+                  },
+                  {
+                    "end": 74,
+                    "start": 47,
+                    "word": "on"
+                  },
+                  {
+                    "end": 82,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 110,
+                    "start": 83,
+                    "word": "pipe"
+                  }
+                ],
+                "until": 110,
+                "utterances": "He put the wrench on the pipe"
+              }
+            ],
+            "sentence": "He put the wrench on the pipe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_he_gave_it_a_yank.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 53,
+                    "start": 32,
+                    "word": "he"
+                  },
+                  {
+                    "end": 83,
+                    "start": 54,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 38,
+                    "start": 17,
+                    "word": "it"
+                  },
+                  {
+                    "end": 46,
+                    "start": 39,
+                    "word": "a"
+                  },
+                  {
+                    "end": 94,
+                    "start": 47,
+                    "word": "yank"
+                  }
+                ],
+                "until": 94,
+                "utterances": "Then he gave it a yank"
+              }
+            ],
+            "sentence": "Then he gave it a yank."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_had_to_wrap_his_hand_on_the_wrench.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 71,
+                    "start": 46,
+                    "word": "had"
+                  },
+                  {
+                    "end": 82,
+                    "start": 72,
+                    "word": "to"
+                  },
+                  {
+                    "end": 123,
+                    "start": 83,
+                    "word": "wrap"
+                  },
+                  {
+                    "end": 142,
+                    "start": 124,
+                    "word": "his"
+                  },
+                  {
+                    "end": 187,
+                    "start": 143,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 210,
+                    "start": 188,
+                    "word": "on"
+                  },
+                  {
+                    "end": 218,
+                    "start": 211,
+                    "word": "the"
+                  },
+                  {
+                    "end": 271,
+                    "start": 219,
+                    "word": "wrench"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Dad had to wrap his hand on the wrench"
+              }
+            ],
+            "sentence": "Dad had to wrap his hand on the wrench."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_had_to_wrap_my_hand_on_the_pipe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 17,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 61,
+                    "start": 46,
+                    "word": "had"
+                  },
+                  {
+                    "end": 76,
+                    "start": 62,
+                    "word": "to"
+                  },
+                  {
+                    "end": 121,
+                    "start": 77,
+                    "word": "wrap"
+                  },
+                  {
+                    "end": 137,
+                    "start": 122,
+                    "word": "my"
+                  },
+                  {
+                    "end": 178,
+                    "start": 149,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 201,
+                    "start": 179,
+                    "word": "on"
+                  },
+                  {
+                    "end": 210,
+                    "start": 202,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 211,
+                    "word": "pipe"
+                  }
+                ],
+                "until": 258,
+                "utterances": "I had to wrap my hand on the pipe"
+              }
+            ],
+            "sentence": "I had to wrap my hand on the pipe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_held_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 67,
+                    "start": 33,
+                    "word": "held"
+                  },
+                  {
+                    "end": 107,
+                    "start": 68,
+                    "word": "it"
+                  }
+                ],
+                "until": 107,
+                "utterances": "I held it"
+              }
+            ],
+            "sentence": "I held it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_gave_it_a_good_tug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 62,
+                    "start": 33,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 83,
+                    "start": 63,
+                    "word": "it"
+                  },
+                  {
+                    "end": 88,
+                    "start": 84,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 89,
+                    "word": "good"
+                  },
+                  {
+                    "end": 174,
+                    "start": 130,
+                    "word": "tug"
+                  }
+                ],
+                "until": 174,
+                "utterances": "We gave it a good tug"
+              }
+            ],
+            "sentence": "We gave it a good tug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_wrote_a_note.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 70,
+                    "start": 46,
+                    "word": "wrote"
+                  },
+                  {
+                    "end": 74,
+                    "start": 71,
+                    "word": "a"
+                  },
+                  {
+                    "end": 102,
+                    "start": 75,
+                    "word": "note"
+                  }
+                ],
+                "until": 102,
+                "utterances": "Dad wrote a note"
+              }
+            ],
+            "sentence": "Dad wrote a note."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_wrote_a_note_in_case_we_had_to_fix_it_again.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 25,
+                    "word": "wrote"
+                  },
+                  {
+                    "end": 60,
+                    "start": 58,
+                    "word": "a"
+                  },
+                  {
+                    "end": 98,
+                    "start": 61,
+                    "word": "note"
+                  },
+                  {
+                    "end": 131,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 162,
+                    "start": 132,
+                    "word": "case"
+                  },
+                  {
+                    "end": 176,
+                    "start": 163,
+                    "word": "we"
+                  },
+                  {
+                    "end": 196,
+                    "start": 177,
+                    "word": "had"
+                  },
+                  {
+                    "end": 208,
+                    "start": 197,
+                    "word": "to"
+                  },
+                  {
+                    "end": 244,
+                    "start": 209,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 261,
+                    "start": 245,
+                    "word": "it"
+                  },
+                  {
+                    "end": 305,
+                    "start": 262,
+                    "word": "again"
+                  }
+                ],
+                "until": 305,
+                "utterances": "He wrote a note in case we had to fix it again"
+              }
+            ],
+            "sentence": "He wrote a note in case we had to fix it again."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_we_fix_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 39,
+                    "start": 27,
+                    "word": "we"
+                  },
+                  {
+                    "end": 74,
+                    "start": 40,
+                    "word": "fix"
+                  },
+                  {
+                    "end": 95,
+                    "start": 75,
+                    "word": "it"
+                  }
+                ],
+                "until": 95,
+                "utterances": "Did we fix it"
+              }
+            ],
+            "sentence": "Did we fix it?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_turn_on_the_sink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 64,
+                    "start": 41,
+                    "word": "turn"
+                  },
+                  {
+                    "end": 87,
+                    "start": 65,
+                    "word": "on"
+                  },
+                  {
+                    "end": 94,
+                    "start": 88,
+                    "word": "the"
+                  },
+                  {
+                    "end": 148,
+                    "start": 95,
+                    "word": "sink"
+                  }
+                ],
+                "until": 148,
+                "utterances": "Let's turn on the sink"
+              }
+            ],
+            "sentence": "Let's turn on the sink."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_leak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 81,
+                    "start": 37,
+                    "word": "leak"
+                  }
+                ],
+                "until": 81,
+                "utterances": "No leak"
+              }
+            ],
+            "sentence": "No leak!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_did_a_good_job_with_the_wrench.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 52,
+                    "start": 34,
+                    "word": "did"
+                  },
+                  {
+                    "end": 59,
+                    "start": 53,
+                    "word": "a"
+                  },
+                  {
+                    "end": 85,
+                    "start": 60,
+                    "word": "good"
+                  },
+                  {
+                    "end": 134,
+                    "start": 86,
+                    "word": "job"
+                  },
+                  {
+                    "end": 151,
+                    "start": 135,
+                    "word": "with"
+                  },
+                  {
+                    "end": 164,
+                    "start": 152,
+                    "word": "the"
+                  },
+                  {
+                    "end": 216,
+                    "start": 165,
+                    "word": "wrench"
+                  }
+                ],
+                "until": 216,
+                "utterances": "We did a good job with the wrench"
+              }
+            ],
+            "sentence": "We did a good job with the wrench."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Fix the Leak",
+  "titleimage": null
+}

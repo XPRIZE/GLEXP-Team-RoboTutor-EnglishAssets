@@ -1,0 +1,688 @@
+{
+  "author": "Zimbili Dlamini and Hlengiwe Zondi",
+  "data": [
+    {
+      "image": "our_day_at_the_zoo_0_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "today_we_are_going_to_the_zoo.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 16,
+                    "word": "Today"
+                  },
+                  {
+                    "end": 80,
+                    "start": 70,
+                    "word": "we"
+                  },
+                  {
+                    "end": 101,
+                    "start": 81,
+                    "word": "are"
+                  },
+                  {
+                    "end": 133,
+                    "start": 102,
+                    "word": "going"
+                  },
+                  {
+                    "end": 145,
+                    "start": 134,
+                    "word": "to"
+                  },
+                  {
+                    "end": 159,
+                    "start": 146,
+                    "word": "the"
+                  },
+                  {
+                    "end": 196,
+                    "start": 160,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Today we are going to the zoo"
+              }
+            ],
+            "sentence": "Today we are going to the zoo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_are_going_in_dad_s_car.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 47,
+                    "start": 31,
+                    "word": "are"
+                  },
+                  {
+                    "end": 83,
+                    "start": 48,
+                    "word": "going"
+                  },
+                  {
+                    "end": 96,
+                    "start": 84,
+                    "word": "in"
+                  },
+                  {
+                    "end": 141,
+                    "start": 97,
+                    "word": "dad's"
+                  },
+                  {
+                    "end": 187,
+                    "start": 142,
+                    "word": "car"
+                  }
+                ],
+                "until": 187,
+                "utterances": "We are going in dad's car"
+              }
+            ],
+            "sentence": "We are going in dad's car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_are_going_to_see_animals.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 44,
+                    "start": 30,
+                    "word": "are"
+                  },
+                  {
+                    "end": 74,
+                    "start": 45,
+                    "word": "going"
+                  },
+                  {
+                    "end": 90,
+                    "start": 75,
+                    "word": "to"
+                  },
+                  {
+                    "end": 108,
+                    "start": 91,
+                    "word": "see"
+                  },
+                  {
+                    "end": 203,
+                    "start": 109,
+                    "word": "animals"
+                  }
+                ],
+                "until": 203,
+                "utterances": "We are going to see animals"
+              }
+            ],
+            "sentence": "We are going to see animals."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "Look"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Look"
+              }
+            ],
+            "sentence": "Look!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "an_elephant.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 20,
+                    "word": "An"
+                  },
+                  {
+                    "end": 135,
+                    "start": 57,
+                    "word": "elephant"
+                  }
+                ],
+                "until": 135,
+                "utterances": "An elephant"
+              }
+            ],
+            "sentence": "An elephant."
+          },
+          {
+            "narration": [
+              {
+                "audio": "look.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "Look"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Look"
+              }
+            ],
+            "sentence": "Look!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "a_lion.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 19,
+                    "word": "A"
+                  },
+                  {
+                    "end": 107,
+                    "start": 27,
+                    "word": "lion"
+                  }
+                ],
+                "until": 107,
+                "utterances": "A lion"
+              }
+            ],
+            "sentence": "A lion."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_walk_through_the_whole_zoo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 20,
+                    "word": "We"
+                  },
+                  {
+                    "end": 81,
+                    "start": 35,
+                    "word": "walk"
+                  },
+                  {
+                    "end": 93,
+                    "start": 82,
+                    "word": "through"
+                  },
+                  {
+                    "end": 109,
+                    "start": 94,
+                    "word": "the"
+                  },
+                  {
+                    "end": 182,
+                    "start": 110,
+                    "word": "whole"
+                  },
+                  {
+                    "end": 223,
+                    "start": 183,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 223,
+                "utterances": "We walk through the whole zoo"
+              }
+            ],
+            "sentence": "We walk through the whole zoo!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "Look"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Look"
+              }
+            ],
+            "sentence": "Look!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "ice_cream.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 20,
+                    "word": "Ice"
+                  },
+                  {
+                    "end": 153,
+                    "start": 79,
+                    "word": "cream"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Ice cream"
+              }
+            ],
+            "sentence": "Ice cream."
+          },
+          {
+            "narration": [
+              {
+                "audio": "look.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "Look"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Look"
+              }
+            ],
+            "sentence": "Look!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "sweets.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 20,
+                    "word": "Sweets"
+                  }
+                ],
+                "until": 111,
+                "utterances": "Sweets"
+              }
+            ],
+            "sentence": "Sweets."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_there_is_a_clown_with_balloons.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "And"
+                  },
+                  {
+                    "end": 55,
+                    "start": 39,
+                    "word": "there"
+                  },
+                  {
+                    "end": 66,
+                    "start": 56,
+                    "word": "is"
+                  },
+                  {
+                    "end": 74,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 135,
+                    "start": 75,
+                    "word": "clown"
+                  },
+                  {
+                    "end": 155,
+                    "start": 136,
+                    "word": "with"
+                  },
+                  {
+                    "end": 274,
+                    "start": 156,
+                    "word": "balloons"
+                  }
+                ],
+                "until": 274,
+                "utterances": "And there is a clown with balloons"
+              }
+            ],
+            "sentence": "And there is a clown with balloons."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_buys_us_nice_things.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 20,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 94,
+                    "start": 61,
+                    "word": "buys"
+                  },
+                  {
+                    "end": 122,
+                    "start": 95,
+                    "word": "us"
+                  },
+                  {
+                    "end": 161,
+                    "start": 123,
+                    "word": "nice"
+                  },
+                  {
+                    "end": 232,
+                    "start": 162,
+                    "word": "things"
+                  }
+                ],
+                "until": 232,
+                "utterances": "Dad buys us nice things"
+              }
+            ],
+            "sentence": "Dad buys us nice things."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "soon_we_must_go_home.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "Soon"
+                  },
+                  {
+                    "end": 76,
+                    "start": 63,
+                    "word": "we"
+                  },
+                  {
+                    "end": 115,
+                    "start": 77,
+                    "word": "must"
+                  },
+                  {
+                    "end": 128,
+                    "start": 116,
+                    "word": "go"
+                  },
+                  {
+                    "end": 177,
+                    "start": 129,
+                    "word": "home"
+                  }
+                ],
+                "until": 177,
+                "utterances": "Soon we must go home"
+              }
+            ],
+            "sentence": "Soon we must go home."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_saw_many_animals_today.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "We"
+                  },
+                  {
+                    "end": 68,
+                    "start": 33,
+                    "word": "saw"
+                  },
+                  {
+                    "end": 113,
+                    "start": 69,
+                    "word": "many"
+                  },
+                  {
+                    "end": 180,
+                    "start": 114,
+                    "word": "animals"
+                  },
+                  {
+                    "end": 236,
+                    "start": 181,
+                    "word": "today"
+                  }
+                ],
+                "until": 236,
+                "utterances": "We saw many animals today"
+              }
+            ],
+            "sentence": "We saw many animals today!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_are_happy_and_tired.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 19,
+                    "word": "We"
+                  },
+                  {
+                    "end": 53,
+                    "start": 30,
+                    "word": "are"
+                  },
+                  {
+                    "end": 95,
+                    "start": 54,
+                    "word": "happy"
+                  },
+                  {
+                    "end": 160,
+                    "start": 124,
+                    "word": "and"
+                  },
+                  {
+                    "end": 273,
+                    "start": 161,
+                    "word": "tired"
+                  }
+                ],
+                "until": 273,
+                "utterances": "We are happy and tired"
+              }
+            ],
+            "sentence": "We are happy and tired."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "our_day_at_the_zoo_0_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wish_every_day_was_like_today.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 78,
+                    "start": 40,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 119,
+                    "start": 79,
+                    "word": "every"
+                  },
+                  {
+                    "end": 134,
+                    "start": 120,
+                    "word": "day"
+                  },
+                  {
+                    "end": 173,
+                    "start": 156,
+                    "word": "was"
+                  },
+                  {
+                    "end": 199,
+                    "start": 174,
+                    "word": "like"
+                  },
+                  {
+                    "end": 226,
+                    "start": 200,
+                    "word": "today"
+                  }
+                ],
+                "until": 226,
+                "utterances": "I wish every day was like today"
+              }
+            ],
+            "sentence": "I wish every day was like today!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Our Day at The Zoo",
+  "titleimage": "our_day_at_the_zoo_0_page_01_image_0001.jpg"
+}

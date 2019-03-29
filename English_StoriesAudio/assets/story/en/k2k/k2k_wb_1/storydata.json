@@ -1,0 +1,945 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_is_a_kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 123,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 146,
+                    "start": 124,
+                    "word": "a"
+                  },
+                  {
+                    "end": 190,
+                    "start": 147,
+                    "word": "kid"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Sam is a kid"
+              }
+            ],
+            "sentence": "Sam is a kid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fast_kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 65,
+                    "start": 21,
+                    "word": "fast"
+                  },
+                  {
+                    "end": 65,
+                    "start": 28,
+                    "word": "kid"
+                  }
+                ],
+                "until": 65,
+                "utterances": "A fast kid"
+              }
+            ],
+            "sentence": "A fast kid!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_rad_kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 82,
+                    "start": 41,
+                    "word": "rad"
+                  },
+                  {
+                    "end": 128,
+                    "start": 83,
+                    "word": "kid"
+                  }
+                ],
+                "until": 128,
+                "utterances": "A rad kid"
+              }
+            ],
+            "sentence": "A rad kid!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fun_kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 71,
+                    "start": 33,
+                    "word": "fun"
+                  },
+                  {
+                    "end": 112,
+                    "start": 72,
+                    "word": "kid"
+                  }
+                ],
+                "until": 112,
+                "utterances": "A fun kid"
+              }
+            ],
+            "sentence": "A fun kid!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_can_grin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 78,
+                    "start": 56,
+                    "word": "can"
+                  },
+                  {
+                    "end": 122,
+                    "start": 79,
+                    "word": "grin"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Sam can grin"
+              }
+            ],
+            "sentence": "Sam can grin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_skin.mp3",
+                "from": 33,
+                "segmentation": [
+                  {
+                    "end": 142,
+                    "start": 33,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 34,
+                    "word": "has"
+                  },
+                  {
+                    "end": 105,
+                    "start": 58,
+                    "word": "skin"
+                  }
+                ],
+                "until": 105,
+                "utterances": "He has skin"
+              }
+            ],
+            "sentence": "He has skin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_the_kid_can_tug_and_hug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 66,
+                    "start": 54,
+                    "word": "the"
+                  },
+                  {
+                    "end": 100,
+                    "start": 67,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 121,
+                    "start": 101,
+                    "word": "can"
+                  },
+                  {
+                    "end": 163,
+                    "start": 122,
+                    "word": "tug"
+                  },
+                  {
+                    "end": 177,
+                    "start": 164,
+                    "word": "and"
+                  },
+                  {
+                    "end": 218,
+                    "start": 178,
+                    "word": "hug"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Sam the kid can tug and hug"
+              }
+            ],
+            "sentence": "Sam the kid can tug and hug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_the_kid_has_a_rug_and_a_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 57,
+                    "start": 50,
+                    "word": "the"
+                  },
+                  {
+                    "end": 93,
+                    "start": 58,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 114,
+                    "start": 94,
+                    "word": "has"
+                  },
+                  {
+                    "end": 119,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 162,
+                    "start": 120,
+                    "word": "rug"
+                  },
+                  {
+                    "end": 184,
+                    "start": 163,
+                    "word": "and"
+                  },
+                  {
+                    "end": 188,
+                    "start": 185,
+                    "word": "a"
+                  },
+                  {
+                    "end": 231,
+                    "start": 189,
+                    "word": "mug"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Sam the kid has a rug and a mug"
+              }
+            ],
+            "sentence": "Sam the kid has a rug and a mug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mug_has_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 41,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 102,
+                    "start": 79,
+                    "word": "has"
+                  },
+                  {
+                    "end": 148,
+                    "start": 103,
+                    "word": "milk"
+                  }
+                ],
+                "until": 148,
+                "utterances": "The mug has milk"
+              }
+            ],
+            "sentence": "The mug has milk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_kid_got_the_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 52,
+                    "start": 21,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 83,
+                    "start": 53,
+                    "word": "got"
+                  },
+                  {
+                    "end": 92,
+                    "start": 84,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 93,
+                    "word": "milk"
+                  }
+                ],
+                "until": 135,
+                "utterances": "The kid got the milk"
+              }
+            ],
+            "sentence": "The kid got the milk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_kid_lift_the_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 41,
+                    "start": 32,
+                    "word": "the"
+                  },
+                  {
+                    "end": 44,
+                    "start": 5,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 78,
+                    "start": 45,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 91,
+                    "start": 79,
+                    "word": "the"
+                  },
+                  {
+                    "end": 128,
+                    "start": 92,
+                    "word": "mug"
+                  }
+                ],
+                "until": 128,
+                "utterances": "Did the kid lift the mug"
+              }
+            ],
+            "sentence": "Did the kid lift the mug?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 170,
+                    "start": 35,
+                    "word": "did"
+                  }
+                ],
+                "until": 170,
+                "utterances": "He did"
+              }
+            ],
+            "sentence": "He did!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_the_kid_got_the_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 63,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 100,
+                    "start": 64,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 136,
+                    "start": 101,
+                    "word": "got"
+                  },
+                  {
+                    "end": 149,
+                    "start": 137,
+                    "word": "the"
+                  },
+                  {
+                    "end": 188,
+                    "start": 150,
+                    "word": "mug"
+                  }
+                ],
+                "until": 188,
+                "utterances": "Sam the kid got the mug"
+              }
+            ],
+            "sentence": "Sam the kid got the mug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_the_milk_and_the_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 59,
+                    "start": 34,
+                    "word": "has"
+                  },
+                  {
+                    "end": 69,
+                    "start": 60,
+                    "word": "the"
+                  },
+                  {
+                    "end": 119,
+                    "start": 70,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 147,
+                    "start": 120,
+                    "word": "and"
+                  },
+                  {
+                    "end": 155,
+                    "start": 148,
+                    "word": "the"
+                  },
+                  {
+                    "end": 196,
+                    "start": 156,
+                    "word": "mug"
+                  }
+                ],
+                "until": 196,
+                "utterances": "He has the milk and the mug"
+              }
+            ],
+            "sentence": "He has the milk and the mug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_the_kid_ran_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 26,
+                    "start": 20,
+                    "word": "the"
+                  },
+                  {
+                    "end": 67,
+                    "start": 27,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 102,
+                    "start": 68,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 172,
+                    "start": 103,
+                    "word": "fast"
+                  }
+                ],
+                "until": 172,
+                "utterances": "Sam the kid ran fast"
+              }
+            ],
+            "sentence": "Sam the kid ran fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_the_fast_kid_slid_in_the_milk_and_silk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 84,
+                    "start": 77,
+                    "word": "the"
+                  },
+                  {
+                    "end": 130,
+                    "start": 85,
+                    "word": "fast"
+                  },
+                  {
+                    "end": 172,
+                    "start": 131,
+                    "word": "kid"
+                  },
+                  {
+                    "end": 222,
+                    "start": 173,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 248,
+                    "start": 230,
+                    "word": "in"
+                  },
+                  {
+                    "end": 258,
+                    "start": 249,
+                    "word": "the"
+                  },
+                  {
+                    "end": 311,
+                    "start": 259,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 331,
+                    "start": 312,
+                    "word": "and"
+                  },
+                  {
+                    "end": 395,
+                    "start": 332,
+                    "word": "silk"
+                  }
+                ],
+                "until": 395,
+                "utterances": "Sam the fast kid slid in the milk and silk"
+              }
+            ],
+            "sentence": "Sam the fast kid slid in the milk and silk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "stand_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Stand"
+                  },
+                  {
+                    "end": 108,
+                    "start": 61,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 108,
+                "utterances": "Stand Sam"
+              }
+            ],
+            "sentence": "Stand, Sam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_did_stand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 34,
+                    "start": 15,
+                    "word": "did"
+                  },
+                  {
+                    "end": 87,
+                    "start": 35,
+                    "word": "stand"
+                  }
+                ],
+                "until": 87,
+                "utterances": "Sam did stand"
+              }
+            ],
+            "sentence": "Sam did stand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sit_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Sit"
+                  },
+                  {
+                    "end": 105,
+                    "start": 56,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 105,
+                "utterances": "Sit Sam"
+              }
+            ],
+            "sentence": "Sit, Sam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_did_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 88,
+                    "start": 64,
+                    "word": "did"
+                  },
+                  {
+                    "end": 137,
+                    "start": 89,
+                    "word": "sit"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Sam did sit"
+              }
+            ],
+            "sentence": "Sam did sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_the_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 43,
+                    "start": 28,
+                    "word": "the"
+                  },
+                  {
+                    "end": 118,
+                    "start": 44,
+                    "word": "milk"
+                  }
+                ],
+                "until": 118,
+                "utterances": "In the milk"
+              }
+            ],
+            "sentence": "In the milk!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ha_ha.mp3",
+                "from": 45,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 45,
+                    "word": "Ha"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "Ha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "Ha Ha"
+              }
+            ],
+            "sentence": "Ha ha!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Sam is a Kid",
+  "titleimage": null
+}

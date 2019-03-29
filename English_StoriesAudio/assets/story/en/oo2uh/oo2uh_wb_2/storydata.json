@@ -1,0 +1,733 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_a_new_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 78,
+                    "start": 51,
+                    "word": "got"
+                  },
+                  {
+                    "end": 83,
+                    "start": 79,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 103,
+                    "word": "new"
+                  },
+                  {
+                    "end": 192,
+                    "start": 135,
+                    "word": "car"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Dad got a new car"
+              }
+            ],
+            "sentence": "Dad got a new car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_jeep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 76,
+                    "start": 30,
+                    "word": "jeep"
+                  }
+                ],
+                "until": 76,
+                "utterances": "A jeep"
+              }
+            ],
+            "sentence": "A jeep!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_looks_good.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 69,
+                    "start": 27,
+                    "word": "looks"
+                  },
+                  {
+                    "end": 107,
+                    "start": 70,
+                    "word": "good"
+                  }
+                ],
+                "until": 107,
+                "utterances": "It looks good"
+              }
+            ],
+            "sentence": "It looks good."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_dark_green.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 57,
+                    "start": 32,
+                    "word": "is"
+                  },
+                  {
+                    "end": 87,
+                    "start": 58,
+                    "word": "dark"
+                  },
+                  {
+                    "end": 137,
+                    "start": 93,
+                    "word": "green"
+                  }
+                ],
+                "until": 137,
+                "utterances": "It is dark green"
+              }
+            ],
+            "sentence": "It is dark green."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_took_me_for_a_ride.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 81,
+                    "start": 51,
+                    "word": "took"
+                  },
+                  {
+                    "end": 100,
+                    "start": 82,
+                    "word": "me"
+                  },
+                  {
+                    "end": 139,
+                    "start": 101,
+                    "word": "for"
+                  },
+                  {
+                    "end": 155,
+                    "start": 140,
+                    "word": "a"
+                  },
+                  {
+                    "end": 200,
+                    "start": 156,
+                    "word": "ride"
+                  }
+                ],
+                "until": 200,
+                "utterances": "Dad took me for a ride"
+              }
+            ],
+            "sentence": "Dad took me for a ride."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_put_his_foot_on_the_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 62,
+                    "start": 27,
+                    "word": "put"
+                  },
+                  {
+                    "end": 85,
+                    "start": 63,
+                    "word": "his"
+                  },
+                  {
+                    "end": 126,
+                    "start": 86,
+                    "word": "foot"
+                  },
+                  {
+                    "end": 155,
+                    "start": 127,
+                    "word": "on"
+                  },
+                  {
+                    "end": 167,
+                    "start": 156,
+                    "word": "the"
+                  },
+                  {
+                    "end": 227,
+                    "start": 168,
+                    "word": "gas"
+                  }
+                ],
+                "until": 227,
+                "utterances": "He put his foot on the gas"
+              }
+            ],
+            "sentence": "He put his foot on the gas."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jeep_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 110,
+                    "start": 65,
+                    "word": "jeep"
+                  },
+                  {
+                    "end": 152,
+                    "start": 111,
+                    "word": "went"
+                  },
+                  {
+                    "end": 231,
+                    "start": 197,
+                    "word": "fast"
+                  }
+                ],
+                "until": 231,
+                "utterances": "The jeep went fast"
+              }
+            ],
+            "sentence": "The jeep went fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_put_his_foot_on_the_brake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 26,
+                    "word": "put"
+                  },
+                  {
+                    "end": 82,
+                    "start": 58,
+                    "word": "his"
+                  },
+                  {
+                    "end": 147,
+                    "start": 83,
+                    "word": "foot"
+                  },
+                  {
+                    "end": 184,
+                    "start": 148,
+                    "word": "on"
+                  },
+                  {
+                    "end": 203,
+                    "start": 185,
+                    "word": "the"
+                  },
+                  {
+                    "end": 256,
+                    "start": 204,
+                    "word": "brake"
+                  }
+                ],
+                "until": 256,
+                "utterances": "He put his foot on the brake"
+              }
+            ],
+            "sentence": "He put his foot on the brake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jeep_made_a_stop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 25,
+                    "word": "jeep"
+                  },
+                  {
+                    "end": 96,
+                    "start": 68,
+                    "word": "made"
+                  },
+                  {
+                    "end": 99,
+                    "start": 97,
+                    "word": "a"
+                  },
+                  {
+                    "end": 158,
+                    "start": 100,
+                    "word": "stop"
+                  }
+                ],
+                "until": 158,
+                "utterances": "The jeep made a stop"
+              }
+            ],
+            "sentence": "The jeep made a stop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_went_for_a_good_ride.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 81,
+                    "start": 36,
+                    "word": "went"
+                  },
+                  {
+                    "end": 119,
+                    "start": 82,
+                    "word": "for"
+                  },
+                  {
+                    "end": 132,
+                    "start": 120,
+                    "word": "a"
+                  },
+                  {
+                    "end": 173,
+                    "start": 133,
+                    "word": "good"
+                  },
+                  {
+                    "end": 226,
+                    "start": 174,
+                    "word": "ride"
+                  }
+                ],
+                "until": 226,
+                "utterances": "We went for a good ride"
+              }
+            ],
+            "sentence": "We went for a good ride."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_let_me_look_under_the_hood.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 74,
+                    "start": 41,
+                    "word": "let"
+                  },
+                  {
+                    "end": 87,
+                    "start": 75,
+                    "word": "me"
+                  },
+                  {
+                    "end": 127,
+                    "start": 88,
+                    "word": "look"
+                  },
+                  {
+                    "end": 182,
+                    "start": 140,
+                    "word": "under"
+                  },
+                  {
+                    "end": 197,
+                    "start": 183,
+                    "word": "the"
+                  },
+                  {
+                    "end": 236,
+                    "start": 201,
+                    "word": "hood"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Dad let me look under the hood"
+              }
+            ],
+            "sentence": "Dad let me look under the hood."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_car_has_many_parts.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 81,
+                    "start": 29,
+                    "word": "car"
+                  },
+                  {
+                    "end": 111,
+                    "start": 89,
+                    "word": "has"
+                  },
+                  {
+                    "end": 149,
+                    "start": 112,
+                    "word": "many"
+                  },
+                  {
+                    "end": 215,
+                    "start": 150,
+                    "word": "parts"
+                  }
+                ],
+                "until": 215,
+                "utterances": "A car has many parts"
+              }
+            ],
+            "sentence": "A car has many parts."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_can_look_at_the_parts_under_the_hood.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 8,
+                    "word": "We"
+                  },
+                  {
+                    "end": 39,
+                    "start": 19,
+                    "word": "can"
+                  },
+                  {
+                    "end": 80,
+                    "start": 40,
+                    "word": "look"
+                  },
+                  {
+                    "end": 94,
+                    "start": 81,
+                    "word": "at"
+                  },
+                  {
+                    "end": 104,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 173,
+                    "start": 105,
+                    "word": "parts"
+                  },
+                  {
+                    "end": 208,
+                    "start": 174,
+                    "word": "under"
+                  },
+                  {
+                    "end": 222,
+                    "start": 209,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 223,
+                    "word": "hood"
+                  }
+                ],
+                "until": 258,
+                "utterances": "We can look at the parts under the hood"
+              }
+            ],
+            "sentence": "We can look at the parts under the hood."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_stood_side_by_side_to_look.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 90,
+                    "start": 37,
+                    "word": "stood"
+                  },
+                  {
+                    "end": 133,
+                    "start": 91,
+                    "word": "side"
+                  },
+                  {
+                    "end": 162,
+                    "start": 134,
+                    "word": "by"
+                  },
+                  {
+                    "end": 230,
+                    "start": 163,
+                    "word": "side"
+                  },
+                  {
+                    "end": 247,
+                    "start": 231,
+                    "word": "to"
+                  },
+                  {
+                    "end": 294,
+                    "start": 248,
+                    "word": "look"
+                  }
+                ],
+                "until": 294,
+                "utterances": "We stood side by side to look"
+              }
+            ],
+            "sentence": "We stood side by side to look."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_like_the_new_jeep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 30,
+                    "word": "like"
+                  },
+                  {
+                    "end": 82,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 107,
+                    "start": 83,
+                    "word": "new"
+                  },
+                  {
+                    "end": 149,
+                    "start": 108,
+                    "word": "jeep"
+                  }
+                ],
+                "until": 149,
+                "utterances": "I like the new jeep"
+              }
+            ],
+            "sentence": "I like the new jeep."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dad's New Car",
+  "titleimage": null
+}

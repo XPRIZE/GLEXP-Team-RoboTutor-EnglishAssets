@@ -1,0 +1,813 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_sits_at_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 100,
+                    "start": 49,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 108,
+                    "start": 101,
+                    "word": "at"
+                  },
+                  {
+                    "end": 128,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 204,
+                    "start": 152,
+                    "word": "pond"
+                  }
+                ],
+                "until": 204,
+                "utterances": "Pat sits at the pond"
+              }
+            ],
+            "sentence": "Pat sits at the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_frog_hops_in_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 77,
+                    "start": 24,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 124,
+                    "start": 78,
+                    "word": "hops"
+                  },
+                  {
+                    "end": 145,
+                    "start": 125,
+                    "word": "in"
+                  },
+                  {
+                    "end": 154,
+                    "start": 146,
+                    "word": "the"
+                  },
+                  {
+                    "end": 204,
+                    "start": 155,
+                    "word": "pond"
+                  }
+                ],
+                "until": 204,
+                "utterances": "A frog hops in the pond"
+              }
+            ],
+            "sentence": "A frog hops in the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_stops.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 95,
+                    "start": 27,
+                    "word": "stops"
+                  }
+                ],
+                "until": 95,
+                "utterances": "It stops"
+              }
+            ],
+            "sentence": "It stops."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_has_spots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 33,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 119,
+                    "start": 85,
+                    "word": "has"
+                  },
+                  {
+                    "end": 191,
+                    "start": 120,
+                    "word": "spots"
+                  }
+                ],
+                "until": 191,
+                "utterances": "The frog has spots"
+              }
+            ],
+            "sentence": "The frog has spots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_got_in_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 54,
+                    "start": 18,
+                    "word": "got"
+                  },
+                  {
+                    "end": 74,
+                    "start": 55,
+                    "word": "in"
+                  },
+                  {
+                    "end": 83,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 136,
+                    "start": 84,
+                    "word": "pond"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Pat got in the pond"
+              }
+            ],
+            "sentence": "Pat got in the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_swims.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 101,
+                    "start": 36,
+                    "word": "swims"
+                  }
+                ],
+                "until": 101,
+                "utterances": "The frog swims"
+              }
+            ],
+            "sentence": "The frog swims."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_swims.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 108,
+                    "start": 42,
+                    "word": "swims"
+                  }
+                ],
+                "until": 108,
+                "utterances": "Pat swims"
+              }
+            ],
+            "sentence": "Pat swims."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_pat_get_the_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 67,
+                    "start": 48,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 95,
+                    "start": 68,
+                    "word": "get"
+                  },
+                  {
+                    "end": 119,
+                    "start": 96,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 135,
+                    "word": "frog"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Did Pat get the frog"
+              }
+            ],
+            "sentence": "Did Pat get the frog?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 56,
+                    "start": 28,
+                    "word": "went"
+                  },
+                  {
+                    "end": 107,
+                    "start": 57,
+                    "word": "fast"
+                  }
+                ],
+                "until": 107,
+                "utterances": "Pat went fast"
+              }
+            ],
+            "sentence": "Pat went fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_the_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 63,
+                    "start": 33,
+                    "word": "got"
+                  },
+                  {
+                    "end": 73,
+                    "start": 64,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 74,
+                    "word": "frog"
+                  }
+                ],
+                "until": 129,
+                "utterances": "He got the frog"
+              }
+            ],
+            "sentence": "He got the frog!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_is_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 88,
+                    "start": 27,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 103,
+                    "start": 89,
+                    "word": "is"
+                  },
+                  {
+                    "end": 133,
+                    "start": 104,
+                    "word": "wet"
+                  }
+                ],
+                "until": 133,
+                "utterances": "The frog is wet"
+              }
+            ],
+            "sentence": "The frog is wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_frog_slip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 36,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 77,
+                    "start": 37,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 115,
+                    "start": 78,
+                    "word": "slip"
+                  }
+                ],
+                "until": 115,
+                "utterances": "Did the frog slip"
+              }
+            ],
+            "sentence": "Did the frog slip?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 65,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_pat_drop_the_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 62,
+                    "start": 34,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 106,
+                    "start": 63,
+                    "word": "drop"
+                  },
+                  {
+                    "end": 114,
+                    "start": 107,
+                    "word": "the"
+                  },
+                  {
+                    "end": 157,
+                    "start": 115,
+                    "word": "frog"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Did Pat drop the frog"
+              }
+            ],
+            "sentence": "Did Pat drop the frog?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 65,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_swam_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 35,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 106,
+                    "start": 78,
+                    "word": "swam"
+                  },
+                  {
+                    "end": 168,
+                    "start": 107,
+                    "word": "fast"
+                  }
+                ],
+                "until": 168,
+                "utterances": "The frog swam fast"
+              }
+            ],
+            "sentence": "The frog swam fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_went_past_pat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 22,
+                    "word": "went"
+                  },
+                  {
+                    "end": 105,
+                    "start": 57,
+                    "word": "past"
+                  },
+                  {
+                    "end": 124,
+                    "start": 106,
+                    "word": "Pat"
+                  }
+                ],
+                "until": 124,
+                "utterances": "It went past Pat"
+              }
+            ],
+            "sentence": "It went past Pat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_went_past_a_plant.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 31,
+                    "word": "went"
+                  },
+                  {
+                    "end": 100,
+                    "start": 60,
+                    "word": "past"
+                  },
+                  {
+                    "end": 113,
+                    "start": 101,
+                    "word": "a"
+                  },
+                  {
+                    "end": 166,
+                    "start": 114,
+                    "word": "plant"
+                  }
+                ],
+                "until": 166,
+                "utterances": "It went past a plant"
+              }
+            ],
+            "sentence": "It went past a plant."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 56,
+                    "start": 28,
+                    "word": "went"
+                  },
+                  {
+                    "end": 107,
+                    "start": 57,
+                    "word": "fast"
+                  }
+                ],
+                "until": 107,
+                "utterances": "Pat went fast"
+              }
+            ],
+            "sentence": "Pat went fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_pat_did_not_get_the_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 73,
+                    "start": 64,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 98,
+                    "start": 74,
+                    "word": "did"
+                  },
+                  {
+                    "end": 125,
+                    "start": 99,
+                    "word": "not"
+                  },
+                  {
+                    "end": 152,
+                    "start": 126,
+                    "word": "get"
+                  },
+                  {
+                    "end": 170,
+                    "start": 153,
+                    "word": "the"
+                  },
+                  {
+                    "end": 226,
+                    "start": 171,
+                    "word": "frog"
+                  }
+                ],
+                "until": 226,
+                "utterances": "But Pat did not get the frog"
+              }
+            ],
+            "sentence": "But Pat did not get the frog."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Pond",
+  "titleimage": null
+}

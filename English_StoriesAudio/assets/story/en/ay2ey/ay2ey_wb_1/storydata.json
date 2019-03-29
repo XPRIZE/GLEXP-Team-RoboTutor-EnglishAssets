@@ -1,0 +1,709 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_is_my_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 76,
+                    "start": 59,
+                    "word": "is"
+                  },
+                  {
+                    "end": 116,
+                    "start": 77,
+                    "word": "my"
+                  },
+                  {
+                    "end": 180,
+                    "start": 117,
+                    "word": "cat"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Ray is my cat"
+              }
+            ],
+            "sentence": "Ray is my cat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_was_a_stray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 100,
+                    "start": 48,
+                    "word": "was"
+                  },
+                  {
+                    "end": 112,
+                    "start": 101,
+                    "word": "a"
+                  },
+                  {
+                    "end": 163,
+                    "start": 113,
+                    "word": "stray"
+                  }
+                ],
+                "until": 163,
+                "utterances": "Ray was a stray"
+              }
+            ],
+            "sentence": "Ray was a stray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_a_gray_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 77,
+                    "start": 51,
+                    "word": "is"
+                  },
+                  {
+                    "end": 89,
+                    "start": 78,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 90,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 164,
+                    "start": 143,
+                    "word": "cat"
+                  }
+                ],
+                "until": 164,
+                "utterances": "He is a gray cat"
+              }
+            ],
+            "sentence": "He is a gray cat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_a_gray_tail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 66,
+                    "start": 33,
+                    "word": "has"
+                  },
+                  {
+                    "end": 76,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 124,
+                    "start": 77,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 197,
+                    "start": 125,
+                    "word": "tail"
+                  }
+                ],
+                "until": 197,
+                "utterances": "He has a gray tail"
+              }
+            ],
+            "sentence": "He has a gray tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_no_spots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 67,
+                    "start": 40,
+                    "word": "has"
+                  },
+                  {
+                    "end": 102,
+                    "start": 68,
+                    "word": "no"
+                  },
+                  {
+                    "end": 179,
+                    "start": 106,
+                    "word": "spots"
+                  }
+                ],
+                "until": 179,
+                "utterances": "He has no spots"
+              }
+            ],
+            "sentence": "He has no spots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_no_dots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 72,
+                    "start": 41,
+                    "word": "has"
+                  },
+                  {
+                    "end": 109,
+                    "start": 73,
+                    "word": "no"
+                  },
+                  {
+                    "end": 175,
+                    "start": 115,
+                    "word": "dots"
+                  }
+                ],
+                "until": 175,
+                "utterances": "He has no dots"
+              }
+            ],
+            "sentence": "He has no dots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_is_a_plain_gray_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 43,
+                    "start": 23,
+                    "word": "is"
+                  },
+                  {
+                    "end": 53,
+                    "start": 44,
+                    "word": "a"
+                  },
+                  {
+                    "end": 123,
+                    "start": 54,
+                    "word": "plain"
+                  },
+                  {
+                    "end": 184,
+                    "start": 124,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 206,
+                    "start": 190,
+                    "word": "cat"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Ray is a plain gray cat"
+              }
+            ],
+            "sentence": "Ray is a plain, gray cat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_play_with_ray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 17,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 83,
+                    "start": 41,
+                    "word": "play"
+                  },
+                  {
+                    "end": 121,
+                    "start": 95,
+                    "word": "with"
+                  },
+                  {
+                    "end": 153,
+                    "start": 125,
+                    "word": "Ray"
+                  }
+                ],
+                "until": 153,
+                "utterances": "I play with Ray"
+              }
+            ],
+            "sentence": "I play with Ray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_and_i_play_sports.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 80,
+                    "start": 59,
+                    "word": "and"
+                  },
+                  {
+                    "end": 85,
+                    "start": 81,
+                    "word": "I"
+                  },
+                  {
+                    "end": 121,
+                    "start": 86,
+                    "word": "play"
+                  },
+                  {
+                    "end": 173,
+                    "start": 138,
+                    "word": "sports"
+                  }
+                ],
+                "until": 173,
+                "utterances": "Ray and I play sports"
+              }
+            ],
+            "sentence": "Ray and I play sports."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_can_play_in_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 88,
+                    "start": 60,
+                    "word": "can"
+                  },
+                  {
+                    "end": 148,
+                    "start": 89,
+                    "word": "play"
+                  },
+                  {
+                    "end": 172,
+                    "start": 149,
+                    "word": "in"
+                  },
+                  {
+                    "end": 185,
+                    "start": 173,
+                    "word": "the"
+                  },
+                  {
+                    "end": 232,
+                    "start": 186,
+                    "word": "tree"
+                  }
+                ],
+                "until": 232,
+                "utterances": "Ray can play in the tree"
+              }
+            ],
+            "sentence": "Ray can play in the tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_feed_ray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 27,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 75,
+                    "start": 42,
+                    "word": "Ray"
+                  }
+                ],
+                "until": 75,
+                "utterances": "I feed Ray"
+              }
+            ],
+            "sentence": "I feed Ray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_eats_cat_food.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 49,
+                    "start": 13,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 69,
+                    "start": 50,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 133,
+                    "start": 86,
+                    "word": "food"
+                  }
+                ],
+                "until": 133,
+                "utterances": "Ray eats cat food"
+              }
+            ],
+            "sentence": "Ray eats cat food."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_clip_his_nail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 74,
+                    "start": 22,
+                    "word": "clip"
+                  },
+                  {
+                    "end": 93,
+                    "start": 75,
+                    "word": "his"
+                  },
+                  {
+                    "end": 156,
+                    "start": 94,
+                    "word": "nail"
+                  }
+                ],
+                "until": 156,
+                "utterances": "I clip his nail"
+              }
+            ],
+            "sentence": "I clip his nail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_pet_his_cheek.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 73,
+                    "start": 37,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 107,
+                    "start": 85,
+                    "word": "his"
+                  },
+                  {
+                    "end": 154,
+                    "start": 108,
+                    "word": "cheek"
+                  }
+                ],
+                "until": 154,
+                "utterances": "I pet his cheek"
+              }
+            ],
+            "sentence": "I pet his cheek."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_lay_on_the_bed_with_ray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 35,
+                    "word": "lay"
+                  },
+                  {
+                    "end": 69,
+                    "start": 60,
+                    "word": "on"
+                  },
+                  {
+                    "end": 79,
+                    "start": 70,
+                    "word": "the"
+                  },
+                  {
+                    "end": 109,
+                    "start": 80,
+                    "word": "bed"
+                  },
+                  {
+                    "end": 132,
+                    "start": 110,
+                    "word": "with"
+                  },
+                  {
+                    "end": 174,
+                    "start": 137,
+                    "word": "Ray"
+                  }
+                ],
+                "until": 174,
+                "utterances": "I lay on the bed with Ray"
+              }
+            ],
+            "sentence": "I lay on the bed with Ray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray_is_my_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Ray"
+                  },
+                  {
+                    "end": 76,
+                    "start": 59,
+                    "word": "is"
+                  },
+                  {
+                    "end": 116,
+                    "start": 77,
+                    "word": "my"
+                  },
+                  {
+                    "end": 180,
+                    "start": 117,
+                    "word": "cat"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Ray is my cat"
+              }
+            ],
+            "sentence": "Ray is my cat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ray the Gray Stray",
+  "titleimage": null
+}

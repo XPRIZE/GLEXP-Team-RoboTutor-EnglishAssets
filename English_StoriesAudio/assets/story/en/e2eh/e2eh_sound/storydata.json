@@ -1,0 +1,411 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "wet"
+                  }
+                ],
+                "until": 56,
+                "utterances": "wet"
+              }
+            ],
+            "sentence": "wet "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "met.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "MET"
+                  }
+                ],
+                "until": 25,
+                "utterances": "MET"
+              }
+            ],
+            "sentence": "met "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "jet"
+                  }
+                ],
+                "until": 44,
+                "utterances": "jet"
+              }
+            ],
+            "sentence": "jet "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_e_make_in_the_words_wet_met_and_.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 92,
+                    "start": 43,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 111,
+                    "start": 93,
+                    "word": "does"
+                  },
+                  {
+                    "end": 120,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 160,
+                    "start": 121,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 194,
+                    "start": 164,
+                    "word": "E"
+                  },
+                  {
+                    "end": 225,
+                    "start": 195,
+                    "word": "make"
+                  },
+                  {
+                    "end": 246,
+                    "start": 226,
+                    "word": "in"
+                  },
+                  {
+                    "end": 254,
+                    "start": 247,
+                    "word": "the"
+                  },
+                  {
+                    "end": 306,
+                    "start": 255,
+                    "word": "words"
+                  },
+                  {
+                    "end": 360,
+                    "start": 307,
+                    "word": "WET"
+                  },
+                  {
+                    "end": 402,
+                    "start": 361,
+                    "word": "MET"
+                  },
+                  {
+                    "end": 456,
+                    "start": 414,
+                    "word": "and"
+                  },
+                  {
+                    "end": 488,
+                    "start": 460,
+                    "word": "JET"
+                  }
+                ],
+                "until": 488,
+                "utterances": "What sound does the letter E make in the words WET MET and JET"
+              },
+              {
+                "audio": "jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "jet"
+                  }
+                ],
+                "until": 44,
+                "utterances": "jet"
+              }
+            ],
+            "sentence": "What sound does the letter e make in the words wet, met and jet?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "PET"
+                  }
+                ],
+                "until": 30,
+                "utterances": "PET"
+              }
+            ],
+            "sentence": "pet "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "set"
+                  }
+                ],
+                "until": 51,
+                "utterances": "set"
+              }
+            ],
+            "sentence": "set "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "LET"
+                  }
+                ],
+                "until": 63,
+                "utterances": "LET"
+              }
+            ],
+            "sentence": "let "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "net.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "NET"
+                  }
+                ],
+                "until": 65,
+                "utterances": "NET"
+              }
+            ],
+            "sentence": "net "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_do_not_mind_getting_wet_i_just_want_to_win_the_bet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 30,
+                    "word": "do"
+                  },
+                  {
+                    "end": 89,
+                    "start": 58,
+                    "word": "not"
+                  },
+                  {
+                    "end": 137,
+                    "start": 90,
+                    "word": "mind"
+                  },
+                  {
+                    "end": 181,
+                    "start": 138,
+                    "word": "getting"
+                  },
+                  {
+                    "end": 218,
+                    "start": 182,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 259,
+                    "start": 230,
+                    "word": "I"
+                  },
+                  {
+                    "end": 291,
+                    "start": 260,
+                    "word": "just"
+                  },
+                  {
+                    "end": 309,
+                    "start": 292,
+                    "word": "want"
+                  },
+                  {
+                    "end": 334,
+                    "start": 315,
+                    "word": "to"
+                  },
+                  {
+                    "end": 364,
+                    "start": 335,
+                    "word": "win"
+                  },
+                  {
+                    "end": 375,
+                    "start": 365,
+                    "word": "the"
+                  },
+                  {
+                    "end": 421,
+                    "start": 376,
+                    "word": "bet"
+                  }
+                ],
+                "until": 421,
+                "utterances": "I do not mind getting wet I just want to win the bet"
+              }
+            ],
+            "sentence": "I do not mind getting wet, I just want to win the bet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "good_job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "GOOD"
+                  },
+                  {
+                    "end": 99,
+                    "start": 43,
+                    "word": "JOB"
+                  }
+                ],
+                "until": 99,
+                "utterances": "GOOD JOB"
+              }
+            ],
+            "sentence": "Good job! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letter E in WET, MET and JET",
+  "titleimage": null
+}

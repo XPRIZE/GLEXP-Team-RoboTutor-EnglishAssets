@@ -1,0 +1,1000 @@
+{
+  "author": "Southern African Folktale",
+  "data": [
+    {
+      "image": "children_of_wax_4_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "once_upon_a_time_there_lived_a_happy_family.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 17,
+                    "word": "Once"
+                  },
+                  {
+                    "end": 77,
+                    "start": 50,
+                    "word": "upon"
+                  },
+                  {
+                    "end": 125,
+                    "start": 100,
+                    "word": "a"
+                  },
+                  {
+                    "end": 148,
+                    "start": 126,
+                    "word": "time"
+                  },
+                  {
+                    "end": 173,
+                    "start": 149,
+                    "word": "there"
+                  },
+                  {
+                    "end": 197,
+                    "start": 174,
+                    "word": "lived"
+                  },
+                  {
+                    "end": 204,
+                    "start": 198,
+                    "word": "a"
+                  },
+                  {
+                    "end": 249,
+                    "start": 205,
+                    "word": "happy"
+                  },
+                  {
+                    "end": 305,
+                    "start": 250,
+                    "word": "family"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Once upon a time there lived a happy family"
+              }
+            ],
+            "sentence": "Once upon a time, there lived a happy family."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_children_never_fought_with_each_other.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 24,
+                    "word": "children"
+                  },
+                  {
+                    "end": 108,
+                    "start": 76,
+                    "word": "never"
+                  },
+                  {
+                    "end": 143,
+                    "start": 109,
+                    "word": "fought"
+                  },
+                  {
+                    "end": 159,
+                    "start": 144,
+                    "word": "with"
+                  },
+                  {
+                    "end": 180,
+                    "start": 160,
+                    "word": "each"
+                  },
+                  {
+                    "end": 208,
+                    "start": 181,
+                    "word": "other"
+                  }
+                ],
+                "until": 208,
+                "utterances": "The children never fought with each other"
+              }
+            ],
+            "sentence": "The children never fought with each other."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_helped_their_parents_at_home_and_in_the_fields.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "They"
+                  },
+                  {
+                    "end": 62,
+                    "start": 29,
+                    "word": "helped"
+                  },
+                  {
+                    "end": 72,
+                    "start": 63,
+                    "word": "their"
+                  },
+                  {
+                    "end": 121,
+                    "start": 73,
+                    "word": "parents"
+                  },
+                  {
+                    "end": 139,
+                    "start": 122,
+                    "word": "at"
+                  },
+                  {
+                    "end": 184,
+                    "start": 140,
+                    "word": "home"
+                  },
+                  {
+                    "end": 202,
+                    "start": 185,
+                    "word": "and"
+                  },
+                  {
+                    "end": 217,
+                    "start": 203,
+                    "word": "in"
+                  },
+                  {
+                    "end": 224,
+                    "start": 218,
+                    "word": "the"
+                  },
+                  {
+                    "end": 295,
+                    "start": 225,
+                    "word": "fields"
+                  }
+                ],
+                "until": 295,
+                "utterances": "They helped their parents at home and in the fields"
+              }
+            ],
+            "sentence": "They helped their parents at home and in the fields."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_they_were_not_allowed_to_go_near_a_fire.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 40,
+                    "start": 33,
+                    "word": "they"
+                  },
+                  {
+                    "end": 56,
+                    "start": 41,
+                    "word": "were"
+                  },
+                  {
+                    "end": 81,
+                    "start": 57,
+                    "word": "not"
+                  },
+                  {
+                    "end": 130,
+                    "start": 82,
+                    "word": "allowed"
+                  },
+                  {
+                    "end": 138,
+                    "start": 131,
+                    "word": "to"
+                  },
+                  {
+                    "end": 158,
+                    "start": 139,
+                    "word": "go"
+                  },
+                  {
+                    "end": 188,
+                    "start": 159,
+                    "word": "near"
+                  },
+                  {
+                    "end": 192,
+                    "start": 189,
+                    "word": "a"
+                  },
+                  {
+                    "end": 241,
+                    "start": 193,
+                    "word": "fire"
+                  }
+                ],
+                "until": 241,
+                "utterances": "But they were not allowed to go near a fire"
+              }
+            ],
+            "sentence": "But they were not allowed to go near a fire."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_had_to_do_all_their_work_during_the_night.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 1,
+                    "word": "They"
+                  },
+                  {
+                    "end": 52,
+                    "start": 29,
+                    "word": "had"
+                  },
+                  {
+                    "end": 60,
+                    "start": 53,
+                    "word": "to"
+                  },
+                  {
+                    "end": 78,
+                    "start": 61,
+                    "word": "do"
+                  },
+                  {
+                    "end": 109,
+                    "start": 79,
+                    "word": "all"
+                  },
+                  {
+                    "end": 125,
+                    "start": 110,
+                    "word": "their"
+                  },
+                  {
+                    "end": 171,
+                    "start": 126,
+                    "word": "work"
+                  },
+                  {
+                    "end": 196,
+                    "start": 172,
+                    "word": "during"
+                  },
+                  {
+                    "end": 209,
+                    "start": 197,
+                    "word": "the"
+                  },
+                  {
+                    "end": 233,
+                    "start": 210,
+                    "word": "night"
+                  }
+                ],
+                "until": 233,
+                "utterances": "They had to do all their work during the night"
+              }
+            ],
+            "sentence": "They had to do all their work during the night."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "because_they_were_made_of_wax.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 1,
+                    "word": "Because"
+                  },
+                  {
+                    "end": 62,
+                    "start": 54,
+                    "word": "they"
+                  },
+                  {
+                    "end": 84,
+                    "start": 63,
+                    "word": "were"
+                  },
+                  {
+                    "end": 137,
+                    "start": 85,
+                    "word": "made"
+                  },
+                  {
+                    "end": 154,
+                    "start": 138,
+                    "word": "of"
+                  },
+                  {
+                    "end": 292,
+                    "start": 155,
+                    "word": "wax"
+                  }
+                ],
+                "until": 292,
+                "utterances": "Because they were made of wax"
+              }
+            ],
+            "sentence": "Because they were made of wax!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_one_of_the_boys_longed_to_go_out_in_the_sunlight.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 46,
+                    "start": 32,
+                    "word": "one"
+                  },
+                  {
+                    "end": 54,
+                    "start": 47,
+                    "word": "of"
+                  },
+                  {
+                    "end": 60,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 114,
+                    "start": 61,
+                    "word": "boys"
+                  },
+                  {
+                    "end": 182,
+                    "start": 115,
+                    "word": "longed"
+                  },
+                  {
+                    "end": 204,
+                    "start": 183,
+                    "word": "to"
+                  },
+                  {
+                    "end": 237,
+                    "start": 205,
+                    "word": "go"
+                  },
+                  {
+                    "end": 267,
+                    "start": 238,
+                    "word": "out"
+                  },
+                  {
+                    "end": 284,
+                    "start": 268,
+                    "word": "in"
+                  },
+                  {
+                    "end": 291,
+                    "start": 285,
+                    "word": "the"
+                  },
+                  {
+                    "end": 352,
+                    "start": 292,
+                    "word": "sunlight"
+                  }
+                ],
+                "until": 352,
+                "utterances": "But one of the boys longed to go out in the sunlight"
+              }
+            ],
+            "sentence": "But one of the boys longed to go out in the sunlight."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_day_the_longing_was_too_strong.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 55,
+                    "start": 42,
+                    "word": "day"
+                  },
+                  {
+                    "end": 70,
+                    "start": 56,
+                    "word": "the"
+                  },
+                  {
+                    "end": 126,
+                    "start": 71,
+                    "word": "longing"
+                  },
+                  {
+                    "end": 149,
+                    "start": 127,
+                    "word": "was"
+                  },
+                  {
+                    "end": 194,
+                    "start": 150,
+                    "word": "too"
+                  },
+                  {
+                    "end": 271,
+                    "start": 195,
+                    "word": "strong"
+                  }
+                ],
+                "until": 271,
+                "utterances": "One day the longing was too strong"
+              }
+            ],
+            "sentence": "One day the longing was too strong."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_brother_and_sister_warned_him.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 2,
+                    "word": "His"
+                  },
+                  {
+                    "end": 74,
+                    "start": 43,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 83,
+                    "start": 75,
+                    "word": "and"
+                  },
+                  {
+                    "end": 123,
+                    "start": 84,
+                    "word": "sister"
+                  },
+                  {
+                    "end": 168,
+                    "start": 124,
+                    "word": "warned"
+                  },
+                  {
+                    "end": 200,
+                    "start": 169,
+                    "word": "him"
+                  }
+                ],
+                "until": 200,
+                "utterances": "His brother and sister warned him"
+              }
+            ],
+            "sentence": "His brother and sister warned him."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_it_was_too_late.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 41,
+                    "start": 35,
+                    "word": "it"
+                  },
+                  {
+                    "end": 67,
+                    "start": 42,
+                    "word": "was"
+                  },
+                  {
+                    "end": 85,
+                    "start": 68,
+                    "word": "too"
+                  },
+                  {
+                    "end": 129,
+                    "start": 86,
+                    "word": "late"
+                  }
+                ],
+                "until": 129,
+                "utterances": "But it was too late"
+              }
+            ],
+            "sentence": "But it was too late!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_melted_in_the_hot_sun.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 94,
+                    "start": 30,
+                    "word": "melted"
+                  },
+                  {
+                    "end": 106,
+                    "start": 95,
+                    "word": "in"
+                  },
+                  {
+                    "end": 116,
+                    "start": 107,
+                    "word": "the"
+                  },
+                  {
+                    "end": 153,
+                    "start": 117,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 217,
+                    "start": 154,
+                    "word": "sun"
+                  }
+                ],
+                "until": 217,
+                "utterances": "He melted in the hot sun"
+              }
+            ],
+            "sentence": "He melted in the hot sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_wax_children_cried_to_see_their_brother_melting_away.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 34,
+                    "word": "wax"
+                  },
+                  {
+                    "end": 106,
+                    "start": 69,
+                    "word": "children"
+                  },
+                  {
+                    "end": 181,
+                    "start": 107,
+                    "word": "cried"
+                  },
+                  {
+                    "end": 190,
+                    "start": 182,
+                    "word": "to"
+                  },
+                  {
+                    "end": 215,
+                    "start": 191,
+                    "word": "see"
+                  },
+                  {
+                    "end": 230,
+                    "start": 216,
+                    "word": "their"
+                  },
+                  {
+                    "end": 272,
+                    "start": 231,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 324,
+                    "start": 273,
+                    "word": "melting"
+                  },
+                  {
+                    "end": 373,
+                    "start": 325,
+                    "word": "away"
+                  }
+                ],
+                "until": 373,
+                "utterances": "The wax children cried to see their brother melting away"
+              }
+            ],
+            "sentence": "The wax children cried to see their brother melting away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_they_made_a_plan.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 40,
+                    "start": 31,
+                    "word": "they"
+                  },
+                  {
+                    "end": 69,
+                    "start": 41,
+                    "word": "made"
+                  },
+                  {
+                    "end": 77,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 116,
+                    "start": 78,
+                    "word": "plan"
+                  }
+                ],
+                "until": 116,
+                "utterances": "But they made a plan"
+              }
+            ],
+            "sentence": "But they made a plan."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_shaped_the_lump_of_melted_wax_into_a_bird.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 1,
+                    "word": "They"
+                  },
+                  {
+                    "end": 75,
+                    "start": 28,
+                    "word": "shaped"
+                  },
+                  {
+                    "end": 82,
+                    "start": 76,
+                    "word": "the"
+                  },
+                  {
+                    "end": 127,
+                    "start": 83,
+                    "word": "lump"
+                  },
+                  {
+                    "end": 134,
+                    "start": 128,
+                    "word": "of"
+                  },
+                  {
+                    "end": 180,
+                    "start": 135,
+                    "word": "melted"
+                  },
+                  {
+                    "end": 231,
+                    "start": 181,
+                    "word": "wax"
+                  },
+                  {
+                    "end": 263,
+                    "start": 232,
+                    "word": "into"
+                  },
+                  {
+                    "end": 268,
+                    "start": 264,
+                    "word": "a"
+                  },
+                  {
+                    "end": 380,
+                    "start": 269,
+                    "word": "bird"
+                  }
+                ],
+                "until": 380,
+                "utterances": "They shaped the lump of melted wax into a bird"
+              }
+            ],
+            "sentence": "They shaped the lump of melted wax into a bird."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_took_their_bird_brother_up_to_a_high_mountain.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 2,
+                    "word": "They"
+                  },
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "took"
+                  },
+                  {
+                    "end": 70,
+                    "start": 57,
+                    "word": "their"
+                  },
+                  {
+                    "end": 112,
+                    "start": 71,
+                    "word": "bird"
+                  },
+                  {
+                    "end": 170,
+                    "start": 113,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 180,
+                    "start": 171,
+                    "word": "up"
+                  },
+                  {
+                    "end": 201,
+                    "start": 181,
+                    "word": "to"
+                  },
+                  {
+                    "end": 213,
+                    "start": 202,
+                    "word": "a"
+                  },
+                  {
+                    "end": 255,
+                    "start": 214,
+                    "word": "high"
+                  },
+                  {
+                    "end": 312,
+                    "start": 256,
+                    "word": "mountain"
+                  }
+                ],
+                "until": 312,
+                "utterances": "They took their bird brother up to a high mountain"
+              }
+            ],
+            "sentence": "They took their bird brother up to a high mountain."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "children_of_wax_4_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_as_the_sun_rose_he_flew_away_singing_in_the_morning_light.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "And"
+                  },
+                  {
+                    "end": 51,
+                    "start": 34,
+                    "word": "as"
+                  },
+                  {
+                    "end": 57,
+                    "start": 52,
+                    "word": "the"
+                  },
+                  {
+                    "end": 100,
+                    "start": 58,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 149,
+                    "start": 101,
+                    "word": "rose"
+                  },
+                  {
+                    "end": 159,
+                    "start": 153,
+                    "word": "he"
+                  },
+                  {
+                    "end": 202,
+                    "start": 160,
+                    "word": "flew"
+                  },
+                  {
+                    "end": 238,
+                    "start": 203,
+                    "word": "away"
+                  },
+                  {
+                    "end": 322,
+                    "start": 284,
+                    "word": "singing"
+                  },
+                  {
+                    "end": 352,
+                    "start": 323,
+                    "word": "in"
+                  },
+                  {
+                    "end": 376,
+                    "start": 353,
+                    "word": "the"
+                  },
+                  {
+                    "end": 421,
+                    "start": 377,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 442,
+                    "start": 422,
+                    "word": "light"
+                  }
+                ],
+                "until": 442,
+                "utterances": "And as the sun rose he flew away singing in the morning light"
+              }
+            ],
+            "sentence": "And as the sun rose, he flew away, singing in the morning light."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Children of Wax",
+  "titleimage": "children_of_wax_4_page_01_image_0001.jpg"
+}

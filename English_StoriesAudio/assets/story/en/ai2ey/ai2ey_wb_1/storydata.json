@@ -1,0 +1,554 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_went_to_meet_the_bee.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 93,
+                    "start": 35,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 147,
+                    "start": 94,
+                    "word": "went"
+                  },
+                  {
+                    "end": 180,
+                    "start": 161,
+                    "word": "to"
+                  },
+                  {
+                    "end": 223,
+                    "start": 181,
+                    "word": "meet"
+                  },
+                  {
+                    "end": 246,
+                    "start": 234,
+                    "word": "the"
+                  },
+                  {
+                    "end": 286,
+                    "start": 247,
+                    "word": "bee"
+                  }
+                ],
+                "until": 286,
+                "utterances": "The toad went to meet the bee"
+              }
+            ],
+            "sentence": "The toad went to meet the bee."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_went_on_a_train.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 76,
+                    "start": 30,
+                    "word": "went"
+                  },
+                  {
+                    "end": 105,
+                    "start": 77,
+                    "word": "on"
+                  },
+                  {
+                    "end": 116,
+                    "start": 106,
+                    "word": "a"
+                  },
+                  {
+                    "end": 170,
+                    "start": 117,
+                    "word": "train"
+                  }
+                ],
+                "until": 170,
+                "utterances": "He went on a train"
+              }
+            ],
+            "sentence": "He went on a train."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_had_to_meet_the_bee_at_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 92,
+                    "start": 37,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 131,
+                    "start": 97,
+                    "word": "had"
+                  },
+                  {
+                    "end": 146,
+                    "start": 132,
+                    "word": "to"
+                  },
+                  {
+                    "end": 177,
+                    "start": 147,
+                    "word": "meet"
+                  },
+                  {
+                    "end": 200,
+                    "start": 178,
+                    "word": "the"
+                  },
+                  {
+                    "end": 250,
+                    "start": 201,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 266,
+                    "start": 251,
+                    "word": "at"
+                  },
+                  {
+                    "end": 306,
+                    "start": 282,
+                    "word": "the"
+                  },
+                  {
+                    "end": 355,
+                    "start": 307,
+                    "word": "tree"
+                  }
+                ],
+                "until": 355,
+                "utterances": "The toad had to meet the bee at the tree"
+              }
+            ],
+            "sentence": "The toad had to meet the bee at the tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_had_to_wait.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 94,
+                    "start": 35,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 141,
+                    "start": 95,
+                    "word": "had"
+                  },
+                  {
+                    "end": 156,
+                    "start": 142,
+                    "word": "to"
+                  },
+                  {
+                    "end": 211,
+                    "start": 157,
+                    "word": "wait"
+                  }
+                ],
+                "until": 211,
+                "utterances": "The toad had to wait"
+              }
+            ],
+            "sentence": "The toad had to wait."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_he_felt_rain.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 73,
+                    "start": 49,
+                    "word": "he"
+                  },
+                  {
+                    "end": 113,
+                    "start": 74,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 165,
+                    "start": 125,
+                    "word": "rain"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Then he felt rain"
+              }
+            ],
+            "sentence": "Then he felt rain."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rain_was_faint.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 36,
+                    "word": "rain"
+                  },
+                  {
+                    "end": 116,
+                    "start": 83,
+                    "word": "was"
+                  },
+                  {
+                    "end": 165,
+                    "start": 117,
+                    "word": "faint"
+                  }
+                ],
+                "until": 165,
+                "utterances": "The rain was faint"
+              }
+            ],
+            "sentence": "The rain was faint."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_the_rain_was_hard.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 84,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 122,
+                    "start": 85,
+                    "word": "rain"
+                  },
+                  {
+                    "end": 150,
+                    "start": 123,
+                    "word": "was"
+                  },
+                  {
+                    "end": 199,
+                    "start": 151,
+                    "word": "hard"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Then the rain was hard"
+              }
+            ],
+            "sentence": "Then the rain was hard."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_sat_in_the_rain.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 28,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 101,
+                    "start": 78,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 139,
+                    "start": 123,
+                    "word": "in"
+                  },
+                  {
+                    "end": 152,
+                    "start": 140,
+                    "word": "the"
+                  },
+                  {
+                    "end": 188,
+                    "start": 153,
+                    "word": "rain"
+                  }
+                ],
+                "until": 188,
+                "utterances": "The toad sat in the rain"
+              }
+            ],
+            "sentence": "The toad sat in the rain."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_rain_stop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 44,
+                    "start": 31,
+                    "word": "the"
+                  },
+                  {
+                    "end": 77,
+                    "start": 45,
+                    "word": "rain"
+                  },
+                  {
+                    "end": 125,
+                    "start": 78,
+                    "word": "stop"
+                  }
+                ],
+                "until": 125,
+                "utterances": "Did the rain stop"
+              }
+            ],
+            "sentence": "Did the rain stop?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_went_in_the_drain.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 71,
+                    "start": 28,
+                    "word": "went"
+                  },
+                  {
+                    "end": 102,
+                    "start": 82,
+                    "word": "in"
+                  },
+                  {
+                    "end": 126,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 127,
+                    "word": "drain"
+                  }
+                ],
+                "until": 174,
+                "utterances": "It went in the drain"
+              }
+            ],
+            "sentence": "It went in the drain."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "at_last_the_bee_got_to_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "At"
+                  },
+                  {
+                    "end": 89,
+                    "start": 26,
+                    "word": "last"
+                  },
+                  {
+                    "end": 112,
+                    "start": 99,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 113,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 185,
+                    "start": 160,
+                    "word": "got"
+                  },
+                  {
+                    "end": 213,
+                    "start": 200,
+                    "word": "to"
+                  },
+                  {
+                    "end": 226,
+                    "start": 214,
+                    "word": "the"
+                  },
+                  {
+                    "end": 270,
+                    "start": 227,
+                    "word": "tree"
+                  }
+                ],
+                "until": 270,
+                "utterances": "At last the bee got to the tree"
+              }
+            ],
+            "sentence": "At last, the bee got to the tree."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Toad Meets Bee",
+  "titleimage": null
+}

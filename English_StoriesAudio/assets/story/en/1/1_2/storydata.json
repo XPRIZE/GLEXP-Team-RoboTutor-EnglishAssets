@@ -1,0 +1,466 @@
+{
+  "author": "Tukei A Cathy",
+  "data": [
+    {
+      "image": "a_greedy_boy_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_day_three_boys_from_mugulu_village_went_to_hunt.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 1,
+                    "word": "One"
+                  },
+                  {
+                    "end": 67,
+                    "start": 45,
+                    "word": "day"
+                  },
+                  {
+                    "end": 97,
+                    "start": 68,
+                    "word": "three"
+                  },
+                  {
+                    "end": 142,
+                    "start": 98,
+                    "word": "boys"
+                  },
+                  {
+                    "end": 163,
+                    "start": 143,
+                    "word": "from"
+                  },
+                  {
+                    "end": 210,
+                    "start": 164,
+                    "word": "Mugulu"
+                  },
+                  {
+                    "end": 260,
+                    "start": 211,
+                    "word": "village"
+                  },
+                  {
+                    "end": 290,
+                    "start": 261,
+                    "word": "went"
+                  },
+                  {
+                    "end": 298,
+                    "start": 291,
+                    "word": "to"
+                  },
+                  {
+                    "end": 335,
+                    "start": 299,
+                    "word": "hunt"
+                  }
+                ],
+                "until": 335,
+                "utterances": "One day three boys from Mugulu village went to hunt"
+              }
+            ],
+            "sentence": "One day three boys from Mugulu village went to hunt."
+          },
+          {
+            "narration": [
+              {
+                "audio": "they_used_dogs_to_help_them.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 19,
+                    "word": "They"
+                  },
+                  {
+                    "end": 66,
+                    "start": 30,
+                    "word": "used"
+                  },
+                  {
+                    "end": 110,
+                    "start": 67,
+                    "word": "dogs"
+                  },
+                  {
+                    "end": 125,
+                    "start": 111,
+                    "word": "to"
+                  },
+                  {
+                    "end": 147,
+                    "start": 126,
+                    "word": "help"
+                  },
+                  {
+                    "end": 167,
+                    "start": 148,
+                    "word": "them"
+                  }
+                ],
+                "until": 167,
+                "utterances": "They used dogs to help them"
+              }
+            ],
+            "sentence": "They used dogs to help them."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_greedy_boy_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_they_were_moving_they_came_across_two_guinea_fowls.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "When"
+                  },
+                  {
+                    "end": 47,
+                    "start": 39,
+                    "word": "they"
+                  },
+                  {
+                    "end": 60,
+                    "start": 48,
+                    "word": "were"
+                  },
+                  {
+                    "end": 114,
+                    "start": 61,
+                    "word": "moving"
+                  },
+                  {
+                    "end": 145,
+                    "start": 136,
+                    "word": "they"
+                  },
+                  {
+                    "end": 177,
+                    "start": 146,
+                    "word": "came"
+                  },
+                  {
+                    "end": 221,
+                    "start": 178,
+                    "word": "across"
+                  },
+                  {
+                    "end": 247,
+                    "start": 222,
+                    "word": "two"
+                  },
+                  {
+                    "end": 295,
+                    "start": 256,
+                    "word": "guinea"
+                  },
+                  {
+                    "end": 368,
+                    "start": 296,
+                    "word": "fowls"
+                  }
+                ],
+                "until": 368,
+                "utterances": "When they were moving they came across two guinea fowls"
+              }
+            ],
+            "sentence": "When they were moving they came across two guinea fowls."
+          },
+          {
+            "narration": [
+              {
+                "audio": "they_chased_them_until_they_killed_them.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 1,
+                    "word": "They"
+                  },
+                  {
+                    "end": 68,
+                    "start": 25,
+                    "word": "chased"
+                  },
+                  {
+                    "end": 104,
+                    "start": 69,
+                    "word": "them"
+                  },
+                  {
+                    "end": 131,
+                    "start": 105,
+                    "word": "until"
+                  },
+                  {
+                    "end": 145,
+                    "start": 132,
+                    "word": "they"
+                  },
+                  {
+                    "end": 175,
+                    "start": 146,
+                    "word": "killed"
+                  },
+                  {
+                    "end": 199,
+                    "start": 176,
+                    "word": "them"
+                  }
+                ],
+                "until": 199,
+                "utterances": "They chased them until they killed them"
+              }
+            ],
+            "sentence": "They chased them until they killed them."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_greedy_boy_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_it_was_time_to_go_back_home_they_wanted_to_share_the_birds.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 21,
+                    "word": "When"
+                  },
+                  {
+                    "end": 45,
+                    "start": 37,
+                    "word": "it"
+                  },
+                  {
+                    "end": 60,
+                    "start": 46,
+                    "word": "was"
+                  },
+                  {
+                    "end": 96,
+                    "start": 61,
+                    "word": "time"
+                  },
+                  {
+                    "end": 108,
+                    "start": 97,
+                    "word": "to"
+                  },
+                  {
+                    "end": 128,
+                    "start": 109,
+                    "word": "go"
+                  },
+                  {
+                    "end": 164,
+                    "start": 129,
+                    "word": "back"
+                  },
+                  {
+                    "end": 190,
+                    "start": 165,
+                    "word": "home"
+                  },
+                  {
+                    "end": 236,
+                    "start": 227,
+                    "word": "they"
+                  },
+                  {
+                    "end": 282,
+                    "start": 237,
+                    "word": "wanted"
+                  },
+                  {
+                    "end": 291,
+                    "start": 283,
+                    "word": "to"
+                  },
+                  {
+                    "end": 322,
+                    "start": 292,
+                    "word": "share"
+                  },
+                  {
+                    "end": 332,
+                    "start": 323,
+                    "word": "the"
+                  },
+                  {
+                    "end": 393,
+                    "start": 333,
+                    "word": "birds"
+                  }
+                ],
+                "until": 393,
+                "utterances": "When it was time to go back home they wanted to share the birds"
+              }
+            ],
+            "sentence": "When it was time to go back home, they wanted to share the birds."
+          },
+          {
+            "narration": [
+              {
+                "audio": "one_boy_ran_away_with_the_two_birds.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 75,
+                    "start": 46,
+                    "word": "boy"
+                  },
+                  {
+                    "end": 104,
+                    "start": 85,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 136,
+                    "start": 105,
+                    "word": "away"
+                  },
+                  {
+                    "end": 157,
+                    "start": 137,
+                    "word": "with"
+                  },
+                  {
+                    "end": 163,
+                    "start": 158,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 164,
+                    "word": "two"
+                  },
+                  {
+                    "end": 264,
+                    "start": 186,
+                    "word": "birds"
+                  }
+                ],
+                "until": 264,
+                "utterances": "One boy ran away with the two birds"
+              }
+            ],
+            "sentence": "One boy ran away with the two birds."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "a_greedy_boy_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_other_two_boys_chased_him_and_took_the_birds_from_him.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 17,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 33,
+                    "word": "other"
+                  },
+                  {
+                    "end": 82,
+                    "start": 63,
+                    "word": "two"
+                  },
+                  {
+                    "end": 131,
+                    "start": 83,
+                    "word": "boys"
+                  },
+                  {
+                    "end": 169,
+                    "start": 132,
+                    "word": "chased"
+                  },
+                  {
+                    "end": 195,
+                    "start": 170,
+                    "word": "him"
+                  },
+                  {
+                    "end": 212,
+                    "start": 196,
+                    "word": "and"
+                  },
+                  {
+                    "end": 238,
+                    "start": 213,
+                    "word": "took"
+                  },
+                  {
+                    "end": 249,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 292,
+                    "start": 250,
+                    "word": "birds"
+                  },
+                  {
+                    "end": 320,
+                    "start": 293,
+                    "word": "from"
+                  },
+                  {
+                    "end": 340,
+                    "start": 321,
+                    "word": "him"
+                  }
+                ],
+                "until": 340,
+                "utterances": "The other two boys chased him and took the birds from him"
+              }
+            ],
+            "sentence": "The other two boys chased him and took the birds from him."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "A Greedy Boy",
+  "titleimage": "a_greedy_boy_page_01_image_0001.jpg"
+}

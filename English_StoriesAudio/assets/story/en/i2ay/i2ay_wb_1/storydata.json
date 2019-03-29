@@ -1,0 +1,980 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_has_a_lot_of_land.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 56,
+                    "start": 30,
+                    "word": "has"
+                  },
+                  {
+                    "end": 60,
+                    "start": 57,
+                    "word": "a"
+                  },
+                  {
+                    "end": 97,
+                    "start": 61,
+                    "word": "lot"
+                  },
+                  {
+                    "end": 119,
+                    "start": 108,
+                    "word": "of"
+                  },
+                  {
+                    "end": 174,
+                    "start": 120,
+                    "word": "land"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Sam has a lot of land"
+              }
+            ],
+            "sentence": "Sam has a lot of land."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_likes_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 95,
+                    "start": 51,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 137,
+                    "start": 96,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Mike likes Sam"
+              }
+            ],
+            "sentence": "Mike likes Sam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_likes_sam_s_land.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 57,
+                    "start": 3,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 125,
+                    "start": 58,
+                    "word": "Sam's"
+                  },
+                  {
+                    "end": 188,
+                    "start": 126,
+                    "word": "land"
+                  }
+                ],
+                "until": 188,
+                "utterances": "Mike likes Sam's land"
+              }
+            ],
+            "sentence": "Mike likes Sam's land."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_likes_to_hike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 86,
+                    "start": 51,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 101,
+                    "start": 87,
+                    "word": "to"
+                  },
+                  {
+                    "end": 137,
+                    "start": 102,
+                    "word": "hike"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Mike likes to hike"
+              }
+            ],
+            "sentence": "Mike likes to hike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_came_to_sam_s_land_to_hike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 97,
+                    "start": 52,
+                    "word": "came"
+                  },
+                  {
+                    "end": 111,
+                    "start": 98,
+                    "word": "to"
+                  },
+                  {
+                    "end": 167,
+                    "start": 112,
+                    "word": "Sam's"
+                  },
+                  {
+                    "end": 214,
+                    "start": 168,
+                    "word": "land"
+                  },
+                  {
+                    "end": 232,
+                    "start": 215,
+                    "word": "to"
+                  },
+                  {
+                    "end": 265,
+                    "start": 233,
+                    "word": "hike"
+                  }
+                ],
+                "until": 265,
+                "utterances": "Mike came to Sam's land to hike"
+              }
+            ],
+            "sentence": "Mike came to Sam's land to hike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_and_sam_went_for_a_hike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 69,
+                    "start": 48,
+                    "word": "and"
+                  },
+                  {
+                    "end": 124,
+                    "start": 70,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 161,
+                    "start": 125,
+                    "word": "went"
+                  },
+                  {
+                    "end": 193,
+                    "start": 162,
+                    "word": "for"
+                  },
+                  {
+                    "end": 197,
+                    "start": 194,
+                    "word": "a"
+                  },
+                  {
+                    "end": 243,
+                    "start": 207,
+                    "word": "hike"
+                  }
+                ],
+                "until": 243,
+                "utterances": "Mike and Sam went for a hike"
+              }
+            ],
+            "sentence": "Mike and Sam went for a hike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_went_one_mile_in_no_time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 64,
+                    "start": 29,
+                    "word": "went"
+                  },
+                  {
+                    "end": 64,
+                    "start": 33,
+                    "word": "one"
+                  },
+                  {
+                    "end": 121,
+                    "start": 65,
+                    "word": "mile"
+                  },
+                  {
+                    "end": 148,
+                    "start": 122,
+                    "word": "in"
+                  },
+                  {
+                    "end": 170,
+                    "start": 149,
+                    "word": "no"
+                  },
+                  {
+                    "end": 221,
+                    "start": 171,
+                    "word": "time"
+                  }
+                ],
+                "until": 221,
+                "utterances": "They went one mile in no time"
+              }
+            ],
+            "sentence": "They went one mile in no time!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_came_to_a_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 83,
+                    "start": 35,
+                    "word": "came"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "to"
+                  },
+                  {
+                    "end": 125,
+                    "start": 118,
+                    "word": "a"
+                  },
+                  {
+                    "end": 180,
+                    "start": 126,
+                    "word": "pond"
+                  }
+                ],
+                "until": 180,
+                "utterances": "They came to a pond"
+              }
+            ],
+            "sentence": "They came to a pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_wide_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 50,
+                    "start": 27,
+                    "word": "was"
+                  },
+                  {
+                    "end": 55,
+                    "start": 51,
+                    "word": "a"
+                  },
+                  {
+                    "end": 120,
+                    "start": 56,
+                    "word": "wide"
+                  },
+                  {
+                    "end": 169,
+                    "start": 121,
+                    "word": "pond"
+                  }
+                ],
+                "until": 169,
+                "utterances": "It was a wide pond"
+              }
+            ],
+            "sentence": "It was a wide pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_wide_safe_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 51,
+                    "start": 28,
+                    "word": "was"
+                  },
+                  {
+                    "end": 56,
+                    "start": 52,
+                    "word": "a"
+                  },
+                  {
+                    "end": 115,
+                    "start": 57,
+                    "word": "wide"
+                  },
+                  {
+                    "end": 163,
+                    "start": 116,
+                    "word": "safe"
+                  },
+                  {
+                    "end": 219,
+                    "start": 164,
+                    "word": "pond"
+                  }
+                ],
+                "until": 219,
+                "utterances": "It was a wide safe pond"
+              }
+            ],
+            "sentence": "It was a wide, safe pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_swim_said_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 89,
+                    "start": 40,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 118,
+                    "start": 90,
+                    "word": "said"
+                  },
+                  {
+                    "end": 171,
+                    "start": 119,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 171,
+                "utterances": "Let's swim said Sam"
+              }
+            ],
+            "sentence": "\"Let's swim,\" said Sam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dive_in_mike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dive"
+                  },
+                  {
+                    "end": 62,
+                    "start": 42,
+                    "word": "in"
+                  },
+                  {
+                    "end": 100,
+                    "start": 63,
+                    "word": "Mike"
+                  }
+                ],
+                "until": 100,
+                "utterances": "Dive in Mike"
+              }
+            ],
+            "sentence": "\"Dive in, Mike!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_mike_dive_in.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 60,
+                    "start": 31,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 59,
+                    "start": 24,
+                    "word": "dive"
+                  },
+                  {
+                    "end": 84,
+                    "start": 60,
+                    "word": "in"
+                  }
+                ],
+                "until": 84,
+                "utterances": "Did Mike dive in"
+              }
+            ],
+            "sentence": "Did Mike dive in?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 106,
+                    "start": 57,
+                    "word": "did"
+                  }
+                ],
+                "until": 106,
+                "utterances": "He did"
+              }
+            ],
+            "sentence": "He did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_felt_fine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 89,
+                    "start": 49,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 141,
+                    "start": 90,
+                    "word": "fine"
+                  }
+                ],
+                "until": 141,
+                "utterances": "Mike felt fine"
+              }
+            ],
+            "sentence": "Mike felt fine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_tide_came_in.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 28,
+                    "word": "tide"
+                  },
+                  {
+                    "end": 113,
+                    "start": 79,
+                    "word": "came"
+                  },
+                  {
+                    "end": 152,
+                    "start": 114,
+                    "word": "in"
+                  }
+                ],
+                "until": 152,
+                "utterances": "The tide came in"
+              }
+            ],
+            "sentence": "The tide came in."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tide_means_how_high_the_water_is.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 10,
+                    "word": "Tide"
+                  },
+                  {
+                    "end": 118,
+                    "start": 83,
+                    "word": "means"
+                  },
+                  {
+                    "end": 144,
+                    "start": 119,
+                    "word": "how"
+                  },
+                  {
+                    "end": 162,
+                    "start": 145,
+                    "word": "high"
+                  },
+                  {
+                    "end": 188,
+                    "start": 174,
+                    "word": "the"
+                  },
+                  {
+                    "end": 257,
+                    "start": 193,
+                    "word": "water"
+                  },
+                  {
+                    "end": 279,
+                    "start": 258,
+                    "word": "is"
+                  }
+                ],
+                "until": 279,
+                "utterances": "Tide means how high the water is"
+              }
+            ],
+            "sentence": "Tide means how high the water is."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_line_of_ants_came_in.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 15,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 63,
+                    "start": 16,
+                    "word": "line"
+                  },
+                  {
+                    "end": 73,
+                    "start": 64,
+                    "word": "of"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 143,
+                    "start": 116,
+                    "word": "came"
+                  },
+                  {
+                    "end": 162,
+                    "start": 144,
+                    "word": "in"
+                  }
+                ],
+                "until": 162,
+                "utterances": "A line of ants came in"
+              }
+            ],
+            "sentence": "A line of ants came in!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nine_ants_in_a_line.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Nine"
+                  },
+                  {
+                    "end": 108,
+                    "start": 60,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 125,
+                    "start": 109,
+                    "word": "in"
+                  },
+                  {
+                    "end": 130,
+                    "start": 126,
+                    "word": "a"
+                  },
+                  {
+                    "end": 183,
+                    "start": 131,
+                    "word": "line"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Nine ants in a line"
+              }
+            ],
+            "sentence": "Nine ants in a line."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_made_mike_smile.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 25,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 97,
+                    "start": 69,
+                    "word": "made"
+                  },
+                  {
+                    "end": 127,
+                    "start": 98,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 182,
+                    "start": 128,
+                    "word": "smile"
+                  }
+                ],
+                "until": 182,
+                "utterances": "The ants made Mike smile"
+              }
+            ],
+            "sentence": "The ants made Mike smile."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_like_ants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 64,
+                    "start": 24,
+                    "word": "like"
+                  },
+                  {
+                    "end": 131,
+                    "start": 65,
+                    "word": "ants"
+                  }
+                ],
+                "until": 131,
+                "utterances": "I like ants"
+              }
+            ],
+            "sentence": "\"I like ants!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 36,
+                    "word": "end"
+                  }
+                ],
+                "until": 74,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "A Hike With Mike",
+  "titleimage": null
+}

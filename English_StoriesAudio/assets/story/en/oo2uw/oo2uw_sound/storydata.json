@@ -1,0 +1,429 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "MOON"
+                  }
+                ],
+                "until": 63,
+                "utterances": "MOON"
+              }
+            ],
+            "sentence": "moon "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "food.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "FOOD"
+                  }
+                ],
+                "until": 64,
+                "utterances": "FOOD"
+              }
+            ],
+            "sentence": "food "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "ZOOM"
+                  }
+                ],
+                "until": 64,
+                "utterances": "ZOOM"
+              }
+            ],
+            "sentence": "zoom "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_o_o_make_in_the_words_moon_food_and_zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 64,
+                    "start": 26,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 73,
+                    "start": 65,
+                    "word": "do"
+                  },
+                  {
+                    "end": 81,
+                    "start": 74,
+                    "word": "the"
+                  },
+                  {
+                    "end": 119,
+                    "start": 82,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 155,
+                    "start": 120,
+                    "word": "O"
+                  },
+                  {
+                    "end": 193,
+                    "start": 156,
+                    "word": "O"
+                  },
+                  {
+                    "end": 223,
+                    "start": 194,
+                    "word": "make"
+                  },
+                  {
+                    "end": 232,
+                    "start": 224,
+                    "word": "in"
+                  },
+                  {
+                    "end": 239,
+                    "start": 233,
+                    "word": "the"
+                  },
+                  {
+                    "end": 274,
+                    "start": 240,
+                    "word": "words"
+                  },
+                  {
+                    "end": 321,
+                    "start": 275,
+                    "word": "MOON"
+                  },
+                  {
+                    "end": 365,
+                    "start": 322,
+                    "word": "FOOD"
+                  },
+                  {
+                    "end": 378,
+                    "start": 366,
+                    "word": "and"
+                  },
+                  {
+                    "end": 426,
+                    "start": 379,
+                    "word": "ZOOM"
+                  }
+                ],
+                "until": 426,
+                "utterances": "What sound do the Letters O O make in the words MOON FOOD and ZOOM"
+              }
+            ],
+            "sentence": "What sound do the letters o o make in the words moon, food, and zoom?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hoop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "HOOP"
+                  }
+                ],
+                "until": 45,
+                "utterances": "HOOP"
+              }
+            ],
+            "sentence": "hoop "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "boot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "BOOT"
+                  }
+                ],
+                "until": 44,
+                "utterances": "BOOT"
+              }
+            ],
+            "sentence": "boot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "room.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "ROOM"
+                  }
+                ],
+                "until": 58,
+                "utterances": "ROOM"
+              }
+            ],
+            "sentence": "room "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "soon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "SOON"
+                  }
+                ],
+                "until": 63,
+                "utterances": "SOON"
+              }
+            ],
+            "sentence": "soon "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "broom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "BROOM"
+                  }
+                ],
+                "until": 65,
+                "utterances": "BROOM"
+              }
+            ],
+            "sentence": "broom "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_gloomy_baboon_with_2_boots_and_a_broom_zoomed_to_the_moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "gloomy"
+                  },
+                  {
+                    "end": 111,
+                    "start": 59,
+                    "word": "baboon"
+                  },
+                  {
+                    "end": 126,
+                    "start": 112,
+                    "word": "with"
+                  },
+                  {
+                    "end": 150,
+                    "start": 127,
+                    "word": "2"
+                  },
+                  {
+                    "end": 184,
+                    "start": 151,
+                    "word": "boots"
+                  },
+                  {
+                    "end": 196,
+                    "start": 185,
+                    "word": "and"
+                  },
+                  {
+                    "end": 201,
+                    "start": 197,
+                    "word": "a"
+                  },
+                  {
+                    "end": 240,
+                    "start": 202,
+                    "word": "broom"
+                  },
+                  {
+                    "end": 276,
+                    "start": 241,
+                    "word": "zoomed"
+                  },
+                  {
+                    "end": 289,
+                    "start": 280,
+                    "word": "to"
+                  },
+                  {
+                    "end": 297,
+                    "start": 290,
+                    "word": "the"
+                  },
+                  {
+                    "end": 335,
+                    "start": 298,
+                    "word": "moon"
+                  }
+                ],
+                "until": 335,
+                "utterances": "A gloomy baboon with 2 boots and a broom zoomed to the moon"
+              }
+            ],
+            "sentence": "A gloomy baboon with 2 boots and a broom zoomed to the moon. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nice_work.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Nice"
+                  },
+                  {
+                    "end": 89,
+                    "start": 40,
+                    "word": "work"
+                  }
+                ],
+                "until": 89,
+                "utterances": "Nice work"
+              }
+            ],
+            "sentence": "Nice work! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letters O O in MOON, FOOD, and ZOOM",
+  "titleimage": null
+}

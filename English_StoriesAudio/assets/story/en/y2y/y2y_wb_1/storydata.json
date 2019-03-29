@@ -1,0 +1,594 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jon_has_a_yellow_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 103,
+                    "start": 64,
+                    "word": "has"
+                  },
+                  {
+                    "end": 128,
+                    "start": 104,
+                    "word": "a"
+                  },
+                  {
+                    "end": 168,
+                    "start": 129,
+                    "word": "yellow"
+                  },
+                  {
+                    "end": 227,
+                    "start": 169,
+                    "word": "wig"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Jon has a yellow wig"
+              }
+            ],
+            "sentence": "Jon has a yellow wig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_wig_has_a_twist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 76,
+                    "start": 27,
+                    "word": "wig"
+                  },
+                  {
+                    "end": 63,
+                    "start": 13,
+                    "word": "has"
+                  },
+                  {
+                    "end": 82,
+                    "start": 64,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 90,
+                    "word": "twist"
+                  }
+                ],
+                "until": 160,
+                "utterances": "The wig has a twist"
+              }
+            ],
+            "sentence": "The wig has a twist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jon_can_yank_the_twist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 84,
+                    "start": 55,
+                    "word": "can"
+                  },
+                  {
+                    "end": 144,
+                    "start": 85,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 156,
+                    "start": 145,
+                    "word": "the"
+                  },
+                  {
+                    "end": 221,
+                    "start": 157,
+                    "word": "twist"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Jon can yank the twist"
+              }
+            ],
+            "sentence": "Jon can yank the twist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yank.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Yank"
+                  }
+                ],
+                "until": 56,
+                "utterances": "Yank"
+              },
+              {
+                "audio": "yank.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Yank"
+                  }
+                ],
+                "until": 56,
+                "utterances": "Yank"
+              }
+            ],
+            "sentence": "Yank yank!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_yank_made_jon_fret.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 27,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 120,
+                    "start": 78,
+                    "word": "made"
+                  },
+                  {
+                    "end": 168,
+                    "start": 121,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 208,
+                    "start": 169,
+                    "word": "fret"
+                  }
+                ],
+                "until": 208,
+                "utterances": "The yank made Jon fret"
+              }
+            ],
+            "sentence": "The yank made Jon fret."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jon_said_can_you_yank_my_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 93,
+                    "start": 47,
+                    "word": "said"
+                  },
+                  {
+                    "end": 123,
+                    "start": 103,
+                    "word": "can"
+                  },
+                  {
+                    "end": 165,
+                    "start": 124,
+                    "word": "you"
+                  },
+                  {
+                    "end": 204,
+                    "start": 166,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 223,
+                    "start": 205,
+                    "word": "my"
+                  },
+                  {
+                    "end": 265,
+                    "start": 224,
+                    "word": "wig"
+                  }
+                ],
+                "until": 265,
+                "utterances": "Jon said can you yank my wig"
+              }
+            ],
+            "sentence": "Jon said, \"can you yank my wig?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_said_yes_i_can_yank_your_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 90,
+                    "start": 45,
+                    "word": "said"
+                  },
+                  {
+                    "end": 149,
+                    "start": 91,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 154,
+                    "start": 150,
+                    "word": "I"
+                  },
+                  {
+                    "end": 201,
+                    "start": 176,
+                    "word": "can"
+                  },
+                  {
+                    "end": 246,
+                    "start": 202,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 267,
+                    "start": 247,
+                    "word": "your"
+                  },
+                  {
+                    "end": 311,
+                    "start": 268,
+                    "word": "wig"
+                  }
+                ],
+                "until": 311,
+                "utterances": "Ron said Yes I can yank your wig"
+              }
+            ],
+            "sentence": "Ron said, \"Yes, I can yank your wig.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jon_said_do_not_yank_it_yet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 94,
+                    "start": 45,
+                    "word": "said"
+                  },
+                  {
+                    "end": 114,
+                    "start": 95,
+                    "word": "do"
+                  },
+                  {
+                    "end": 150,
+                    "start": 115,
+                    "word": "not"
+                  },
+                  {
+                    "end": 205,
+                    "start": 159,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 228,
+                    "start": 206,
+                    "word": "it"
+                  },
+                  {
+                    "end": 257,
+                    "start": 229,
+                    "word": "yet"
+                  }
+                ],
+                "until": 257,
+                "utterances": "Jon said do not yank it yet"
+              }
+            ],
+            "sentence": "Jon said, \"do not yank it yet.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yank.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Yank"
+                  }
+                ],
+                "until": 56,
+                "utterances": "Yank"
+              },
+              {
+                "audio": "yank.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Yank"
+                  }
+                ],
+                "until": 56,
+                "utterances": "Yank"
+              }
+            ],
+            "sentence": "Yank yank!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_yank_made_jon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 24,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 100,
+                    "start": 72,
+                    "word": "made"
+                  },
+                  {
+                    "end": 152,
+                    "start": 101,
+                    "word": "Jon"
+                  }
+                ],
+                "until": 152,
+                "utterances": "The yank made Jon"
+              },
+              {
+                "audio": "mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "mad"
+                  }
+                ],
+                "until": 70,
+                "utterances": "mad"
+              }
+            ],
+            "sentence": "The yank made Jon mad!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_not_yank_it_yet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 78,
+                    "start": 35,
+                    "word": "not"
+                  },
+                  {
+                    "end": 118,
+                    "start": 79,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 134,
+                    "start": 119,
+                    "word": "it"
+                  },
+                  {
+                    "end": 160,
+                    "start": 135,
+                    "word": "yet"
+                  }
+                ],
+                "until": 160,
+                "utterances": "Do not yank it yet"
+              }
+            ],
+            "sentence": "\"Do not yank it yet!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_ron_did_yank_the_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 76,
+                    "start": 37,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 116,
+                    "start": 77,
+                    "word": "did"
+                  },
+                  {
+                    "end": 145,
+                    "start": 117,
+                    "word": "yank"
+                  },
+                  {
+                    "end": 156,
+                    "start": 146,
+                    "word": "the"
+                  },
+                  {
+                    "end": 208,
+                    "start": 157,
+                    "word": "wig"
+                  }
+                ],
+                "until": 208,
+                "utterances": "But Ron did yank the wig"
+              }
+            ],
+            "sentence": "But Ron did yank the wig."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Jon and the Wig",
+  "titleimage": null
+}

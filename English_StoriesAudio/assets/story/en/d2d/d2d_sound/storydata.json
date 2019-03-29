@@ -1,0 +1,456 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "dog"
+                  }
+                ],
+                "until": 55,
+                "utterances": "dog"
+              }
+            ],
+            "sentence": "dog "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "DID"
+                  }
+                ],
+                "until": 36,
+                "utterances": "DID"
+              }
+            ],
+            "sentence": "did "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "den.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "DEN"
+                  }
+                ],
+                "until": 33,
+                "utterances": "DEN"
+              }
+            ],
+            "sentence": "den "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_d_make_in_the_words_dog_did_and_den.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 83,
+                    "start": 33,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 98,
+                    "start": 84,
+                    "word": "does"
+                  },
+                  {
+                    "end": 106,
+                    "start": 99,
+                    "word": "the"
+                  },
+                  {
+                    "end": 137,
+                    "start": 107,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 166,
+                    "start": 138,
+                    "word": "D"
+                  },
+                  {
+                    "end": 209,
+                    "start": 167,
+                    "word": "make"
+                  },
+                  {
+                    "end": 224,
+                    "start": 210,
+                    "word": "in"
+                  },
+                  {
+                    "end": 232,
+                    "start": 225,
+                    "word": "the"
+                  },
+                  {
+                    "end": 279,
+                    "start": 233,
+                    "word": "words"
+                  },
+                  {
+                    "end": 334,
+                    "start": 280,
+                    "word": "DOG"
+                  },
+                  {
+                    "end": 388,
+                    "start": 345,
+                    "word": "DID"
+                  },
+                  {
+                    "end": 409,
+                    "start": 389,
+                    "word": "and"
+                  },
+                  {
+                    "end": 440,
+                    "start": 416,
+                    "word": "DEN"
+                  }
+                ],
+                "until": 440,
+                "utterances": "What sound does the Letter D make in the words DOG DID and DEN"
+              }
+            ],
+            "sentence": "What sound does the letter d make in the words dog, did, and den?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Don"
+                  }
+                ],
+                "until": 57,
+                "utterances": "Don"
+              }
+            ],
+            "sentence": "Don "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "DIP"
+                  }
+                ],
+                "until": 31,
+                "utterances": "DIP"
+              }
+            ],
+            "sentence": "dip "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "DO"
+                  }
+                ],
+                "until": 28,
+                "utterances": "DO"
+              }
+            ],
+            "sentence": "do "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "desk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "DESK"
+                  }
+                ],
+                "until": 42,
+                "utterances": "DESK"
+              }
+            ],
+            "sentence": "desk "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "door.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "DOOR"
+                  }
+                ],
+                "until": 48,
+                "utterances": "DOOR"
+              }
+            ],
+            "sentence": "door "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Don"
+                  }
+                ],
+                "until": 57,
+                "utterances": "Don"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 31,
+                "utterances": "the"
+              },
+              {
+                "audio": "dumb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "dumb"
+                  }
+                ],
+                "until": 45,
+                "utterances": "dumb"
+              },
+              {
+                "audio": "dinosaur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "dinosaur"
+                  }
+                ],
+                "until": 66,
+                "utterances": "dinosaur"
+              },
+              {
+                "audio": "does_not_do_the_dishes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "does"
+                  },
+                  {
+                    "end": 63,
+                    "start": 34,
+                    "word": "not"
+                  },
+                  {
+                    "end": 89,
+                    "start": 71,
+                    "word": "do"
+                  },
+                  {
+                    "end": 104,
+                    "start": 90,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 113,
+                    "word": "dishes"
+                  }
+                ],
+                "until": 174,
+                "utterances": "does not do the dishes"
+              }
+            ],
+            "sentence": "Don the dumb dinosaur does not do the dishes! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_letter_d_is_definitely_delightful.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 60,
+                    "start": 22,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 120,
+                    "start": 68,
+                    "word": "D"
+                  },
+                  {
+                    "end": 134,
+                    "start": 121,
+                    "word": "is"
+                  },
+                  {
+                    "end": 202,
+                    "start": 136,
+                    "word": "definitely"
+                  },
+                  {
+                    "end": 257,
+                    "start": 205,
+                    "word": "delightful"
+                  }
+                ],
+                "until": 257,
+                "utterances": "The Letter D is definitely delightful"
+              }
+            ],
+            "sentence": "The letter d is definitely delightful! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter D in DOG, DID, and DEN",
+  "titleimage": null
+}

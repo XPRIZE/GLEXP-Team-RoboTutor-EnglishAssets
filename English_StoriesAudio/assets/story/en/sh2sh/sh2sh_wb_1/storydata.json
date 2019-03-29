@@ -1,0 +1,443 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_had_a_wish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 68,
+                    "start": 60,
+                    "word": "had"
+                  },
+                  {
+                    "end": 96,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 166,
+                    "start": 111,
+                    "word": "wish"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Josh had a wish"
+              }
+            ],
+            "sentence": "Josh had a wish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_josh_wish_for.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 69,
+                    "start": 52,
+                    "word": "did"
+                  },
+                  {
+                    "end": 121,
+                    "start": 70,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 160,
+                    "start": 122,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 197,
+                    "start": 161,
+                    "word": "for"
+                  }
+                ],
+                "until": 197,
+                "utterances": "What did Josh wish for"
+              }
+            ],
+            "sentence": "What did Josh wish for?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 78,
+                    "start": 26,
+                    "word": "fish"
+                  }
+                ],
+                "until": 78,
+                "utterances": "A fish"
+              }
+            ],
+            "sentence": "A fish!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_went_on_a_ship.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 100,
+                    "start": 55,
+                    "word": "went"
+                  },
+                  {
+                    "end": 143,
+                    "start": 112,
+                    "word": "on"
+                  },
+                  {
+                    "end": 160,
+                    "start": 144,
+                    "word": "a"
+                  },
+                  {
+                    "end": 210,
+                    "start": 161,
+                    "word": "ship"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Josh went on a ship"
+              }
+            ],
+            "sentence": "Josh went on a ship."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fish_swam_in_the_water.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 8,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 28,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 146,
+                    "start": 87,
+                    "word": "swam"
+                  },
+                  {
+                    "end": 162,
+                    "start": 147,
+                    "word": "in"
+                  },
+                  {
+                    "end": 174,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 175,
+                    "word": "water"
+                  }
+                ],
+                "until": 222,
+                "utterances": "The fish swam in the water"
+              }
+            ],
+            "sentence": "The fish swam in the water."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fish_went_splish_splash.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 99,
+                    "start": 68,
+                    "word": "went"
+                  },
+                  {
+                    "end": 166,
+                    "start": 100,
+                    "word": "splish"
+                  },
+                  {
+                    "end": 226,
+                    "start": 167,
+                    "word": "splash"
+                  }
+                ],
+                "until": 226,
+                "utterances": "The fish went splish splash"
+              }
+            ],
+            "sentence": "The fish went splish splash."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_josh_get_a_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 77,
+                    "start": 31,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 116,
+                    "start": 78,
+                    "word": "get"
+                  },
+                  {
+                    "end": 120,
+                    "start": 117,
+                    "word": "a"
+                  },
+                  {
+                    "end": 170,
+                    "start": 121,
+                    "word": "fish"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Did Josh get a fish"
+              }
+            ],
+            "sentence": "Did Josh get a fish?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_got_ten_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 81,
+                    "start": 52,
+                    "word": "got"
+                  },
+                  {
+                    "end": 132,
+                    "start": 95,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 194,
+                    "start": 133,
+                    "word": "fish"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Josh got ten fish"
+              }
+            ],
+            "sentence": "Josh got ten fish!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_got_ten_fresh_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 77,
+                    "start": 51,
+                    "word": "got"
+                  },
+                  {
+                    "end": 132,
+                    "start": 88,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 198,
+                    "start": 133,
+                    "word": "fresh"
+                  },
+                  {
+                    "end": 251,
+                    "start": 199,
+                    "word": "fish"
+                  }
+                ],
+                "until": 251,
+                "utterances": "Josh got ten fresh fish"
+              }
+            ],
+            "sentence": "Josh got ten fresh fish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_got_his_wish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 86,
+                    "start": 55,
+                    "word": "got"
+                  },
+                  {
+                    "end": 128,
+                    "start": 102,
+                    "word": "his"
+                  },
+                  {
+                    "end": 180,
+                    "start": 129,
+                    "word": "wish"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Josh got his wish"
+              }
+            ],
+            "sentence": "Josh got his wish."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Josh had a Wish",
+  "titleimage": null
+}

@@ -1,0 +1,581 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_is_a_seal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 102,
+                    "start": 70,
+                    "word": "is"
+                  },
+                  {
+                    "end": 117,
+                    "start": 103,
+                    "word": "a"
+                  },
+                  {
+                    "end": 176,
+                    "start": 118,
+                    "word": "seal"
+                  }
+                ],
+                "until": 176,
+                "utterances": "Jean is a seal"
+              }
+            ],
+            "sentence": "Jean is a seal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_leaps_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 99,
+                    "start": 48,
+                    "word": "leaps"
+                  },
+                  {
+                    "end": 128,
+                    "start": 100,
+                    "word": "up"
+                  }
+                ],
+                "until": 128,
+                "utterances": "Jean leaps up"
+              }
+            ],
+            "sentence": "Jean leaps up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_the_seal_can_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 60,
+                    "start": 51,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 61,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 137,
+                    "start": 117,
+                    "word": "can"
+                  },
+                  {
+                    "end": 192,
+                    "start": 138,
+                    "word": "swim"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Jean the seal can swim"
+              }
+            ],
+            "sentence": "Jean the seal can swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_sit_in_the_sand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 55,
+                    "start": 35,
+                    "word": "can"
+                  },
+                  {
+                    "end": 95,
+                    "start": 56,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 119,
+                    "start": 102,
+                    "word": "in"
+                  },
+                  {
+                    "end": 127,
+                    "start": 120,
+                    "word": "the"
+                  },
+                  {
+                    "end": 186,
+                    "start": 128,
+                    "word": "sand"
+                  }
+                ],
+                "until": 186,
+                "utterances": "She can sit in the sand"
+              }
+            ],
+            "sentence": "She can sit in the sand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_is_a_neat_seal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 78,
+                    "start": 55,
+                    "word": "is"
+                  },
+                  {
+                    "end": 86,
+                    "start": 79,
+                    "word": "a"
+                  },
+                  {
+                    "end": 125,
+                    "start": 87,
+                    "word": "neat"
+                  },
+                  {
+                    "end": 174,
+                    "start": 126,
+                    "word": "seal"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Jean is a neat seal"
+              }
+            ],
+            "sentence": "Jean is a neat seal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_can_swim_in_the_sea.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 67,
+                    "start": 50,
+                    "word": "can"
+                  },
+                  {
+                    "end": 121,
+                    "start": 68,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 138,
+                    "start": 127,
+                    "word": "in"
+                  },
+                  {
+                    "end": 146,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 186,
+                    "start": 147,
+                    "word": "sea"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Jean can swim in the sea"
+              }
+            ],
+            "sentence": "Jean can swim in the sea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_has_big_ears.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 70,
+                    "start": 50,
+                    "word": "has"
+                  },
+                  {
+                    "end": 106,
+                    "start": 71,
+                    "word": "big"
+                  },
+                  {
+                    "end": 158,
+                    "start": 107,
+                    "word": "ears"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Jean has big ears"
+              }
+            ],
+            "sentence": "Jean has big ears!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_the_seal_has_a_beard.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 50,
+                    "start": 43,
+                    "word": "the"
+                  },
+                  {
+                    "end": 102,
+                    "start": 51,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 127,
+                    "start": 103,
+                    "word": "has"
+                  },
+                  {
+                    "end": 132,
+                    "start": 128,
+                    "word": "a"
+                  },
+                  {
+                    "end": 185,
+                    "start": 133,
+                    "word": "beard"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Jean the seal has a beard"
+              }
+            ],
+            "sentence": "Jean the seal has a beard!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_jean_the_seal_speak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 71,
+                    "start": 36,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 80,
+                    "start": 72,
+                    "word": "the"
+                  },
+                  {
+                    "end": 123,
+                    "start": 81,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 174,
+                    "start": 124,
+                    "word": "speak"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Can Jean the seal speak"
+              }
+            ],
+            "sentence": "Can Jean the seal speak?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_can_not_speak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 79,
+                    "start": 45,
+                    "word": "can"
+                  },
+                  {
+                    "end": 106,
+                    "start": 80,
+                    "word": "not"
+                  },
+                  {
+                    "end": 163,
+                    "start": 107,
+                    "word": "speak"
+                  }
+                ],
+                "until": 163,
+                "utterances": "Jean can not speak"
+              }
+            ],
+            "sentence": "Jean can not speak."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_jean_can_read.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 64,
+                    "start": 31,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 91,
+                    "start": 70,
+                    "word": "can"
+                  },
+                  {
+                    "end": 139,
+                    "start": 92,
+                    "word": "read"
+                  }
+                ],
+                "until": 139,
+                "utterances": "But Jean can read"
+              }
+            ],
+            "sentence": "But Jean can read!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_the_seal_eats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 50,
+                    "start": 42,
+                    "word": "the"
+                  },
+                  {
+                    "end": 101,
+                    "start": 51,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 151,
+                    "start": 105,
+                    "word": "eats"
+                  }
+                ],
+                "until": 151,
+                "utterances": "Jean the seal eats"
+              }
+            ],
+            "sentence": "Jean the seal eats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_eats_ice_cream.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 80,
+                    "start": 51,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 105,
+                    "start": 81,
+                    "word": "ice"
+                  },
+                  {
+                    "end": 143,
+                    "start": 106,
+                    "word": "cream"
+                  }
+                ],
+                "until": 143,
+                "utterances": "She eats ice cream"
+              }
+            ],
+            "sentence": "She eats ice cream!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Jean the Seal",
+  "titleimage": null
+}

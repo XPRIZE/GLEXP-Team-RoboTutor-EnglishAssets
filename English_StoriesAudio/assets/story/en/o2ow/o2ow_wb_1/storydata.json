@@ -1,0 +1,992 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_dug_a_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 102,
+                    "start": 65,
+                    "word": "dug"
+                  },
+                  {
+                    "end": 111,
+                    "start": 103,
+                    "word": "a"
+                  },
+                  {
+                    "end": 161,
+                    "start": 112,
+                    "word": "hole"
+                  }
+                ],
+                "until": 161,
+                "utterances": "Tom dug a hole"
+              }
+            ],
+            "sentence": "Tom dug a hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_big_wide_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 71,
+                    "start": 23,
+                    "word": "big"
+                  },
+                  {
+                    "end": 128,
+                    "start": 72,
+                    "word": "wide"
+                  },
+                  {
+                    "end": 180,
+                    "start": 129,
+                    "word": "hole"
+                  }
+                ],
+                "until": 180,
+                "utterances": "A big wide hole"
+              }
+            ],
+            "sentence": "A big, wide hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_tom_put_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 29,
+                    "start": 6,
+                    "word": "did"
+                  },
+                  {
+                    "end": 75,
+                    "start": 30,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 114,
+                    "start": 76,
+                    "word": "put"
+                  },
+                  {
+                    "end": 127,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 136,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 137,
+                    "word": "hole"
+                  }
+                ],
+                "until": 178,
+                "utterances": "What did Tom put in the hole"
+              }
+            ],
+            "sentence": "What did Tom put in the hole?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_put_a_pole_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 95,
+                    "start": 59,
+                    "word": "put"
+                  },
+                  {
+                    "end": 104,
+                    "start": 96,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 123,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 179,
+                    "start": 165,
+                    "word": "in"
+                  },
+                  {
+                    "end": 190,
+                    "start": 180,
+                    "word": "the"
+                  },
+                  {
+                    "end": 238,
+                    "start": 191,
+                    "word": "hole"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Tom put a pole in the hole"
+              }
+            ],
+            "sentence": "Tom put a pole in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_put_a_can_of_coke_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 82,
+                    "start": 54,
+                    "word": "put"
+                  },
+                  {
+                    "end": 95,
+                    "start": 83,
+                    "word": "a"
+                  },
+                  {
+                    "end": 136,
+                    "start": 96,
+                    "word": "can"
+                  },
+                  {
+                    "end": 156,
+                    "start": 137,
+                    "word": "of"
+                  },
+                  {
+                    "end": 200,
+                    "start": 157,
+                    "word": "coke"
+                  },
+                  {
+                    "end": 223,
+                    "start": 201,
+                    "word": "in"
+                  },
+                  {
+                    "end": 233,
+                    "start": 224,
+                    "word": "the"
+                  },
+                  {
+                    "end": 283,
+                    "start": 234,
+                    "word": "hole"
+                  }
+                ],
+                "until": 283,
+                "utterances": "Tom put a can of coke in the hole"
+              }
+            ],
+            "sentence": "Tom put a can of coke in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_put_a_stone_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 81,
+                    "start": 51,
+                    "word": "put"
+                  },
+                  {
+                    "end": 88,
+                    "start": 82,
+                    "word": "a"
+                  },
+                  {
+                    "end": 163,
+                    "start": 89,
+                    "word": "stone"
+                  },
+                  {
+                    "end": 178,
+                    "start": 164,
+                    "word": "in"
+                  },
+                  {
+                    "end": 186,
+                    "start": 179,
+                    "word": "the"
+                  },
+                  {
+                    "end": 230,
+                    "start": 187,
+                    "word": "hole"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Tom put a stone in the hole"
+              }
+            ],
+            "sentence": "Tom put a stone in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_put_a_note_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 77,
+                    "start": 51,
+                    "word": "put"
+                  },
+                  {
+                    "end": 80,
+                    "start": 78,
+                    "word": "a"
+                  },
+                  {
+                    "end": 137,
+                    "start": 81,
+                    "word": "note"
+                  },
+                  {
+                    "end": 148,
+                    "start": 138,
+                    "word": "in"
+                  },
+                  {
+                    "end": 159,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 160,
+                    "word": "hole"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Tom put a note in the hole"
+              }
+            ],
+            "sentence": "Tom put a note in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_the_note_say.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 67,
+                    "start": 45,
+                    "word": "did"
+                  },
+                  {
+                    "end": 75,
+                    "start": 68,
+                    "word": "the"
+                  },
+                  {
+                    "end": 111,
+                    "start": 76,
+                    "word": "note"
+                  },
+                  {
+                    "end": 138,
+                    "start": 112,
+                    "word": "say"
+                  }
+                ],
+                "until": 138,
+                "utterances": "What did the note say"
+              }
+            ],
+            "sentence": "What did the note say?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_note_said_tom_s_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 33,
+                    "word": "note"
+                  },
+                  {
+                    "end": 124,
+                    "start": 76,
+                    "word": "said"
+                  },
+                  {
+                    "end": 184,
+                    "start": 132,
+                    "word": "Tom's"
+                  },
+                  {
+                    "end": 236,
+                    "start": 193,
+                    "word": "Hole"
+                  }
+                ],
+                "until": 236,
+                "utterances": "The note said Tom's Hole"
+              }
+            ],
+            "sentence": "The note said, \"Tom's Hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_not_take_the_pole_the_coke_or_the_stone.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 78,
+                    "start": 23,
+                    "word": "not"
+                  },
+                  {
+                    "end": 100,
+                    "start": 79,
+                    "word": "take"
+                  },
+                  {
+                    "end": 110,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 155,
+                    "start": 111,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 186,
+                    "start": 172,
+                    "word": "the"
+                  },
+                  {
+                    "end": 248,
+                    "start": 187,
+                    "word": "coke"
+                  },
+                  {
+                    "end": 273,
+                    "start": 249,
+                    "word": "or"
+                  },
+                  {
+                    "end": 281,
+                    "start": 274,
+                    "word": "the"
+                  },
+                  {
+                    "end": 335,
+                    "start": 282,
+                    "word": "stone"
+                  }
+                ],
+                "until": 335,
+                "utterances": "Do not take the pole the coke or the stone"
+              }
+            ],
+            "sentence": "Do not take the pole, the coke, or the stone.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_mike_stole_the_stone.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 98,
+                    "start": 46,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 168,
+                    "start": 114,
+                    "word": "stole"
+                  },
+                  {
+                    "end": 176,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 236,
+                    "start": 177,
+                    "word": "stone"
+                  }
+                ],
+                "until": 236,
+                "utterances": "But Mike stole the stone"
+              }
+            ],
+            "sentence": "But Mike stole the stone."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_mike_stole_the_pole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 83,
+                    "start": 42,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 134,
+                    "start": 84,
+                    "word": "stole"
+                  },
+                  {
+                    "end": 144,
+                    "start": 135,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 145,
+                    "word": "pole"
+                  }
+                ],
+                "until": 209,
+                "utterances": "And Mike stole the pole"
+              }
+            ],
+            "sentence": "And Mike stole the pole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_mike_stole_the_coke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 88,
+                    "start": 52,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 125,
+                    "start": 89,
+                    "word": "stole"
+                  },
+                  {
+                    "end": 136,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 137,
+                    "word": "coke"
+                  }
+                ],
+                "until": 180,
+                "utterances": "And Mike stole the coke"
+              }
+            ],
+            "sentence": "And Mike stole the coke."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_tom_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 62,
+                    "start": 33,
+                    "word": "made"
+                  },
+                  {
+                    "end": 106,
+                    "start": 63,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 151,
+                    "start": 107,
+                    "word": "mad"
+                  }
+                ],
+                "until": 151,
+                "utterances": "It made Tom mad"
+              }
+            ],
+            "sentence": "It made Tom mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_put_the_pole_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 76,
+                    "start": 59,
+                    "word": "put"
+                  },
+                  {
+                    "end": 90,
+                    "start": 77,
+                    "word": "the"
+                  },
+                  {
+                    "end": 146,
+                    "start": 91,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 161,
+                    "start": 150,
+                    "word": "in"
+                  },
+                  {
+                    "end": 171,
+                    "start": 162,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 172,
+                    "word": "hole"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Mike put the pole in the hole"
+              }
+            ],
+            "sentence": "Mike put the pole in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_put_the_coke_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 70,
+                    "start": 46,
+                    "word": "put"
+                  },
+                  {
+                    "end": 81,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 118,
+                    "start": 82,
+                    "word": "coke"
+                  },
+                  {
+                    "end": 128,
+                    "start": 119,
+                    "word": "in"
+                  },
+                  {
+                    "end": 138,
+                    "start": 129,
+                    "word": "the"
+                  },
+                  {
+                    "end": 170,
+                    "start": 139,
+                    "word": "hole"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Mike put the coke in the hole"
+              }
+            ],
+            "sentence": "Mike put the coke in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_mike_put_the_stone_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 120,
+                    "start": 100,
+                    "word": "put"
+                  },
+                  {
+                    "end": 129,
+                    "start": 121,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 130,
+                    "word": "stone"
+                  },
+                  {
+                    "end": 188,
+                    "start": 181,
+                    "word": "in"
+                  },
+                  {
+                    "end": 198,
+                    "start": 189,
+                    "word": "the"
+                  },
+                  {
+                    "end": 234,
+                    "start": 199,
+                    "word": "hole"
+                  }
+                ],
+                "until": 234,
+                "utterances": "And Mike put the stone in the hole"
+              }
+            ],
+            "sentence": "And Mike put the stone in the hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_said_sorry_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 82,
+                    "start": 38,
+                    "word": "said"
+                  },
+                  {
+                    "end": 144,
+                    "start": 100,
+                    "word": "Sorry"
+                  },
+                  {
+                    "end": 187,
+                    "start": 145,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Mike said Sorry Tom"
+              }
+            ],
+            "sentence": "Mike said, \"Sorry, Tom.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_said_let_s_jump_in_the_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 82,
+                    "start": 40,
+                    "word": "said"
+                  },
+                  {
+                    "end": 125,
+                    "start": 83,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 154,
+                    "start": 126,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 163,
+                    "start": 155,
+                    "word": "in"
+                  },
+                  {
+                    "end": 175,
+                    "start": 164,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 182,
+                    "word": "hole"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Tom said Let's jump in the hole"
+              }
+            ],
+            "sentence": "Tom said, \"Let's jump in the hole!\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Tom's Hole",
+  "titleimage": null
+}

@@ -1,0 +1,776 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_sits.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 83,
+                    "start": 44,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 171,
+                    "start": 91,
+                    "word": "sits"
+                  }
+                ],
+                "until": 171,
+                "utterances": "The rat sits"
+              }
+            ],
+            "sentence": "The rat sits."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_rat_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 56,
+                    "start": 43,
+                    "word": "the"
+                  },
+                  {
+                    "end": 89,
+                    "start": 57,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 133,
+                    "start": 94,
+                    "word": "sit"
+                  }
+                ],
+                "until": 133,
+                "utterances": "Did the rat sit"
+              }
+            ],
+            "sentence": "Did the rat sit?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_did_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 76,
+                    "start": 47,
+                    "word": "did"
+                  },
+                  {
+                    "end": 134,
+                    "start": 77,
+                    "word": "sit"
+                  }
+                ],
+                "until": 134,
+                "utterances": "It did sit"
+              }
+            ],
+            "sentence": "It did sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_did_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 35,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 123,
+                    "start": 92,
+                    "word": "did"
+                  },
+                  {
+                    "end": 179,
+                    "start": 124,
+                    "word": "sit"
+                  }
+                ],
+                "until": 179,
+                "utterances": "The rat did sit"
+              }
+            ],
+            "sentence": "The rat did sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_sits_in_the_mist.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 214,
+                    "start": 7,
+                    "word": "The"
+                  },
+                  {
+                    "end": 149,
+                    "start": 114,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 221,
+                    "start": 158,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 263,
+                    "start": 236,
+                    "word": "in"
+                  },
+                  {
+                    "end": 279,
+                    "start": 267,
+                    "word": "the"
+                  },
+                  {
+                    "end": 346,
+                    "start": 280,
+                    "word": "mist"
+                  }
+                ],
+                "until": 346,
+                "utterances": "The rat sits in the mist"
+              }
+            ],
+            "sentence": "The rat sits in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 73,
+                    "start": 25,
+                    "word": "is"
+                  },
+                  {
+                    "end": 128,
+                    "start": 74,
+                    "word": "sad"
+                  }
+                ],
+                "until": 128,
+                "utterances": "It is sad"
+              }
+            ],
+            "sentence": "It is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_sad_rat_sits_in_the_mist.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 7,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 31,
+                    "word": "sad"
+                  },
+                  {
+                    "end": 140,
+                    "start": 105,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 203,
+                    "start": 141,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 236,
+                    "start": 204,
+                    "word": "in"
+                  },
+                  {
+                    "end": 252,
+                    "start": 237,
+                    "word": "the"
+                  },
+                  {
+                    "end": 318,
+                    "start": 253,
+                    "word": "mist"
+                  }
+                ],
+                "until": 318,
+                "utterances": "The sad rat sits in the mist"
+              }
+            ],
+            "sentence": "The sad rat sits in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_it_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 65,
+                    "start": 41,
+                    "word": "it"
+                  },
+                  {
+                    "end": 119,
+                    "start": 66,
+                    "word": "sad"
+                  }
+                ],
+                "until": 119,
+                "utterances": "Is it sad"
+              }
+            ],
+            "sentence": "Is it sad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_the_rat_sad.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 12,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 58,
+                    "start": 34,
+                    "word": "the"
+                  },
+                  {
+                    "end": 92,
+                    "start": 59,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 154,
+                    "start": 93,
+                    "word": "sad"
+                  }
+                ],
+                "until": 154,
+                "utterances": "Is the rat sad"
+              }
+            ],
+            "sentence": "Is the rat sad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 7,
+                    "word": "It"
+                  },
+                  {
+                    "end": 127,
+                    "start": 40,
+                    "word": "is"
+                  }
+                ],
+                "until": 127,
+                "utterances": "It is"
+              }
+            ],
+            "sentence": "It is."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_is_mad_at_the_ram.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 24,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 107,
+                    "start": 85,
+                    "word": "is"
+                  },
+                  {
+                    "end": 155,
+                    "start": 108,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 188,
+                    "start": 156,
+                    "word": "at"
+                  },
+                  {
+                    "end": 199,
+                    "start": 189,
+                    "word": "the"
+                  },
+                  {
+                    "end": 251,
+                    "start": 200,
+                    "word": "ram"
+                  }
+                ],
+                "until": 251,
+                "utterances": "The rat is mad at the ram"
+              }
+            ],
+            "sentence": "The rat is mad at the ram."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ram_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 46,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 111,
+                    "start": 85,
+                    "word": "is"
+                  },
+                  {
+                    "end": 163,
+                    "start": 112,
+                    "word": "sad"
+                  }
+                ],
+                "until": 163,
+                "utterances": "The ram is sad"
+              }
+            ],
+            "sentence": "The ram is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Rats"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Rats"
+              }
+            ],
+            "sentence": "Rats!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_ram_get_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 52,
+                    "start": 37,
+                    "word": "the"
+                  },
+                  {
+                    "end": 103,
+                    "start": 53,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 139,
+                    "start": 115,
+                    "word": "get"
+                  },
+                  {
+                    "end": 190,
+                    "start": 140,
+                    "word": "mad"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Did the ram get mad"
+              }
+            ],
+            "sentence": "Did the ram get mad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_the_ram_mad_at_the_rat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 76,
+                    "start": 53,
+                    "word": "the"
+                  },
+                  {
+                    "end": 131,
+                    "start": 77,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 186,
+                    "start": 136,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 198,
+                    "start": 187,
+                    "word": "at"
+                  },
+                  {
+                    "end": 223,
+                    "start": 199,
+                    "word": "the"
+                  },
+                  {
+                    "end": 259,
+                    "start": 240,
+                    "word": "rat"
+                  }
+                ],
+                "until": 259,
+                "utterances": "Is the ram mad at the rat"
+              }
+            ],
+            "sentence": "Is the ram mad at the rat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ram_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 29,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 119,
+                    "start": 73,
+                    "word": "sat"
+                  }
+                ],
+                "until": 119,
+                "utterances": "The ram sat"
+              }
+            ],
+            "sentence": "The ram sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 97,
+                    "start": 61,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 159,
+                    "start": 98,
+                    "word": "sat"
+                  }
+                ],
+                "until": 159,
+                "utterances": "The rat sat"
+              }
+            ],
+            "sentence": "The rat sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ram_and_the_rat_sat_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 64,
+                    "start": 30,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 88,
+                    "start": 65,
+                    "word": "and"
+                  },
+                  {
+                    "end": 100,
+                    "start": 89,
+                    "word": "the"
+                  },
+                  {
+                    "end": 134,
+                    "start": 101,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 175,
+                    "start": 135,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 176,
+                    "word": "in"
+                  },
+                  {
+                    "end": 200,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 266,
+                    "start": 201,
+                    "word": "mist"
+                  }
+                ],
+                "until": 266,
+                "utterances": "The ram and the rat sat in the mist"
+              }
+            ],
+            "sentence": "The ram and the rat sat in the mist."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Sitting Rat",
+  "titleimage": null
+}

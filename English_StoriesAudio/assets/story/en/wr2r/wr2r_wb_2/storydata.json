@@ -1,0 +1,1427 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_brother_and_i_like_to_wrestle.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 79,
+                    "start": 28,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 95,
+                    "start": 83,
+                    "word": "and"
+                  },
+                  {
+                    "end": 104,
+                    "start": 96,
+                    "word": "I"
+                  },
+                  {
+                    "end": 167,
+                    "start": 105,
+                    "word": "like"
+                  },
+                  {
+                    "end": 178,
+                    "start": 168,
+                    "word": "to"
+                  },
+                  {
+                    "end": 228,
+                    "start": 179,
+                    "word": "wrestle"
+                  }
+                ],
+                "until": 228,
+                "utterances": "My brother and I like to wrestle"
+              }
+            ],
+            "sentence": "My brother and I like to wrestle."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_fact_we_love_to_wrestle.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 86,
+                    "start": 31,
+                    "word": "fact"
+                  },
+                  {
+                    "end": 68,
+                    "start": 51,
+                    "word": "we"
+                  },
+                  {
+                    "end": 108,
+                    "start": 69,
+                    "word": "love"
+                  },
+                  {
+                    "end": 127,
+                    "start": 113,
+                    "word": "to"
+                  },
+                  {
+                    "end": 179,
+                    "start": 128,
+                    "word": "wrestle"
+                  }
+                ],
+                "until": 179,
+                "utterances": "In fact we love to wrestle"
+              }
+            ],
+            "sentence": "In fact, we love to wrestle."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wrote_a_story_about_wrestling.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "wrote"
+                  },
+                  {
+                    "end": 62,
+                    "start": 59,
+                    "word": "a"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "story"
+                  },
+                  {
+                    "end": 153,
+                    "start": 119,
+                    "word": "about"
+                  },
+                  {
+                    "end": 244,
+                    "start": 154,
+                    "word": "wrestling"
+                  }
+                ],
+                "until": 244,
+                "utterances": "I wrote a story about wrestling"
+              }
+            ],
+            "sentence": "I wrote a story about wrestling."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "here_is_what_i_wrote.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Here"
+                  },
+                  {
+                    "end": 75,
+                    "start": 48,
+                    "word": "is"
+                  },
+                  {
+                    "end": 101,
+                    "start": 76,
+                    "word": "what"
+                  },
+                  {
+                    "end": 128,
+                    "start": 112,
+                    "word": "I"
+                  },
+                  {
+                    "end": 185,
+                    "start": 129,
+                    "word": "wrote"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Here is what I wrote"
+              }
+            ],
+            "sentence": "Here is what I wrote."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_play_wrestling_in_our_room.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 69,
+                    "start": 38,
+                    "word": "play"
+                  },
+                  {
+                    "end": 129,
+                    "start": 70,
+                    "word": "wrestling"
+                  },
+                  {
+                    "end": 147,
+                    "start": 130,
+                    "word": "in"
+                  },
+                  {
+                    "end": 172,
+                    "start": 148,
+                    "word": "our"
+                  },
+                  {
+                    "end": 210,
+                    "start": 173,
+                    "word": "room"
+                  }
+                ],
+                "until": 210,
+                "utterances": "We play wrestling in our room"
+              }
+            ],
+            "sentence": "We play wrestling in our room."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_we_write_our_names.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 77,
+                    "start": 64,
+                    "word": "we"
+                  },
+                  {
+                    "end": 105,
+                    "start": 78,
+                    "word": "write"
+                  },
+                  {
+                    "end": 135,
+                    "start": 106,
+                    "word": "our"
+                  },
+                  {
+                    "end": 195,
+                    "start": 149,
+                    "word": "names"
+                  }
+                ],
+                "until": 195,
+                "utterances": "First we write our names"
+              }
+            ],
+            "sentence": "First, we write our names. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "killer_joe_and_monster_mike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Killer"
+                  },
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Joe"
+                  },
+                  {
+                    "end": 79,
+                    "start": 50,
+                    "word": "and"
+                  },
+                  {
+                    "end": 125,
+                    "start": 80,
+                    "word": "Monster"
+                  },
+                  {
+                    "end": 172,
+                    "start": 126,
+                    "word": "Mike"
+                  }
+                ],
+                "until": 172,
+                "utterances": "Killer Joe and Monster Mike"
+              }
+            ],
+            "sentence": "Killer Joe and Monster Mike!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_make_the_sound_to_start_wrestling.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 61,
+                    "start": 32,
+                    "word": "make"
+                  },
+                  {
+                    "end": 72,
+                    "start": 62,
+                    "word": "the"
+                  },
+                  {
+                    "end": 138,
+                    "start": 73,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 152,
+                    "start": 139,
+                    "word": "to"
+                  },
+                  {
+                    "end": 196,
+                    "start": 153,
+                    "word": "start"
+                  },
+                  {
+                    "end": 292,
+                    "start": 197,
+                    "word": "wrestling"
+                  }
+                ],
+                "until": 292,
+                "utterances": "We make the sound to start wrestling"
+              }
+            ],
+            "sentence": "We make the sound to start wrestling."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ding_ding.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Ding"
+                  },
+                  {
+                    "end": 91,
+                    "start": 46,
+                    "word": "Ding"
+                  }
+                ],
+                "until": 91,
+                "utterances": "Ding Ding"
+              }
+            ],
+            "sentence": "Ding Ding!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_do_not_hurt_him.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 44,
+                    "start": 24,
+                    "word": "do"
+                  },
+                  {
+                    "end": 28,
+                    "start": 8,
+                    "word": "not"
+                  },
+                  {
+                    "end": 65,
+                    "start": 40,
+                    "word": "hurt"
+                  },
+                  {
+                    "end": 91,
+                    "start": 66,
+                    "word": "him"
+                  }
+                ],
+                "until": 91,
+                "utterances": "I do not hurt him"
+              }
+            ],
+            "sentence": "I do not hurt him."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_does_not_hurt_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 36,
+                    "word": "does"
+                  },
+                  {
+                    "end": 76,
+                    "start": 58,
+                    "word": "not"
+                  },
+                  {
+                    "end": 113,
+                    "start": 87,
+                    "word": "hurt"
+                  },
+                  {
+                    "end": 130,
+                    "start": 114,
+                    "word": "me"
+                  }
+                ],
+                "until": 130,
+                "utterances": "He does not hurt me"
+              }
+            ],
+            "sentence": "He does not hurt me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_wrestle_for_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 69,
+                    "start": 29,
+                    "word": "wrestle"
+                  },
+                  {
+                    "end": 93,
+                    "start": 70,
+                    "word": "for"
+                  },
+                  {
+                    "end": 164,
+                    "start": 94,
+                    "word": "fun"
+                  }
+                ],
+                "until": 164,
+                "utterances": "We wrestle for fun"
+              }
+            ],
+            "sentence": "We wrestle for fun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wrap_my_arm_around_him.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 56,
+                    "start": 22,
+                    "word": "wrap"
+                  },
+                  {
+                    "end": 74,
+                    "start": 57,
+                    "word": "my"
+                  },
+                  {
+                    "end": 103,
+                    "start": 75,
+                    "word": "arm"
+                  },
+                  {
+                    "end": 141,
+                    "start": 104,
+                    "word": "around"
+                  },
+                  {
+                    "end": 226,
+                    "start": 142,
+                    "word": "him"
+                  }
+                ],
+                "until": 226,
+                "utterances": "I wrap my arm around him"
+              }
+            ],
+            "sentence": "I wrap my arm around him."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_pin_him_on_the_floor.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 56,
+                    "start": 32,
+                    "word": "pin"
+                  },
+                  {
+                    "end": 46,
+                    "start": 28,
+                    "word": "him"
+                  },
+                  {
+                    "end": 70,
+                    "start": 47,
+                    "word": "on"
+                  },
+                  {
+                    "end": 78,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 79,
+                    "word": "floor"
+                  }
+                ],
+                "until": 135,
+                "utterances": "I pin him on the floor"
+              }
+            ],
+            "sentence": "I pin him on the floor."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_het_gets_out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 62,
+                    "start": 50,
+                    "word": "het"
+                  },
+                  {
+                    "end": 113,
+                    "start": 63,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 150,
+                    "start": 114,
+                    "word": "out"
+                  }
+                ],
+                "until": 150,
+                "utterances": "But het gets out"
+              }
+            ],
+            "sentence": "But het gets out."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_takes_my_wrist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 59,
+                    "start": 26,
+                    "word": "takes"
+                  },
+                  {
+                    "end": 76,
+                    "start": 60,
+                    "word": "my"
+                  },
+                  {
+                    "end": 130,
+                    "start": 77,
+                    "word": "wrist"
+                  }
+                ],
+                "until": 130,
+                "utterances": "He takes my wrist"
+              }
+            ],
+            "sentence": "He takes my wrist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_wraps_his_hand_on_my_wrist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 85,
+                    "start": 40,
+                    "word": "wraps"
+                  },
+                  {
+                    "end": 103,
+                    "start": 86,
+                    "word": "his"
+                  },
+                  {
+                    "end": 148,
+                    "start": 104,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 170,
+                    "start": 149,
+                    "word": "on"
+                  },
+                  {
+                    "end": 181,
+                    "start": 171,
+                    "word": "my"
+                  },
+                  {
+                    "end": 246,
+                    "start": 182,
+                    "word": "wrist"
+                  }
+                ],
+                "until": 246,
+                "utterances": "He wraps his hand on my wrist"
+              }
+            ],
+            "sentence": "He wraps his hand on my wrist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ouch.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Ouch"
+                  }
+                ],
+                "until": 50,
+                "utterances": "Ouch"
+              }
+            ],
+            "sentence": "Ouch!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_i_get_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 61,
+                    "start": 37,
+                    "word": "I"
+                  },
+                  {
+                    "end": 76,
+                    "start": 62,
+                    "word": "get"
+                  },
+                  {
+                    "end": 127,
+                    "start": 77,
+                    "word": "up"
+                  }
+                ],
+                "until": 127,
+                "utterances": "Then I get up"
+              }
+            ],
+            "sentence": "Then I get up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_time_i_get_his_wrist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 75,
+                    "start": 33,
+                    "word": "time"
+                  },
+                  {
+                    "end": 85,
+                    "start": 76,
+                    "word": "I"
+                  },
+                  {
+                    "end": 113,
+                    "start": 93,
+                    "word": "get"
+                  },
+                  {
+                    "end": 142,
+                    "start": 114,
+                    "word": "his"
+                  },
+                  {
+                    "end": 191,
+                    "start": 143,
+                    "word": "wrist"
+                  }
+                ],
+                "until": 191,
+                "utterances": "This time I get his wrist"
+              }
+            ],
+            "sentence": "This time I get his wrist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "slam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "Slam"
+                  }
+                ],
+                "until": 72,
+                "utterances": "Slam"
+              },
+              {
+                "audio": "i_got_you.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 56,
+                    "start": 21,
+                    "word": "got"
+                  },
+                  {
+                    "end": 90,
+                    "start": 57,
+                    "word": "you"
+                  }
+                ],
+                "until": 90,
+                "utterances": "I got you"
+              }
+            ],
+            "sentence": "Slam! I got you."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_he_wraps_his_arm_around_my_head.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 46,
+                    "start": 30,
+                    "word": "he"
+                  },
+                  {
+                    "end": 87,
+                    "start": 47,
+                    "word": "wraps"
+                  },
+                  {
+                    "end": 104,
+                    "start": 88,
+                    "word": "his"
+                  },
+                  {
+                    "end": 147,
+                    "start": 105,
+                    "word": "arm"
+                  },
+                  {
+                    "end": 189,
+                    "start": 148,
+                    "word": "around"
+                  },
+                  {
+                    "end": 213,
+                    "start": 190,
+                    "word": "my"
+                  },
+                  {
+                    "end": 252,
+                    "start": 214,
+                    "word": "head"
+                  }
+                ],
+                "until": 252,
+                "utterances": "But he wraps his arm around my head"
+              }
+            ],
+            "sentence": "But he wraps his arm around my head."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 51,
+                    "start": 25,
+                    "word": "got"
+                  },
+                  {
+                    "end": 75,
+                    "start": 52,
+                    "word": "me"
+                  }
+                ],
+                "until": 75,
+                "utterances": "He got me"
+              }
+            ],
+            "sentence": "He got me!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_reach_for_his_wrist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 23,
+                    "word": "reach"
+                  },
+                  {
+                    "end": 77,
+                    "start": 58,
+                    "word": "for"
+                  },
+                  {
+                    "end": 97,
+                    "start": 78,
+                    "word": "his"
+                  },
+                  {
+                    "end": 142,
+                    "start": 98,
+                    "word": "wrist"
+                  }
+                ],
+                "until": 142,
+                "utterances": "I reach for his wrist"
+              }
+            ],
+            "sentence": "I reach for his wrist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_i_can_t_get_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 52,
+                    "start": 39,
+                    "word": "I"
+                  },
+                  {
+                    "end": 98,
+                    "start": 53,
+                    "word": "can't"
+                  },
+                  {
+                    "end": 129,
+                    "start": 99,
+                    "word": "get"
+                  },
+                  {
+                    "end": 146,
+                    "start": 130,
+                    "word": "it"
+                  }
+                ],
+                "until": 146,
+                "utterances": "But I can't get it"
+              }
+            ],
+            "sentence": "But I can't get it!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_brother_pins_me_on_the_floor.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "brother"
+                  },
+                  {
+                    "end": 112,
+                    "start": 74,
+                    "word": "pins"
+                  },
+                  {
+                    "end": 125,
+                    "start": 113,
+                    "word": "me"
+                  },
+                  {
+                    "end": 147,
+                    "start": 126,
+                    "word": "on"
+                  },
+                  {
+                    "end": 155,
+                    "start": 148,
+                    "word": "the"
+                  },
+                  {
+                    "end": 210,
+                    "start": 156,
+                    "word": "floor"
+                  }
+                ],
+                "until": 210,
+                "utterances": "My brother pins me on the floor"
+              }
+            ],
+            "sentence": "My brother pins me on the floor."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_my_wrist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 61,
+                    "start": 26,
+                    "word": "has"
+                  },
+                  {
+                    "end": 80,
+                    "start": 62,
+                    "word": "my"
+                  },
+                  {
+                    "end": 137,
+                    "start": 81,
+                    "word": "wrist"
+                  }
+                ],
+                "until": 137,
+                "utterances": "He has my wrist"
+              }
+            ],
+            "sentence": "He has my wrist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_t_get_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 66,
+                    "start": 23,
+                    "word": "can't"
+                  },
+                  {
+                    "end": 87,
+                    "start": 67,
+                    "word": "get"
+                  },
+                  {
+                    "end": 118,
+                    "start": 88,
+                    "word": "up"
+                  }
+                ],
+                "until": 118,
+                "utterances": "I can't get up"
+              }
+            ],
+            "sentence": "I can't get up!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_two_three.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 85,
+                    "start": 54,
+                    "word": "two"
+                  },
+                  {
+                    "end": 128,
+                    "start": 86,
+                    "word": "three"
+                  }
+                ],
+                "until": 128,
+                "utterances": "One two three"
+              }
+            ],
+            "sentence": "One, two, three!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 31,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "monster_mike_wins_the_wrestling_match.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Monster"
+                  },
+                  {
+                    "end": 119,
+                    "start": 81,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 155,
+                    "start": 120,
+                    "word": "Wins"
+                  },
+                  {
+                    "end": 164,
+                    "start": 156,
+                    "word": "the"
+                  },
+                  {
+                    "end": 208,
+                    "start": 165,
+                    "word": "Wrestling"
+                  },
+                  {
+                    "end": 269,
+                    "start": 209,
+                    "word": "Match"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Monster Mike Wins the Wrestling Match"
+              }
+            ],
+            "sentence": "Monster Mike Wins the Wrestling Match!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 32,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 38,
+                    "word": "end"
+                  }
+                ],
+                "until": 75,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Wrestling With My Brother",
+  "titleimage": null
+}

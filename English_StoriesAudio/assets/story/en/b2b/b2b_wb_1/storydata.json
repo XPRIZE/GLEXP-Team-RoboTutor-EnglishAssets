@@ -1,0 +1,661 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_is_a_slob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 115,
+                    "start": 80,
+                    "word": "is"
+                  },
+                  {
+                    "end": 118,
+                    "start": 116,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 128,
+                    "word": "slob"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Bob is a slob"
+              }
+            ],
+            "sentence": "Bob is a slob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_got_in_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 78,
+                    "start": 49,
+                    "word": "got"
+                  },
+                  {
+                    "end": 106,
+                    "start": 79,
+                    "word": "in"
+                  },
+                  {
+                    "end": 115,
+                    "start": 107,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 116,
+                    "word": "mud"
+                  }
+                ],
+                "until": 159,
+                "utterances": "Bob got in the mud"
+              }
+            ],
+            "sentence": "Bob got in the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_is_a_big_slob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 79,
+                    "start": 54,
+                    "word": "is"
+                  },
+                  {
+                    "end": 101,
+                    "start": 80,
+                    "word": "a"
+                  },
+                  {
+                    "end": 147,
+                    "start": 107,
+                    "word": "big"
+                  },
+                  {
+                    "end": 212,
+                    "start": 148,
+                    "word": "slob"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Bob is a big slob"
+              }
+            ],
+            "sentence": "Bob is a big slob!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_can_rub_the_mud_on_his_skin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 78,
+                    "start": 52,
+                    "word": "can"
+                  },
+                  {
+                    "end": 127,
+                    "start": 79,
+                    "word": "rub"
+                  },
+                  {
+                    "end": 154,
+                    "start": 142,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 155,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 245,
+                    "start": 212,
+                    "word": "on"
+                  },
+                  {
+                    "end": 273,
+                    "start": 246,
+                    "word": "his"
+                  },
+                  {
+                    "end": 342,
+                    "start": 274,
+                    "word": "skin"
+                  }
+                ],
+                "until": 342,
+                "utterances": "Bob can rub the mud on his skin"
+              }
+            ],
+            "sentence": "Bob can rub the mud on his skin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_got_mud_in_his_hand.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 23,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 81,
+                    "start": 48,
+                    "word": "got"
+                  },
+                  {
+                    "end": 128,
+                    "start": 82,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 144,
+                    "start": 129,
+                    "word": "in"
+                  },
+                  {
+                    "end": 168,
+                    "start": 145,
+                    "word": "his"
+                  },
+                  {
+                    "end": 218,
+                    "start": 169,
+                    "word": "hand"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Bob got mud in his hand"
+              }
+            ],
+            "sentence": "Bob got mud in his hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_asks_mom_for_a_bag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 94,
+                    "start": 51,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 139,
+                    "start": 95,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 179,
+                    "start": 140,
+                    "word": "for"
+                  },
+                  {
+                    "end": 196,
+                    "start": 180,
+                    "word": "a"
+                  },
+                  {
+                    "end": 252,
+                    "start": 197,
+                    "word": "bag"
+                  }
+                ],
+                "until": 252,
+                "utterances": "Bob asks Mom for a bag"
+              }
+            ],
+            "sentence": "Bob asks Mom for a bag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_got_bob_a_big_bag_for_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 109,
+                    "start": 66,
+                    "word": "got"
+                  },
+                  {
+                    "end": 172,
+                    "start": 116,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 199,
+                    "start": 173,
+                    "word": "a"
+                  },
+                  {
+                    "end": 245,
+                    "start": 209,
+                    "word": "big"
+                  },
+                  {
+                    "end": 311,
+                    "start": 262,
+                    "word": "bag"
+                  },
+                  {
+                    "end": 342,
+                    "start": 312,
+                    "word": "for"
+                  },
+                  {
+                    "end": 389,
+                    "start": 343,
+                    "word": "mud"
+                  }
+                ],
+                "until": 389,
+                "utterances": "Mom got Bob a big bag for mud"
+              }
+            ],
+            "sentence": "Mom got Bob a big bag for mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_can_grab_the_mud_in_the_bag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 86,
+                    "start": 60,
+                    "word": "can"
+                  },
+                  {
+                    "end": 152,
+                    "start": 87,
+                    "word": "grab"
+                  },
+                  {
+                    "end": 168,
+                    "start": 153,
+                    "word": "the"
+                  },
+                  {
+                    "end": 218,
+                    "start": 169,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 266,
+                    "start": 230,
+                    "word": "in"
+                  },
+                  {
+                    "end": 286,
+                    "start": 267,
+                    "word": "the"
+                  },
+                  {
+                    "end": 345,
+                    "start": 287,
+                    "word": "bag"
+                  }
+                ],
+                "until": 345,
+                "utterances": "Bob can grab the mud in the bag"
+              }
+            ],
+            "sentence": "Bob can grab the mud in the bag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_the_slob_has_a_gob_of_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 76,
+                    "start": 61,
+                    "word": "the"
+                  },
+                  {
+                    "end": 147,
+                    "start": 77,
+                    "word": "slob"
+                  },
+                  {
+                    "end": 179,
+                    "start": 148,
+                    "word": "has"
+                  },
+                  {
+                    "end": 201,
+                    "start": 180,
+                    "word": "a"
+                  },
+                  {
+                    "end": 248,
+                    "start": 202,
+                    "word": "gob"
+                  },
+                  {
+                    "end": 280,
+                    "start": 249,
+                    "word": "of"
+                  },
+                  {
+                    "end": 322,
+                    "start": 281,
+                    "word": "mud"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Bob the slob has a gob of mud"
+              }
+            ],
+            "sentence": "Bob the slob has a gob of mud!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_ran_in_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 119,
+                    "start": 54,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 148,
+                    "start": 120,
+                    "word": "in"
+                  },
+                  {
+                    "end": 159,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 202,
+                    "start": 160,
+                    "word": "mud"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Bob ran in the mud"
+              }
+            ],
+            "sentence": "Bob ran in the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_slid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 97,
+                    "start": 43,
+                    "word": "slid"
+                  }
+                ],
+                "until": 97,
+                "utterances": "Bob slid"
+              }
+            ],
+            "sentence": "Bob slid!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_is_a_big_slob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 79,
+                    "start": 54,
+                    "word": "is"
+                  },
+                  {
+                    "end": 101,
+                    "start": 80,
+                    "word": "a"
+                  },
+                  {
+                    "end": 147,
+                    "start": 107,
+                    "word": "big"
+                  },
+                  {
+                    "end": 212,
+                    "start": 148,
+                    "word": "slob"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Bob is a big slob"
+              }
+            ],
+            "sentence": "Bob is a big slob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_bob_got_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 72,
+                    "start": 34,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 100,
+                    "start": 73,
+                    "word": "got"
+                  },
+                  {
+                    "end": 125,
+                    "start": 101,
+                    "word": "in"
+                  },
+                  {
+                    "end": 136,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 184,
+                    "start": 137,
+                    "word": "tub"
+                  }
+                ],
+                "until": 184,
+                "utterances": "But Bob got in the tub"
+              }
+            ],
+            "sentence": "But Bob got in the tub!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Bob is a Slob",
+  "titleimage": null
+}

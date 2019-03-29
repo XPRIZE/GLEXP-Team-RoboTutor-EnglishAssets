@@ -1,0 +1,775 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_had_a_test.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 106,
+                    "start": 59,
+                    "word": "had"
+                  },
+                  {
+                    "end": 124,
+                    "start": 107,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 125,
+                    "word": "test"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Ron had a test"
+              }
+            ],
+            "sentence": "Ron had a test."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_felt_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 75,
+                    "start": 35,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 142,
+                    "start": 76,
+                    "word": "sad"
+                  }
+                ],
+                "until": 142,
+                "utterances": "He felt sad"
+              }
+            ],
+            "sentence": "He felt sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_ron_did_his_best.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 90,
+                    "start": 36,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 136,
+                    "start": 91,
+                    "word": "did"
+                  },
+                  {
+                    "end": 162,
+                    "start": 137,
+                    "word": "his"
+                  },
+                  {
+                    "end": 230,
+                    "start": 163,
+                    "word": "best"
+                  }
+                ],
+                "until": 230,
+                "utterances": "But Ron did his best"
+              }
+            ],
+            "sentence": "But Ron did his best."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_a_hundred.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 78,
+                    "start": 40,
+                    "word": "got"
+                  },
+                  {
+                    "end": 92,
+                    "start": 79,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 93,
+                    "word": "hundred"
+                  }
+                ],
+                "until": 160,
+                "utterances": "He got a hundred"
+              }
+            ],
+            "sentence": "He got a hundred!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_got_ron_a_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 107,
+                    "start": 64,
+                    "word": "got"
+                  },
+                  {
+                    "end": 158,
+                    "start": 108,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 186,
+                    "start": 159,
+                    "word": "a"
+                  },
+                  {
+                    "end": 263,
+                    "start": 187,
+                    "word": "gift"
+                  }
+                ],
+                "until": 263,
+                "utterances": "Mom got Ron a gift"
+              }
+            ],
+            "sentence": "Mom got Ron a gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_said_that_was_the_best_test.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 102,
+                    "start": 48,
+                    "word": "said"
+                  },
+                  {
+                    "end": 132,
+                    "start": 103,
+                    "word": "That"
+                  },
+                  {
+                    "end": 159,
+                    "start": 133,
+                    "word": "was"
+                  },
+                  {
+                    "end": 172,
+                    "start": 160,
+                    "word": "the"
+                  },
+                  {
+                    "end": 225,
+                    "start": 173,
+                    "word": "best"
+                  },
+                  {
+                    "end": 294,
+                    "start": 229,
+                    "word": "test"
+                  }
+                ],
+                "until": 294,
+                "utterances": "Mom said That was the best test"
+              }
+            ],
+            "sentence": "Mom said, \"That was the best test!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_handed_ron_the_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 119,
+                    "start": 58,
+                    "word": "handed"
+                  },
+                  {
+                    "end": 171,
+                    "start": 120,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 184,
+                    "start": 175,
+                    "word": "the"
+                  },
+                  {
+                    "end": 246,
+                    "start": 185,
+                    "word": "gift"
+                  }
+                ],
+                "until": 246,
+                "utterances": "Mom handed Ron the gift"
+              }
+            ],
+            "sentence": "Mom handed Ron the gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_gift_did_ron_get.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 103,
+                    "start": 57,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 133,
+                    "start": 112,
+                    "word": "did"
+                  },
+                  {
+                    "end": 165,
+                    "start": 134,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 201,
+                    "start": 166,
+                    "word": "get"
+                  }
+                ],
+                "until": 201,
+                "utterances": "What gift did Ron get"
+              }
+            ],
+            "sentence": "What gift did Ron get?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_got_a_basket.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 94,
+                    "start": 54,
+                    "word": "got"
+                  },
+                  {
+                    "end": 104,
+                    "start": 95,
+                    "word": "a"
+                  },
+                  {
+                    "end": 169,
+                    "start": 105,
+                    "word": "basket"
+                  }
+                ],
+                "until": 169,
+                "utterances": "Ron got a basket"
+              }
+            ],
+            "sentence": "Ron got a basket."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_basket_had_gum.mp3",
+                "from": 4,
+                "segmentation": [
+                  {
+                    "end": 9,
+                    "start": 4,
+                    "word": "The"
+                  },
+                  {
+                    "end": 93,
+                    "start": 30,
+                    "word": "basket"
+                  },
+                  {
+                    "end": 129,
+                    "start": 94,
+                    "word": "had"
+                  },
+                  {
+                    "end": 169,
+                    "start": 133,
+                    "word": "gum"
+                  }
+                ],
+                "until": 169,
+                "utterances": "The basket had gum"
+              }
+            ],
+            "sentence": "The basket had gum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_basket_had_a_red_vest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 106,
+                    "start": 44,
+                    "word": "basket"
+                  },
+                  {
+                    "end": 128,
+                    "start": 107,
+                    "word": "had"
+                  },
+                  {
+                    "end": 135,
+                    "start": 129,
+                    "word": "a"
+                  },
+                  {
+                    "end": 172,
+                    "start": 136,
+                    "word": "red"
+                  },
+                  {
+                    "end": 243,
+                    "start": 173,
+                    "word": "vest"
+                  }
+                ],
+                "until": 243,
+                "utterances": "The basket had a red vest"
+              }
+            ],
+            "sentence": "The basket had a red vest."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_basket_had_a_rad_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 31,
+                    "word": "basket"
+                  },
+                  {
+                    "end": 109,
+                    "start": 88,
+                    "word": "had"
+                  },
+                  {
+                    "end": 125,
+                    "start": 110,
+                    "word": "a"
+                  },
+                  {
+                    "end": 171,
+                    "start": 126,
+                    "word": "rad"
+                  },
+                  {
+                    "end": 206,
+                    "start": 172,
+                    "word": "hat"
+                  }
+                ],
+                "until": 206,
+                "utterances": "The basket had a rad hat"
+              }
+            ],
+            "sentence": "The basket had a rad hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_grand_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 45,
+                    "start": 34,
+                    "word": "a"
+                  },
+                  {
+                    "end": 111,
+                    "start": 46,
+                    "word": "grand"
+                  },
+                  {
+                    "end": 175,
+                    "start": 112,
+                    "word": "gift"
+                  }
+                ],
+                "until": 175,
+                "utterances": "What a grand gift"
+              }
+            ],
+            "sentence": "What a grand gift!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_had_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 67,
+                    "start": 22,
+                    "word": "had"
+                  },
+                  {
+                    "end": 144,
+                    "start": 68,
+                    "word": "fun"
+                  }
+                ],
+                "until": 144,
+                "utterances": "Ron had fun"
+              }
+            ],
+            "sentence": "Ron had fun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_felt_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 75,
+                    "start": 35,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 209,
+                    "start": 82,
+                    "word": "glad"
+                  }
+                ],
+                "until": 209,
+                "utterances": "He felt glad"
+              }
+            ],
+            "sentence": "He felt glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_set_the_basket_in_the_den.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 67,
+                    "start": 31,
+                    "word": "set"
+                  },
+                  {
+                    "end": 91,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 156,
+                    "start": 92,
+                    "word": "basket"
+                  },
+                  {
+                    "end": 190,
+                    "start": 168,
+                    "word": "in"
+                  },
+                  {
+                    "end": 208,
+                    "start": 191,
+                    "word": "the"
+                  },
+                  {
+                    "end": 270,
+                    "start": 209,
+                    "word": "den"
+                  }
+                ],
+                "until": 270,
+                "utterances": "He set the basket in the den"
+              }
+            ],
+            "sentence": "He set the basket in the den."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_was_the_best_test_said_ron.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 100,
+                    "start": 43,
+                    "word": "WAS"
+                  },
+                  {
+                    "end": 114,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 160,
+                    "start": 115,
+                    "word": "best"
+                  },
+                  {
+                    "end": 210,
+                    "start": 161,
+                    "word": "test"
+                  },
+                  {
+                    "end": 246,
+                    "start": 211,
+                    "word": "said"
+                  },
+                  {
+                    "end": 312,
+                    "start": 247,
+                    "word": "Ron"
+                  }
+                ],
+                "until": 312,
+                "utterances": "That WAS the best test said Ron"
+              }
+            ],
+            "sentence": "\"That WAS the best test,\" said Ron."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ron had a Test",
+  "titleimage": null
+}

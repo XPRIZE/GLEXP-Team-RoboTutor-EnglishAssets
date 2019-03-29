@@ -1,0 +1,394 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "SIR"
+                  }
+                ],
+                "until": 36,
+                "utterances": "SIR"
+              }
+            ],
+            "sentence": "sir "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bird.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "BIRD"
+                  }
+                ],
+                "until": 49,
+                "utterances": "BIRD"
+              }
+            ],
+            "sentence": "bird "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "girl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "GIRL"
+                  }
+                ],
+                "until": 40,
+                "utterances": "GIRL"
+              }
+            ],
+            "sentence": "girl "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_i_r_make_in_the_words_sir_bird_and_girl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 75,
+                    "start": 31,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 86,
+                    "start": 76,
+                    "word": "do"
+                  },
+                  {
+                    "end": 95,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 141,
+                    "start": 96,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 173,
+                    "start": 142,
+                    "word": "I"
+                  },
+                  {
+                    "end": 215,
+                    "start": 174,
+                    "word": "R"
+                  },
+                  {
+                    "end": 253,
+                    "start": 216,
+                    "word": "make"
+                  },
+                  {
+                    "end": 264,
+                    "start": 254,
+                    "word": "in"
+                  },
+                  {
+                    "end": 271,
+                    "start": 265,
+                    "word": "the"
+                  },
+                  {
+                    "end": 320,
+                    "start": 272,
+                    "word": "words"
+                  },
+                  {
+                    "end": 382,
+                    "start": 324,
+                    "word": "SIR"
+                  },
+                  {
+                    "end": 437,
+                    "start": 397,
+                    "word": "BIRD"
+                  },
+                  {
+                    "end": 453,
+                    "start": 438,
+                    "word": "and"
+                  },
+                  {
+                    "end": 486,
+                    "start": 458,
+                    "word": "GIRL"
+                  }
+                ],
+                "until": 486,
+                "utterances": "What sound do the Letters I R make in the words SIR BIRD and GIRL"
+              }
+            ],
+            "sentence": "What sound do the Letters i r make in the words sir, bird, and girl?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Fir"
+                  }
+                ],
+                "until": 66,
+                "utterances": "Fir"
+              }
+            ],
+            "sentence": "fir "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "stir.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "STIR"
+                  }
+                ],
+                "until": 64,
+                "utterances": "STIR"
+              }
+            ],
+            "sentence": "stir "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "DIRT"
+                  }
+                ],
+                "until": 43,
+                "utterances": "DIRT"
+              }
+            ],
+            "sentence": "dirt "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "First"
+                  }
+                ],
+                "until": 72,
+                "utterances": "First"
+              }
+            ],
+            "sentence": "first "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bird.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "BIRD"
+                  }
+                ],
+                "until": 49,
+                "utterances": "BIRD"
+              }
+            ],
+            "sentence": "bird "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_dirty_girl_squirrel_is_thirsty.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 73,
+                    "start": 39,
+                    "word": "dirty"
+                  },
+                  {
+                    "end": 109,
+                    "start": 74,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 161,
+                    "start": 110,
+                    "word": "squirrel"
+                  },
+                  {
+                    "end": 174,
+                    "start": 162,
+                    "word": "is"
+                  },
+                  {
+                    "end": 220,
+                    "start": 175,
+                    "word": "thirsty"
+                  }
+                ],
+                "until": 220,
+                "utterances": "A dirty girl squirrel is thirsty"
+              }
+            ],
+            "sentence": "A dirty girl squirrel is thirsty. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "very_good.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Very"
+                  },
+                  {
+                    "end": 88,
+                    "start": 41,
+                    "word": "good"
+                  }
+                ],
+                "until": 88,
+                "utterances": "Very good"
+              }
+            ],
+            "sentence": "Very good! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "B",
+  "title": "The Sound of the Letters I R in SIR, BIRD, and GIRL",
+  "titleimage": null
+}

@@ -1,0 +1,550 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_that_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 65,
+                    "start": 44,
+                    "word": "at"
+                  },
+                  {
+                    "end": 95,
+                    "start": 66,
+                    "word": "that"
+                  },
+                  {
+                    "end": 164,
+                    "start": 103,
+                    "word": "box"
+                  }
+                ],
+                "until": 164,
+                "utterances": "Look at that box"
+              }
+            ],
+            "sentence": "Look at that box."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "box_number_one.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Box"
+                  },
+                  {
+                    "end": 104,
+                    "start": 56,
+                    "word": "number"
+                  },
+                  {
+                    "end": 142,
+                    "start": 105,
+                    "word": "one"
+                  }
+                ],
+                "until": 142,
+                "utterances": "Box number one"
+              }
+            ],
+            "sentence": "Box number one."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_box_number_two.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 93,
+                    "start": 39,
+                    "word": "box"
+                  },
+                  {
+                    "end": 129,
+                    "start": 94,
+                    "word": "number"
+                  },
+                  {
+                    "end": 174,
+                    "start": 130,
+                    "word": "two"
+                  }
+                ],
+                "until": 174,
+                "utterances": "And box number two"
+              }
+            ],
+            "sentence": "And box number two."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "box_one_is_on_box_two.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Box"
+                  },
+                  {
+                    "end": 90,
+                    "start": 48,
+                    "word": "one"
+                  },
+                  {
+                    "end": 124,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 173,
+                    "start": 125,
+                    "word": "on"
+                  },
+                  {
+                    "end": 215,
+                    "start": 174,
+                    "word": "box"
+                  },
+                  {
+                    "end": 253,
+                    "start": 216,
+                    "word": "two"
+                  }
+                ],
+                "until": 253,
+                "utterances": "Box one is on box two"
+              }
+            ],
+            "sentence": "Box one is on box two."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "box_two_is_on_box_one.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Box"
+                  },
+                  {
+                    "end": 110,
+                    "start": 63,
+                    "word": "two"
+                  },
+                  {
+                    "end": 130,
+                    "start": 111,
+                    "word": "is"
+                  },
+                  {
+                    "end": 168,
+                    "start": 131,
+                    "word": "on"
+                  },
+                  {
+                    "end": 209,
+                    "start": 169,
+                    "word": "box"
+                  },
+                  {
+                    "end": 244,
+                    "start": 210,
+                    "word": "one"
+                  }
+                ],
+                "until": 244,
+                "utterances": "Box two is on box one"
+              }
+            ],
+            "sentence": "Box two is on box one."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_box_three.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 63,
+                    "start": 50,
+                    "word": "at"
+                  },
+                  {
+                    "end": 122,
+                    "start": 64,
+                    "word": "box"
+                  },
+                  {
+                    "end": 157,
+                    "start": 123,
+                    "word": "three"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Look at box three"
+              }
+            ],
+            "sentence": "Look at box three."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "box_one_box_two_box_three.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Box"
+                  },
+                  {
+                    "end": 93,
+                    "start": 54,
+                    "word": "one"
+                  },
+                  {
+                    "end": 138,
+                    "start": 94,
+                    "word": "box"
+                  },
+                  {
+                    "end": 174,
+                    "start": 139,
+                    "word": "two"
+                  },
+                  {
+                    "end": 218,
+                    "start": 180,
+                    "word": "box"
+                  },
+                  {
+                    "end": 251,
+                    "start": 219,
+                    "word": "three"
+                  }
+                ],
+                "until": 251,
+                "utterances": "Box one box two box three"
+              }
+            ],
+            "sentence": "Box one, box two, box three. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "who_is_in_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Who"
+                  },
+                  {
+                    "end": 56,
+                    "start": 37,
+                    "word": "is"
+                  },
+                  {
+                    "end": 79,
+                    "start": 60,
+                    "word": "in"
+                  },
+                  {
+                    "end": 88,
+                    "start": 80,
+                    "word": "the"
+                  },
+                  {
+                    "end": 150,
+                    "start": 89,
+                    "word": "box"
+                  }
+                ],
+                "until": 150,
+                "utterances": "Who is in the box"
+              }
+            ],
+            "sentence": "Who is in the box?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_man_is_in_box_one.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "man"
+                  },
+                  {
+                    "end": 97,
+                    "start": 74,
+                    "word": "is"
+                  },
+                  {
+                    "end": 124,
+                    "start": 98,
+                    "word": "in"
+                  },
+                  {
+                    "end": 158,
+                    "start": 125,
+                    "word": "box"
+                  },
+                  {
+                    "end": 192,
+                    "start": 159,
+                    "word": "one"
+                  }
+                ],
+                "until": 192,
+                "utterances": "A man is in box one"
+              }
+            ],
+            "sentence": "A man is in box one."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "six_rats_got_in_box_two.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Six"
+                  },
+                  {
+                    "end": 120,
+                    "start": 65,
+                    "word": "rats"
+                  },
+                  {
+                    "end": 154,
+                    "start": 121,
+                    "word": "got"
+                  },
+                  {
+                    "end": 185,
+                    "start": 155,
+                    "word": "in"
+                  },
+                  {
+                    "end": 227,
+                    "start": 186,
+                    "word": "box"
+                  },
+                  {
+                    "end": 266,
+                    "start": 228,
+                    "word": "two"
+                  }
+                ],
+                "until": 266,
+                "utterances": "Six rats got in box two"
+              }
+            ],
+            "sentence": "Six rats got in box two. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fox_got_in_box_three.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 89,
+                    "start": 24,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 113,
+                    "start": 90,
+                    "word": "got"
+                  },
+                  {
+                    "end": 138,
+                    "start": 114,
+                    "word": "in"
+                  },
+                  {
+                    "end": 180,
+                    "start": 139,
+                    "word": "box"
+                  },
+                  {
+                    "end": 213,
+                    "start": 181,
+                    "word": "three"
+                  }
+                ],
+                "until": 213,
+                "utterances": "A fox got in box three"
+              }
+            ],
+            "sentence": "A fox got in box three. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 105,
+                    "start": 63,
+                    "word": "end"
+                  }
+                ],
+                "until": 105,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Look at the Box",
+  "titleimage": null
+}

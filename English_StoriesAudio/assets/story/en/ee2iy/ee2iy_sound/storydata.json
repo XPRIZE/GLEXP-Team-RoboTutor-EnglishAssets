@@ -1,0 +1,583 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "see.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "SEE"
+                  }
+                ],
+                "until": 59,
+                "utterances": "SEE"
+              }
+            ],
+            "sentence": "see "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "beep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "BEEP"
+                  }
+                ],
+                "until": 44,
+                "utterances": "BEEP"
+              }
+            ],
+            "sentence": "beep "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "need.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "NEED"
+                  }
+                ],
+                "until": 67,
+                "utterances": "NEED"
+              }
+            ],
+            "sentence": "need "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_e_e_make_in_the_words_see_beep_and_need.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 95,
+                    "start": 39,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 110,
+                    "start": 100,
+                    "word": "do"
+                  },
+                  {
+                    "end": 120,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 160,
+                    "start": 121,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 197,
+                    "start": 165,
+                    "word": "E"
+                  },
+                  {
+                    "end": 245,
+                    "start": 201,
+                    "word": "E"
+                  },
+                  {
+                    "end": 294,
+                    "start": 257,
+                    "word": "make"
+                  },
+                  {
+                    "end": 307,
+                    "start": 295,
+                    "word": "in"
+                  },
+                  {
+                    "end": 313,
+                    "start": 308,
+                    "word": "the"
+                  },
+                  {
+                    "end": 358,
+                    "start": 314,
+                    "word": "words"
+                  },
+                  {
+                    "end": 412,
+                    "start": 359,
+                    "word": "SEE"
+                  },
+                  {
+                    "end": 464,
+                    "start": 427,
+                    "word": "BEEP"
+                  },
+                  {
+                    "end": 484,
+                    "start": 465,
+                    "word": "and"
+                  },
+                  {
+                    "end": 510,
+                    "start": 485,
+                    "word": "NEED"
+                  }
+                ],
+                "until": 510,
+                "utterances": "What sound do the Letters E E make in the words SEE BEEP and NEED"
+              }
+            ],
+            "sentence": "What sound do the Letters e e make in the words see, beep, and need?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "MEET"
+                  }
+                ],
+                "until": 65,
+                "utterances": "MEET"
+              }
+            ],
+            "sentence": "meet "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bee.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "BEE"
+                  }
+                ],
+                "until": 56,
+                "utterances": "BEE"
+              }
+            ],
+            "sentence": "bee "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "heel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "HEEL"
+                  }
+                ],
+                "until": 56,
+                "utterances": "HEEL"
+              }
+            ],
+            "sentence": "heel "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "tree"
+                  }
+                ],
+                "until": 61,
+                "utterances": "tree"
+              }
+            ],
+            "sentence": "tree "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "seeds.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 10,
+                    "word": "SEEDS"
+                  }
+                ],
+                "until": 90,
+                "utterances": "SEEDS"
+              }
+            ],
+            "sentence": "seeds "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_click_go_to_help_me_make_a_sentence_with_e_e_words.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 68,
+                    "start": 41,
+                    "word": "click"
+                  },
+                  {
+                    "end": 101,
+                    "start": 69,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 116,
+                    "start": 102,
+                    "word": "to"
+                  },
+                  {
+                    "end": 139,
+                    "start": 117,
+                    "word": "help"
+                  },
+                  {
+                    "end": 152,
+                    "start": 140,
+                    "word": "me"
+                  },
+                  {
+                    "end": 178,
+                    "start": 153,
+                    "word": "make"
+                  },
+                  {
+                    "end": 184,
+                    "start": 179,
+                    "word": "a"
+                  },
+                  {
+                    "end": 233,
+                    "start": 185,
+                    "word": "sentence"
+                  },
+                  {
+                    "end": 250,
+                    "start": 234,
+                    "word": "with"
+                  },
+                  {
+                    "end": 285,
+                    "start": 255,
+                    "word": "E"
+                  },
+                  {
+                    "end": 311,
+                    "start": 289,
+                    "word": "E"
+                  },
+                  {
+                    "end": 364,
+                    "start": 312,
+                    "word": "words"
+                  }
+                ],
+                "until": 364,
+                "utterances": "Now click Go to help me make a sentence with E E words"
+              }
+            ],
+            "sentence": "Now click Go to help me make a sentence with e e words! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_need_a.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 55,
+                    "start": 24,
+                    "word": "need"
+                  },
+                  {
+                    "end": 74,
+                    "start": 56,
+                    "word": "a"
+                  }
+                ],
+                "until": 74,
+                "utterances": "I need a"
+              },
+              {
+                "audio": "sleepy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "sleepy"
+                  }
+                ],
+                "until": 72,
+                "utterances": "sleepy"
+              },
+              {
+                "audio": "bee_to.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 76,
+                    "start": 33,
+                    "word": "to"
+                  }
+                ],
+                "until": 76,
+                "utterances": "bee to"
+              },
+              {
+                "audio": "play_hide_and_seek.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "play"
+                  },
+                  {
+                    "end": 66,
+                    "start": 32,
+                    "word": "hide"
+                  },
+                  {
+                    "end": 81,
+                    "start": 67,
+                    "word": "and"
+                  },
+                  {
+                    "end": 127,
+                    "start": 82,
+                    "word": "seek"
+                  }
+                ],
+                "until": 127,
+                "utterances": "play hide and seek"
+              },
+              {
+                "audio": "in_the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "in"
+                  },
+                  {
+                    "end": 67,
+                    "start": 33,
+                    "word": "the"
+                  }
+                ],
+                "until": 67,
+                "utterances": "in the"
+              },
+              {
+                "audio": "tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "tree"
+                  }
+                ],
+                "until": 61,
+                "utterances": "tree"
+              },
+              {
+                "audio": "with_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "with"
+                  },
+                  {
+                    "end": 73,
+                    "start": 34,
+                    "word": "me"
+                  }
+                ],
+                "until": 73,
+                "utterances": "with me"
+              }
+            ],
+            "sentence": "I need a sleepy bee to play hide and seek in the tree with me. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_seems_like_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 66,
+                    "start": 30,
+                    "word": "seems"
+                  },
+                  {
+                    "end": 83,
+                    "start": 67,
+                    "word": "like"
+                  },
+                  {
+                    "end": 122,
+                    "start": 84,
+                    "word": "fun"
+                  }
+                ],
+                "until": 122,
+                "utterances": "That seems like fun"
+              }
+            ],
+            "sentence": "That seems like fun! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letters E E in SEE, BEEP, and NEED",
+  "titleimage": null
+}

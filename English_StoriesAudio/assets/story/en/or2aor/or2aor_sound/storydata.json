@@ -1,0 +1,596 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "born.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "BORN"
+                  }
+                ],
+                "until": 59,
+                "utterances": "BORN"
+              }
+            ],
+            "sentence": "born "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fork.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "FORK"
+                  }
+                ],
+                "until": 71,
+                "utterances": "FORK"
+              }
+            ],
+            "sentence": "fork "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cord.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "CORD"
+                  }
+                ],
+                "until": 59,
+                "utterances": "CORD"
+              }
+            ],
+            "sentence": "cord "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_o_r_make_in_the_words_born_fork_and_cord.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 70,
+                    "start": 29,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 78,
+                    "start": 71,
+                    "word": "do"
+                  },
+                  {
+                    "end": 88,
+                    "start": 79,
+                    "word": "the"
+                  },
+                  {
+                    "end": 128,
+                    "start": 89,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 164,
+                    "start": 129,
+                    "word": "O"
+                  },
+                  {
+                    "end": 204,
+                    "start": 165,
+                    "word": "R"
+                  },
+                  {
+                    "end": 232,
+                    "start": 205,
+                    "word": "make"
+                  },
+                  {
+                    "end": 241,
+                    "start": 233,
+                    "word": "in"
+                  },
+                  {
+                    "end": 248,
+                    "start": 242,
+                    "word": "the"
+                  },
+                  {
+                    "end": 287,
+                    "start": 249,
+                    "word": "words"
+                  },
+                  {
+                    "end": 337,
+                    "start": 288,
+                    "word": "BORN"
+                  },
+                  {
+                    "end": 395,
+                    "start": 338,
+                    "word": "FORK"
+                  },
+                  {
+                    "end": 412,
+                    "start": 396,
+                    "word": "and"
+                  },
+                  {
+                    "end": 458,
+                    "start": 413,
+                    "word": "CORD"
+                  }
+                ],
+                "until": 458,
+                "utterances": "What sound do the Letters O R make in the words BORN FORK and CORD"
+              }
+            ],
+            "sentence": "What sound do the letters o r make in the words born, fork, and cord?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "horn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "HORN"
+                  }
+                ],
+                "until": 51,
+                "utterances": "HORN"
+              }
+            ],
+            "sentence": "horn "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "FORT"
+                  }
+                ],
+                "until": 66,
+                "utterances": "FORT"
+              }
+            ],
+            "sentence": "fort "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "corn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "CORN"
+                  }
+                ],
+                "until": 60,
+                "utterances": "CORN"
+              }
+            ],
+            "sentence": "corn "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "SORT"
+                  }
+                ],
+                "until": 60,
+                "utterances": "SORT"
+              }
+            ],
+            "sentence": "sort "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sport.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "SPORT"
+                  }
+                ],
+                "until": 62,
+                "utterances": "SPORT"
+              }
+            ],
+            "sentence": "sport "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_here_is_a_silly_story_for_you_to_read_about_norton_the_porpoise.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 60,
+                    "start": 37,
+                    "word": "here"
+                  },
+                  {
+                    "end": 73,
+                    "start": 61,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 115,
+                    "start": 79,
+                    "word": "silly"
+                  },
+                  {
+                    "end": 158,
+                    "start": 116,
+                    "word": "story"
+                  },
+                  {
+                    "end": 176,
+                    "start": 159,
+                    "word": "for"
+                  },
+                  {
+                    "end": 192,
+                    "start": 177,
+                    "word": "you"
+                  },
+                  {
+                    "end": 209,
+                    "start": 193,
+                    "word": "to"
+                  },
+                  {
+                    "end": 235,
+                    "start": 210,
+                    "word": "read"
+                  },
+                  {
+                    "end": 265,
+                    "start": 236,
+                    "word": "about"
+                  },
+                  {
+                    "end": 307,
+                    "start": 266,
+                    "word": "NORTON"
+                  },
+                  {
+                    "end": 318,
+                    "start": 308,
+                    "word": "the"
+                  },
+                  {
+                    "end": 378,
+                    "start": 319,
+                    "word": "PORPOISE"
+                  }
+                ],
+                "until": 378,
+                "utterances": "Now here is a silly story for you to read about NORTON the PORPOISE"
+              }
+            ],
+            "sentence": "Now here is a silly story for you to read about Norton the porpoise... "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "norton_the_porpoise_was_an_orphan_born_up_north.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Norton"
+                  },
+                  {
+                    "end": 59,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 60,
+                    "word": "Porpoise"
+                  },
+                  {
+                    "end": 148,
+                    "start": 118,
+                    "word": "was"
+                  },
+                  {
+                    "end": 159,
+                    "start": 149,
+                    "word": "an"
+                  },
+                  {
+                    "end": 207,
+                    "start": 163,
+                    "word": "orphan"
+                  },
+                  {
+                    "end": 234,
+                    "start": 208,
+                    "word": "born"
+                  },
+                  {
+                    "end": 254,
+                    "start": 235,
+                    "word": "up"
+                  },
+                  {
+                    "end": 293,
+                    "start": 255,
+                    "word": "north"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Norton the Porpoise was an orphan born up north"
+              }
+            ],
+            "sentence": "Norton the Porpoise was an orphan born up north. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_the_morning_he_eats_corn_with_a_fork_for_sport.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 31,
+                    "start": 24,
+                    "word": "the"
+                  },
+                  {
+                    "end": 72,
+                    "start": 32,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 99,
+                    "start": 73,
+                    "word": "he"
+                  },
+                  {
+                    "end": 121,
+                    "start": 100,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 159,
+                    "start": 122,
+                    "word": "corn"
+                  },
+                  {
+                    "end": 179,
+                    "start": 160,
+                    "word": "with"
+                  },
+                  {
+                    "end": 183,
+                    "start": 180,
+                    "word": "a"
+                  },
+                  {
+                    "end": 222,
+                    "start": 184,
+                    "word": "fork"
+                  },
+                  {
+                    "end": 244,
+                    "start": 223,
+                    "word": "for"
+                  },
+                  {
+                    "end": 287,
+                    "start": 245,
+                    "word": "sport"
+                  }
+                ],
+                "until": 287,
+                "utterances": "In the morning he eats corn with a fork for sport"
+              }
+            ],
+            "sentence": "In the morning, he eats corn with a fork for sport."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_re_reading_more_than_ever_before.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "You're"
+                  },
+                  {
+                    "end": 76,
+                    "start": 46,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 109,
+                    "start": 77,
+                    "word": "more"
+                  },
+                  {
+                    "end": 124,
+                    "start": 110,
+                    "word": "than"
+                  },
+                  {
+                    "end": 150,
+                    "start": 125,
+                    "word": "ever"
+                  },
+                  {
+                    "end": 204,
+                    "start": 151,
+                    "word": "before"
+                  }
+                ],
+                "until": 204,
+                "utterances": "You're reading more than ever before"
+              }
+            ],
+            "sentence": "You're reading more than ever before! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "B",
+  "title": "The Sound of the Letters O R in BORN, FORK, and CORD",
+  "titleimage": null
+}

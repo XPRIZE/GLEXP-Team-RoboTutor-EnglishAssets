@@ -1,0 +1,456 @@
+{
+  "author": "Ursula Nafula",
+  "data": [
+    {
+      "image": "i_enjoy_doing_2_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_skipping_with_my_friend.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 16,
+                    "word": "I"
+                  },
+                  {
+                    "end": 71,
+                    "start": 31,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 132,
+                    "start": 72,
+                    "word": "skipping"
+                  },
+                  {
+                    "end": 152,
+                    "start": 133,
+                    "word": "with"
+                  },
+                  {
+                    "end": 163,
+                    "start": 153,
+                    "word": "my"
+                  },
+                  {
+                    "end": 212,
+                    "start": 164,
+                    "word": "friend"
+                  }
+                ],
+                "until": 212,
+                "utterances": "I enjoy skipping with my friend"
+              }
+            ],
+            "sentence": "I enjoy skipping with my friend."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_writing_letters_on_the_board.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 28,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 113,
+                    "start": 75,
+                    "word": "writing"
+                  },
+                  {
+                    "end": 165,
+                    "start": 114,
+                    "word": "letters"
+                  },
+                  {
+                    "end": 180,
+                    "start": 166,
+                    "word": "on"
+                  },
+                  {
+                    "end": 186,
+                    "start": 181,
+                    "word": "the"
+                  },
+                  {
+                    "end": 235,
+                    "start": 187,
+                    "word": "board"
+                  }
+                ],
+                "until": 235,
+                "utterances": "I enjoy writing letters on the board"
+              }
+            ],
+            "sentence": "I enjoy writing letters on the board."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_reading_books_with_pictures.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 22,
+                    "word": "I"
+                  },
+                  {
+                    "end": 76,
+                    "start": 39,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 116,
+                    "start": 82,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 156,
+                    "start": 117,
+                    "word": "books"
+                  },
+                  {
+                    "end": 177,
+                    "start": 157,
+                    "word": "with"
+                  },
+                  {
+                    "end": 243,
+                    "start": 178,
+                    "word": "pictures"
+                  }
+                ],
+                "until": 243,
+                "utterances": "I enjoy reading books with pictures"
+              }
+            ],
+            "sentence": "I enjoy reading books with pictures."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_eating_different_fruit.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 75,
+                    "start": 35,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 118,
+                    "start": 76,
+                    "word": "eating"
+                  },
+                  {
+                    "end": 180,
+                    "start": 119,
+                    "word": "different"
+                  },
+                  {
+                    "end": 238,
+                    "start": 181,
+                    "word": "fruit"
+                  }
+                ],
+                "until": 238,
+                "utterances": "I enjoy eating different fruit"
+              }
+            ],
+            "sentence": "I enjoy eating different fruit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_helping_at_home.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 74,
+                    "start": 28,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 123,
+                    "start": 75,
+                    "word": "helping"
+                  },
+                  {
+                    "end": 136,
+                    "start": 124,
+                    "word": "at"
+                  },
+                  {
+                    "end": 177,
+                    "start": 137,
+                    "word": "home"
+                  }
+                ],
+                "until": 177,
+                "utterances": "I enjoy helping at home"
+              }
+            ],
+            "sentence": "I enjoy helping at home."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_listening_to_my_mother_s_stories.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 29,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 128,
+                    "start": 69,
+                    "word": "listening"
+                  },
+                  {
+                    "end": 142,
+                    "start": 129,
+                    "word": "to"
+                  },
+                  {
+                    "end": 154,
+                    "start": 143,
+                    "word": "my"
+                  },
+                  {
+                    "end": 238,
+                    "start": 155,
+                    "word": "mother's"
+                  },
+                  {
+                    "end": 329,
+                    "start": 239,
+                    "word": "stories"
+                  }
+                ],
+                "until": 329,
+                "utterances": "I enjoy listening to my mother's stories"
+              }
+            ],
+            "sentence": "I enjoy listening to my mother's stories."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_sleeping_on_a_big_bed.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 66,
+                    "start": 29,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 127,
+                    "start": 67,
+                    "word": "sleeping"
+                  },
+                  {
+                    "end": 148,
+                    "start": 128,
+                    "word": "on"
+                  },
+                  {
+                    "end": 157,
+                    "start": 149,
+                    "word": "a"
+                  },
+                  {
+                    "end": 218,
+                    "start": 158,
+                    "word": "big"
+                  },
+                  {
+                    "end": 251,
+                    "start": 219,
+                    "word": "bed"
+                  }
+                ],
+                "until": 251,
+                "utterances": "I enjoy sleeping on a big bed"
+              }
+            ],
+            "sentence": "I enjoy sleeping on a big bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_enjoy_doing_2_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_enjoy_doing_these_things.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 17,
+                    "word": "I"
+                  },
+                  {
+                    "end": 83,
+                    "start": 36,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 125,
+                    "start": 84,
+                    "word": "doing"
+                  },
+                  {
+                    "end": 154,
+                    "start": 126,
+                    "word": "these"
+                  },
+                  {
+                    "end": 208,
+                    "start": 155,
+                    "word": "things"
+                  }
+                ],
+                "until": 208,
+                "utterances": "I enjoy doing these things"
+              }
+            ],
+            "sentence": "I enjoy doing these things."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_do_you_enjoy_doing.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 1,
+                    "word": "What"
+                  },
+                  {
+                    "end": 49,
+                    "start": 39,
+                    "word": "do"
+                  },
+                  {
+                    "end": 71,
+                    "start": 50,
+                    "word": "you"
+                  },
+                  {
+                    "end": 116,
+                    "start": 72,
+                    "word": "enjoy"
+                  },
+                  {
+                    "end": 161,
+                    "start": 117,
+                    "word": "doing"
+                  }
+                ],
+                "until": 161,
+                "utterances": "What do you enjoy doing"
+              }
+            ],
+            "sentence": "What do you enjoy doing?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "I Enjoy Doing",
+  "titleimage": "i_enjoy_doing_2_page_01_image_0001.jpg"
+}

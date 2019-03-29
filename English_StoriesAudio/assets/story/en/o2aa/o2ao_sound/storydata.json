@@ -1,0 +1,453 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "HOT"
+                  }
+                ],
+                "until": 38,
+                "utterances": "HOT"
+              }
+            ],
+            "sentence": "hot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "BOP"
+                  }
+                ],
+                "until": 46,
+                "utterances": "BOP"
+              }
+            ],
+            "sentence": "bop "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "SOB"
+                  }
+                ],
+                "until": 69,
+                "utterances": "SOB"
+              }
+            ],
+            "sentence": "sob "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_o_make_in_the_words_hot_bop_and_sob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 88,
+                    "start": 31,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 110,
+                    "start": 92,
+                    "word": "does"
+                  },
+                  {
+                    "end": 120,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 155,
+                    "start": 121,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 197,
+                    "start": 161,
+                    "word": "O"
+                  },
+                  {
+                    "end": 245,
+                    "start": 198,
+                    "word": "make"
+                  },
+                  {
+                    "end": 269,
+                    "start": 257,
+                    "word": "in"
+                  },
+                  {
+                    "end": 277,
+                    "start": 270,
+                    "word": "the"
+                  },
+                  {
+                    "end": 315,
+                    "start": 278,
+                    "word": "words"
+                  },
+                  {
+                    "end": 357,
+                    "start": 316,
+                    "word": "HOT"
+                  },
+                  {
+                    "end": 430,
+                    "start": 393,
+                    "word": "BOP"
+                  },
+                  {
+                    "end": 466,
+                    "start": 448,
+                    "word": "and"
+                  },
+                  {
+                    "end": 517,
+                    "start": 467,
+                    "word": "SOB"
+                  }
+                ],
+                "until": 517,
+                "utterances": "What sound does the Letter O make in the words HOT BOP and SOB"
+              }
+            ],
+            "sentence": "What sound does the letter o make in the words hot, bop and sob?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "top.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "TOP"
+                  }
+                ],
+                "until": 47,
+                "utterances": "TOP"
+              }
+            ],
+            "sentence": "top "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "COB"
+                  }
+                ],
+                "until": 52,
+                "utterances": "COB"
+              }
+            ],
+            "sentence": "cob "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "JOB"
+                  }
+                ],
+                "until": 43,
+                "utterances": "JOB"
+              }
+            ],
+            "sentence": "job "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "DOT"
+                  }
+                ],
+                "until": 35,
+                "utterances": "DOT"
+              }
+            ],
+            "sentence": "dot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "MOP"
+                  }
+                ],
+                "until": 55,
+                "utterances": "MOP"
+              }
+            ],
+            "sentence": "mop "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 63,
+                "utterances": "Tom"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 47,
+                "utterances": "the"
+              },
+              {
+                "audio": "monster.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "monster"
+                  }
+                ],
+                "until": 75,
+                "utterances": "monster"
+              },
+              {
+                "audio": "got_a_job_mopping_the_dock.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "got"
+                  },
+                  {
+                    "end": 50,
+                    "start": 40,
+                    "word": "a"
+                  },
+                  {
+                    "end": 105,
+                    "start": 51,
+                    "word": "job"
+                  },
+                  {
+                    "end": 168,
+                    "start": 111,
+                    "word": "mopping"
+                  },
+                  {
+                    "end": 177,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 233,
+                    "start": 178,
+                    "word": "dock"
+                  }
+                ],
+                "until": 233,
+                "utterances": "got a job mopping the dock"
+              }
+            ],
+            "sentence": "Tom the monster got a job mopping the dock. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nothing_can_stop_you_now_hot_shot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Nothing"
+                  },
+                  {
+                    "end": 67,
+                    "start": 53,
+                    "word": "can"
+                  },
+                  {
+                    "end": 99,
+                    "start": 68,
+                    "word": "stop"
+                  },
+                  {
+                    "end": 113,
+                    "start": 100,
+                    "word": "you"
+                  },
+                  {
+                    "end": 139,
+                    "start": 114,
+                    "word": "now"
+                  },
+                  {
+                    "end": 171,
+                    "start": 140,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 200,
+                    "start": 172,
+                    "word": "shot"
+                  }
+                ],
+                "until": 200,
+                "utterances": "Nothing can stop you now hot shot"
+              }
+            ],
+            "sentence": "Nothing can stop you now, hot shot!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letter O in HOT, BOP and SOB",
+  "titleimage": null
+}

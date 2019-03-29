@@ -1,0 +1,498 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_gift_is_in_the_raft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 89,
+                    "start": 74,
+                    "word": "is"
+                  },
+                  {
+                    "end": 105,
+                    "start": 90,
+                    "word": "in"
+                  },
+                  {
+                    "end": 116,
+                    "start": 106,
+                    "word": "the"
+                  },
+                  {
+                    "end": 187,
+                    "start": 117,
+                    "word": "raft"
+                  }
+                ],
+                "until": 187,
+                "utterances": "The gift is in the raft"
+              }
+            ],
+            "sentence": "The gift is in the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_is_in_the_raft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 27,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 103,
+                    "start": 78,
+                    "word": "is"
+                  },
+                  {
+                    "end": 115,
+                    "start": 104,
+                    "word": "in"
+                  },
+                  {
+                    "end": 125,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 126,
+                    "word": "raft"
+                  }
+                ],
+                "until": 185,
+                "utterances": "The rat is in the raft"
+              }
+            ],
+            "sentence": "The rat is in the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_gift_in_the_raft_is_not_the_rat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 69,
+                    "start": 22,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 83,
+                    "start": 70,
+                    "word": "in"
+                  },
+                  {
+                    "end": 96,
+                    "start": 84,
+                    "word": "the"
+                  },
+                  {
+                    "end": 146,
+                    "start": 97,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 165,
+                    "start": 147,
+                    "word": "is"
+                  },
+                  {
+                    "end": 200,
+                    "start": 166,
+                    "word": "not"
+                  },
+                  {
+                    "end": 212,
+                    "start": 201,
+                    "word": "the"
+                  },
+                  {
+                    "end": 260,
+                    "start": 213,
+                    "word": "rat"
+                  }
+                ],
+                "until": 260,
+                "utterances": "The gift in the raft is not the rat"
+              }
+            ],
+            "sentence": "The gift in the raft is not the rat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_gift_is_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 60,
+                    "start": 19,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 79,
+                    "start": 61,
+                    "word": "is"
+                  },
+                  {
+                    "end": 147,
+                    "start": 80,
+                    "word": "gas"
+                  }
+                ],
+                "until": 147,
+                "utterances": "The gift is gas"
+              }
+            ],
+            "sentence": "The gift is gas."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gas_makes_the_raft_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Gas"
+                  },
+                  {
+                    "end": 89,
+                    "start": 47,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 98,
+                    "start": 90,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 99,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 207,
+                    "start": 140,
+                    "word": "fast"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Gas makes the raft fast"
+              }
+            ],
+            "sentence": "Gas makes the raft fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_raft_is_in_the_draft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 84,
+                    "start": 72,
+                    "word": "is"
+                  },
+                  {
+                    "end": 98,
+                    "start": 85,
+                    "word": "in"
+                  },
+                  {
+                    "end": 106,
+                    "start": 99,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 107,
+                    "word": "draft"
+                  }
+                ],
+                "until": 177,
+                "utterances": "The raft is in the draft"
+              }
+            ],
+            "sentence": "The raft is in the draft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_the_raft_is_in_the_drift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 79,
+                    "start": 70,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 80,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 139,
+                    "start": 130,
+                    "word": "is"
+                  },
+                  {
+                    "end": 150,
+                    "start": 140,
+                    "word": "in"
+                  },
+                  {
+                    "end": 159,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 160,
+                    "word": "drift"
+                  }
+                ],
+                "until": 222,
+                "utterances": "No the raft is in the drift"
+              }
+            ],
+            "sentence": "No, the raft is in the drift!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_raft_is_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 20,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 99,
+                    "start": 73,
+                    "word": "is"
+                  },
+                  {
+                    "end": 177,
+                    "start": 100,
+                    "word": "fast"
+                  }
+                ],
+                "until": 177,
+                "utterances": "The raft is fast"
+              }
+            ],
+            "sentence": "The raft is fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_will_not_be_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 49,
+                    "start": 23,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 62,
+                    "start": 50,
+                    "word": "will"
+                  },
+                  {
+                    "end": 89,
+                    "start": 63,
+                    "word": "not"
+                  },
+                  {
+                    "end": 96,
+                    "start": 90,
+                    "word": "be"
+                  },
+                  {
+                    "end": 144,
+                    "start": 97,
+                    "word": "sad"
+                  }
+                ],
+                "until": 144,
+                "utterances": "The rat will not be sad"
+              }
+            ],
+            "sentence": "The rat will not be sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "are_you_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "Are"
+                  },
+                  {
+                    "end": 35,
+                    "start": 23,
+                    "word": "you"
+                  },
+                  {
+                    "end": 80,
+                    "start": 36,
+                    "word": "glad"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Are you glad"
+              }
+            ],
+            "sentence": "Are you glad?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Gift in Raft",
+  "titleimage": null
+}

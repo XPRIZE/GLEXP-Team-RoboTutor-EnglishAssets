@@ -1,0 +1,698 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_the_ram_has_tusks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 71,
+                    "start": 58,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 72,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 149,
+                    "start": 117,
+                    "word": "has"
+                  },
+                  {
+                    "end": 223,
+                    "start": 150,
+                    "word": "tusks"
+                  }
+                ],
+                "until": 223,
+                "utterances": "Ron the ram has tusks"
+              }
+            ],
+            "sentence": "Ron the ram has tusks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_has_a_hat_on_his_tusks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 93,
+                    "start": 54,
+                    "word": "has"
+                  },
+                  {
+                    "end": 115,
+                    "start": 94,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 116,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 187,
+                    "start": 161,
+                    "word": "on"
+                  },
+                  {
+                    "end": 218,
+                    "start": 188,
+                    "word": "his"
+                  },
+                  {
+                    "end": 290,
+                    "start": 219,
+                    "word": "tusks"
+                  }
+                ],
+                "until": 290,
+                "utterances": "Ron has a hat on his tusks"
+              }
+            ],
+            "sentence": "Ron has a hat on his tusks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hat_is_soft_and_tan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 22,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 87,
+                    "start": 68,
+                    "word": "is"
+                  },
+                  {
+                    "end": 141,
+                    "start": 88,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 162,
+                    "start": 142,
+                    "word": "and"
+                  },
+                  {
+                    "end": 226,
+                    "start": 163,
+                    "word": "tan"
+                  }
+                ],
+                "until": 226,
+                "utterances": "The hat is soft and tan"
+              }
+            ],
+            "sentence": "The hat is soft and tan."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_tusks_can_cut_a_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 90,
+                    "start": 28,
+                    "word": "tusks"
+                  },
+                  {
+                    "end": 125,
+                    "start": 91,
+                    "word": "can"
+                  },
+                  {
+                    "end": 182,
+                    "start": 126,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 189,
+                    "start": 183,
+                    "word": "a"
+                  },
+                  {
+                    "end": 238,
+                    "start": 190,
+                    "word": "nut"
+                  }
+                ],
+                "until": 238,
+                "utterances": "The tusks can cut a nut"
+              }
+            ],
+            "sentence": "The tusks can cut a nut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "clink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Clink"
+                  }
+                ],
+                "until": 54,
+                "utterances": "Clink"
+              }
+            ],
+            "sentence": "Clink!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_the_ram_is_in_the_soft_sand.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 15,
+                    "start": 7,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 78,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 79,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 155,
+                    "start": 130,
+                    "word": "is"
+                  },
+                  {
+                    "end": 178,
+                    "start": 156,
+                    "word": "in"
+                  },
+                  {
+                    "end": 191,
+                    "start": 179,
+                    "word": "the"
+                  },
+                  {
+                    "end": 245,
+                    "start": 192,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 337,
+                    "start": 246,
+                    "word": "sand"
+                  }
+                ],
+                "until": 337,
+                "utterances": "Ron the ram is in the soft sand"
+              }
+            ],
+            "sentence": "Ron the ram is in the soft sand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_sinks_in_the_sand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 122,
+                    "start": 59,
+                    "word": "sinks"
+                  },
+                  {
+                    "end": 150,
+                    "start": 123,
+                    "word": "in"
+                  },
+                  {
+                    "end": 161,
+                    "start": 151,
+                    "word": "the"
+                  },
+                  {
+                    "end": 227,
+                    "start": 162,
+                    "word": "sand"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Ron sinks in the sand"
+              }
+            ],
+            "sentence": "Ron sinks in the sand!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_skin_sinks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 96,
+                    "start": 39,
+                    "word": "skin"
+                  },
+                  {
+                    "end": 171,
+                    "start": 97,
+                    "word": "sinks"
+                  }
+                ],
+                "until": 171,
+                "utterances": "His skin sinks"
+              }
+            ],
+            "sentence": "His skin sinks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_hand_sinks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 105,
+                    "start": 56,
+                    "word": "hand"
+                  },
+                  {
+                    "end": 171,
+                    "start": 106,
+                    "word": "sinks"
+                  }
+                ],
+                "until": 171,
+                "utterances": "His hand sinks"
+              }
+            ],
+            "sentence": "His hand sinks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_tusks_sink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 110,
+                    "start": 43,
+                    "word": "tusks"
+                  },
+                  {
+                    "end": 163,
+                    "start": 111,
+                    "word": "sink"
+                  }
+                ],
+                "until": 163,
+                "utterances": "His tusks sink"
+              }
+            ],
+            "sentence": "His tusks sink."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_hat_did_not_sink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 79,
+                    "start": 39,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 108,
+                    "start": 87,
+                    "word": "did"
+                  },
+                  {
+                    "end": 145,
+                    "start": 109,
+                    "word": "not"
+                  },
+                  {
+                    "end": 201,
+                    "start": 146,
+                    "word": "sink"
+                  }
+                ],
+                "until": 201,
+                "utterances": "His hat did not sink"
+              }
+            ],
+            "sentence": "His hat did not sink."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_man_got_the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 75,
+                    "start": 27,
+                    "word": "man"
+                  },
+                  {
+                    "end": 113,
+                    "start": 76,
+                    "word": "got"
+                  },
+                  {
+                    "end": 125,
+                    "start": 114,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 126,
+                    "word": "hat"
+                  }
+                ],
+                "until": 159,
+                "utterances": "A man got the hat"
+              }
+            ],
+            "sentence": "A man got the hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_man_lifts_ron.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 27,
+                    "word": "man"
+                  },
+                  {
+                    "end": 119,
+                    "start": 72,
+                    "word": "lifts"
+                  },
+                  {
+                    "end": 164,
+                    "start": 120,
+                    "word": "Ron"
+                  }
+                ],
+                "until": 164,
+                "utterances": "The man lifts Ron"
+              }
+            ],
+            "sentence": "The man lifts Ron!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_the_ram_is_not_in_the_sand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 69,
+                    "start": 51,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 70,
+                    "word": "ram"
+                  },
+                  {
+                    "end": 139,
+                    "start": 118,
+                    "word": "is"
+                  },
+                  {
+                    "end": 177,
+                    "start": 140,
+                    "word": "not"
+                  },
+                  {
+                    "end": 197,
+                    "start": 178,
+                    "word": "in"
+                  },
+                  {
+                    "end": 205,
+                    "start": 198,
+                    "word": "the"
+                  },
+                  {
+                    "end": 259,
+                    "start": 206,
+                    "word": "sand"
+                  }
+                ],
+                "until": 259,
+                "utterances": "Ron the ram is not in the sand"
+              }
+            ],
+            "sentence": "Ron the ram is not in the sand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron_got_the_man_a_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Ron"
+                  },
+                  {
+                    "end": 82,
+                    "start": 55,
+                    "word": "got"
+                  },
+                  {
+                    "end": 92,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 93,
+                    "word": "man"
+                  },
+                  {
+                    "end": 158,
+                    "start": 136,
+                    "word": "a"
+                  },
+                  {
+                    "end": 182,
+                    "start": 159,
+                    "word": "hat"
+                  }
+                ],
+                "until": 182,
+                "utterances": "Ron got the man a hat"
+              }
+            ],
+            "sentence": "Ron got the man a hat!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ron the Ram",
+  "titleimage": null
+}

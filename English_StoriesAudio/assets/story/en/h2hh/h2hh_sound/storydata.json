@@ -1,0 +1,436 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "HAT"
+                  }
+                ],
+                "until": 46,
+                "utterances": "HAT"
+              }
+            ],
+            "sentence": "hat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "HUG"
+                  }
+                ],
+                "until": 44,
+                "utterances": "HUG"
+              }
+            ],
+            "sentence": "hug "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "HAM"
+                  }
+                ],
+                "until": 51,
+                "utterances": "HAM"
+              }
+            ],
+            "sentence": "ham "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_h_make_in_the_words_hat_hug_and_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 85,
+                    "start": 30,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 103,
+                    "start": 89,
+                    "word": "does"
+                  },
+                  {
+                    "end": 109,
+                    "start": 104,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 110,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 200,
+                    "start": 160,
+                    "word": "H"
+                  },
+                  {
+                    "end": 250,
+                    "start": 201,
+                    "word": "make"
+                  },
+                  {
+                    "end": 257,
+                    "start": 251,
+                    "word": "in"
+                  },
+                  {
+                    "end": 263,
+                    "start": 258,
+                    "word": "the"
+                  },
+                  {
+                    "end": 314,
+                    "start": 264,
+                    "word": "words"
+                  },
+                  {
+                    "end": 405,
+                    "start": 390,
+                    "word": "HAT"
+                  },
+                  {
+                    "end": 448,
+                    "start": 406,
+                    "word": "HUG"
+                  },
+                  {
+                    "end": 471,
+                    "start": 449,
+                    "word": "and"
+                  },
+                  {
+                    "end": 522,
+                    "start": 487,
+                    "word": "HAM"
+                  }
+                ],
+                "until": 522,
+                "utterances": "What sound does the Letter H make in the words HAT HUG and HAM"
+              }
+            ],
+            "sentence": "What sound does the letter h make in the words hat, hug, and ham?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "HID"
+                  }
+                ],
+                "until": 47,
+                "utterances": "HID"
+              }
+            ],
+            "sentence": "hid "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "her.mp3",
+                "from": 60,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 60,
+                    "word": "HER"
+                  }
+                ],
+                "until": 85,
+                "utterances": "HER"
+              }
+            ],
+            "sentence": "her "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "hog"
+                  }
+                ],
+                "until": 54,
+                "utterances": "hog"
+              }
+            ],
+            "sentence": "hog "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "HOT"
+                  }
+                ],
+                "until": 34,
+                "utterances": "HOT"
+              }
+            ],
+            "sentence": "hot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "hen"
+                  }
+                ],
+                "until": 44,
+                "utterances": "hen"
+              }
+            ],
+            "sentence": "hen "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "henry.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Henry"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Henry"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 32,
+                "utterances": "the"
+              },
+              {
+                "audio": "happy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "happy"
+                  }
+                ],
+                "until": 44,
+                "utterances": "happy"
+              },
+              {
+                "audio": "hippo.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "hippo"
+                  }
+                ],
+                "until": 59,
+                "utterances": "hippo"
+              },
+              {
+                "audio": "has_a_hat_on_his_head.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 8,
+                    "word": "has"
+                  },
+                  {
+                    "end": 33,
+                    "start": 24,
+                    "word": "a"
+                  },
+                  {
+                    "end": 65,
+                    "start": 47,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 91,
+                    "start": 70,
+                    "word": "on"
+                  },
+                  {
+                    "end": 117,
+                    "start": 92,
+                    "word": "his"
+                  },
+                  {
+                    "end": 159,
+                    "start": 118,
+                    "word": "head"
+                  }
+                ],
+                "until": 159,
+                "utterances": "has a hat on his head"
+              }
+            ],
+            "sentence": "Henry the happy hippo has a hat on his head! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hooray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Hooray"
+                  }
+                ],
+                "until": 58,
+                "utterances": "Hooray"
+              }
+            ],
+            "sentence": "Hooray! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter H in HAT, HUG, and HAM",
+  "titleimage": null
+}

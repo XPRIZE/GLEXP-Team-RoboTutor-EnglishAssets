@@ -1,0 +1,812 @@
+{
+  "author": "Zimbili Dlamini and Hlengiwe Zondi",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_name_is_simo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 20,
+                    "word": "My"
+                  },
+                  {
+                    "end": 65,
+                    "start": 38,
+                    "word": "name"
+                  },
+                  {
+                    "end": 85,
+                    "start": 66,
+                    "word": "is"
+                  },
+                  {
+                    "end": 128,
+                    "start": 86,
+                    "word": "Simo"
+                  }
+                ],
+                "until": 128,
+                "utterances": "My name is Simo"
+              }
+            ],
+            "sentence": "My name is Simo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_have_four_friends.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 40,
+                    "word": "have"
+                  },
+                  {
+                    "end": 97,
+                    "start": 58,
+                    "word": "four"
+                  },
+                  {
+                    "end": 166,
+                    "start": 98,
+                    "word": "friends"
+                  }
+                ],
+                "until": 166,
+                "utterances": "I have four friends"
+              }
+            ],
+            "sentence": "I have four friends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "their_names_are_zizo_lele_sisa_and_ayanda.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 22,
+                    "word": "Their"
+                  },
+                  {
+                    "end": 79,
+                    "start": 40,
+                    "word": "names"
+                  },
+                  {
+                    "end": 93,
+                    "start": 80,
+                    "word": "are"
+                  },
+                  {
+                    "end": 162,
+                    "start": 94,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 222,
+                    "start": 183,
+                    "word": "Lele"
+                  },
+                  {
+                    "end": 324,
+                    "start": 266,
+                    "word": "Sisa"
+                  },
+                  {
+                    "end": 375,
+                    "start": 354,
+                    "word": "and"
+                  },
+                  {
+                    "end": 433,
+                    "start": 392,
+                    "word": "Ayanda"
+                  }
+                ],
+                "until": 433,
+                "utterances": "Their names are Zizo Lele Sisa and Ayanda"
+              }
+            ],
+            "sentence": "Their names are Zizo, Lele, Sisa, and Ayanda."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_friend_zizo_likes_to_play_soccer.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "My"
+                  },
+                  {
+                    "end": 67,
+                    "start": 34,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 114,
+                    "start": 68,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 152,
+                    "start": 115,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 159,
+                    "start": 153,
+                    "word": "to"
+                  },
+                  {
+                    "end": 181,
+                    "start": 160,
+                    "word": "play"
+                  },
+                  {
+                    "end": 235,
+                    "start": 182,
+                    "word": "soccer"
+                  }
+                ],
+                "until": 235,
+                "utterances": "My friend Zizo likes to play soccer"
+              }
+            ],
+            "sentence": "My friend Zizo likes to play soccer."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_friend_lele_likes_to_swim.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 21,
+                    "word": "My"
+                  },
+                  {
+                    "end": 71,
+                    "start": 34,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 107,
+                    "start": 72,
+                    "word": "Lele"
+                  },
+                  {
+                    "end": 151,
+                    "start": 108,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 162,
+                    "start": 152,
+                    "word": "to"
+                  },
+                  {
+                    "end": 215,
+                    "start": 163,
+                    "word": "swim"
+                  }
+                ],
+                "until": 215,
+                "utterances": "My friend Lele likes to swim"
+              }
+            ],
+            "sentence": "My friend Lele likes to swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_friend_sisa_likes_to_play_hide_and_seek.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "My"
+                  },
+                  {
+                    "end": 65,
+                    "start": 35,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 107,
+                    "start": 66,
+                    "word": "Sisa"
+                  },
+                  {
+                    "end": 154,
+                    "start": 108,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 162,
+                    "start": 155,
+                    "word": "to"
+                  },
+                  {
+                    "end": 184,
+                    "start": 163,
+                    "word": "play"
+                  },
+                  {
+                    "end": 280,
+                    "start": 185,
+                    "word": "hide-and-seek"
+                  }
+                ],
+                "until": 280,
+                "utterances": "My friend Sisa likes to play hide-and-seek"
+              }
+            ],
+            "sentence": "My friend Sisa likes to play hide-and-seek."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_friend_ayanda_likes_to_read.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "My"
+                  },
+                  {
+                    "end": 66,
+                    "start": 32,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 117,
+                    "start": 67,
+                    "word": "Ayanda"
+                  },
+                  {
+                    "end": 159,
+                    "start": 118,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 173,
+                    "start": 160,
+                    "word": "to"
+                  },
+                  {
+                    "end": 198,
+                    "start": 174,
+                    "word": "read"
+                  }
+                ],
+                "until": 198,
+                "utterances": "My friend Ayanda likes to read"
+              }
+            ],
+            "sentence": "My friend Ayanda likes to read."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "me.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 17,
+                    "word": "Me"
+                  }
+                ],
+                "until": 32,
+                "utterances": "Me"
+              }
+            ],
+            "sentence": "Me?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "i_like_to_do_the_things_they_like_to_do.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 22,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 37,
+                    "word": "like"
+                  },
+                  {
+                    "end": 77,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 97,
+                    "start": 78,
+                    "word": "do"
+                  },
+                  {
+                    "end": 107,
+                    "start": 98,
+                    "word": "the"
+                  },
+                  {
+                    "end": 146,
+                    "start": 108,
+                    "word": "things"
+                  },
+                  {
+                    "end": 159,
+                    "start": 147,
+                    "word": "they"
+                  },
+                  {
+                    "end": 188,
+                    "start": 160,
+                    "word": "like"
+                  },
+                  {
+                    "end": 200,
+                    "start": 189,
+                    "word": "to"
+                  },
+                  {
+                    "end": 226,
+                    "start": 201,
+                    "word": "do"
+                  }
+                ],
+                "until": 226,
+                "utterances": "I like to do the things they like to do"
+              }
+            ],
+            "sentence": "I like to do the things they like to do."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_play_soccer_with_zizo.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 14,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 42,
+                    "word": "play"
+                  },
+                  {
+                    "end": 122,
+                    "start": 60,
+                    "word": "soccer"
+                  },
+                  {
+                    "end": 136,
+                    "start": 123,
+                    "word": "with"
+                  },
+                  {
+                    "end": 186,
+                    "start": 137,
+                    "word": "Zizo"
+                  }
+                ],
+                "until": 186,
+                "utterances": "I play soccer with Zizo"
+              }
+            ],
+            "sentence": "I play soccer with Zizo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_swim_with_lele.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 77,
+                    "start": 30,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 95,
+                    "start": 78,
+                    "word": "with"
+                  },
+                  {
+                    "end": 128,
+                    "start": 96,
+                    "word": "Lele"
+                  }
+                ],
+                "until": 128,
+                "utterances": "I swim with Lele"
+              }
+            ],
+            "sentence": "I swim with Lele."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_play_hide_and_seek_with_sisa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "I"
+                  },
+                  {
+                    "end": 55,
+                    "start": 35,
+                    "word": "play"
+                  },
+                  {
+                    "end": 140,
+                    "start": 56,
+                    "word": "hide-and-seek"
+                  },
+                  {
+                    "end": 154,
+                    "start": 141,
+                    "word": "with"
+                  },
+                  {
+                    "end": 195,
+                    "start": 155,
+                    "word": "Sisa"
+                  }
+                ],
+                "until": 195,
+                "utterances": "I play hide-and-seek with Sisa"
+              }
+            ],
+            "sentence": "I play hide-and-seek with Sisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "come_friend_what_do_you_like.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 2,
+                    "word": "Come"
+                  },
+                  {
+                    "end": 88,
+                    "start": 48,
+                    "word": "friend"
+                  },
+                  {
+                    "end": 121,
+                    "start": 89,
+                    "word": "what"
+                  },
+                  {
+                    "end": 131,
+                    "start": 122,
+                    "word": "do"
+                  },
+                  {
+                    "end": 144,
+                    "start": 132,
+                    "word": "you"
+                  },
+                  {
+                    "end": 183,
+                    "start": 145,
+                    "word": "like"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Come friend what do you like"
+              }
+            ],
+            "sentence": "Come, friend, what do you like?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "come_play_soccer_with_us.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 2,
+                    "word": "Come"
+                  },
+                  {
+                    "end": 73,
+                    "start": 57,
+                    "word": "play"
+                  },
+                  {
+                    "end": 112,
+                    "start": 74,
+                    "word": "soccer"
+                  },
+                  {
+                    "end": 134,
+                    "start": 113,
+                    "word": "with"
+                  },
+                  {
+                    "end": 171,
+                    "start": 135,
+                    "word": "us"
+                  }
+                ],
+                "until": 171,
+                "utterances": "Come play soccer with us"
+              }
+            ],
+            "sentence": "Come, play soccer with us."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "come_swim_with_us.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Come"
+                  },
+                  {
+                    "end": 108,
+                    "start": 68,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 120,
+                    "start": 109,
+                    "word": "with"
+                  },
+                  {
+                    "end": 161,
+                    "start": 121,
+                    "word": "us"
+                  }
+                ],
+                "until": 161,
+                "utterances": "Come swim with us"
+              }
+            ],
+            "sentence": "Come, swim with us."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "come_play_hide_and_seek_with_us.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 2,
+                    "word": "Come"
+                  },
+                  {
+                    "end": 91,
+                    "start": 61,
+                    "word": "play"
+                  },
+                  {
+                    "end": 184,
+                    "start": 92,
+                    "word": "hide-and-seek"
+                  },
+                  {
+                    "end": 201,
+                    "start": 185,
+                    "word": "with"
+                  },
+                  {
+                    "end": 241,
+                    "start": 202,
+                    "word": "us"
+                  }
+                ],
+                "until": 241,
+                "utterances": "Come play hide-and-seek with us"
+              }
+            ],
+            "sentence": "Come, play hide-and-seek with us."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "come_read_with_us.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 2,
+                    "word": "Come"
+                  },
+                  {
+                    "end": 108,
+                    "start": 82,
+                    "word": "read"
+                  },
+                  {
+                    "end": 158,
+                    "start": 135,
+                    "word": "with"
+                  },
+                  {
+                    "end": 202,
+                    "start": 159,
+                    "word": "us"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Come read with us"
+              }
+            ],
+            "sentence": "Come, read with us!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Friends",
+  "titleimage": null
+}

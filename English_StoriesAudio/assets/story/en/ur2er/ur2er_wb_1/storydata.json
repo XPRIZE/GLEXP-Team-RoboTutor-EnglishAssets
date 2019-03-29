@@ -1,0 +1,1351 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_rode_in_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 127,
+                    "start": 83,
+                    "word": "rode"
+                  },
+                  {
+                    "end": 143,
+                    "start": 128,
+                    "word": "in"
+                  },
+                  {
+                    "end": 154,
+                    "start": 144,
+                    "word": "the"
+                  },
+                  {
+                    "end": 205,
+                    "start": 155,
+                    "word": "car"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Sam rode in the car"
+              }
+            ],
+            "sentence": "Sam rode in the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_dad_drove_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 69,
+                    "start": 41,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 136,
+                    "start": 90,
+                    "word": "drove"
+                  },
+                  {
+                    "end": 227,
+                    "start": 195,
+                    "word": "fast"
+                  }
+                ],
+                "until": 227,
+                "utterances": "His Dad drove fast"
+              }
+            ],
+            "sentence": "His Dad drove fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_rode_on_his_bike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 119,
+                    "start": 77,
+                    "word": "rode"
+                  },
+                  {
+                    "end": 145,
+                    "start": 120,
+                    "word": "on"
+                  },
+                  {
+                    "end": 185,
+                    "start": 154,
+                    "word": "his"
+                  },
+                  {
+                    "end": 223,
+                    "start": 186,
+                    "word": "bike"
+                  }
+                ],
+                "until": 223,
+                "utterances": "Tom rode on his bike"
+              }
+            ],
+            "sentence": "Tom rode on his bike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_rode_in_the_road.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 87,
+                    "start": 36,
+                    "word": "rode"
+                  },
+                  {
+                    "end": 127,
+                    "start": 101,
+                    "word": "in"
+                  },
+                  {
+                    "end": 139,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 215,
+                    "start": 172,
+                    "word": "road"
+                  }
+                ],
+                "until": 215,
+                "utterances": "He rode in the road"
+              }
+            ],
+            "sentence": "He rode in the road."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_out_dad_said_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 65,
+                    "start": 37,
+                    "word": "out"
+                  },
+                  {
+                    "end": 106,
+                    "start": 66,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 151,
+                    "start": 115,
+                    "word": "said"
+                  },
+                  {
+                    "end": 201,
+                    "start": 152,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 201,
+                "utterances": "Look out Dad said Sam"
+              }
+            ],
+            "sentence": "\"Look out, Dad,\" said Sam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there_is_tom_in_the_road.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "There"
+                  },
+                  {
+                    "end": 66,
+                    "start": 55,
+                    "word": "is"
+                  },
+                  {
+                    "end": 111,
+                    "start": 67,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 127,
+                    "start": 112,
+                    "word": "in"
+                  },
+                  {
+                    "end": 137,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 179,
+                    "start": 138,
+                    "word": "road"
+                  }
+                ],
+                "until": 179,
+                "utterances": "There is Tom in the road"
+              }
+            ],
+            "sentence": "\"There is Tom in the road!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Zoom"
+                  }
+                ],
+                "until": 62,
+                "utterances": "Zoom"
+              }
+            ],
+            "sentence": "Zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_saw_a_blur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 74,
+                    "start": 40,
+                    "word": "saw"
+                  },
+                  {
+                    "end": 94,
+                    "start": 75,
+                    "word": "a"
+                  },
+                  {
+                    "end": 147,
+                    "start": 95,
+                    "word": "blur"
+                  }
+                ],
+                "until": 147,
+                "utterances": "They saw a blur"
+              }
+            ],
+            "sentence": "They saw a blur."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_went_past_in_a_blur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 60,
+                    "start": 17,
+                    "word": "went"
+                  },
+                  {
+                    "end": 117,
+                    "start": 68,
+                    "word": "past"
+                  },
+                  {
+                    "end": 136,
+                    "start": 123,
+                    "word": "in"
+                  },
+                  {
+                    "end": 147,
+                    "start": 137,
+                    "word": "a"
+                  },
+                  {
+                    "end": 196,
+                    "start": 148,
+                    "word": "blur"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Tom went past in a blur"
+              }
+            ],
+            "sentence": "Tom went past in a blur."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thump.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Thump"
+                  }
+                ],
+                "until": 47,
+                "utterances": "Thump"
+              }
+            ],
+            "sentence": "Thump!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_they_hit_tom_on_his_bike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 40,
+                    "start": 30,
+                    "word": "they"
+                  },
+                  {
+                    "end": 68,
+                    "start": 41,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 116,
+                    "start": 78,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 132,
+                    "start": 117,
+                    "word": "on"
+                  },
+                  {
+                    "end": 149,
+                    "start": 133,
+                    "word": "his"
+                  },
+                  {
+                    "end": 190,
+                    "start": 150,
+                    "word": "bike"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Did they hit Tom on his bike"
+              }
+            ],
+            "sentence": "Did they hit Tom on his bike?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_car_hit_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 38,
+                    "start": 31,
+                    "word": "the"
+                  },
+                  {
+                    "end": 79,
+                    "start": 39,
+                    "word": "car"
+                  },
+                  {
+                    "end": 101,
+                    "start": 80,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 185,
+                    "start": 109,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Did the car hit Tom"
+              }
+            ],
+            "sentence": "Did the car hit Tom?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_must_be_hurt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 60,
+                    "start": 27,
+                    "word": "must"
+                  },
+                  {
+                    "end": 70,
+                    "start": 61,
+                    "word": "be"
+                  },
+                  {
+                    "end": 125,
+                    "start": 71,
+                    "word": "hurt"
+                  }
+                ],
+                "until": 125,
+                "utterances": "He must be hurt"
+              }
+            ],
+            "sentence": "He must be hurt!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "park_the_car_at_the_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Park"
+                  },
+                  {
+                    "end": 54,
+                    "start": 43,
+                    "word": "the"
+                  },
+                  {
+                    "end": 96,
+                    "start": 55,
+                    "word": "car"
+                  },
+                  {
+                    "end": 115,
+                    "start": 100,
+                    "word": "at"
+                  },
+                  {
+                    "end": 128,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 173,
+                    "start": 129,
+                    "word": "curb"
+                  }
+                ],
+                "until": 173,
+                "utterances": "Park the car at the curb"
+              }
+            ],
+            "sentence": "Park the car at the curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_he_hurt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 48,
+                    "start": 35,
+                    "word": "he"
+                  },
+                  {
+                    "end": 95,
+                    "start": 61,
+                    "word": "hurt"
+                  }
+                ],
+                "until": 95,
+                "utterances": "Is he hurt"
+              }
+            ],
+            "sentence": "\"Is he hurt?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_we_hurt_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 48,
+                    "start": 31,
+                    "word": "we"
+                  },
+                  {
+                    "end": 88,
+                    "start": 49,
+                    "word": "hurt"
+                  },
+                  {
+                    "end": 130,
+                    "start": 89,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 130,
+                "utterances": "Did we hurt Tom"
+              }
+            ],
+            "sentence": "Did we hurt Tom?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_did_not_see_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 56,
+                    "start": 31,
+                    "word": "did"
+                  },
+                  {
+                    "end": 79,
+                    "start": 57,
+                    "word": "not"
+                  },
+                  {
+                    "end": 121,
+                    "start": 85,
+                    "word": "see"
+                  },
+                  {
+                    "end": 167,
+                    "start": 122,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 167,
+                "utterances": "They did not see Tom"
+              }
+            ],
+            "sentence": "They did not see Tom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_sat_on_the_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 102,
+                    "start": 34,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 141,
+                    "start": 103,
+                    "word": "on"
+                  },
+                  {
+                    "end": 157,
+                    "start": 142,
+                    "word": "the"
+                  },
+                  {
+                    "end": 210,
+                    "start": 158,
+                    "word": "curb"
+                  }
+                ],
+                "until": 210,
+                "utterances": "They sat on the curb"
+              }
+            ],
+            "sentence": "They sat on the curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_that_way.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 67,
+                    "start": 43,
+                    "word": "that"
+                  },
+                  {
+                    "end": 83,
+                    "start": 68,
+                    "word": "way"
+                  }
+                ],
+                "until": 83,
+                "utterances": "Look that way"
+              }
+            ],
+            "sentence": "Look that way."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_this_way.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 60,
+                    "start": 38,
+                    "word": "this"
+                  },
+                  {
+                    "end": 86,
+                    "start": 61,
+                    "word": "way"
+                  }
+                ],
+                "until": 86,
+                "utterances": "Look this way"
+              }
+            ],
+            "sentence": "Look this way."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "if_we_hit_tom_he_must_be_hurt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "If"
+                  },
+                  {
+                    "end": 48,
+                    "start": 29,
+                    "word": "we"
+                  },
+                  {
+                    "end": 78,
+                    "start": 49,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 132,
+                    "start": 79,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 157,
+                    "start": 139,
+                    "word": "he"
+                  },
+                  {
+                    "end": 190,
+                    "start": 158,
+                    "word": "must"
+                  },
+                  {
+                    "end": 206,
+                    "start": 191,
+                    "word": "be"
+                  },
+                  {
+                    "end": 232,
+                    "start": 207,
+                    "word": "hurt"
+                  }
+                ],
+                "until": 232,
+                "utterances": "If we hit Tom he must be hurt"
+              }
+            ],
+            "sentence": "\"If we hit Tom, he must be hurt.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_there_is_tom_on_his_bike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 58,
+                    "start": 30,
+                    "word": "there"
+                  },
+                  {
+                    "end": 72,
+                    "start": 59,
+                    "word": "is"
+                  },
+                  {
+                    "end": 108,
+                    "start": 73,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 122,
+                    "start": 109,
+                    "word": "on"
+                  },
+                  {
+                    "end": 139,
+                    "start": 123,
+                    "word": "his"
+                  },
+                  {
+                    "end": 184,
+                    "start": 140,
+                    "word": "bike"
+                  }
+                ],
+                "until": 184,
+                "utterances": "But there is Tom on his bike"
+              }
+            ],
+            "sentence": "But there is Tom on his bike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_he_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 44,
+                    "start": 28,
+                    "word": "he"
+                  },
+                  {
+                    "end": 94,
+                    "start": 45,
+                    "word": "turn"
+                  }
+                ],
+                "until": 94,
+                "utterances": "Did he turn"
+              }
+            ],
+            "sentence": "\"Did he turn?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 99,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_made_a_turn_when_the_car_came_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 79,
+                    "start": 54,
+                    "word": "made"
+                  },
+                  {
+                    "end": 94,
+                    "start": 80,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 95,
+                    "word": "turn"
+                  },
+                  {
+                    "end": 170,
+                    "start": 156,
+                    "word": "when"
+                  },
+                  {
+                    "end": 182,
+                    "start": 171,
+                    "word": "the"
+                  },
+                  {
+                    "end": 216,
+                    "start": 183,
+                    "word": "car"
+                  },
+                  {
+                    "end": 247,
+                    "start": 217,
+                    "word": "came"
+                  },
+                  {
+                    "end": 280,
+                    "start": 248,
+                    "word": "up"
+                  }
+                ],
+                "until": 280,
+                "utterances": "Tom made a turn when the car came up"
+              }
+            ],
+            "sentence": "Tom made a turn when the car came up.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_car_did_not_hit_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 64,
+                    "start": 24,
+                    "word": "car"
+                  },
+                  {
+                    "end": 84,
+                    "start": 65,
+                    "word": "did"
+                  },
+                  {
+                    "end": 115,
+                    "start": 85,
+                    "word": "not"
+                  },
+                  {
+                    "end": 135,
+                    "start": 116,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 184,
+                    "start": 142,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 184,
+                "utterances": "The car did not hit Tom"
+              }
+            ],
+            "sentence": "The car did not hit Tom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_made_a_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 74,
+                    "start": 50,
+                    "word": "made"
+                  },
+                  {
+                    "end": 82,
+                    "start": 75,
+                    "word": "a"
+                  },
+                  {
+                    "end": 124,
+                    "start": 83,
+                    "word": "turn"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Tom made a turn"
+              },
+              {
+                "audio": "just_in_time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "just"
+                  },
+                  {
+                    "end": 78,
+                    "start": 54,
+                    "word": "in"
+                  },
+                  {
+                    "end": 115,
+                    "start": 79,
+                    "word": "time"
+                  }
+                ],
+                "until": 115,
+                "utterances": "just in time"
+              }
+            ],
+            "sentence": "Tom made a turn just in time."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_up_on_the_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 67,
+                    "start": 28,
+                    "word": "got"
+                  },
+                  {
+                    "end": 96,
+                    "start": 68,
+                    "word": "up"
+                  },
+                  {
+                    "end": 123,
+                    "start": 97,
+                    "word": "on"
+                  },
+                  {
+                    "end": 131,
+                    "start": 124,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 132,
+                    "word": "curb"
+                  }
+                ],
+                "until": 180,
+                "utterances": "He got up on the curb"
+              }
+            ],
+            "sentence": "He got up on the curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_is_safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 73,
+                    "start": 48,
+                    "word": "is"
+                  },
+                  {
+                    "end": 141,
+                    "start": 74,
+                    "word": "safe"
+                  }
+                ],
+                "until": 141,
+                "utterances": "Tom is safe"
+              }
+            ],
+            "sentence": "Tom is safe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 31,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_not_hurt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 70,
+                    "start": 47,
+                    "word": "is"
+                  },
+                  {
+                    "end": 100,
+                    "start": 71,
+                    "word": "not"
+                  },
+                  {
+                    "end": 149,
+                    "start": 101,
+                    "word": "hurt"
+                  }
+                ],
+                "until": 149,
+                "utterances": "He is not hurt"
+              }
+            ],
+            "sentence": "He is not hurt."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Is Tom Hurt?",
+  "titleimage": null
+}

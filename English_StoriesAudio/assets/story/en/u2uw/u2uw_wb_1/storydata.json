@@ -1,0 +1,799 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_has_a_birthday_in_june.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 68,
+                    "start": 43,
+                    "word": "has"
+                  },
+                  {
+                    "end": 72,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 114,
+                    "start": 73,
+                    "word": "birthday"
+                  },
+                  {
+                    "end": 135,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 197,
+                    "start": 150,
+                    "word": "June"
+                  }
+                ],
+                "until": 197,
+                "utterances": "Pat has a birthday in June"
+              }
+            ],
+            "sentence": "Pat has a birthday in June."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_a_flute.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 84,
+                    "start": 57,
+                    "word": "got"
+                  },
+                  {
+                    "end": 89,
+                    "start": 85,
+                    "word": "a"
+                  },
+                  {
+                    "end": 138,
+                    "start": 90,
+                    "word": "flute"
+                  }
+                ],
+                "until": 138,
+                "utterances": "He got a flute"
+              }
+            ],
+            "sentence": "He got a flute."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_has_a_birthday_in_june_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 69,
+                    "start": 47,
+                    "word": "has"
+                  },
+                  {
+                    "end": 74,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 114,
+                    "start": 75,
+                    "word": "birthday"
+                  },
+                  {
+                    "end": 145,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 184,
+                    "start": 146,
+                    "word": "June"
+                  },
+                  {
+                    "end": 228,
+                    "start": 185,
+                    "word": "too"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Rob has a birthday in June too"
+              }
+            ],
+            "sentence": "Rob has a birthday in June, too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_a_flute_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 68,
+                    "start": 42,
+                    "word": "got"
+                  },
+                  {
+                    "end": 73,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 108,
+                    "start": 74,
+                    "word": "flute"
+                  },
+                  {
+                    "end": 154,
+                    "start": 115,
+                    "word": "too"
+                  }
+                ],
+                "until": 154,
+                "utterances": "He got a flute too"
+              }
+            ],
+            "sentence": "He got a flute, too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_and_rob_got_flutes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "and"
+                  },
+                  {
+                    "end": 115,
+                    "start": 78,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 144,
+                    "start": 116,
+                    "word": "got"
+                  },
+                  {
+                    "end": 205,
+                    "start": 145,
+                    "word": "flutes"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Pat and Rob got flutes"
+              }
+            ],
+            "sentence": "Pat and Rob got flutes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_had_birthday_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 24,
+                    "start": 7,
+                    "word": "had"
+                  },
+                  {
+                    "end": 71,
+                    "start": 25,
+                    "word": "birthday"
+                  },
+                  {
+                    "end": 114,
+                    "start": 72,
+                    "word": "cake"
+                  }
+                ],
+                "until": 114,
+                "utterances": "Pat had birthday cake"
+              }
+            ],
+            "sentence": "Pat had birthday cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_did_rob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 57,
+                    "start": 42,
+                    "word": "did"
+                  },
+                  {
+                    "end": 101,
+                    "start": 58,
+                    "word": "Rob"
+                  }
+                ],
+                "until": 101,
+                "utterances": "So did Rob"
+              }
+            ],
+            "sentence": "So did Rob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_had_a_big_bite_of_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 62,
+                    "start": 49,
+                    "word": "had"
+                  },
+                  {
+                    "end": 71,
+                    "start": 63,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 72,
+                    "word": "big"
+                  },
+                  {
+                    "end": 144,
+                    "start": 120,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 160,
+                    "start": 145,
+                    "word": "of"
+                  },
+                  {
+                    "end": 204,
+                    "start": 161,
+                    "word": "cake"
+                  }
+                ],
+                "until": 204,
+                "utterances": "Rob had a big bite of cake"
+              }
+            ],
+            "sentence": "Rob had a big bite of cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_ate_a_bite_of_pat_s_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 55,
+                    "start": 46,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 71,
+                    "start": 56,
+                    "word": "a"
+                  },
+                  {
+                    "end": 115,
+                    "start": 86,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 125,
+                    "start": 116,
+                    "word": "of"
+                  },
+                  {
+                    "end": 166,
+                    "start": 126,
+                    "word": "Pat's"
+                  },
+                  {
+                    "end": 210,
+                    "start": 167,
+                    "word": "cake"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Rob ate a bite of Pat's cake"
+              }
+            ],
+            "sentence": "Rob ate a bite of Pat's cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_said_do_not_act_rude.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 86,
+                    "start": 42,
+                    "word": "said"
+                  },
+                  {
+                    "end": 100,
+                    "start": 87,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 148,
+                    "start": 101,
+                    "word": "not"
+                  },
+                  {
+                    "end": 190,
+                    "start": 149,
+                    "word": "act"
+                  },
+                  {
+                    "end": 225,
+                    "start": 191,
+                    "word": "rude"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Pat said Do not act rude"
+              }
+            ],
+            "sentence": "Pat said, \"Do not act rude!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_pat_ate_a_bite_of_rob_s_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 53,
+                    "start": 36,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 83,
+                    "start": 68,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "a"
+                  },
+                  {
+                    "end": 136,
+                    "start": 118,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 169,
+                    "start": 137,
+                    "word": "of"
+                  },
+                  {
+                    "end": 209,
+                    "start": 170,
+                    "word": "Rob's"
+                  },
+                  {
+                    "end": 249,
+                    "start": 210,
+                    "word": "cake"
+                  }
+                ],
+                "until": 249,
+                "utterances": "So Pat ate a bite of Rob's cake"
+              }
+            ],
+            "sentence": "So Pat ate a bite of Rob's cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_said_now_you_are_rude.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 90,
+                    "start": 47,
+                    "word": "said"
+                  },
+                  {
+                    "end": 121,
+                    "start": 100,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 159,
+                    "start": 122,
+                    "word": "you"
+                  },
+                  {
+                    "end": 175,
+                    "start": 160,
+                    "word": "are"
+                  },
+                  {
+                    "end": 218,
+                    "start": 176,
+                    "word": "rude"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Rob said Now you are rude"
+              }
+            ],
+            "sentence": "Rob said, \"Now you are rude!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_make_a_rule.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 69,
+                    "start": 43,
+                    "word": "make"
+                  },
+                  {
+                    "end": 80,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 112,
+                    "start": 81,
+                    "word": "rule"
+                  }
+                ],
+                "until": 112,
+                "utterances": "Let's make a rule"
+              }
+            ],
+            "sentence": "\"Let's make a rule."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_not_bite_my_cake_said_pat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 50,
+                    "start": 21,
+                    "word": "not"
+                  },
+                  {
+                    "end": 74,
+                    "start": 51,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 103,
+                    "start": 75,
+                    "word": "my"
+                  },
+                  {
+                    "end": 143,
+                    "start": 104,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 172,
+                    "start": 144,
+                    "word": "said"
+                  },
+                  {
+                    "end": 236,
+                    "start": 215,
+                    "word": "Pat"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Do not bite my cake said Pat"
+              }
+            ],
+            "sentence": "Do not bite my cake,\" said Pat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_do_not_bite_my_cake_said_rob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 41,
+                    "start": 33,
+                    "word": "do"
+                  },
+                  {
+                    "end": 65,
+                    "start": 42,
+                    "word": "not"
+                  },
+                  {
+                    "end": 90,
+                    "start": 66,
+                    "word": "bite"
+                  },
+                  {
+                    "end": 128,
+                    "start": 91,
+                    "word": "my"
+                  },
+                  {
+                    "end": 173,
+                    "start": 129,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 213,
+                    "start": 182,
+                    "word": "said"
+                  },
+                  {
+                    "end": 257,
+                    "start": 214,
+                    "word": "Rob"
+                  }
+                ],
+                "until": 257,
+                "utterances": "And do not bite my cake said Rob"
+              }
+            ],
+            "sentence": "\"And do not bite my cake,\" said Rob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_like_that_rule.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 54,
+                    "start": 21,
+                    "word": "like"
+                  },
+                  {
+                    "end": 76,
+                    "start": 55,
+                    "word": "that"
+                  },
+                  {
+                    "end": 113,
+                    "start": 77,
+                    "word": "rule"
+                  }
+                ],
+                "until": 113,
+                "utterances": "I like that rule"
+              }
+            ],
+            "sentence": "\"I like that rule.\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Birthdays",
+  "titleimage": null
+}

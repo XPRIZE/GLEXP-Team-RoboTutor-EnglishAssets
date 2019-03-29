@@ -1,0 +1,642 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_can_read.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 100,
+                    "start": 53,
+                    "word": "can"
+                  },
+                  {
+                    "end": 148,
+                    "start": 101,
+                    "word": "read"
+                  }
+                ],
+                "until": 148,
+                "utterances": "Dean can read"
+              }
+            ],
+            "sentence": "Dean can read."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_can_read_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 80,
+                    "start": 55,
+                    "word": "can"
+                  },
+                  {
+                    "end": 117,
+                    "start": 81,
+                    "word": "read"
+                  },
+                  {
+                    "end": 120,
+                    "start": 118,
+                    "word": "a"
+                  },
+                  {
+                    "end": 193,
+                    "start": 131,
+                    "word": "lot"
+                  }
+                ],
+                "until": 193,
+                "utterances": "Dean can read a lot"
+              }
+            ],
+            "sentence": "Dean can read a lot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_has_a_list_to_read.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 104,
+                    "start": 54,
+                    "word": "has"
+                  },
+                  {
+                    "end": 111,
+                    "start": 105,
+                    "word": "a"
+                  },
+                  {
+                    "end": 174,
+                    "start": 112,
+                    "word": "list"
+                  },
+                  {
+                    "end": 194,
+                    "start": 175,
+                    "word": "to"
+                  },
+                  {
+                    "end": 240,
+                    "start": 195,
+                    "word": "read"
+                  }
+                ],
+                "until": 240,
+                "utterances": "Dean has a list to read"
+              }
+            ],
+            "sentence": "Dean has a list to read."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_list_for_the_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 30,
+                    "word": "is"
+                  },
+                  {
+                    "end": 71,
+                    "start": 60,
+                    "word": "a"
+                  },
+                  {
+                    "end": 135,
+                    "start": 72,
+                    "word": "list"
+                  },
+                  {
+                    "end": 177,
+                    "start": 142,
+                    "word": "for"
+                  },
+                  {
+                    "end": 191,
+                    "start": 178,
+                    "word": "the"
+                  },
+                  {
+                    "end": 248,
+                    "start": 192,
+                    "word": "shop"
+                  }
+                ],
+                "until": 248,
+                "utterances": "It is a list for the shop"
+              }
+            ],
+            "sentence": "It is a list for the shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_is_on_the_list.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 84,
+                    "start": 63,
+                    "word": "is"
+                  },
+                  {
+                    "end": 135,
+                    "start": 85,
+                    "word": "on"
+                  },
+                  {
+                    "end": 146,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 201,
+                    "start": 147,
+                    "word": "list"
+                  }
+                ],
+                "until": 201,
+                "utterances": "What is on the list"
+              }
+            ],
+            "sentence": "What is on the list?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_list_said.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 97,
+                    "start": 31,
+                    "word": "list"
+                  },
+                  {
+                    "end": 161,
+                    "start": 98,
+                    "word": "said"
+                  }
+                ],
+                "until": 161,
+                "utterances": "The list said"
+              }
+            ],
+            "sentence": "The list said..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1_get_tea.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "1"
+                  },
+                  {
+                    "end": 107,
+                    "start": 87,
+                    "word": "get"
+                  },
+                  {
+                    "end": 170,
+                    "start": 129,
+                    "word": "tea"
+                  }
+                ],
+                "until": 170,
+                "utterances": "1 get tea"
+              }
+            ],
+            "sentence": "1, get tea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "2_get_meat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "2"
+                  },
+                  {
+                    "end": 101,
+                    "start": 77,
+                    "word": "get"
+                  },
+                  {
+                    "end": 168,
+                    "start": 114,
+                    "word": "meat"
+                  }
+                ],
+                "until": 168,
+                "utterances": "2 get meat"
+              }
+            ],
+            "sentence": "2, get meat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "3_get_a_treat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "3"
+                  },
+                  {
+                    "end": 118,
+                    "start": 80,
+                    "word": "get"
+                  },
+                  {
+                    "end": 125,
+                    "start": 119,
+                    "word": "a"
+                  },
+                  {
+                    "end": 178,
+                    "start": 126,
+                    "word": "treat"
+                  }
+                ],
+                "until": 178,
+                "utterances": "3 get a treat"
+              }
+            ],
+            "sentence": "3, get a treat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_had_to_get_tea_meat_and_a_treat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 87,
+                    "start": 57,
+                    "word": "had"
+                  },
+                  {
+                    "end": 105,
+                    "start": 88,
+                    "word": "to"
+                  },
+                  {
+                    "end": 128,
+                    "start": 106,
+                    "word": "get"
+                  },
+                  {
+                    "end": 203,
+                    "start": 146,
+                    "word": "tea"
+                  },
+                  {
+                    "end": 282,
+                    "start": 220,
+                    "word": "meat"
+                  },
+                  {
+                    "end": 345,
+                    "start": 303,
+                    "word": "and"
+                  },
+                  {
+                    "end": 363,
+                    "start": 346,
+                    "word": "a"
+                  },
+                  {
+                    "end": 415,
+                    "start": 364,
+                    "word": "treat"
+                  }
+                ],
+                "until": 415,
+                "utterances": "Dean had to get tea meat and a treat"
+              }
+            ],
+            "sentence": "Dean had to get tea, meat, and a treat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_dean_get.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 84,
+                    "start": 56,
+                    "word": "did"
+                  },
+                  {
+                    "end": 129,
+                    "start": 85,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 158,
+                    "start": 130,
+                    "word": "get"
+                  }
+                ],
+                "until": 158,
+                "utterances": "What did Dean get"
+              }
+            ],
+            "sentence": "What did Dean get?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_got_tea_meat_and_a_treat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 75,
+                    "start": 42,
+                    "word": "got"
+                  },
+                  {
+                    "end": 138,
+                    "start": 88,
+                    "word": "tea"
+                  },
+                  {
+                    "end": 201,
+                    "start": 163,
+                    "word": "meat"
+                  },
+                  {
+                    "end": 259,
+                    "start": 216,
+                    "word": "and"
+                  },
+                  {
+                    "end": 275,
+                    "start": 265,
+                    "word": "a"
+                  },
+                  {
+                    "end": 315,
+                    "start": 276,
+                    "word": "treat"
+                  }
+                ],
+                "until": 315,
+                "utterances": "Dean got tea meat and a treat"
+              }
+            ],
+            "sentence": "Dean got tea, meat, and a treat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_treat_did_dean_get.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 87,
+                    "start": 46,
+                    "word": "treat"
+                  },
+                  {
+                    "end": 120,
+                    "start": 98,
+                    "word": "did"
+                  },
+                  {
+                    "end": 152,
+                    "start": 121,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 194,
+                    "start": 153,
+                    "word": "get"
+                  }
+                ],
+                "until": 194,
+                "utterances": "What treat did Dean get"
+              }
+            ],
+            "sentence": "What treat did Dean get?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dean_got_ice_cream.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Dean"
+                  },
+                  {
+                    "end": 67,
+                    "start": 38,
+                    "word": "got"
+                  },
+                  {
+                    "end": 114,
+                    "start": 78,
+                    "word": "ice"
+                  },
+                  {
+                    "end": 173,
+                    "start": 115,
+                    "word": "cream"
+                  }
+                ],
+                "until": 173,
+                "utterances": "Dean got ice cream"
+              }
+            ],
+            "sentence": "Dean got ice cream!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dean can Read",
+  "titleimage": null
+}

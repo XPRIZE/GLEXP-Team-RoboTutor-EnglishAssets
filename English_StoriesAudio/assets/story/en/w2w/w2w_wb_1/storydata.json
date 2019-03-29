@@ -1,0 +1,760 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ten_men_can_swim.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 30,
+                    "word": "Ten"
+                  },
+                  {
+                    "end": 82,
+                    "start": 43,
+                    "word": "men"
+                  },
+                  {
+                    "end": 110,
+                    "start": 83,
+                    "word": "can"
+                  },
+                  {
+                    "end": 162,
+                    "start": 111,
+                    "word": "swim"
+                  }
+                ],
+                "until": 162,
+                "utterances": "Ten men can swim"
+              }
+            ],
+            "sentence": "Ten men can swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "seven_ants_can_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "Seven"
+                  },
+                  {
+                    "end": 127,
+                    "start": 73,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 153,
+                    "start": 128,
+                    "word": "can"
+                  },
+                  {
+                    "end": 238,
+                    "start": 154,
+                    "word": "swim"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Seven ants can swim"
+              }
+            ],
+            "sentence": "Seven ants can swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_said_let_s_swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 36,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 123,
+                    "start": 78,
+                    "word": "said"
+                  },
+                  {
+                    "end": 153,
+                    "start": 124,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 204,
+                    "start": 154,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 281,
+                    "start": 205,
+                    "word": "fast"
+                  }
+                ],
+                "until": 281,
+                "utterances": "The ants said Let's swim fast"
+              }
+            ],
+            "sentence": "The ants said, \"Let's swim fast!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_men_said_we_swim_fastest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 51,
+                    "word": "men"
+                  },
+                  {
+                    "end": 130,
+                    "start": 87,
+                    "word": "said"
+                  },
+                  {
+                    "end": 168,
+                    "start": 131,
+                    "word": "We"
+                  },
+                  {
+                    "end": 220,
+                    "start": 169,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 323,
+                    "start": 221,
+                    "word": "fastest"
+                  }
+                ],
+                "until": 323,
+                "utterances": "The men said We swim fastest"
+              }
+            ],
+            "sentence": "The men said, \"We swim fastest!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_ants_swim_fastest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 57,
+                    "start": 37,
+                    "word": "the"
+                  },
+                  {
+                    "end": 103,
+                    "start": 58,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 147,
+                    "start": 104,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 238,
+                    "start": 148,
+                    "word": "fastest"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Can the ants swim fastest"
+              }
+            ],
+            "sentence": "Can the ants swim fastest?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_men_swim_fastest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 45,
+                    "start": 38,
+                    "word": "the"
+                  },
+                  {
+                    "end": 85,
+                    "start": 46,
+                    "word": "men"
+                  },
+                  {
+                    "end": 133,
+                    "start": 86,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 224,
+                    "start": 134,
+                    "word": "fastest"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Can the men swim fastest"
+              }
+            ],
+            "sentence": "Can the men swim fastest?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_had_a_test.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 75,
+                    "start": 43,
+                    "word": "had"
+                  },
+                  {
+                    "end": 86,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 150,
+                    "start": 92,
+                    "word": "test"
+                  }
+                ],
+                "until": 150,
+                "utterances": "They had a test"
+              }
+            ],
+            "sentence": "They had a test."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Swim"
+                  },
+                  {
+                    "end": 127,
+                    "start": 53,
+                    "word": "fast"
+                  }
+                ],
+                "until": 127,
+                "utterances": "Swim fast"
+              }
+            ],
+            "sentence": "Swim fast!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Swim"
+                  },
+                  {
+                    "end": 127,
+                    "start": 53,
+                    "word": "fast"
+                  }
+                ],
+                "until": 127,
+                "utterances": "Swim fast"
+              }
+            ],
+            "sentence": "Swim fast!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_ten_men_win.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 51,
+                    "start": 41,
+                    "word": "the"
+                  },
+                  {
+                    "end": 86,
+                    "start": 52,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 123,
+                    "start": 87,
+                    "word": "men"
+                  },
+                  {
+                    "end": 202,
+                    "start": 124,
+                    "word": "win"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Can the ten men win"
+              }
+            ],
+            "sentence": "Can the ten men win?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_seven_ants_win.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 46,
+                    "start": 37,
+                    "word": "the"
+                  },
+                  {
+                    "end": 94,
+                    "start": 47,
+                    "word": "seven"
+                  },
+                  {
+                    "end": 141,
+                    "start": 95,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 176,
+                    "start": 142,
+                    "word": "win"
+                  }
+                ],
+                "until": 176,
+                "utterances": "Can the seven ants win"
+              }
+            ],
+            "sentence": "Can the seven ants win?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_men_and_the_ants_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 23,
+                    "word": "men"
+                  },
+                  {
+                    "end": 101,
+                    "start": 67,
+                    "word": "and"
+                  },
+                  {
+                    "end": 118,
+                    "start": 102,
+                    "word": "the"
+                  },
+                  {
+                    "end": 161,
+                    "start": 122,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 193,
+                    "start": 162,
+                    "word": "got"
+                  },
+                  {
+                    "end": 237,
+                    "start": 194,
+                    "word": "wet"
+                  }
+                ],
+                "until": 237,
+                "utterances": "The men and the ants got wet"
+              }
+            ],
+            "sentence": "The men and the ants got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ten_men_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 59,
+                    "start": 25,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 98,
+                    "start": 60,
+                    "word": "men"
+                  },
+                  {
+                    "end": 128,
+                    "start": 99,
+                    "word": "went"
+                  },
+                  {
+                    "end": 207,
+                    "start": 129,
+                    "word": "fast"
+                  }
+                ],
+                "until": 207,
+                "utterances": "The ten men went fast"
+              }
+            ],
+            "sentence": "The ten men went fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_seven_ants_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 23,
+                    "word": "seven"
+                  },
+                  {
+                    "end": 122,
+                    "start": 74,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 154,
+                    "start": 123,
+                    "word": "went"
+                  },
+                  {
+                    "end": 227,
+                    "start": 155,
+                    "word": "fast"
+                  }
+                ],
+                "until": 227,
+                "utterances": "The seven ants went fast"
+              }
+            ],
+            "sentence": "The seven ants went fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_men_did_win.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 41,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 85,
+                    "start": 42,
+                    "word": "men"
+                  },
+                  {
+                    "end": 116,
+                    "start": 86,
+                    "word": "did"
+                  },
+                  {
+                    "end": 157,
+                    "start": 117,
+                    "word": "win"
+                  }
+                ],
+                "until": 157,
+                "utterances": "But the men did win"
+              }
+            ],
+            "sentence": "But the men did win."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ten_men_went_fastest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 24,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 101,
+                    "start": 58,
+                    "word": "men"
+                  },
+                  {
+                    "end": 144,
+                    "start": 102,
+                    "word": "went"
+                  },
+                  {
+                    "end": 230,
+                    "start": 148,
+                    "word": "fastest"
+                  }
+                ],
+                "until": 230,
+                "utterances": "The ten men went fastest"
+              }
+            ],
+            "sentence": "The ten men went fastest."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 77,
+                    "start": 38,
+                    "word": "you"
+                  },
+                  {
+                    "end": 120,
+                    "start": 78,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 184,
+                    "start": 121,
+                    "word": "fast"
+                  }
+                ],
+                "until": 184,
+                "utterances": "Can you swim fast"
+              }
+            ],
+            "sentence": "Can you swim fast?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Swimming",
+  "titleimage": null
+}

@@ -1,0 +1,694 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 156,
+                    "start": 87,
+                    "word": "sat"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Sam sat"
+              }
+            ],
+            "sentence": "Sam sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sat_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 141,
+                    "start": 75,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 153,
+                    "word": "on"
+                  },
+                  {
+                    "end": 250,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 317,
+                    "start": 251,
+                    "word": "mat"
+                  }
+                ],
+                "until": 317,
+                "utterances": "Sam sat on the mat"
+              }
+            ],
+            "sentence": "Sam sat on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mat_sat_on_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 126,
+                    "start": 55,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 127,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 242,
+                    "start": 199,
+                    "word": "on"
+                  },
+                  {
+                    "end": 314,
+                    "start": 243,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 314,
+                "utterances": "The mat sat on Sam"
+              }
+            ],
+            "sentence": "The mat sat on Sam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sat_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 141,
+                    "start": 75,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 153,
+                    "word": "on"
+                  },
+                  {
+                    "end": 250,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 317,
+                    "start": 251,
+                    "word": "mat"
+                  }
+                ],
+                "until": 317,
+                "utterances": "Sam sat on the mat"
+              }
+            ],
+            "sentence": "Sam sat on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_the_mat_on_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 71,
+                    "start": 45,
+                    "word": "the"
+                  },
+                  {
+                    "end": 122,
+                    "start": 72,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 187,
+                    "start": 148,
+                    "word": "on"
+                  },
+                  {
+                    "end": 256,
+                    "start": 188,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Is the mat on Sam"
+              }
+            ],
+            "sentence": "Is the mat on Sam?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_sam_on_the_mat.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 20,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 80,
+                    "start": 41,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 105,
+                    "start": 81,
+                    "word": "on"
+                  },
+                  {
+                    "end": 113,
+                    "start": 106,
+                    "word": "the"
+                  },
+                  {
+                    "end": 148,
+                    "start": 114,
+                    "word": "mat"
+                  }
+                ],
+                "until": 148,
+                "utterances": "Is Sam on the mat"
+              }
+            ],
+            "sentence": "Is Sam on the mat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_sat_on_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 116,
+                    "start": 58,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 142,
+                    "start": 117,
+                    "word": "on"
+                  },
+                  {
+                    "end": 193,
+                    "start": 143,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 193,
+                "utterances": "I sat on Sam"
+              }
+            ],
+            "sentence": "I sat on Sam!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_sat_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 95,
+                    "start": 40,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 121,
+                    "start": 96,
+                    "word": "on"
+                  },
+                  {
+                    "end": 135,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 171,
+                    "start": 136,
+                    "word": "mat"
+                  }
+                ],
+                "until": 171,
+                "utterances": "I sat on the mat"
+              }
+            ],
+            "sentence": "I sat on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "am_i_on_sam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Am"
+                  },
+                  {
+                    "end": 101,
+                    "start": 58,
+                    "word": "I"
+                  },
+                  {
+                    "end": 146,
+                    "start": 102,
+                    "word": "on"
+                  },
+                  {
+                    "end": 210,
+                    "start": 147,
+                    "word": "Sam"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Am I on Sam"
+              }
+            ],
+            "sentence": "Am I on Sam?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "am_i_on_the_mat.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 7,
+                    "word": "Am"
+                  },
+                  {
+                    "end": 72,
+                    "start": 41,
+                    "word": "I"
+                  },
+                  {
+                    "end": 102,
+                    "start": 73,
+                    "word": "on"
+                  },
+                  {
+                    "end": 109,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 145,
+                    "start": 110,
+                    "word": "mat"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Am I on the mat"
+              }
+            ],
+            "sentence": "Am I on the mat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_is_at_the_mats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 126,
+                    "start": 75,
+                    "word": "is"
+                  },
+                  {
+                    "end": 161,
+                    "start": 127,
+                    "word": "at"
+                  },
+                  {
+                    "end": 182,
+                    "start": 165,
+                    "word": "the"
+                  },
+                  {
+                    "end": 255,
+                    "start": 183,
+                    "word": "mats"
+                  }
+                ],
+                "until": 255,
+                "utterances": "Sam is at the mats"
+              }
+            ],
+            "sentence": "Sam is at the mats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_at_the_mats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 50,
+                    "start": 36,
+                    "word": "am"
+                  },
+                  {
+                    "end": 74,
+                    "start": 51,
+                    "word": "at"
+                  },
+                  {
+                    "end": 88,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 150,
+                    "start": 89,
+                    "word": "mats"
+                  }
+                ],
+                "until": 150,
+                "utterances": "I am at the mats"
+              }
+            ],
+            "sentence": "I am at the mats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 145,
+                    "start": 69,
+                    "word": "sat"
+                  }
+                ],
+                "until": 145,
+                "utterances": "I sat"
+              }
+            ],
+            "sentence": "I sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 156,
+                    "start": 87,
+                    "word": "sat"
+                  }
+                ],
+                "until": 156,
+                "utterances": "Sam sat"
+              }
+            ],
+            "sentence": "Sam sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_and_i_sat.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 7,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 115,
+                    "start": 72,
+                    "word": "and"
+                  },
+                  {
+                    "end": 151,
+                    "start": 116,
+                    "word": "I"
+                  },
+                  {
+                    "end": 228,
+                    "start": 152,
+                    "word": "sat"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Sam and I sat"
+              }
+            ],
+            "sentence": "Sam and I sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_and_i_sat_at_the_mats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 78,
+                    "start": 53,
+                    "word": "and"
+                  },
+                  {
+                    "end": 110,
+                    "start": 79,
+                    "word": "I"
+                  },
+                  {
+                    "end": 163,
+                    "start": 111,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 180,
+                    "start": 164,
+                    "word": "at"
+                  },
+                  {
+                    "end": 194,
+                    "start": 185,
+                    "word": "the"
+                  },
+                  {
+                    "end": 259,
+                    "start": 195,
+                    "word": "mats"
+                  }
+                ],
+                "until": 259,
+                "utterances": "Sam and I sat at the mats"
+              }
+            ],
+            "sentence": "Sam and I sat at the mats."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Sam, the Mat, and I",
+  "titleimage": null
+}

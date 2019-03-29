@@ -1,0 +1,676 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_see_a_bee.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 89,
+                    "start": 45,
+                    "word": "see"
+                  },
+                  {
+                    "end": 106,
+                    "start": 90,
+                    "word": "a"
+                  },
+                  {
+                    "end": 149,
+                    "start": 107,
+                    "word": "bee"
+                  }
+                ],
+                "until": 149,
+                "utterances": "I see a bee"
+              }
+            ],
+            "sentence": "I see a bee."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_see_the_bee.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 81,
+                    "start": 39,
+                    "word": "you"
+                  },
+                  {
+                    "end": 121,
+                    "start": 82,
+                    "word": "see"
+                  },
+                  {
+                    "end": 133,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 165,
+                    "start": 134,
+                    "word": "bee"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Can you see the bee"
+              }
+            ],
+            "sentence": "Can you see the bee?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_see_a_green_bee.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 16,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 89,
+                    "start": 55,
+                    "word": "see"
+                  },
+                  {
+                    "end": 111,
+                    "start": 90,
+                    "word": "a"
+                  },
+                  {
+                    "end": 176,
+                    "start": 112,
+                    "word": "green"
+                  },
+                  {
+                    "end": 223,
+                    "start": 190,
+                    "word": "bee"
+                  }
+                ],
+                "until": 223,
+                "utterances": "I see a green bee"
+              }
+            ],
+            "sentence": "I see a green bee."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_green_bee_went_to_the_oak_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 29,
+                    "word": "green"
+                  },
+                  {
+                    "end": 118,
+                    "start": 72,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 173,
+                    "start": 127,
+                    "word": "went"
+                  },
+                  {
+                    "end": 195,
+                    "start": 174,
+                    "word": "to"
+                  },
+                  {
+                    "end": 208,
+                    "start": 196,
+                    "word": "the"
+                  },
+                  {
+                    "end": 242,
+                    "start": 218,
+                    "word": "oak"
+                  },
+                  {
+                    "end": 284,
+                    "start": 243,
+                    "word": "tree"
+                  }
+                ],
+                "until": 284,
+                "utterances": "The green bee went to the oak tree"
+              }
+            ],
+            "sentence": "The green bee went to the oak tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_the_green_bee_went_to_the_zoo.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 74,
+                    "start": 57,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 75,
+                    "word": "green"
+                  },
+                  {
+                    "end": 156,
+                    "start": 117,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 203,
+                    "start": 157,
+                    "word": "went"
+                  },
+                  {
+                    "end": 210,
+                    "start": 204,
+                    "word": "to"
+                  },
+                  {
+                    "end": 222,
+                    "start": 211,
+                    "word": "the"
+                  },
+                  {
+                    "end": 269,
+                    "start": 223,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Then the green bee went to the zoo"
+              }
+            ],
+            "sentence": "Then, the green bee went to the zoo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_the_green_bee_see.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 79,
+                    "start": 59,
+                    "word": "did"
+                  },
+                  {
+                    "end": 87,
+                    "start": 80,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 88,
+                    "word": "green"
+                  },
+                  {
+                    "end": 175,
+                    "start": 145,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 238,
+                    "start": 176,
+                    "word": "see"
+                  }
+                ],
+                "until": 238,
+                "utterances": "What did the green bee see"
+              }
+            ],
+            "sentence": "What did the green bee see?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bee_had_a_peek.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 48,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 98,
+                    "start": 80,
+                    "word": "had"
+                  },
+                  {
+                    "end": 127,
+                    "start": 99,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 128,
+                    "word": "peek"
+                  }
+                ],
+                "until": 160,
+                "utterances": "The bee had a peek"
+              }
+            ],
+            "sentence": "The bee had a peek."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bee_can_see_a_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 55,
+                    "start": 21,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 79,
+                    "start": 56,
+                    "word": "can"
+                  },
+                  {
+                    "end": 115,
+                    "start": 80,
+                    "word": "see"
+                  },
+                  {
+                    "end": 132,
+                    "start": 116,
+                    "word": "a"
+                  },
+                  {
+                    "end": 164,
+                    "start": 133,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 164,
+                "utterances": "The bee can see a sheep"
+              }
+            ],
+            "sentence": "The bee can see a sheep!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_see_the_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 67,
+                    "start": 33,
+                    "word": "you"
+                  },
+                  {
+                    "end": 106,
+                    "start": 71,
+                    "word": "see"
+                  },
+                  {
+                    "end": 120,
+                    "start": 107,
+                    "word": "the"
+                  },
+                  {
+                    "end": 164,
+                    "start": 121,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 164,
+                "utterances": "Can you see the sheep"
+              }
+            ],
+            "sentence": "Can you see the sheep?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_see_a_green_bee_and_a_green_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 92,
+                    "start": 36,
+                    "word": "see"
+                  },
+                  {
+                    "end": 116,
+                    "start": 93,
+                    "word": "a"
+                  },
+                  {
+                    "end": 162,
+                    "start": 117,
+                    "word": "green"
+                  },
+                  {
+                    "end": 204,
+                    "start": 163,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 237,
+                    "start": 205,
+                    "word": "and"
+                  },
+                  {
+                    "end": 245,
+                    "start": 238,
+                    "word": "a"
+                  },
+                  {
+                    "end": 285,
+                    "start": 246,
+                    "word": "green"
+                  },
+                  {
+                    "end": 338,
+                    "start": 286,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 338,
+                "utterances": "I see a green bee and a green sheep"
+              }
+            ],
+            "sentence": "I see a green bee and a green sheep."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_sheep_got_free.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 28,
+                    "word": "sheep"
+                  },
+                  {
+                    "end": 114,
+                    "start": 79,
+                    "word": "got"
+                  },
+                  {
+                    "end": 158,
+                    "start": 115,
+                    "word": "free"
+                  }
+                ],
+                "until": 158,
+                "utterances": "The sheep got free"
+              }
+            ],
+            "sentence": "The sheep got free."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bee_and_the_sheep_went_to_the_oak_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 37,
+                    "word": "bee"
+                  },
+                  {
+                    "end": 138,
+                    "start": 90,
+                    "word": "and"
+                  },
+                  {
+                    "end": 162,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 163,
+                    "word": "sheep"
+                  },
+                  {
+                    "end": 275,
+                    "start": 220,
+                    "word": "went"
+                  },
+                  {
+                    "end": 283,
+                    "start": 276,
+                    "word": "to"
+                  },
+                  {
+                    "end": 302,
+                    "start": 284,
+                    "word": "the"
+                  },
+                  {
+                    "end": 336,
+                    "start": 312,
+                    "word": "oak"
+                  },
+                  {
+                    "end": 385,
+                    "start": 337,
+                    "word": "tree"
+                  }
+                ],
+                "until": 385,
+                "utterances": "The bee and the sheep went to the oak tree"
+              }
+            ],
+            "sentence": "The bee and the sheep went to the oak tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_went_to_sleep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 77,
+                    "start": 42,
+                    "word": "went"
+                  },
+                  {
+                    "end": 102,
+                    "start": 89,
+                    "word": "to"
+                  },
+                  {
+                    "end": 167,
+                    "start": 113,
+                    "word": "sleep"
+                  }
+                ],
+                "until": 167,
+                "utterances": "And went to sleep"
+              }
+            ],
+            "sentence": "And went to sleep."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "I see a Bee",
+  "titleimage": null
+}

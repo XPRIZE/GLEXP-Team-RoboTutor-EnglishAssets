@@ -1,0 +1,904 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_is_an_ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 88,
+                    "start": 70,
+                    "word": "is"
+                  },
+                  {
+                    "end": 99,
+                    "start": 89,
+                    "word": "an"
+                  },
+                  {
+                    "end": 159,
+                    "start": 100,
+                    "word": "ape"
+                  }
+                ],
+                "until": 159,
+                "utterances": "Al is an ape"
+              }
+            ],
+            "sentence": "Al is an ape."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_big_ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 42,
+                    "start": 4,
+                    "word": "big"
+                  },
+                  {
+                    "end": 89,
+                    "start": 51,
+                    "word": "ape"
+                  }
+                ],
+                "until": 89,
+                "utterances": "A big ape"
+              }
+            ],
+            "sentence": "A big ape!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_the_ape_can_take_a_nap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 37,
+                    "start": 22,
+                    "word": "the"
+                  },
+                  {
+                    "end": 73,
+                    "start": 38,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 40,
+                    "start": 14,
+                    "word": "can"
+                  },
+                  {
+                    "end": 68,
+                    "start": 41,
+                    "word": "take"
+                  },
+                  {
+                    "end": 72,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 100,
+                    "start": 73,
+                    "word": "nap"
+                  }
+                ],
+                "until": 100,
+                "utterances": "Al the ape can take a nap"
+              }
+            ],
+            "sentence": "Al the ape can take a nap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wake_up_al.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Wake"
+                  },
+                  {
+                    "end": 24,
+                    "start": 2,
+                    "word": "up"
+                  },
+                  {
+                    "end": 70,
+                    "start": 25,
+                    "word": "Al"
+                  }
+                ],
+                "until": 70,
+                "utterances": "Wake up Al"
+              }
+            ],
+            "sentence": "Wake up, Al!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wake_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Wake"
+                  },
+                  {
+                    "end": 84,
+                    "start": 43,
+                    "word": "up"
+                  }
+                ],
+                "until": 84,
+                "utterances": "Wake up"
+              }
+            ],
+            "sentence": "Wake up!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_the_ape_got_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 72,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 113,
+                    "start": 73,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 152,
+                    "start": 114,
+                    "word": "got"
+                  },
+                  {
+                    "end": 189,
+                    "start": 153,
+                    "word": "up"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Al the ape got up"
+              }
+            ],
+            "sentence": "Al the ape got up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_can_skate.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 24,
+                    "start": 4,
+                    "word": "can"
+                  },
+                  {
+                    "end": 70,
+                    "start": 25,
+                    "word": "skate"
+                  }
+                ],
+                "until": 70,
+                "utterances": "Al can skate"
+              }
+            ],
+            "sentence": "Al can skate!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go_al.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 86,
+                    "start": 51,
+                    "word": "Al"
+                  }
+                ],
+                "until": 86,
+                "utterances": "Go Al"
+              }
+            ],
+            "sentence": "Go, Al!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Go"
+                  }
+                ],
+                "until": 49,
+                "utterances": "Go"
+              }
+            ],
+            "sentence": "Go!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_fun_ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 56,
+                    "start": 46,
+                    "word": "a"
+                  },
+                  {
+                    "end": 99,
+                    "start": 57,
+                    "word": "fun"
+                  },
+                  {
+                    "end": 162,
+                    "start": 108,
+                    "word": "ape"
+                  }
+                ],
+                "until": 162,
+                "utterances": "What a fun ape"
+              }
+            ],
+            "sentence": "What a fun ape."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_the_ape_came_to_the_lake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 89,
+                    "start": 59,
+                    "word": "the"
+                  },
+                  {
+                    "end": 111,
+                    "start": 102,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 145,
+                    "start": 112,
+                    "word": "came"
+                  },
+                  {
+                    "end": 162,
+                    "start": 146,
+                    "word": "to"
+                  },
+                  {
+                    "end": 171,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 172,
+                    "word": "lake"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Al the ape came to the lake"
+              }
+            ],
+            "sentence": "Al the ape came to the lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_the_ape_met_the_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 46,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 82,
+                    "start": 47,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 115,
+                    "start": 91,
+                    "word": "met"
+                  },
+                  {
+                    "end": 127,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 128,
+                    "word": "snake"
+                  }
+                ],
+                "until": 177,
+                "utterances": "Al the ape met the snake"
+              }
+            ],
+            "sentence": "Al the ape met the snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ape_gave_the_snake_a_hug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 73,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 109,
+                    "start": 81,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 118,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 119,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 184,
+                    "start": 168,
+                    "word": "a"
+                  },
+                  {
+                    "end": 218,
+                    "start": 185,
+                    "word": "hug"
+                  }
+                ],
+                "until": 218,
+                "utterances": "The ape gave the snake a hug"
+              }
+            ],
+            "sentence": "The ape gave the snake a hug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_brave_ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 50,
+                    "start": 48,
+                    "word": "a"
+                  },
+                  {
+                    "end": 106,
+                    "start": 51,
+                    "word": "brave"
+                  },
+                  {
+                    "end": 149,
+                    "start": 117,
+                    "word": "ape"
+                  }
+                ],
+                "until": 149,
+                "utterances": "What a brave ape"
+              }
+            ],
+            "sentence": "What a brave ape!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "al_the_brave_ape_felt_safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 56,
+                    "start": 45,
+                    "word": "the"
+                  },
+                  {
+                    "end": 98,
+                    "start": 57,
+                    "word": "brave"
+                  },
+                  {
+                    "end": 142,
+                    "start": 108,
+                    "word": "ape"
+                  },
+                  {
+                    "end": 184,
+                    "start": 152,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 242,
+                    "start": 185,
+                    "word": "safe"
+                  }
+                ],
+                "until": 242,
+                "utterances": "Al the brave ape felt safe"
+              }
+            ],
+            "sentence": "Al the brave ape felt safe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_gave_al_a_hug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 25,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 119,
+                    "start": 93,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 180,
+                    "start": 120,
+                    "word": "Al"
+                  },
+                  {
+                    "end": 190,
+                    "start": 188,
+                    "word": "a"
+                  },
+                  {
+                    "end": 225,
+                    "start": 191,
+                    "word": "hug"
+                  }
+                ],
+                "until": 225,
+                "utterances": "The snake gave Al a hug"
+              }
+            ],
+            "sentence": "The snake gave Al a hug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_had_a_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 82,
+                    "start": 72,
+                    "word": "had"
+                  },
+                  {
+                    "end": 105,
+                    "start": 83,
+                    "word": "a"
+                  },
+                  {
+                    "end": 147,
+                    "start": 106,
+                    "word": "cake"
+                  }
+                ],
+                "until": 147,
+                "utterances": "The snake had a cake"
+              }
+            ],
+            "sentence": "The snake had a cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_gave_the_cake_to_the_ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 22,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 116,
+                    "start": 80,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 132,
+                    "start": 117,
+                    "word": "the"
+                  },
+                  {
+                    "end": 171,
+                    "start": 133,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 191,
+                    "start": 172,
+                    "word": "to"
+                  },
+                  {
+                    "end": 208,
+                    "start": 192,
+                    "word": "the"
+                  },
+                  {
+                    "end": 244,
+                    "start": 209,
+                    "word": "ape"
+                  }
+                ],
+                "until": 244,
+                "utterances": "The snake gave the cake to the ape"
+              }
+            ],
+            "sentence": "The snake gave the cake to the ape."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_did_the_cake_taste.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 65,
+                    "start": 47,
+                    "word": "did"
+                  },
+                  {
+                    "end": 72,
+                    "start": 66,
+                    "word": "the"
+                  },
+                  {
+                    "end": 127,
+                    "start": 73,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 187,
+                    "start": 128,
+                    "word": "taste"
+                  }
+                ],
+                "until": 187,
+                "utterances": "How did the cake taste"
+              }
+            ],
+            "sentence": "How did the cake taste?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "delicious.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 10,
+                    "word": "DELICIOUS"
+                  }
+                ],
+                "until": 113,
+                "utterances": "DELICIOUS"
+              }
+            ],
+            "sentence": "DELICIOUS!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 36,
+                    "word": "end"
+                  }
+                ],
+                "until": 79,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Al the Ape",
+  "titleimage": null
+}

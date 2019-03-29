@@ -1,0 +1,625 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_is_ken_the_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 72,
+                    "start": 51,
+                    "word": "is"
+                  },
+                  {
+                    "end": 88,
+                    "start": 73,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 108,
+                    "start": 89,
+                    "word": "the"
+                  },
+                  {
+                    "end": 179,
+                    "start": 164,
+                    "word": "cat"
+                  }
+                ],
+                "until": 179,
+                "utterances": "This is Ken the cat"
+              }
+            ],
+            "sentence": "This is Ken the cat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_is_a_mean_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 67,
+                    "start": 49,
+                    "word": "is"
+                  },
+                  {
+                    "end": 26,
+                    "start": 18,
+                    "word": "a"
+                  },
+                  {
+                    "end": 79,
+                    "start": 27,
+                    "word": "mean"
+                  },
+                  {
+                    "end": 138,
+                    "start": 80,
+                    "word": "cat"
+                  }
+                ],
+                "until": 138,
+                "utterances": "Ken is a mean cat"
+              }
+            ],
+            "sentence": "Ken is a mean cat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_steal_food.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 47,
+                    "start": 28,
+                    "word": "can"
+                  },
+                  {
+                    "end": 104,
+                    "start": 48,
+                    "word": "steal"
+                  },
+                  {
+                    "end": 159,
+                    "start": 105,
+                    "word": "food"
+                  }
+                ],
+                "until": 159,
+                "utterances": "He can steal food"
+              }
+            ],
+            "sentence": "He can steal food."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_the_mean_cat_went_to_the_sea.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 30,
+                    "start": 8,
+                    "word": "the"
+                  },
+                  {
+                    "end": 70,
+                    "start": 31,
+                    "word": "mean"
+                  },
+                  {
+                    "end": 89,
+                    "start": 71,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 162,
+                    "start": 116,
+                    "word": "went"
+                  },
+                  {
+                    "end": 175,
+                    "start": 163,
+                    "word": "to"
+                  },
+                  {
+                    "end": 185,
+                    "start": 176,
+                    "word": "the"
+                  },
+                  {
+                    "end": 226,
+                    "start": 186,
+                    "word": "sea"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Ken the mean cat went to the sea"
+              }
+            ],
+            "sentence": "Ken the mean cat went to the sea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_the_mean_cat_met_val_the_seal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 75,
+                    "start": 56,
+                    "word": "the"
+                  },
+                  {
+                    "end": 114,
+                    "start": 76,
+                    "word": "mean"
+                  },
+                  {
+                    "end": 133,
+                    "start": 115,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 196,
+                    "start": 163,
+                    "word": "met"
+                  },
+                  {
+                    "end": 246,
+                    "start": 197,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 257,
+                    "start": 247,
+                    "word": "the"
+                  },
+                  {
+                    "end": 314,
+                    "start": 258,
+                    "word": "seal"
+                  }
+                ],
+                "until": 314,
+                "utterances": "Ken the mean cat met Val the seal"
+              }
+            ],
+            "sentence": "Ken the mean cat met Val the seal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_the_seal_had_two_boots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 69,
+                    "start": 60,
+                    "word": "the"
+                  },
+                  {
+                    "end": 127,
+                    "start": 70,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 166,
+                    "start": 128,
+                    "word": "had"
+                  },
+                  {
+                    "end": 192,
+                    "start": 167,
+                    "word": "two"
+                  },
+                  {
+                    "end": 253,
+                    "start": 193,
+                    "word": "boots"
+                  }
+                ],
+                "until": 253,
+                "utterances": "Val the seal had two boots"
+              }
+            ],
+            "sentence": "Val the seal had two boots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_the_seal_had_two_boots_in_her_room.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 66,
+                    "start": 58,
+                    "word": "the"
+                  },
+                  {
+                    "end": 125,
+                    "start": 67,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 160,
+                    "start": 126,
+                    "word": "had"
+                  },
+                  {
+                    "end": 182,
+                    "start": 161,
+                    "word": "two"
+                  },
+                  {
+                    "end": 233,
+                    "start": 183,
+                    "word": "boots"
+                  },
+                  {
+                    "end": 251,
+                    "start": 234,
+                    "word": "in"
+                  },
+                  {
+                    "end": 282,
+                    "start": 252,
+                    "word": "her"
+                  },
+                  {
+                    "end": 316,
+                    "start": 283,
+                    "word": "room"
+                  }
+                ],
+                "until": 316,
+                "utterances": "Val the seal had two boots in her room"
+              }
+            ],
+            "sentence": "Val the seal had two boots in her room."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_the_mean_cat_went_to_the_room.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 47,
+                    "start": 20,
+                    "word": "the"
+                  },
+                  {
+                    "end": 112,
+                    "start": 68,
+                    "word": "mean"
+                  },
+                  {
+                    "end": 128,
+                    "start": 113,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 205,
+                    "start": 156,
+                    "word": "went"
+                  },
+                  {
+                    "end": 217,
+                    "start": 206,
+                    "word": "to"
+                  },
+                  {
+                    "end": 230,
+                    "start": 218,
+                    "word": "the"
+                  },
+                  {
+                    "end": 271,
+                    "start": 231,
+                    "word": "room"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Ken the mean cat went to the room"
+              }
+            ],
+            "sentence": "Ken the mean cat went to the room."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_ken_steal_the_boots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 77,
+                    "start": 43,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 126,
+                    "start": 78,
+                    "word": "steal"
+                  },
+                  {
+                    "end": 134,
+                    "start": 127,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 135,
+                    "word": "boots"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Did Ken steal the boots"
+              }
+            ],
+            "sentence": "Did Ken steal the boots?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_he_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 90,
+                    "start": 67,
+                    "word": "he"
+                  },
+                  {
+                    "end": 133,
+                    "start": 91,
+                    "word": "did"
+                  }
+                ],
+                "until": 133,
+                "utterances": "Yes he did"
+              }
+            ],
+            "sentence": "Yes, he did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_mean_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 36,
+                    "start": 33,
+                    "word": "a"
+                  },
+                  {
+                    "end": 86,
+                    "start": 37,
+                    "word": "mean"
+                  },
+                  {
+                    "end": 108,
+                    "start": 87,
+                    "word": "cat"
+                  }
+                ],
+                "until": 108,
+                "utterances": "What a mean cat"
+              }
+            ],
+            "sentence": "What a mean cat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_said_it_is_not_nice_to_steal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 98,
+                    "start": 50,
+                    "word": "said"
+                  },
+                  {
+                    "end": 122,
+                    "start": 108,
+                    "word": "It"
+                  },
+                  {
+                    "end": 139,
+                    "start": 123,
+                    "word": "is"
+                  },
+                  {
+                    "end": 169,
+                    "start": 140,
+                    "word": "not"
+                  },
+                  {
+                    "end": 228,
+                    "start": 170,
+                    "word": "nice"
+                  },
+                  {
+                    "end": 242,
+                    "start": 229,
+                    "word": "to"
+                  },
+                  {
+                    "end": 305,
+                    "start": 243,
+                    "word": "steal"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Val said It is not nice to steal"
+              }
+            ],
+            "sentence": "Val said, \"It is not nice to steal!\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ken the Cat",
+  "titleimage": null
+}

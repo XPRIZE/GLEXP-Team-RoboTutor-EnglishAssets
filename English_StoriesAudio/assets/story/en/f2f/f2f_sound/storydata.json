@@ -1,0 +1,430 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "FUN"
+                  }
+                ],
+                "until": 63,
+                "utterances": "FUN"
+              }
+            ],
+            "sentence": "fun "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "FOG"
+                  }
+                ],
+                "until": 72,
+                "utterances": "FOG"
+              }
+            ],
+            "sentence": "fog "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "FAT"
+                  }
+                ],
+                "until": 46,
+                "utterances": "FAT"
+              }
+            ],
+            "sentence": "fat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_f_make_in_the_words_fun_fat_and_fog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 78,
+                    "start": 34,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 91,
+                    "start": 79,
+                    "word": "does"
+                  },
+                  {
+                    "end": 100,
+                    "start": 92,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 101,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 167,
+                    "start": 137,
+                    "word": "F"
+                  },
+                  {
+                    "end": 204,
+                    "start": 168,
+                    "word": "make"
+                  },
+                  {
+                    "end": 212,
+                    "start": 205,
+                    "word": "in"
+                  },
+                  {
+                    "end": 219,
+                    "start": 213,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 220,
+                    "word": "words"
+                  },
+                  {
+                    "end": 300,
+                    "start": 259,
+                    "word": "FUN"
+                  },
+                  {
+                    "end": 338,
+                    "start": 301,
+                    "word": "FAT"
+                  },
+                  {
+                    "end": 352,
+                    "start": 339,
+                    "word": "and"
+                  },
+                  {
+                    "end": 404,
+                    "start": 353,
+                    "word": "FOG"
+                  }
+                ],
+                "until": 404,
+                "utterances": "What sound does the Letter F make in the words FUN FAT and FOG"
+              }
+            ],
+            "sentence": "What sound does the letter f make in the words fun, fat, and fog?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "for.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "FOR"
+                  }
+                ],
+                "until": 63,
+                "utterances": "FOR"
+              }
+            ],
+            "sentence": "for "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "FIN"
+                  }
+                ],
+                "until": 64,
+                "utterances": "FIN"
+              }
+            ],
+            "sentence": "fin "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "FED"
+                  }
+                ],
+                "until": 59,
+                "utterances": "FED"
+              }
+            ],
+            "sentence": "fed "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "FUR"
+                  }
+                ],
+                "until": 64,
+                "utterances": "FUR"
+              }
+            ],
+            "sentence": "fur "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fox.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 10,
+                    "word": "FOX"
+                  }
+                ],
+                "until": 79,
+                "utterances": "FOX"
+              }
+            ],
+            "sentence": "fox "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "five_hundred.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Five"
+                  },
+                  {
+                    "end": 118,
+                    "start": 57,
+                    "word": "hundred"
+                  }
+                ],
+                "until": 118,
+                "utterances": "Five hundred"
+              },
+              {
+                "audio": "foxes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 10,
+                    "word": "foxes"
+                  }
+                ],
+                "until": 102,
+                "utterances": "foxes"
+              },
+              {
+                "audio": "fell_on_the_floor.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "fell"
+                  },
+                  {
+                    "end": 57,
+                    "start": 43,
+                    "word": "on"
+                  },
+                  {
+                    "end": 63,
+                    "start": 58,
+                    "word": "the"
+                  },
+                  {
+                    "end": 112,
+                    "start": 64,
+                    "word": "floor"
+                  }
+                ],
+                "until": 112,
+                "utterances": "fell on the floor"
+              }
+            ],
+            "sentence": "Five hundred foxes fell on the floor. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fine_work_on_the_letter_f.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Fine"
+                  },
+                  {
+                    "end": 102,
+                    "start": 66,
+                    "word": "work"
+                  },
+                  {
+                    "end": 118,
+                    "start": 103,
+                    "word": "on"
+                  },
+                  {
+                    "end": 126,
+                    "start": 119,
+                    "word": "the"
+                  },
+                  {
+                    "end": 166,
+                    "start": 127,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 212,
+                    "start": 170,
+                    "word": "F"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Fine work on the letter F"
+              }
+            ],
+            "sentence": "Fine work on the letter f! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter F in FUN, FOG, and FAT",
+  "titleimage": null
+}

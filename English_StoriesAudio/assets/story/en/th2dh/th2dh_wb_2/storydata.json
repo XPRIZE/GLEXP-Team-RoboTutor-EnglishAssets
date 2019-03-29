@@ -1,0 +1,560 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_went_to_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 90,
+                    "start": 42,
+                    "word": "went"
+                  },
+                  {
+                    "end": 110,
+                    "start": 91,
+                    "word": "to"
+                  },
+                  {
+                    "end": 120,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 121,
+                    "word": "pond"
+                  }
+                ],
+                "until": 172,
+                "utterances": "Dad went to the pond"
+              }
+            ],
+            "sentence": "Dad went to the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_went_with_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 87,
+                    "start": 50,
+                    "word": "went"
+                  },
+                  {
+                    "end": 121,
+                    "start": 88,
+                    "word": "with"
+                  },
+                  {
+                    "end": 135,
+                    "start": 122,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 135,
+                "utterances": "Mom went with Dad"
+              }
+            ],
+            "sentence": "Mom went with Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_went_to_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 83,
+                    "start": 32,
+                    "word": "went"
+                  },
+                  {
+                    "end": 90,
+                    "start": 84,
+                    "word": "to"
+                  },
+                  {
+                    "end": 136,
+                    "start": 91,
+                    "word": "swim"
+                  }
+                ],
+                "until": 136,
+                "utterances": "They went to swim"
+              }
+            ],
+            "sentence": "They went to swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 65,
+                    "start": 35,
+                    "word": "got"
+                  },
+                  {
+                    "end": 100,
+                    "start": 66,
+                    "word": "wet"
+                  }
+                ],
+                "until": 100,
+                "utterances": "They got wet"
+              }
+            ],
+            "sentence": "They got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_they_sat_in_the_sand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 69,
+                    "start": 57,
+                    "word": "they"
+                  },
+                  {
+                    "end": 102,
+                    "start": 70,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 108,
+                    "start": 103,
+                    "word": "in"
+                  },
+                  {
+                    "end": 125,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 126,
+                    "word": "sand"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Then they sat in the sand"
+              }
+            ],
+            "sentence": "Then they sat in the sand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_sat_with_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 85,
+                    "start": 52,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 133,
+                    "start": 86,
+                    "word": "with"
+                  },
+                  {
+                    "end": 147,
+                    "start": 134,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 147,
+                "utterances": "Mom sat with Dad"
+              }
+            ],
+            "sentence": "Mom sat with Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_sis_got_to_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 134,
+                    "start": 113,
+                    "word": "got"
+                  },
+                  {
+                    "end": 161,
+                    "start": 143,
+                    "word": "to"
+                  },
+                  {
+                    "end": 172,
+                    "start": 162,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 173,
+                    "word": "pond"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Then Sis got to the pond"
+              }
+            ],
+            "sentence": "Then Sis got to the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sat_with_them_in_the_sand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 95,
+                    "start": 58,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 128,
+                    "start": 96,
+                    "word": "with"
+                  },
+                  {
+                    "end": 158,
+                    "start": 129,
+                    "word": "them"
+                  },
+                  {
+                    "end": 184,
+                    "start": 159,
+                    "word": "in"
+                  },
+                  {
+                    "end": 193,
+                    "start": 185,
+                    "word": "the"
+                  },
+                  {
+                    "end": 245,
+                    "start": 194,
+                    "word": "sand"
+                  }
+                ],
+                "until": 245,
+                "utterances": "Sis sat with them in the sand"
+              }
+            ],
+            "sentence": "Sis sat with them in the sand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_sis_got_up_to_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 94,
+                    "start": 43,
+                    "word": "sis"
+                  },
+                  {
+                    "end": 127,
+                    "start": 95,
+                    "word": "got"
+                  },
+                  {
+                    "end": 152,
+                    "start": 128,
+                    "word": "up"
+                  },
+                  {
+                    "end": 175,
+                    "start": 159,
+                    "word": "to"
+                  },
+                  {
+                    "end": 219,
+                    "start": 176,
+                    "word": "swim"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Then sis got up to swim"
+              }
+            ],
+            "sentence": "Then sis got up to swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_mom_had_to_rest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 83,
+                    "start": 61,
+                    "word": "and"
+                  },
+                  {
+                    "end": 126,
+                    "start": 84,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 164,
+                    "start": 127,
+                    "word": "had"
+                  },
+                  {
+                    "end": 183,
+                    "start": 165,
+                    "word": "to"
+                  },
+                  {
+                    "end": 247,
+                    "start": 184,
+                    "word": "rest"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Dad and Mom had to rest"
+              }
+            ],
+            "sentence": "Dad and Mom had to rest."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_swam_more_than_them.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 130,
+                    "start": 65,
+                    "word": "swam"
+                  },
+                  {
+                    "end": 174,
+                    "start": 131,
+                    "word": "more"
+                  },
+                  {
+                    "end": 207,
+                    "start": 175,
+                    "word": "than"
+                  },
+                  {
+                    "end": 254,
+                    "start": 212,
+                    "word": "them"
+                  }
+                ],
+                "until": 254,
+                "utterances": "Sis swam more than them"
+              }
+            ],
+            "sentence": "Sis swam more than them."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_swam_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 114,
+                    "start": 69,
+                    "word": "swam"
+                  },
+                  {
+                    "end": 118,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 175,
+                    "start": 127,
+                    "word": "lot"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Sis swam a lot"
+              }
+            ],
+            "sentence": "Sis swam a lot!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dad went to the Pond",
+  "titleimage": null
+}

@@ -1,0 +1,430 @@
+{
+  "author": "Bukheye Mulongo Christopher",
+  "data": [
+    {
+      "image": "my_little_goat_colour_in_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_are_you_going_my_little_goat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 2,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 45,
+                    "start": 39,
+                    "word": "are"
+                  },
+                  {
+                    "end": 61,
+                    "start": 46,
+                    "word": "you"
+                  },
+                  {
+                    "end": 102,
+                    "start": 62,
+                    "word": "going"
+                  },
+                  {
+                    "end": 110,
+                    "start": 103,
+                    "word": "my"
+                  },
+                  {
+                    "end": 141,
+                    "start": 111,
+                    "word": "little"
+                  },
+                  {
+                    "end": 181,
+                    "start": 142,
+                    "word": "goat"
+                  }
+                ],
+                "until": 181,
+                "utterances": "Where are you going my little goat"
+              }
+            ],
+            "sentence": "Where are you going my little goat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_little_goat_colour_in_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_going_to_market_to_buy_a_new_coat.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 46,
+                    "start": 32,
+                    "word": "am"
+                  },
+                  {
+                    "end": 74,
+                    "start": 47,
+                    "word": "going"
+                  },
+                  {
+                    "end": 84,
+                    "start": 75,
+                    "word": "to"
+                  },
+                  {
+                    "end": 143,
+                    "start": 85,
+                    "word": "market"
+                  },
+                  {
+                    "end": 154,
+                    "start": 144,
+                    "word": "to"
+                  },
+                  {
+                    "end": 171,
+                    "start": 155,
+                    "word": "buy"
+                  },
+                  {
+                    "end": 176,
+                    "start": 172,
+                    "word": "a"
+                  },
+                  {
+                    "end": 222,
+                    "start": 177,
+                    "word": "new"
+                  },
+                  {
+                    "end": 264,
+                    "start": 223,
+                    "word": "coat"
+                  }
+                ],
+                "until": 264,
+                "utterances": "I am going to market to buy a new coat"
+              }
+            ],
+            "sentence": "I am going to market to buy a new coat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_little_goat_colour_in_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_coat_for_a_goat.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 20,
+                    "word": "A"
+                  },
+                  {
+                    "end": 86,
+                    "start": 32,
+                    "word": "coat"
+                  },
+                  {
+                    "end": 123,
+                    "start": 87,
+                    "word": "for"
+                  },
+                  {
+                    "end": 126,
+                    "start": 124,
+                    "word": "a"
+                  },
+                  {
+                    "end": 157,
+                    "start": 127,
+                    "word": "goat"
+                  }
+                ],
+                "until": 157,
+                "utterances": "A coat for a goat"
+              },
+              {
+                "audio": "asked_the_chicken.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 21,
+                    "word": "asked"
+                  },
+                  {
+                    "end": 82,
+                    "start": 70,
+                    "word": "the"
+                  },
+                  {
+                    "end": 121,
+                    "start": 83,
+                    "word": "chicken"
+                  }
+                ],
+                "until": 121,
+                "utterances": "asked the chicken"
+              }
+            ],
+            "sentence": "\"A coat for a goat?\" asked the chicken."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_little_goat_colour_in_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_a_goat_have_a_coat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 2,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 44,
+                    "start": 41,
+                    "word": "a"
+                  },
+                  {
+                    "end": 107,
+                    "start": 45,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 126,
+                    "start": 108,
+                    "word": "have"
+                  },
+                  {
+                    "end": 130,
+                    "start": 127,
+                    "word": "a"
+                  },
+                  {
+                    "end": 184,
+                    "start": 131,
+                    "word": "coat"
+                  }
+                ],
+                "until": 184,
+                "utterances": "Can a goat have a coat"
+              },
+              {
+                "audio": "asked_the_man.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 21,
+                    "word": "asked"
+                  },
+                  {
+                    "end": 73,
+                    "start": 65,
+                    "word": "the"
+                  },
+                  {
+                    "end": 120,
+                    "start": 74,
+                    "word": "man"
+                  }
+                ],
+                "until": 120,
+                "utterances": "asked the man"
+              }
+            ],
+            "sentence": "\"Can a goat have a coat?\" asked the man."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_little_goat_colour_in_page_6_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "everyone_will_laugh_at_a_goat_with_a_coat.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 21,
+                    "word": "Everyone"
+                  },
+                  {
+                    "end": 83,
+                    "start": 62,
+                    "word": "will"
+                  },
+                  {
+                    "end": 125,
+                    "start": 84,
+                    "word": "laugh"
+                  },
+                  {
+                    "end": 135,
+                    "start": 126,
+                    "word": "at"
+                  },
+                  {
+                    "end": 146,
+                    "start": 136,
+                    "word": "a"
+                  },
+                  {
+                    "end": 177,
+                    "start": 147,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 198,
+                    "start": 178,
+                    "word": "with"
+                  },
+                  {
+                    "end": 202,
+                    "start": 199,
+                    "word": "a"
+                  },
+                  {
+                    "end": 240,
+                    "start": 203,
+                    "word": "coat"
+                  }
+                ],
+                "until": 240,
+                "utterances": "Everyone will laugh at a goat with a coat"
+              }
+            ],
+            "sentence": "Everyone will laugh at a goat with a coat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "my_little_goat_colour_in_page_7_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_my_little_goat_likes_her_new_coat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "But"
+                  },
+                  {
+                    "end": 56,
+                    "start": 36,
+                    "word": "my"
+                  },
+                  {
+                    "end": 86,
+                    "start": 57,
+                    "word": "little"
+                  },
+                  {
+                    "end": 131,
+                    "start": 87,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 175,
+                    "start": 132,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 194,
+                    "start": 176,
+                    "word": "her"
+                  },
+                  {
+                    "end": 226,
+                    "start": 195,
+                    "word": "new"
+                  },
+                  {
+                    "end": 273,
+                    "start": 227,
+                    "word": "coat"
+                  }
+                ],
+                "until": 273,
+                "utterances": "But my little goat likes her new coat"
+              }
+            ],
+            "sentence": "But my little goat likes her new coat."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "goodbye_goat.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 21,
+                    "word": "Goodbye"
+                  },
+                  {
+                    "end": 128,
+                    "start": 76,
+                    "word": "goat"
+                  }
+                ],
+                "until": 128,
+                "utterances": "Goodbye goat"
+              }
+            ],
+            "sentence": "Goodbye goat!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "My Little Goat",
+  "titleimage": "my_little_goat_colour_in_page_01_image_0001.jpg"
+}

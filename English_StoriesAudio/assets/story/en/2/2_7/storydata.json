@@ -1,0 +1,866 @@
+{
+  "author": "Ursula Nafula",
+  "data": [
+    {
+      "image": "clever_cat_0_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_my_village_lives_mister_kio.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "In"
+                  },
+                  {
+                    "end": 50,
+                    "start": 35,
+                    "word": "my"
+                  },
+                  {
+                    "end": 105,
+                    "start": 51,
+                    "word": "village"
+                  },
+                  {
+                    "end": 130,
+                    "start": 106,
+                    "word": "lives"
+                  },
+                  {
+                    "end": 160,
+                    "start": 131,
+                    "word": "Mister"
+                  },
+                  {
+                    "end": 201,
+                    "start": 161,
+                    "word": "Kio"
+                  }
+                ],
+                "until": 201,
+                "utterances": "In my village lives Mister Kio"
+              }
+            ],
+            "sentence": "In my village, lives Mister Kio."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mister_kio_has_a_cat_called_safi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 20,
+                    "word": "Mister"
+                  },
+                  {
+                    "end": 86,
+                    "start": 50,
+                    "word": "Kio"
+                  },
+                  {
+                    "end": 114,
+                    "start": 87,
+                    "word": "has"
+                  },
+                  {
+                    "end": 118,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 158,
+                    "start": 119,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 187,
+                    "start": 159,
+                    "word": "called"
+                  },
+                  {
+                    "end": 241,
+                    "start": 188,
+                    "word": "Safi"
+                  }
+                ],
+                "until": 241,
+                "utterances": "Mister Kio has a cat called Safi"
+              }
+            ],
+            "sentence": "Mister Kio has a cat called Safi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_mister_kio_goes_to_work_he_leaves_the_door_open.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 65,
+                    "start": 34,
+                    "word": "Mister"
+                  },
+                  {
+                    "end": 96,
+                    "start": 66,
+                    "word": "Kio"
+                  },
+                  {
+                    "end": 121,
+                    "start": 97,
+                    "word": "goes"
+                  },
+                  {
+                    "end": 133,
+                    "start": 122,
+                    "word": "to"
+                  },
+                  {
+                    "end": 177,
+                    "start": 134,
+                    "word": "work"
+                  },
+                  {
+                    "end": 195,
+                    "start": 186,
+                    "word": "he"
+                  },
+                  {
+                    "end": 231,
+                    "start": 196,
+                    "word": "leaves"
+                  },
+                  {
+                    "end": 239,
+                    "start": 232,
+                    "word": "the"
+                  },
+                  {
+                    "end": 274,
+                    "start": 240,
+                    "word": "door"
+                  },
+                  {
+                    "end": 304,
+                    "start": 275,
+                    "word": "open"
+                  }
+                ],
+                "until": 304,
+                "utterances": "When Mister Kio goes to work he leaves the door open"
+              }
+            ],
+            "sentence": "When Mister Kio goes to work, he leaves the door open."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "safi_sits_in_the_doorway_to_watch_over_the_house.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 19,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 94,
+                    "start": 63,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 101,
+                    "start": 95,
+                    "word": "in"
+                  },
+                  {
+                    "end": 113,
+                    "start": 102,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 114,
+                    "word": "doorway"
+                  },
+                  {
+                    "end": 174,
+                    "start": 160,
+                    "word": "to"
+                  },
+                  {
+                    "end": 206,
+                    "start": 175,
+                    "word": "watch"
+                  },
+                  {
+                    "end": 230,
+                    "start": 207,
+                    "word": "over"
+                  },
+                  {
+                    "end": 240,
+                    "start": 231,
+                    "word": "the"
+                  },
+                  {
+                    "end": 278,
+                    "start": 241,
+                    "word": "house"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Safi sits in the doorway to watch over the house"
+              }
+            ],
+            "sentence": "Safi sits in the doorway to watch over the house."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_the_neighbour_s_dog_comes_close_safi_scares_him_away.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 1,
+                    "word": "When"
+                  },
+                  {
+                    "end": 40,
+                    "start": 34,
+                    "word": "the"
+                  },
+                  {
+                    "end": 87,
+                    "start": 41,
+                    "word": "neighbour's"
+                  },
+                  {
+                    "end": 124,
+                    "start": 88,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 151,
+                    "start": 125,
+                    "word": "comes"
+                  },
+                  {
+                    "end": 202,
+                    "start": 152,
+                    "word": "close"
+                  },
+                  {
+                    "end": 261,
+                    "start": 216,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 334,
+                    "start": 262,
+                    "word": "scares"
+                  },
+                  {
+                    "end": 343,
+                    "start": 335,
+                    "word": "him"
+                  },
+                  {
+                    "end": 365,
+                    "start": 344,
+                    "word": "away"
+                  }
+                ],
+                "until": 365,
+                "utterances": "When the neighbour's dog comes close Safi scares him away"
+              }
+            ],
+            "sentence": "When the neighbour's dog comes close, Safi scares him away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_runs_away.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 23,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 111,
+                    "start": 71,
+                    "word": "runs"
+                  },
+                  {
+                    "end": 139,
+                    "start": 112,
+                    "word": "away"
+                  }
+                ],
+                "until": 139,
+                "utterances": "The dog runs away"
+              }
+            ],
+            "sentence": "The dog runs away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_a_neighbour_knocks_at_the_door_safi_is_ready_to_scratch.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 43,
+                    "start": 37,
+                    "word": "a"
+                  },
+                  {
+                    "end": 94,
+                    "start": 44,
+                    "word": "neighbour"
+                  },
+                  {
+                    "end": 130,
+                    "start": 95,
+                    "word": "knocks"
+                  },
+                  {
+                    "end": 138,
+                    "start": 131,
+                    "word": "at"
+                  },
+                  {
+                    "end": 146,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 191,
+                    "start": 147,
+                    "word": "door"
+                  },
+                  {
+                    "end": 252,
+                    "start": 210,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 272,
+                    "start": 253,
+                    "word": "is"
+                  },
+                  {
+                    "end": 310,
+                    "start": 273,
+                    "word": "ready"
+                  },
+                  {
+                    "end": 320,
+                    "start": 311,
+                    "word": "to"
+                  },
+                  {
+                    "end": 403,
+                    "start": 321,
+                    "word": "scratch"
+                  }
+                ],
+                "until": 403,
+                "utterances": "When a neighbour knocks at the door Safi is ready to scratch"
+              }
+            ],
+            "sentence": "When a neighbour knocks at the door, Safi is ready to scratch."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_neighbour_turns_and_runs_away.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 58,
+                    "start": 24,
+                    "word": "neighbour"
+                  },
+                  {
+                    "end": 108,
+                    "start": 59,
+                    "word": "turns"
+                  },
+                  {
+                    "end": 124,
+                    "start": 109,
+                    "word": "and"
+                  },
+                  {
+                    "end": 146,
+                    "start": 125,
+                    "word": "runs"
+                  },
+                  {
+                    "end": 184,
+                    "start": 147,
+                    "word": "away"
+                  }
+                ],
+                "until": 184,
+                "utterances": "The neighbour turns and runs away"
+              }
+            ],
+            "sentence": "The neighbour turns and runs away."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_safi_is_hungry_she_closes_the_door.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "When"
+                  },
+                  {
+                    "end": 69,
+                    "start": 33,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 85,
+                    "start": 70,
+                    "word": "is"
+                  },
+                  {
+                    "end": 127,
+                    "start": 86,
+                    "word": "hungry"
+                  },
+                  {
+                    "end": 153,
+                    "start": 128,
+                    "word": "she"
+                  },
+                  {
+                    "end": 203,
+                    "start": 154,
+                    "word": "closes"
+                  },
+                  {
+                    "end": 212,
+                    "start": 204,
+                    "word": "the"
+                  },
+                  {
+                    "end": 245,
+                    "start": 213,
+                    "word": "door"
+                  }
+                ],
+                "until": 245,
+                "utterances": "When Safi is hungry she closes the door"
+              }
+            ],
+            "sentence": "When Safi is hungry, she closes the door."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "safi_eats_her_food.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 20,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 97,
+                    "start": 60,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 107,
+                    "start": 98,
+                    "word": "her"
+                  },
+                  {
+                    "end": 126,
+                    "start": 108,
+                    "word": "food"
+                  }
+                ],
+                "until": 126,
+                "utterances": "Safi eats her food"
+              }
+            ],
+            "sentence": "Safi eats her food."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_11_image_0001.jpg",
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "afterwards_safi_jumps_onto_the_sofa_and_sleeps_purr.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 19,
+                    "word": "Afterwards"
+                  },
+                  {
+                    "end": 112,
+                    "start": 83,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 166,
+                    "start": 113,
+                    "word": "jumps"
+                  },
+                  {
+                    "end": 191,
+                    "start": 167,
+                    "word": "onto"
+                  },
+                  {
+                    "end": 198,
+                    "start": 192,
+                    "word": "the"
+                  },
+                  {
+                    "end": 246,
+                    "start": 199,
+                    "word": "sofa"
+                  },
+                  {
+                    "end": 265,
+                    "start": 247,
+                    "word": "and"
+                  },
+                  {
+                    "end": 323,
+                    "start": 266,
+                    "word": "sleeps"
+                  },
+                  {
+                    "end": 366,
+                    "start": 359,
+                    "word": "Purr"
+                  }
+                ],
+                "until": 366,
+                "utterances": "Afterwards Safi jumps onto the sofa and sleeps Purr"
+              }
+            ],
+            "sentence": "Afterwards, Safi jumps onto the sofa and sleeps, \"Purr!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "purr.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "Purr"
+                  }
+                ],
+                "until": 32,
+                "utterances": "Purr"
+              }
+            ],
+            "sentence": "Purr!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "purr.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 2,
+                    "word": "Purr"
+                  }
+                ],
+                "until": 32,
+                "utterances": "Purr"
+              }
+            ],
+            "sentence": "Purr!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_12_image_0001.jpg",
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_mister_kio_returns_safi_stretches_happily_and_welcomes_him_home.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 21,
+                    "word": "When"
+                  },
+                  {
+                    "end": 73,
+                    "start": 37,
+                    "word": "Mister"
+                  },
+                  {
+                    "end": 107,
+                    "start": 74,
+                    "word": "Kio"
+                  },
+                  {
+                    "end": 169,
+                    "start": 108,
+                    "word": "returns"
+                  },
+                  {
+                    "end": 218,
+                    "start": 170,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 282,
+                    "start": 219,
+                    "word": "stretches"
+                  },
+                  {
+                    "end": 329,
+                    "start": 283,
+                    "word": "happily"
+                  },
+                  {
+                    "end": 346,
+                    "start": 330,
+                    "word": "and"
+                  },
+                  {
+                    "end": 413,
+                    "start": 347,
+                    "word": "welcomes"
+                  },
+                  {
+                    "end": 429,
+                    "start": 414,
+                    "word": "him"
+                  },
+                  {
+                    "end": 458,
+                    "start": 430,
+                    "word": "home"
+                  }
+                ],
+                "until": 458,
+                "utterances": "When Mister Kio returns Safi stretches happily and welcomes him home"
+              }
+            ],
+            "sentence": "When Mister Kio returns, Safi stretches happily and welcomes him home."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_cat_0_page_13_image_0001.jpg",
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mister_kio_and_safi_sit_down_and_each_of_them_reads_the_newspaper.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 2,
+                    "word": "Mister"
+                  },
+                  {
+                    "end": 102,
+                    "start": 53,
+                    "word": "Kio"
+                  },
+                  {
+                    "end": 116,
+                    "start": 103,
+                    "word": "and"
+                  },
+                  {
+                    "end": 157,
+                    "start": 117,
+                    "word": "Safi"
+                  },
+                  {
+                    "end": 190,
+                    "start": 158,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 234,
+                    "start": 191,
+                    "word": "down"
+                  },
+                  {
+                    "end": 287,
+                    "start": 268,
+                    "word": "and"
+                  },
+                  {
+                    "end": 313,
+                    "start": 288,
+                    "word": "each"
+                  },
+                  {
+                    "end": 326,
+                    "start": 314,
+                    "word": "of"
+                  },
+                  {
+                    "end": 354,
+                    "start": 327,
+                    "word": "them"
+                  },
+                  {
+                    "end": 415,
+                    "start": 368,
+                    "word": "reads"
+                  },
+                  {
+                    "end": 425,
+                    "start": 416,
+                    "word": "the"
+                  },
+                  {
+                    "end": 510,
+                    "start": 426,
+                    "word": "newspaper"
+                  }
+                ],
+                "until": 510,
+                "utterances": "Mister Kio and Safi sit down and each of them reads the newspaper"
+              }
+            ],
+            "sentence": "Mister Kio and Safi sit down, and each of them reads the newspaper."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Clever Cat",
+  "titleimage": "clever_cat_0_page_01_image_0001.jpg"
+}

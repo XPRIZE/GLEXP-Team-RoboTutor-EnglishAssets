@@ -1,0 +1,813 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pen_sits_by_the_pad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 69,
+                    "start": 27,
+                    "word": "pen"
+                  },
+                  {
+                    "end": 109,
+                    "start": 70,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 141,
+                    "start": 110,
+                    "word": "by"
+                  },
+                  {
+                    "end": 150,
+                    "start": 142,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 151,
+                    "word": "pad"
+                  }
+                ],
+                "until": 195,
+                "utterances": "The pen sits by the pad"
+              }
+            ],
+            "sentence": "The pen sits by the pad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 23,
+                    "word": "pad"
+                  }
+                ],
+                "until": 77,
+                "utterances": "The pad"
+              },
+              {
+                "audio": "sits_by_the_cup.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 74,
+                    "start": 52,
+                    "word": "by"
+                  },
+                  {
+                    "end": 87,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 134,
+                    "start": 88,
+                    "word": "cup"
+                  }
+                ],
+                "until": 134,
+                "utterances": "sits by the cup"
+              }
+            ],
+            "sentence": "The pad sits by the cup."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cup_sits_by_the_plant.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 42,
+                    "start": 26,
+                    "word": "cup"
+                  },
+                  {
+                    "end": 105,
+                    "start": 71,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 128,
+                    "start": 106,
+                    "word": "by"
+                  },
+                  {
+                    "end": 139,
+                    "start": 129,
+                    "word": "the"
+                  },
+                  {
+                    "end": 188,
+                    "start": 140,
+                    "word": "plant"
+                  }
+                ],
+                "until": 188,
+                "utterances": "The cup sits by the plant"
+              }
+            ],
+            "sentence": "The cup sits by the plant."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_plant_sits_by_the_lamp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 81,
+                    "start": 34,
+                    "word": "plant"
+                  },
+                  {
+                    "end": 118,
+                    "start": 82,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 135,
+                    "start": 119,
+                    "word": "by"
+                  },
+                  {
+                    "end": 148,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 149,
+                    "word": "lamp"
+                  }
+                ],
+                "until": 203,
+                "utterances": "The plant sits by the lamp"
+              }
+            ],
+            "sentence": "The plant sits by the lamp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 92,
+                    "start": 26,
+                    "word": "pen"
+                  }
+                ],
+                "until": 92,
+                "utterances": "The pen"
+              },
+              {
+                "audio": "the_pad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 23,
+                    "word": "pad"
+                  }
+                ],
+                "until": 77,
+                "utterances": "The pad"
+              },
+              {
+                "audio": "the_cup.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 92,
+                    "start": 23,
+                    "word": "cup"
+                  }
+                ],
+                "until": 92,
+                "utterances": "the cup"
+              },
+              {
+                "audio": "the_plant.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 90,
+                    "start": 37,
+                    "word": "plant"
+                  }
+                ],
+                "until": 90,
+                "utterances": "the plant"
+              },
+              {
+                "audio": "and_the_lamp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "and"
+                  },
+                  {
+                    "end": 51,
+                    "start": 22,
+                    "word": "the"
+                  },
+                  {
+                    "end": 140,
+                    "start": 65,
+                    "word": "lamp"
+                  }
+                ],
+                "until": 140,
+                "utterances": "and the lamp"
+              },
+              {
+                "audio": "sit_on_the_desk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 76,
+                    "start": 48,
+                    "word": "on"
+                  },
+                  {
+                    "end": 87,
+                    "start": 77,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 88,
+                    "word": "desk"
+                  }
+                ],
+                "until": 135,
+                "utterances": "sit on the desk"
+              }
+            ],
+            "sentence": "The pen, the pad, the cup, the plant, and the lamp sit on the desk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pen_slips.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 55,
+                    "start": 22,
+                    "word": "pen"
+                  },
+                  {
+                    "end": 120,
+                    "start": 56,
+                    "word": "slips"
+                  }
+                ],
+                "until": 120,
+                "utterances": "The pen slips"
+              }
+            ],
+            "sentence": "The pen slips."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "grab_the_pen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Grab"
+                  },
+                  {
+                    "end": 83,
+                    "start": 60,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 88,
+                    "word": "pen"
+                  }
+                ],
+                "until": 116,
+                "utterances": "Grab the pen"
+              }
+            ],
+            "sentence": "Grab the pen!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pen_drops.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 59,
+                    "start": 26,
+                    "word": "pen"
+                  },
+                  {
+                    "end": 123,
+                    "start": 60,
+                    "word": "drops"
+                  }
+                ],
+                "until": 123,
+                "utterances": "The pen drops"
+              }
+            ],
+            "sentence": "The pen drops."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pad_slips.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 29,
+                    "word": "pad"
+                  },
+                  {
+                    "end": 138,
+                    "start": 72,
+                    "word": "slips"
+                  }
+                ],
+                "until": 138,
+                "utterances": "The pad slips"
+              }
+            ],
+            "sentence": "The pad slips."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "grab_the_pad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Grab"
+                  },
+                  {
+                    "end": 106,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 107,
+                    "word": "pad"
+                  }
+                ],
+                "until": 116,
+                "utterances": "Grab the pad"
+              }
+            ],
+            "sentence": "Grab the pad!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pad_drops.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 42,
+                    "word": "pad"
+                  },
+                  {
+                    "end": 149,
+                    "start": 75,
+                    "word": "drops"
+                  }
+                ],
+                "until": 149,
+                "utterances": "The pad drops"
+              }
+            ],
+            "sentence": "The pad drops."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cup_slips.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 29,
+                    "word": "cup"
+                  },
+                  {
+                    "end": 131,
+                    "start": 66,
+                    "word": "slips"
+                  }
+                ],
+                "until": 131,
+                "utterances": "The cup slips"
+              }
+            ],
+            "sentence": "The cup slips."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "grab_the_cup.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Grab"
+                  },
+                  {
+                    "end": 50,
+                    "start": 44,
+                    "word": "the"
+                  },
+                  {
+                    "end": 120,
+                    "start": 51,
+                    "word": "cup"
+                  }
+                ],
+                "until": 120,
+                "utterances": "Grab the cup"
+              }
+            ],
+            "sentence": "Grab the cup!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cup_drops.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 58,
+                    "start": 22,
+                    "word": "cup"
+                  },
+                  {
+                    "end": 123,
+                    "start": 59,
+                    "word": "drops"
+                  }
+                ],
+                "until": 123,
+                "utterances": "The cup drops"
+              }
+            ],
+            "sentence": "The cup drops."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_plant_and_the_lamp_slip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 88,
+                    "start": 40,
+                    "word": "plant"
+                  },
+                  {
+                    "end": 100,
+                    "start": 89,
+                    "word": "and"
+                  },
+                  {
+                    "end": 106,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 144,
+                    "start": 107,
+                    "word": "lamp"
+                  },
+                  {
+                    "end": 215,
+                    "start": 145,
+                    "word": "slip"
+                  }
+                ],
+                "until": 215,
+                "utterances": "The plant and the lamp slip"
+              }
+            ],
+            "sentence": "The plant and the lamp slip."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "grab_the_plant_and_the_lamp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Grab"
+                  },
+                  {
+                    "end": 58,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 104,
+                    "start": 59,
+                    "word": "plant"
+                  },
+                  {
+                    "end": 118,
+                    "start": 105,
+                    "word": "and"
+                  },
+                  {
+                    "end": 124,
+                    "start": 119,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 125,
+                    "word": "lamp"
+                  }
+                ],
+                "until": 209,
+                "utterances": "Grab the plant and the lamp"
+              }
+            ],
+            "sentence": "Grab the plant and the lamp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oh_no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "Oh"
+                  },
+                  {
+                    "end": 92,
+                    "start": 39,
+                    "word": "no"
+                  }
+                ],
+                "until": 92,
+                "utterances": "Oh no"
+              }
+            ],
+            "sentence": "Oh no!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Pen",
+  "titleimage": null
+}

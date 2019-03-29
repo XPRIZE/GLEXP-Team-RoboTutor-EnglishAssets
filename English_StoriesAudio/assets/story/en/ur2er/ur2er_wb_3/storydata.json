@@ -1,0 +1,1065 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_farm_has_ten_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 91,
+                    "start": 31,
+                    "word": "farm"
+                  },
+                  {
+                    "end": 128,
+                    "start": 95,
+                    "word": "has"
+                  },
+                  {
+                    "end": 171,
+                    "start": 129,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 228,
+                    "start": 172,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 228,
+                "utterances": "The farm has ten sheep"
+              }
+            ],
+            "sentence": "The farm has ten sheep."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_sheep_has_the_name_curt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 95,
+                    "start": 39,
+                    "word": "sheep"
+                  },
+                  {
+                    "end": 120,
+                    "start": 96,
+                    "word": "has"
+                  },
+                  {
+                    "end": 129,
+                    "start": 121,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 130,
+                    "word": "name"
+                  },
+                  {
+                    "end": 207,
+                    "start": 170,
+                    "word": "Curt"
+                  }
+                ],
+                "until": 207,
+                "utterances": "One sheep has the name Curt"
+              }
+            ],
+            "sentence": "One sheep has the name Curt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_the_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 37,
+                    "start": 19,
+                    "word": "the"
+                  },
+                  {
+                    "end": 109,
+                    "start": 38,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 109,
+                "utterances": "Curt the sheep"
+              }
+            ],
+            "sentence": "Curt the sheep."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_is_a_white_sheep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 43,
+                    "start": 29,
+                    "word": "is"
+                  },
+                  {
+                    "end": 46,
+                    "start": 44,
+                    "word": "a"
+                  },
+                  {
+                    "end": 97,
+                    "start": 47,
+                    "word": "white"
+                  },
+                  {
+                    "end": 145,
+                    "start": 98,
+                    "word": "sheep"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Curt is a white sheep"
+              }
+            ],
+            "sentence": "Curt is a white sheep."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_white_fur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 83,
+                    "start": 36,
+                    "word": "has"
+                  },
+                  {
+                    "end": 129,
+                    "start": 84,
+                    "word": "white"
+                  },
+                  {
+                    "end": 150,
+                    "start": 130,
+                    "word": "fur"
+                  }
+                ],
+                "until": 150,
+                "utterances": "He has white fur"
+              }
+            ],
+            "sentence": "He has white fur."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_a_curl_in_his_white_fur.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 75,
+                    "start": 29,
+                    "word": "has"
+                  },
+                  {
+                    "end": 89,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 150,
+                    "start": 90,
+                    "word": "curl"
+                  },
+                  {
+                    "end": 162,
+                    "start": 154,
+                    "word": "in"
+                  },
+                  {
+                    "end": 188,
+                    "start": 163,
+                    "word": "his"
+                  },
+                  {
+                    "end": 222,
+                    "start": 189,
+                    "word": "white"
+                  },
+                  {
+                    "end": 253,
+                    "start": 223,
+                    "word": "fur"
+                  }
+                ],
+                "until": 253,
+                "utterances": "He has a curl in his white fur"
+              }
+            ],
+            "sentence": "He has a curl in his white fur."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_fact_curt_has_a_lot_of_curls.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 84,
+                    "start": 29,
+                    "word": "fact"
+                  },
+                  {
+                    "end": 149,
+                    "start": 109,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 182,
+                    "start": 150,
+                    "word": "has"
+                  },
+                  {
+                    "end": 185,
+                    "start": 183,
+                    "word": "a"
+                  },
+                  {
+                    "end": 242,
+                    "start": 186,
+                    "word": "lot"
+                  },
+                  {
+                    "end": 256,
+                    "start": 243,
+                    "word": "of"
+                  },
+                  {
+                    "end": 328,
+                    "start": 264,
+                    "word": "curls"
+                  }
+                ],
+                "until": 328,
+                "utterances": "In fact Curt has a lot of curls"
+              }
+            ],
+            "sentence": "In fact, Curt has a lot of curls."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_one_big_curl_on_his_head.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 59,
+                    "start": 31,
+                    "word": "has"
+                  },
+                  {
+                    "end": 97,
+                    "start": 60,
+                    "word": "one"
+                  },
+                  {
+                    "end": 133,
+                    "start": 102,
+                    "word": "big"
+                  },
+                  {
+                    "end": 167,
+                    "start": 134,
+                    "word": "curl"
+                  },
+                  {
+                    "end": 202,
+                    "start": 168,
+                    "word": "on"
+                  },
+                  {
+                    "end": 227,
+                    "start": 206,
+                    "word": "his"
+                  },
+                  {
+                    "end": 262,
+                    "start": 228,
+                    "word": "head"
+                  }
+                ],
+                "until": 262,
+                "utterances": "He has one big curl on his head"
+              }
+            ],
+            "sentence": "He has one big curl on his head."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_can_tug_on_his_curl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 62,
+                    "start": 34,
+                    "word": "can"
+                  },
+                  {
+                    "end": 95,
+                    "start": 63,
+                    "word": "tug"
+                  },
+                  {
+                    "end": 116,
+                    "start": 96,
+                    "word": "on"
+                  },
+                  {
+                    "end": 141,
+                    "start": 117,
+                    "word": "his"
+                  },
+                  {
+                    "end": 192,
+                    "start": 142,
+                    "word": "curl"
+                  }
+                ],
+                "until": 192,
+                "utterances": "You can tug on his curl"
+              }
+            ],
+            "sentence": "You can tug on his curl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_does_not_hurt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 64,
+                    "start": 37,
+                    "word": "does"
+                  },
+                  {
+                    "end": 100,
+                    "start": 65,
+                    "word": "not"
+                  },
+                  {
+                    "end": 158,
+                    "start": 101,
+                    "word": "hurt"
+                  }
+                ],
+                "until": 158,
+                "utterances": "It does not hurt"
+              }
+            ],
+            "sentence": "It does not hurt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_likes_it_when_you_pet_his_curl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 89,
+                    "start": 50,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 105,
+                    "start": 90,
+                    "word": "it"
+                  },
+                  {
+                    "end": 121,
+                    "start": 106,
+                    "word": "when"
+                  },
+                  {
+                    "end": 133,
+                    "start": 122,
+                    "word": "you"
+                  },
+                  {
+                    "end": 164,
+                    "start": 134,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 188,
+                    "start": 165,
+                    "word": "his"
+                  },
+                  {
+                    "end": 235,
+                    "start": 189,
+                    "word": "curl"
+                  }
+                ],
+                "until": 235,
+                "utterances": "Curt likes it when you pet his curl"
+              }
+            ],
+            "sentence": "Curt likes it when you pet his curl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_curt_eats_he_has_to_burp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "When"
+                  },
+                  {
+                    "end": 84,
+                    "start": 35,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 133,
+                    "start": 85,
+                    "word": "eats"
+                  },
+                  {
+                    "end": 149,
+                    "start": 134,
+                    "word": "he"
+                  },
+                  {
+                    "end": 179,
+                    "start": 150,
+                    "word": "has"
+                  },
+                  {
+                    "end": 190,
+                    "start": 180,
+                    "word": "to"
+                  },
+                  {
+                    "end": 257,
+                    "start": 191,
+                    "word": "burp"
+                  }
+                ],
+                "until": 257,
+                "utterances": "When Curt eats he has to burp"
+              }
+            ],
+            "sentence": "When Curt eats he has to burp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_can_burp_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 41,
+                    "start": 15,
+                    "word": "can"
+                  },
+                  {
+                    "end": 78,
+                    "start": 42,
+                    "word": "burp"
+                  },
+                  {
+                    "end": 135,
+                    "start": 79,
+                    "word": "loud"
+                  }
+                ],
+                "until": 135,
+                "utterances": "Curt can burp loud"
+              }
+            ],
+            "sentence": "Curt can burp loud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "burp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "BURP"
+                  }
+                ],
+                "until": 55,
+                "utterances": "BURP"
+              }
+            ],
+            "sentence": "BURP!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_you_think_curt_can_surf.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 43,
+                    "start": 27,
+                    "word": "you"
+                  },
+                  {
+                    "end": 95,
+                    "start": 44,
+                    "word": "think"
+                  },
+                  {
+                    "end": 128,
+                    "start": 96,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 149,
+                    "start": 129,
+                    "word": "can"
+                  },
+                  {
+                    "end": 216,
+                    "start": 150,
+                    "word": "surf"
+                  }
+                ],
+                "until": 216,
+                "utterances": "Do you think Curt can surf"
+              }
+            ],
+            "sentence": "Do you think Curt can surf?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_fur_will_get_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 72,
+                    "start": 35,
+                    "word": "fur"
+                  },
+                  {
+                    "end": 101,
+                    "start": 73,
+                    "word": "will"
+                  },
+                  {
+                    "end": 121,
+                    "start": 102,
+                    "word": "get"
+                  },
+                  {
+                    "end": 166,
+                    "start": 122,
+                    "word": "wet"
+                  }
+                ],
+                "until": 166,
+                "utterances": "His fur will get wet"
+              }
+            ],
+            "sentence": "His fur will get wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_can_not_surf.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 73,
+                    "start": 49,
+                    "word": "can"
+                  },
+                  {
+                    "end": 101,
+                    "start": 74,
+                    "word": "not"
+                  },
+                  {
+                    "end": 169,
+                    "start": 102,
+                    "word": "surf"
+                  }
+                ],
+                "until": 169,
+                "utterances": "Curt can not surf"
+              }
+            ],
+            "sentence": "Curt can not surf."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_hates_the_water.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 48,
+                    "word": "hates"
+                  },
+                  {
+                    "end": 82,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 130,
+                    "start": 83,
+                    "word": "water"
+                  }
+                ],
+                "until": 130,
+                "utterances": "He hates the water"
+              }
+            ],
+            "sentence": "He hates the water!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_does_not_like_to_get_his_fur_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 74,
+                    "start": 52,
+                    "word": "does"
+                  },
+                  {
+                    "end": 94,
+                    "start": 75,
+                    "word": "not"
+                  },
+                  {
+                    "end": 136,
+                    "start": 95,
+                    "word": "like"
+                  },
+                  {
+                    "end": 150,
+                    "start": 137,
+                    "word": "to"
+                  },
+                  {
+                    "end": 177,
+                    "start": 151,
+                    "word": "get"
+                  },
+                  {
+                    "end": 203,
+                    "start": 178,
+                    "word": "his"
+                  },
+                  {
+                    "end": 230,
+                    "start": 204,
+                    "word": "fur"
+                  },
+                  {
+                    "end": 262,
+                    "start": 231,
+                    "word": "wet"
+                  }
+                ],
+                "until": 262,
+                "utterances": "Curt does not like to get his fur wet"
+              }
+            ],
+            "sentence": "Curt does not like to get his fur wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "curt_will_not_surf.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Curt"
+                  },
+                  {
+                    "end": 68,
+                    "start": 39,
+                    "word": "will"
+                  },
+                  {
+                    "end": 103,
+                    "start": 69,
+                    "word": "not"
+                  },
+                  {
+                    "end": 168,
+                    "start": 104,
+                    "word": "surf"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Curt will not surf"
+              }
+            ],
+            "sentence": "Curt will not surf."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_will_stay_and_play_with_his_curl.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 60,
+                    "start": 39,
+                    "word": "will"
+                  },
+                  {
+                    "end": 86,
+                    "start": 61,
+                    "word": "stay"
+                  },
+                  {
+                    "end": 117,
+                    "start": 87,
+                    "word": "and"
+                  },
+                  {
+                    "end": 167,
+                    "start": 135,
+                    "word": "play"
+                  },
+                  {
+                    "end": 192,
+                    "start": 168,
+                    "word": "with"
+                  },
+                  {
+                    "end": 212,
+                    "start": 193,
+                    "word": "his"
+                  },
+                  {
+                    "end": 270,
+                    "start": 213,
+                    "word": "curl"
+                  }
+                ],
+                "until": 270,
+                "utterances": "He will stay and play with his curl"
+              }
+            ],
+            "sentence": "He will stay and play with his curl."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 35,
+                    "word": "end"
+                  }
+                ],
+                "until": 73,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Sheep Who Can Not Surf",
+  "titleimage": null
+}

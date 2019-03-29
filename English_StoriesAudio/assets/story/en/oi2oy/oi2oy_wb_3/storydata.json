@@ -1,0 +1,969 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_want_to_start_a_club.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 85,
+                    "start": 25,
+                    "word": "want"
+                  },
+                  {
+                    "end": 109,
+                    "start": 86,
+                    "word": "to"
+                  },
+                  {
+                    "end": 156,
+                    "start": 110,
+                    "word": "start"
+                  },
+                  {
+                    "end": 173,
+                    "start": 164,
+                    "word": "a"
+                  },
+                  {
+                    "end": 221,
+                    "start": 174,
+                    "word": "club"
+                  }
+                ],
+                "until": 221,
+                "utterances": "I want to start a club"
+              }
+            ],
+            "sentence": "I want to start a club."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_can_join_my_club.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 87,
+                    "start": 55,
+                    "word": "can"
+                  },
+                  {
+                    "end": 120,
+                    "start": 88,
+                    "word": "join"
+                  },
+                  {
+                    "end": 136,
+                    "start": 121,
+                    "word": "my"
+                  },
+                  {
+                    "end": 184,
+                    "start": 137,
+                    "word": "club"
+                  }
+                ],
+                "until": 184,
+                "utterances": "Sis can join my club"
+              }
+            ],
+            "sentence": "Sis can join my club."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_can_join.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 73,
+                    "start": 50,
+                    "word": "can"
+                  },
+                  {
+                    "end": 118,
+                    "start": 74,
+                    "word": "join"
+                  }
+                ],
+                "until": 118,
+                "utterances": "Don can join"
+              }
+            ],
+            "sentence": "Don can join."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_can_jean.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 74,
+                    "start": 43,
+                    "word": "can"
+                  },
+                  {
+                    "end": 128,
+                    "start": 75,
+                    "word": "Jean"
+                  }
+                ],
+                "until": 128,
+                "utterances": "So can Jean"
+              }
+            ],
+            "sentence": "So can Jean."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_drink_milk_at_our_club.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 92,
+                    "start": 50,
+                    "word": "drink"
+                  },
+                  {
+                    "end": 123,
+                    "start": 93,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 129,
+                    "start": 124,
+                    "word": "at"
+                  },
+                  {
+                    "end": 188,
+                    "start": 130,
+                    "word": "our"
+                  },
+                  {
+                    "end": 234,
+                    "start": 189,
+                    "word": "club"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Let's drink milk at our club"
+              }
+            ],
+            "sentence": "Let's drink milk at our club."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_sis_left_the_milk_out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 85,
+                    "start": 32,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 86,
+                    "start": 49,
+                    "word": "left"
+                  },
+                  {
+                    "end": 96,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 97,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 176,
+                    "start": 134,
+                    "word": "out"
+                  }
+                ],
+                "until": 176,
+                "utterances": "But Sis left the milk out"
+              }
+            ],
+            "sentence": "But Sis left the milk out."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_it_spoil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 40,
+                    "start": 27,
+                    "word": "it"
+                  },
+                  {
+                    "end": 101,
+                    "start": 41,
+                    "word": "spoil"
+                  }
+                ],
+                "until": 101,
+                "utterances": "Did it spoil"
+              }
+            ],
+            "sentence": "Did it spoil?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_the_milk_did_spoil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 72,
+                    "start": 60,
+                    "word": "the"
+                  },
+                  {
+                    "end": 119,
+                    "start": 73,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 154,
+                    "start": 127,
+                    "word": "did"
+                  },
+                  {
+                    "end": 236,
+                    "start": 155,
+                    "word": "spoil"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Yes the milk did spoil"
+              }
+            ],
+            "sentence": "Yes, the milk did spoil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_our_club_can_go_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 63,
+                    "start": 36,
+                    "word": "our"
+                  },
+                  {
+                    "end": 100,
+                    "start": 64,
+                    "word": "club"
+                  },
+                  {
+                    "end": 127,
+                    "start": 101,
+                    "word": "can"
+                  },
+                  {
+                    "end": 143,
+                    "start": 128,
+                    "word": "go"
+                  },
+                  {
+                    "end": 192,
+                    "start": 144,
+                    "word": "shop"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Then our club can go shop"
+              }
+            ],
+            "sentence": "Then our club can go shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_can_get_milk_to_drink.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 59,
+                    "start": 35,
+                    "word": "can"
+                  },
+                  {
+                    "end": 85,
+                    "start": 60,
+                    "word": "get"
+                  },
+                  {
+                    "end": 115,
+                    "start": 86,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 130,
+                    "start": 116,
+                    "word": "to"
+                  },
+                  {
+                    "end": 173,
+                    "start": 131,
+                    "word": "drink"
+                  }
+                ],
+                "until": 173,
+                "utterances": "We can get milk to drink"
+              }
+            ],
+            "sentence": "We can get milk to drink."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_chips_to_eat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 88,
+                    "start": 41,
+                    "word": "chips"
+                  },
+                  {
+                    "end": 108,
+                    "start": 89,
+                    "word": "to"
+                  },
+                  {
+                    "end": 143,
+                    "start": 109,
+                    "word": "eat"
+                  }
+                ],
+                "until": 143,
+                "utterances": "And chips to eat"
+              }
+            ],
+            "sentence": "And chips to eat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "just_point_the_way.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Just"
+                  },
+                  {
+                    "end": 96,
+                    "start": 46,
+                    "word": "point"
+                  },
+                  {
+                    "end": 109,
+                    "start": 97,
+                    "word": "the"
+                  },
+                  {
+                    "end": 149,
+                    "start": 110,
+                    "word": "way"
+                  }
+                ],
+                "until": 149,
+                "utterances": "Just point the way"
+              }
+            ],
+            "sentence": "Just point the way."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_put_a_coin_in_my_pants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 21,
+                    "word": "put"
+                  },
+                  {
+                    "end": 68,
+                    "start": 66,
+                    "word": "a"
+                  },
+                  {
+                    "end": 122,
+                    "start": 69,
+                    "word": "coin"
+                  },
+                  {
+                    "end": 139,
+                    "start": 123,
+                    "word": "in"
+                  },
+                  {
+                    "end": 153,
+                    "start": 140,
+                    "word": "my"
+                  },
+                  {
+                    "end": 221,
+                    "start": 154,
+                    "word": "pants"
+                  }
+                ],
+                "until": 221,
+                "utterances": "I put a coin in my pants"
+              }
+            ],
+            "sentence": "I put a coin in my pants."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_has_a_coin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 73,
+                    "start": 51,
+                    "word": "has"
+                  },
+                  {
+                    "end": 79,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 124,
+                    "start": 80,
+                    "word": "coin"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Sis has a coin"
+              }
+            ],
+            "sentence": "Sis has a coin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_and_jean_have_a_coin_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 70,
+                    "start": 46,
+                    "word": "and"
+                  },
+                  {
+                    "end": 104,
+                    "start": 71,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 128,
+                    "start": 105,
+                    "word": "have"
+                  },
+                  {
+                    "end": 136,
+                    "start": 129,
+                    "word": "a"
+                  },
+                  {
+                    "end": 183,
+                    "start": 137,
+                    "word": "coin"
+                  },
+                  {
+                    "end": 219,
+                    "start": 184,
+                    "word": "too"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Don and Jean have a coin too"
+              }
+            ],
+            "sentence": "Don and Jean have a coin, too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jean_points_the_way.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Jean"
+                  },
+                  {
+                    "end": 90,
+                    "start": 48,
+                    "word": "points"
+                  },
+                  {
+                    "end": 97,
+                    "start": 91,
+                    "word": "the"
+                  },
+                  {
+                    "end": 118,
+                    "start": 98,
+                    "word": "way"
+                  }
+                ],
+                "until": 118,
+                "utterances": "Jean points the way"
+              }
+            ],
+            "sentence": "Jean points the way."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 71,
+                    "start": 36,
+                    "word": "go"
+                  }
+                ],
+                "until": 71,
+                "utterances": "Let's go"
+              }
+            ],
+            "sentence": "Let's go!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_had_to_spend_all_of_our_coins.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 51,
+                    "start": 29,
+                    "word": "had"
+                  },
+                  {
+                    "end": 59,
+                    "start": 52,
+                    "word": "to"
+                  },
+                  {
+                    "end": 109,
+                    "start": 60,
+                    "word": "spend"
+                  },
+                  {
+                    "end": 145,
+                    "start": 110,
+                    "word": "all"
+                  },
+                  {
+                    "end": 159,
+                    "start": 146,
+                    "word": "of"
+                  },
+                  {
+                    "end": 199,
+                    "start": 160,
+                    "word": "our"
+                  },
+                  {
+                    "end": 267,
+                    "start": 205,
+                    "word": "coins"
+                  }
+                ],
+                "until": 267,
+                "utterances": "We had to spend all of our coins"
+              }
+            ],
+            "sentence": "We had to spend all of our coins."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_milk_and_chips_cost_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 64,
+                    "start": 30,
+                    "word": "milk"
+                  },
+                  {
+                    "end": 89,
+                    "start": 75,
+                    "word": "and"
+                  },
+                  {
+                    "end": 132,
+                    "start": 90,
+                    "word": "chips"
+                  },
+                  {
+                    "end": 175,
+                    "start": 133,
+                    "word": "cost"
+                  },
+                  {
+                    "end": 180,
+                    "start": 176,
+                    "word": "a"
+                  },
+                  {
+                    "end": 221,
+                    "start": 181,
+                    "word": "lot"
+                  }
+                ],
+                "until": 221,
+                "utterances": "The milk and chips cost a lot"
+              }
+            ],
+            "sentence": "The milk and chips cost a lot!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_now_our_club_can_eat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 62,
+                    "start": 33,
+                    "word": "now"
+                  },
+                  {
+                    "end": 109,
+                    "start": 63,
+                    "word": "our"
+                  },
+                  {
+                    "end": 148,
+                    "start": 110,
+                    "word": "club"
+                  },
+                  {
+                    "end": 179,
+                    "start": 149,
+                    "word": "can"
+                  },
+                  {
+                    "end": 224,
+                    "start": 187,
+                    "word": "eat"
+                  }
+                ],
+                "until": 224,
+                "utterances": "But now our club can eat"
+              }
+            ],
+            "sentence": "But now our club can eat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 54,
+                    "word": "end"
+                  }
+                ],
+                "until": 95,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Milk Club",
+  "titleimage": null
+}

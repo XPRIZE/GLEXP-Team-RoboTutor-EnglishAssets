@@ -1,0 +1,759 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "an_elk_is_big.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "An"
+                  },
+                  {
+                    "end": 83,
+                    "start": 45,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 111,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 160,
+                    "start": 112,
+                    "word": "big"
+                  }
+                ],
+                "until": 160,
+                "utterances": "An elk is big"
+              }
+            ],
+            "sentence": "An elk is big."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "an_elk_can_run_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "An"
+                  },
+                  {
+                    "end": 77,
+                    "start": 42,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 103,
+                    "start": 83,
+                    "word": "can"
+                  },
+                  {
+                    "end": 138,
+                    "start": 104,
+                    "word": "run"
+                  },
+                  {
+                    "end": 210,
+                    "start": 139,
+                    "word": "fast"
+                  }
+                ],
+                "until": 210,
+                "utterances": "An elk can run fast"
+              }
+            ],
+            "sentence": "An elk can run fast!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_cub_can_not_run_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 77,
+                    "start": 27,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 118,
+                    "start": 78,
+                    "word": "can"
+                  },
+                  {
+                    "end": 152,
+                    "start": 119,
+                    "word": "not"
+                  },
+                  {
+                    "end": 184,
+                    "start": 153,
+                    "word": "run"
+                  },
+                  {
+                    "end": 250,
+                    "start": 185,
+                    "word": "fast"
+                  }
+                ],
+                "until": 250,
+                "utterances": "A cub can not run fast"
+              }
+            ],
+            "sentence": "A cub can not run fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_felt_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 81,
+                    "start": 27,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 127,
+                    "start": 82,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 195,
+                    "start": 128,
+                    "word": "sad"
+                  }
+                ],
+                "until": 195,
+                "utterances": "The cub felt sad"
+              }
+            ],
+            "sentence": "The cub felt sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_met_the_elk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 30,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 132,
+                    "start": 91,
+                    "word": "met"
+                  },
+                  {
+                    "end": 159,
+                    "start": 133,
+                    "word": "the"
+                  },
+                  {
+                    "end": 190,
+                    "start": 160,
+                    "word": "elk"
+                  }
+                ],
+                "until": 190,
+                "utterances": "The cub met the elk"
+              }
+            ],
+            "sentence": "The cub met the elk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_elk_held_its_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 38,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 117,
+                    "start": 71,
+                    "word": "held"
+                  },
+                  {
+                    "end": 137,
+                    "start": 118,
+                    "word": "its"
+                  },
+                  {
+                    "end": 189,
+                    "start": 138,
+                    "word": "hand"
+                  }
+                ],
+                "until": 189,
+                "utterances": "The elk held its hand"
+              }
+            ],
+            "sentence": "The elk held its hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_held_the_elk_s_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 29,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 120,
+                    "start": 85,
+                    "word": "held"
+                  },
+                  {
+                    "end": 140,
+                    "start": 121,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 141,
+                    "word": "elk's"
+                  },
+                  {
+                    "end": 221,
+                    "start": 175,
+                    "word": "leg"
+                  }
+                ],
+                "until": 221,
+                "utterances": "The cub held the elk's leg"
+              }
+            ],
+            "sentence": "The cub held the elk's leg."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_elk_led_the_cub_to_an_elm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 59,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 139,
+                    "start": 96,
+                    "word": "led"
+                  },
+                  {
+                    "end": 149,
+                    "start": 140,
+                    "word": "the"
+                  },
+                  {
+                    "end": 194,
+                    "start": 150,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 231,
+                    "start": 203,
+                    "word": "to"
+                  },
+                  {
+                    "end": 257,
+                    "start": 232,
+                    "word": "an"
+                  },
+                  {
+                    "end": 343,
+                    "start": 264,
+                    "word": "elm"
+                  }
+                ],
+                "until": 343,
+                "utterances": "The elk led the cub to an elm"
+              }
+            ],
+            "sentence": "The elk led the cub to an elm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_cub_beg_the_elk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 43,
+                    "start": 34,
+                    "word": "the"
+                  },
+                  {
+                    "end": 90,
+                    "start": 44,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 144,
+                    "start": 105,
+                    "word": "beg"
+                  },
+                  {
+                    "end": 161,
+                    "start": 145,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 162,
+                    "word": "elk"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Did the cub beg the elk"
+              }
+            ],
+            "sentence": "Did the cub beg the elk?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_and_the_elk_felt_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 102,
+                    "start": 57,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 141,
+                    "start": 114,
+                    "word": "and"
+                  },
+                  {
+                    "end": 170,
+                    "start": 145,
+                    "word": "the"
+                  },
+                  {
+                    "end": 211,
+                    "start": 171,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 254,
+                    "start": 212,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 344,
+                    "start": 260,
+                    "word": "glad"
+                  }
+                ],
+                "until": 344,
+                "utterances": "The cub and the elk felt glad"
+              }
+            ],
+            "sentence": "The cub and the elk felt glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_elk_bent_to_hug_the_cub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 47,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 145,
+                    "start": 106,
+                    "word": "bent"
+                  },
+                  {
+                    "end": 182,
+                    "start": 158,
+                    "word": "to"
+                  },
+                  {
+                    "end": 220,
+                    "start": 183,
+                    "word": "hug"
+                  },
+                  {
+                    "end": 239,
+                    "start": 230,
+                    "word": "the"
+                  },
+                  {
+                    "end": 289,
+                    "start": 240,
+                    "word": "cub"
+                  }
+                ],
+                "until": 289,
+                "utterances": "The elk bent to hug the cub"
+              }
+            ],
+            "sentence": "The elk bent to hug the cub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_did_not_sob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 24,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 103,
+                    "start": 80,
+                    "word": "did"
+                  },
+                  {
+                    "end": 139,
+                    "start": 104,
+                    "word": "not"
+                  },
+                  {
+                    "end": 197,
+                    "start": 140,
+                    "word": "sob"
+                  }
+                ],
+                "until": 197,
+                "utterances": "The cub did not sob"
+              }
+            ],
+            "sentence": "The cub did not sob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_big_elk_left.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 28,
+                    "word": "big"
+                  },
+                  {
+                    "end": 122,
+                    "start": 88,
+                    "word": "elk"
+                  },
+                  {
+                    "end": 182,
+                    "start": 123,
+                    "word": "left"
+                  }
+                ],
+                "until": 182,
+                "utterances": "The big elk left"
+              }
+            ],
+            "sentence": "The big elk left."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goodbye_elk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Goodbye"
+                  },
+                  {
+                    "end": 105,
+                    "start": 70,
+                    "word": "elk"
+                  }
+                ],
+                "until": 105,
+                "utterances": "Goodbye elk"
+              }
+            ],
+            "sentence": "Goodbye elk!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cub_must_get_to_its_den.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 8,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 34,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 133,
+                    "start": 85,
+                    "word": "must"
+                  },
+                  {
+                    "end": 166,
+                    "start": 142,
+                    "word": "get"
+                  },
+                  {
+                    "end": 194,
+                    "start": 174,
+                    "word": "to"
+                  },
+                  {
+                    "end": 220,
+                    "start": 195,
+                    "word": "its"
+                  },
+                  {
+                    "end": 270,
+                    "start": 221,
+                    "word": "den"
+                  }
+                ],
+                "until": 270,
+                "utterances": "The cub must get to its den"
+              }
+            ],
+            "sentence": "The cub must get to its den."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goodbye_cub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "Goodbye"
+                  },
+                  {
+                    "end": 120,
+                    "start": 77,
+                    "word": "cub"
+                  }
+                ],
+                "until": 120,
+                "utterances": "Goodbye cub"
+              }
+            ],
+            "sentence": "Goodbye cub! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Elk",
+  "titleimage": null
+}

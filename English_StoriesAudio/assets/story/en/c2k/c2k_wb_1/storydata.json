@@ -1,0 +1,658 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_mom_had_a_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 52,
+                    "start": 39,
+                    "word": "and"
+                  },
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 147,
+                    "start": 119,
+                    "word": "had"
+                  },
+                  {
+                    "end": 152,
+                    "start": 148,
+                    "word": "a"
+                  },
+                  {
+                    "end": 196,
+                    "start": 153,
+                    "word": "ham"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Dad and Mom had a ham"
+              }
+            ],
+            "sentence": "Dad and Mom had a ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_cut_the_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 85,
+                    "start": 50,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 100,
+                    "start": 86,
+                    "word": "the"
+                  },
+                  {
+                    "end": 145,
+                    "start": 101,
+                    "word": "ham"
+                  }
+                ],
+                "until": 145,
+                "utterances": "They cut the ham"
+              }
+            ],
+            "sentence": "They cut the ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_got_dad_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 132,
+                    "start": 88,
+                    "word": "got"
+                  },
+                  {
+                    "end": 165,
+                    "start": 133,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 222,
+                    "start": 166,
+                    "word": "glad"
+                  }
+                ],
+                "until": 222,
+                "utterances": "This got Dad glad"
+              }
+            ],
+            "sentence": "This got Dad glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_got_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 88,
+                    "start": 58,
+                    "word": "got"
+                  },
+                  {
+                    "end": 140,
+                    "start": 89,
+                    "word": "glad"
+                  }
+                ],
+                "until": 140,
+                "utterances": "Sis got glad"
+              }
+            ],
+            "sentence": "Sis got glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_got_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 83,
+                    "start": 52,
+                    "word": "got"
+                  },
+                  {
+                    "end": 185,
+                    "start": 84,
+                    "word": "glad"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Mom got glad"
+              }
+            ],
+            "sentence": "Mom got glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_got_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 31,
+                    "word": "got"
+                  },
+                  {
+                    "end": 110,
+                    "start": 60,
+                    "word": "glad"
+                  }
+                ],
+                "until": 110,
+                "utterances": "I got glad"
+              }
+            ],
+            "sentence": "I got glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_off_the_cot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 83,
+                    "start": 49,
+                    "word": "got"
+                  },
+                  {
+                    "end": 121,
+                    "start": 84,
+                    "word": "off"
+                  },
+                  {
+                    "end": 133,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 134,
+                    "word": "cot"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Dad got off the cot"
+              }
+            ],
+            "sentence": "Dad got off the cot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_sat_on_the_soft_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 71,
+                    "start": 25,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 92,
+                    "start": 72,
+                    "word": "on"
+                  },
+                  {
+                    "end": 101,
+                    "start": 93,
+                    "word": "the"
+                  },
+                  {
+                    "end": 152,
+                    "start": 102,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 203,
+                    "start": 153,
+                    "word": "mat"
+                  }
+                ],
+                "until": 203,
+                "utterances": "He sat on the soft mat"
+              }
+            ],
+            "sentence": "He sat on the soft mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_sat_on_the_raft.mp3",
+                "from": 9,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 9,
+                    "word": "He"
+                  },
+                  {
+                    "end": 105,
+                    "start": 56,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 124,
+                    "start": 106,
+                    "word": "on"
+                  },
+                  {
+                    "end": 134,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 202,
+                    "start": 135,
+                    "word": "raft"
+                  }
+                ],
+                "until": 202,
+                "utterances": "He sat on the raft"
+              }
+            ],
+            "sentence": "He sat on the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_raft_was_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 22,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 100,
+                    "start": 75,
+                    "word": "was"
+                  },
+                  {
+                    "end": 195,
+                    "start": 101,
+                    "word": "fast"
+                  }
+                ],
+                "until": 195,
+                "utterances": "The raft was fast"
+              }
+            ],
+            "sentence": "The raft was fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fast_raft_got_in_a_rut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 21,
+                    "word": "fast"
+                  },
+                  {
+                    "end": 113,
+                    "start": 67,
+                    "word": "raft"
+                  },
+                  {
+                    "end": 135,
+                    "start": 114,
+                    "word": "got"
+                  },
+                  {
+                    "end": 148,
+                    "start": 136,
+                    "word": "in"
+                  },
+                  {
+                    "end": 154,
+                    "start": 149,
+                    "word": "a"
+                  },
+                  {
+                    "end": 182,
+                    "start": 155,
+                    "word": "rut"
+                  }
+                ],
+                "until": 182,
+                "utterances": "The fast raft got in a rut"
+              }
+            ],
+            "sentence": "The fast raft got in a rut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cats_got_hit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 20,
+                    "word": "cats"
+                  },
+                  {
+                    "end": 102,
+                    "start": 73,
+                    "word": "got"
+                  },
+                  {
+                    "end": 129,
+                    "start": 103,
+                    "word": "hit"
+                  }
+                ],
+                "until": 129,
+                "utterances": "The cats got hit"
+              }
+            ],
+            "sentence": "The cats got hit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_in_a_cast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 92,
+                    "start": 52,
+                    "word": "got"
+                  },
+                  {
+                    "end": 110,
+                    "start": 93,
+                    "word": "in"
+                  },
+                  {
+                    "end": 116,
+                    "start": 111,
+                    "word": "a"
+                  },
+                  {
+                    "end": 196,
+                    "start": 117,
+                    "word": "cast"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Dad got in a cast"
+              }
+            ],
+            "sentence": "Dad got in a cast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 49,
+                    "start": 28,
+                    "word": "was"
+                  },
+                  {
+                    "end": 127,
+                    "start": 50,
+                    "word": "sad"
+                  }
+                ],
+                "until": 127,
+                "utterances": "It was sad"
+              }
+            ],
+            "sentence": "It was sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cast_costs_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 93,
+                    "start": 24,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 183,
+                    "start": 104,
+                    "word": "costs"
+                  },
+                  {
+                    "end": 189,
+                    "start": 184,
+                    "word": "a"
+                  },
+                  {
+                    "end": 258,
+                    "start": 190,
+                    "word": "lot"
+                  }
+                ],
+                "until": 258,
+                "utterances": "The cast costs a lot"
+              }
+            ],
+            "sentence": "The cast costs a lot."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Ham",
+  "titleimage": null
+}

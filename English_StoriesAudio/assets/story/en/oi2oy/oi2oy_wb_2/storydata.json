@@ -1,0 +1,883 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "spaghetti_is_a_big_word.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Spaghetti"
+                  },
+                  {
+                    "end": 109,
+                    "start": 81,
+                    "word": "is"
+                  },
+                  {
+                    "end": 117,
+                    "start": 110,
+                    "word": "a"
+                  },
+                  {
+                    "end": 150,
+                    "start": 118,
+                    "word": "big"
+                  },
+                  {
+                    "end": 198,
+                    "start": 151,
+                    "word": "word"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Spaghetti is a big word"
+              }
+            ],
+            "sentence": "\"Spaghetti\" is a big word."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_know.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 22,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 27,
+                    "word": "know"
+                  }
+                ],
+                "until": 65,
+                "utterances": "I know"
+              }
+            ],
+            "sentence": "I know."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_you_can_read_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 47,
+                    "start": 28,
+                    "word": "you"
+                  },
+                  {
+                    "end": 70,
+                    "start": 48,
+                    "word": "can"
+                  },
+                  {
+                    "end": 94,
+                    "start": 71,
+                    "word": "read"
+                  },
+                  {
+                    "end": 115,
+                    "start": 95,
+                    "word": "it"
+                  }
+                ],
+                "until": 115,
+                "utterances": "But you can read it"
+              }
+            ],
+            "sentence": "But you can read it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "spaghetti.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 10,
+                    "word": "Spaghetti"
+                  }
+                ],
+                "until": 82,
+                "utterances": "Spaghetti"
+              }
+            ],
+            "sentence": "Spaghetti."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_cook_spaghetti.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 61,
+                    "start": 37,
+                    "word": "can"
+                  },
+                  {
+                    "end": 107,
+                    "start": 62,
+                    "word": "cook"
+                  },
+                  {
+                    "end": 164,
+                    "start": 108,
+                    "word": "spaghetti"
+                  }
+                ],
+                "until": 164,
+                "utterances": "I can cook spaghetti"
+              }
+            ],
+            "sentence": "I can cook spaghetti."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_join_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 53,
+                    "start": 33,
+                    "word": "you"
+                  },
+                  {
+                    "end": 88,
+                    "start": 54,
+                    "word": "join"
+                  },
+                  {
+                    "end": 108,
+                    "start": 89,
+                    "word": "me"
+                  }
+                ],
+                "until": 108,
+                "utterances": "Can you join me"
+              }
+            ],
+            "sentence": "Can you join me?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_you_need_water.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 82,
+                    "start": 73,
+                    "word": "you"
+                  },
+                  {
+                    "end": 114,
+                    "start": 83,
+                    "word": "need"
+                  },
+                  {
+                    "end": 152,
+                    "start": 115,
+                    "word": "water"
+                  }
+                ],
+                "until": 152,
+                "utterances": "First you need water"
+              }
+            ],
+            "sentence": "First you need water."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_go_to_the_stove.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 78,
+                    "start": 49,
+                    "word": "go"
+                  },
+                  {
+                    "end": 102,
+                    "start": 84,
+                    "word": "to"
+                  },
+                  {
+                    "end": 112,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 168,
+                    "start": 113,
+                    "word": "stove"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Then go to the stove"
+              }
+            ],
+            "sentence": "Then go to the stove."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "turn_on_the_stove.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Turn"
+                  },
+                  {
+                    "end": 86,
+                    "start": 50,
+                    "word": "on"
+                  },
+                  {
+                    "end": 95,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 142,
+                    "start": 96,
+                    "word": "stove"
+                  }
+                ],
+                "until": 142,
+                "utterances": "Turn on the stove"
+              }
+            ],
+            "sentence": "Turn on the stove."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mine_looks_like_a_coil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Mine"
+                  },
+                  {
+                    "end": 97,
+                    "start": 60,
+                    "word": "looks"
+                  },
+                  {
+                    "end": 127,
+                    "start": 98,
+                    "word": "like"
+                  },
+                  {
+                    "end": 139,
+                    "start": 128,
+                    "word": "a"
+                  },
+                  {
+                    "end": 198,
+                    "start": 147,
+                    "word": "coil"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Mine looks like a coil"
+              }
+            ],
+            "sentence": "Mine looks like a coil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "like_a_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Like"
+                  },
+                  {
+                    "end": 45,
+                    "start": 40,
+                    "word": "a"
+                  },
+                  {
+                    "end": 106,
+                    "start": 46,
+                    "word": "snake"
+                  }
+                ],
+                "until": 106,
+                "utterances": "Like a snake"
+              }
+            ],
+            "sentence": "Like a snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_heat_makes_the_coil_turn_red.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 42,
+                    "word": "heat"
+                  },
+                  {
+                    "end": 119,
+                    "start": 85,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 129,
+                    "start": 120,
+                    "word": "the"
+                  },
+                  {
+                    "end": 191,
+                    "start": 130,
+                    "word": "coil"
+                  },
+                  {
+                    "end": 222,
+                    "start": 192,
+                    "word": "turn"
+                  },
+                  {
+                    "end": 261,
+                    "start": 223,
+                    "word": "red"
+                  }
+                ],
+                "until": 261,
+                "utterances": "The heat makes the coil turn red"
+              }
+            ],
+            "sentence": "The heat makes the coil turn red."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hot_coil_makes_the_water_boil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 58,
+                    "start": 30,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 133,
+                    "start": 73,
+                    "word": "coil"
+                  },
+                  {
+                    "end": 158,
+                    "start": 134,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 166,
+                    "start": 159,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 167,
+                    "word": "water"
+                  },
+                  {
+                    "end": 270,
+                    "start": 214,
+                    "word": "boil"
+                  }
+                ],
+                "until": 270,
+                "utterances": "The hot coil makes the water boil"
+              }
+            ],
+            "sentence": "The hot coil makes the water boil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wait_for_the_water_to_boil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Wait"
+                  },
+                  {
+                    "end": 65,
+                    "start": 51,
+                    "word": "for"
+                  },
+                  {
+                    "end": 75,
+                    "start": 66,
+                    "word": "the"
+                  },
+                  {
+                    "end": 118,
+                    "start": 76,
+                    "word": "water"
+                  },
+                  {
+                    "end": 133,
+                    "start": 119,
+                    "word": "to"
+                  },
+                  {
+                    "end": 186,
+                    "start": 134,
+                    "word": "boil"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Wait for the water to boil"
+              }
+            ],
+            "sentence": "Wait for the water to boil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_dump_in_the_spaghetti.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 106,
+                    "start": 70,
+                    "word": "dump"
+                  },
+                  {
+                    "end": 142,
+                    "start": 114,
+                    "word": "in"
+                  },
+                  {
+                    "end": 151,
+                    "start": 143,
+                    "word": "the"
+                  },
+                  {
+                    "end": 214,
+                    "start": 152,
+                    "word": "spaghetti"
+                  }
+                ],
+                "until": 214,
+                "utterances": "Then dump in the spaghetti"
+              }
+            ],
+            "sentence": "Then dump in the spaghetti."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_s_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "That's"
+                  },
+                  {
+                    "end": 60,
+                    "start": 45,
+                    "word": "it"
+                  }
+                ],
+                "until": 60,
+                "utterances": "That's it"
+              }
+            ],
+            "sentence": "That's it!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wait_for_it_to_boil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Wait"
+                  },
+                  {
+                    "end": 64,
+                    "start": 40,
+                    "word": "for"
+                  },
+                  {
+                    "end": 75,
+                    "start": 65,
+                    "word": "it"
+                  },
+                  {
+                    "end": 88,
+                    "start": 76,
+                    "word": "to"
+                  },
+                  {
+                    "end": 138,
+                    "start": 89,
+                    "word": "boil"
+                  }
+                ],
+                "until": 138,
+                "utterances": "Wait for it to boil"
+              }
+            ],
+            "sentence": "Wait for it to boil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_glad_you_can_join_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 52,
+                    "word": "am"
+                  },
+                  {
+                    "end": 118,
+                    "start": 71,
+                    "word": "glad"
+                  },
+                  {
+                    "end": 135,
+                    "start": 119,
+                    "word": "you"
+                  },
+                  {
+                    "end": 166,
+                    "start": 136,
+                    "word": "can"
+                  },
+                  {
+                    "end": 212,
+                    "start": 167,
+                    "word": "join"
+                  },
+                  {
+                    "end": 226,
+                    "start": 213,
+                    "word": "me"
+                  }
+                ],
+                "until": 226,
+                "utterances": "I am glad you can join me"
+              }
+            ],
+            "sentence": "I am glad you can join me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "just_don_t_get_burnt_by_the_hot_coil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Just"
+                  },
+                  {
+                    "end": 89,
+                    "start": 51,
+                    "word": "don't"
+                  },
+                  {
+                    "end": 110,
+                    "start": 90,
+                    "word": "get"
+                  },
+                  {
+                    "end": 162,
+                    "start": 127,
+                    "word": "burnt"
+                  },
+                  {
+                    "end": 188,
+                    "start": 172,
+                    "word": "by"
+                  },
+                  {
+                    "end": 201,
+                    "start": 189,
+                    "word": "the"
+                  },
+                  {
+                    "end": 229,
+                    "start": 202,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 305,
+                    "start": 254,
+                    "word": "coil"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Just don't get burnt by the hot coil"
+              }
+            ],
+            "sentence": "Just don't get burnt by the hot coil!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 109,
+                    "start": 63,
+                    "word": "end"
+                  }
+                ],
+                "until": 109,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "How To Make Spaghetti",
+  "titleimage": null
+}

@@ -1,0 +1,742 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_saw_a_hawk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 58,
+                    "start": 22,
+                    "word": "saw"
+                  },
+                  {
+                    "end": 78,
+                    "start": 59,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 92,
+                    "word": "hawk"
+                  }
+                ],
+                "until": 129,
+                "utterances": "I saw a hawk"
+              }
+            ],
+            "sentence": "I saw a hawk!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_huge.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 29,
+                    "word": "was"
+                  },
+                  {
+                    "end": 133,
+                    "start": 60,
+                    "word": "huge"
+                  }
+                ],
+                "until": 133,
+                "utterances": "It was huge"
+              }
+            ],
+            "sentence": "It was huge."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_huge_hawk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 52,
+                    "start": 27,
+                    "word": "was"
+                  },
+                  {
+                    "end": 64,
+                    "start": 53,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 65,
+                    "word": "huge"
+                  },
+                  {
+                    "end": 158,
+                    "start": 111,
+                    "word": "hawk"
+                  }
+                ],
+                "until": 158,
+                "utterances": "It was a huge hawk"
+              }
+            ],
+            "sentence": "It was a huge hawk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_saw_the_huge_hawk_at_the_zoo.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 42,
+                    "start": 22,
+                    "word": "saw"
+                  },
+                  {
+                    "end": 68,
+                    "start": 61,
+                    "word": "the"
+                  },
+                  {
+                    "end": 112,
+                    "start": 69,
+                    "word": "huge"
+                  },
+                  {
+                    "end": 154,
+                    "start": 113,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 176,
+                    "start": 167,
+                    "word": "at"
+                  },
+                  {
+                    "end": 182,
+                    "start": 177,
+                    "word": "the"
+                  },
+                  {
+                    "end": 228,
+                    "start": 183,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 228,
+                "utterances": "I saw the huge hawk at the zoo"
+              }
+            ],
+            "sentence": "I saw the huge hawk at the zoo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_sat_on_a_tree_in_a_big_cage.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 50,
+                    "start": 27,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 84,
+                    "start": 51,
+                    "word": "on"
+                  },
+                  {
+                    "end": 93,
+                    "start": 85,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 94,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 142,
+                    "start": 135,
+                    "word": "in"
+                  },
+                  {
+                    "end": 163,
+                    "start": 143,
+                    "word": "a"
+                  },
+                  {
+                    "end": 208,
+                    "start": 164,
+                    "word": "big"
+                  },
+                  {
+                    "end": 268,
+                    "start": 209,
+                    "word": "cage"
+                  }
+                ],
+                "until": 268,
+                "utterances": "It sat on a tree in a big cage"
+              }
+            ],
+            "sentence": "It sat on a tree in a big cage."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hawk_had_a_claw_on_each_foot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 26,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 75,
+                    "start": 67,
+                    "word": "had"
+                  },
+                  {
+                    "end": 92,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 161,
+                    "start": 93,
+                    "word": "claw"
+                  },
+                  {
+                    "end": 182,
+                    "start": 162,
+                    "word": "on"
+                  },
+                  {
+                    "end": 209,
+                    "start": 183,
+                    "word": "each"
+                  },
+                  {
+                    "end": 252,
+                    "start": 210,
+                    "word": "foot"
+                  }
+                ],
+                "until": 252,
+                "utterances": "The hawk had a claw on each foot"
+              }
+            ],
+            "sentence": "The hawk had a claw on each foot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_if_the_hawk_got_out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 58,
+                    "start": 41,
+                    "word": "if"
+                  },
+                  {
+                    "end": 68,
+                    "start": 59,
+                    "word": "the"
+                  },
+                  {
+                    "end": 113,
+                    "start": 69,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 136,
+                    "start": 114,
+                    "word": "got"
+                  },
+                  {
+                    "end": 179,
+                    "start": 137,
+                    "word": "out"
+                  }
+                ],
+                "until": 179,
+                "utterances": "What if the hawk got out"
+              }
+            ],
+            "sentence": "What if the hawk got out?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_if_it_came_to_our_house.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 52,
+                    "start": 36,
+                    "word": "if"
+                  },
+                  {
+                    "end": 63,
+                    "start": 53,
+                    "word": "it"
+                  },
+                  {
+                    "end": 103,
+                    "start": 64,
+                    "word": "came"
+                  },
+                  {
+                    "end": 119,
+                    "start": 104,
+                    "word": "to"
+                  },
+                  {
+                    "end": 142,
+                    "start": 120,
+                    "word": "our"
+                  },
+                  {
+                    "end": 201,
+                    "start": 143,
+                    "word": "house"
+                  }
+                ],
+                "until": 201,
+                "utterances": "What if it came to our house"
+              }
+            ],
+            "sentence": "What if it came to our house?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_would_you_do_if_a_hawk_came_and_sat_on_your_lawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 59,
+                    "start": 36,
+                    "word": "would"
+                  },
+                  {
+                    "end": 82,
+                    "start": 60,
+                    "word": "you"
+                  },
+                  {
+                    "end": 119,
+                    "start": 83,
+                    "word": "do"
+                  },
+                  {
+                    "end": 142,
+                    "start": 120,
+                    "word": "if"
+                  },
+                  {
+                    "end": 148,
+                    "start": 143,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 149,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 235,
+                    "start": 195,
+                    "word": "came"
+                  },
+                  {
+                    "end": 247,
+                    "start": 236,
+                    "word": "and"
+                  },
+                  {
+                    "end": 275,
+                    "start": 248,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 300,
+                    "start": 276,
+                    "word": "on"
+                  },
+                  {
+                    "end": 321,
+                    "start": 301,
+                    "word": "your"
+                  },
+                  {
+                    "end": 369,
+                    "start": 322,
+                    "word": "lawn"
+                  }
+                ],
+                "until": 369,
+                "utterances": "What would you do if a hawk came and sat on your lawn"
+              }
+            ],
+            "sentence": "What would you do if a hawk came and sat on your lawn?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_would_hide.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 50,
+                    "start": 28,
+                    "word": "would"
+                  },
+                  {
+                    "end": 96,
+                    "start": 51,
+                    "word": "hide"
+                  }
+                ],
+                "until": 96,
+                "utterances": "I would hide"
+              }
+            ],
+            "sentence": "I would hide."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_would_crawl_under_a_bush.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 45,
+                    "start": 24,
+                    "word": "would"
+                  },
+                  {
+                    "end": 108,
+                    "start": 52,
+                    "word": "crawl"
+                  },
+                  {
+                    "end": 145,
+                    "start": 112,
+                    "word": "under"
+                  },
+                  {
+                    "end": 155,
+                    "start": 146,
+                    "word": "a"
+                  },
+                  {
+                    "end": 206,
+                    "start": 156,
+                    "word": "bush"
+                  }
+                ],
+                "until": 206,
+                "utterances": "I would crawl under a bush"
+              }
+            ],
+            "sentence": "I would crawl under a bush."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_the_hawk_could_not_get_me_with_his_claw.mp3",
+                "from": 26,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 26,
+                    "word": "So"
+                  },
+                  {
+                    "end": 51,
+                    "start": 40,
+                    "word": "the"
+                  },
+                  {
+                    "end": 97,
+                    "start": 52,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 127,
+                    "start": 108,
+                    "word": "could"
+                  },
+                  {
+                    "end": 153,
+                    "start": 128,
+                    "word": "not"
+                  },
+                  {
+                    "end": 167,
+                    "start": 154,
+                    "word": "get"
+                  },
+                  {
+                    "end": 195,
+                    "start": 168,
+                    "word": "me"
+                  },
+                  {
+                    "end": 216,
+                    "start": 196,
+                    "word": "with"
+                  },
+                  {
+                    "end": 237,
+                    "start": 217,
+                    "word": "his"
+                  },
+                  {
+                    "end": 280,
+                    "start": 238,
+                    "word": "claw"
+                  }
+                ],
+                "until": 280,
+                "utterances": "So the hawk could not get me with his claw"
+              }
+            ],
+            "sentence": "So the hawk could not get me with his claw."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_hawk_looks_mean.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 80,
+                    "start": 40,
+                    "word": "hawk"
+                  },
+                  {
+                    "end": 103,
+                    "start": 81,
+                    "word": "looks"
+                  },
+                  {
+                    "end": 152,
+                    "start": 104,
+                    "word": "mean"
+                  }
+                ],
+                "until": 152,
+                "utterances": "That hawk looks mean"
+              }
+            ],
+            "sentence": "That hawk looks mean!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 29,
+                    "word": "end"
+                  }
+                ],
+                "until": 66,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "What If a Hawk Came to Get You?",
+  "titleimage": null
+}

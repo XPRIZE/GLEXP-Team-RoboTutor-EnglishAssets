@@ -1,0 +1,990 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "z_is_a_letter_i_know_you_can_read.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Z"
+                  },
+                  {
+                    "end": 87,
+                    "start": 55,
+                    "word": "is"
+                  },
+                  {
+                    "end": 90,
+                    "start": 88,
+                    "word": "a"
+                  },
+                  {
+                    "end": 154,
+                    "start": 91,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 172,
+                    "start": 161,
+                    "word": "I"
+                  },
+                  {
+                    "end": 215,
+                    "start": 173,
+                    "word": "know"
+                  },
+                  {
+                    "end": 236,
+                    "start": 216,
+                    "word": "you"
+                  },
+                  {
+                    "end": 259,
+                    "start": 237,
+                    "word": "can"
+                  },
+                  {
+                    "end": 313,
+                    "start": 260,
+                    "word": "read"
+                  }
+                ],
+                "until": 313,
+                "utterances": "Z is a letter I know you can read"
+              }
+            ],
+            "sentence": "Z is a letter I know you can read."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zap_zip_and_zoo_are_words_that_you_need.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Zap"
+                  },
+                  {
+                    "end": 108,
+                    "start": 80,
+                    "word": "Zip"
+                  },
+                  {
+                    "end": 149,
+                    "start": 130,
+                    "word": "and"
+                  },
+                  {
+                    "end": 205,
+                    "start": 150,
+                    "word": "Zoo"
+                  },
+                  {
+                    "end": 230,
+                    "start": 213,
+                    "word": "are"
+                  },
+                  {
+                    "end": 288,
+                    "start": 231,
+                    "word": "words"
+                  },
+                  {
+                    "end": 315,
+                    "start": 289,
+                    "word": "that"
+                  },
+                  {
+                    "end": 325,
+                    "start": 316,
+                    "word": "you"
+                  },
+                  {
+                    "end": 379,
+                    "start": 326,
+                    "word": "need"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Zap Zip and Zoo are words that you need"
+              }
+            ],
+            "sentence": "Zap, Zip, and Zoo are words that you need."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_witch_on_a_broom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 66,
+                    "start": 19,
+                    "word": "witch"
+                  },
+                  {
+                    "end": 93,
+                    "start": 75,
+                    "word": "on"
+                  },
+                  {
+                    "end": 101,
+                    "start": 94,
+                    "word": "a"
+                  },
+                  {
+                    "end": 153,
+                    "start": 102,
+                    "word": "broom"
+                  }
+                ],
+                "until": 153,
+                "utterances": "A witch on a broom"
+              }
+            ],
+            "sentence": "A witch on a broom"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goes_zippity_zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "goes"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "zippity"
+                  },
+                  {
+                    "end": 175,
+                    "start": 117,
+                    "word": "zoom"
+                  }
+                ],
+                "until": 175,
+                "utterances": "goes zippity zoom"
+              }
+            ],
+            "sentence": "goes zippity zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "z_is_in_buzz_the_sound_made_by_bees.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 10,
+                    "word": "Z"
+                  },
+                  {
+                    "end": 98,
+                    "start": 74,
+                    "word": "is"
+                  },
+                  {
+                    "end": 119,
+                    "start": 99,
+                    "word": "in"
+                  },
+                  {
+                    "end": 183,
+                    "start": 120,
+                    "word": "buzz"
+                  },
+                  {
+                    "end": 206,
+                    "start": 196,
+                    "word": "the"
+                  },
+                  {
+                    "end": 265,
+                    "start": 207,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 279,
+                    "start": 266,
+                    "word": "made"
+                  },
+                  {
+                    "end": 311,
+                    "start": 280,
+                    "word": "by"
+                  },
+                  {
+                    "end": 377,
+                    "start": 312,
+                    "word": "bees"
+                  }
+                ],
+                "until": 377,
+                "utterances": "Z is in buzz the sound made by bees"
+              }
+            ],
+            "sentence": "Z is in buzz, the sound made by bees,"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_i_know_two_more_words_that_have_double_zees.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "but"
+                  },
+                  {
+                    "end": 42,
+                    "start": 35,
+                    "word": "I"
+                  },
+                  {
+                    "end": 74,
+                    "start": 43,
+                    "word": "know"
+                  },
+                  {
+                    "end": 109,
+                    "start": 75,
+                    "word": "two"
+                  },
+                  {
+                    "end": 141,
+                    "start": 115,
+                    "word": "more"
+                  },
+                  {
+                    "end": 200,
+                    "start": 142,
+                    "word": "words"
+                  },
+                  {
+                    "end": 219,
+                    "start": 201,
+                    "word": "that"
+                  },
+                  {
+                    "end": 251,
+                    "start": 220,
+                    "word": "have"
+                  },
+                  {
+                    "end": 298,
+                    "start": 262,
+                    "word": "double"
+                  },
+                  {
+                    "end": 366,
+                    "start": 299,
+                    "word": "Zees"
+                  }
+                ],
+                "until": 366,
+                "utterances": "but I know two more words that have double Zees"
+              }
+            ],
+            "sentence": "but I know two more words that have double Zees."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_of_these_words_is_covered_in_cheese.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 49,
+                    "start": 33,
+                    "word": "of"
+                  },
+                  {
+                    "end": 71,
+                    "start": 50,
+                    "word": "these"
+                  },
+                  {
+                    "end": 127,
+                    "start": 72,
+                    "word": "words"
+                  },
+                  {
+                    "end": 150,
+                    "start": 133,
+                    "word": "is"
+                  },
+                  {
+                    "end": 206,
+                    "start": 151,
+                    "word": "covered"
+                  },
+                  {
+                    "end": 223,
+                    "start": 207,
+                    "word": "in"
+                  },
+                  {
+                    "end": 311,
+                    "start": 224,
+                    "word": "cheese"
+                  }
+                ],
+                "until": 311,
+                "utterances": "One of these words is covered in cheese"
+              }
+            ],
+            "sentence": "One of these words is covered in cheese,"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_boy_let_me_tell_you.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "and"
+                  },
+                  {
+                    "end": 74,
+                    "start": 33,
+                    "word": "boy"
+                  },
+                  {
+                    "end": 92,
+                    "start": 75,
+                    "word": "let"
+                  },
+                  {
+                    "end": 112,
+                    "start": 93,
+                    "word": "me"
+                  },
+                  {
+                    "end": 145,
+                    "start": 113,
+                    "word": "tell"
+                  },
+                  {
+                    "end": 174,
+                    "start": 146,
+                    "word": "you"
+                  }
+                ],
+                "until": 174,
+                "utterances": "and boy let me tell you"
+              }
+            ],
+            "sentence": "and, boy, let me tell you,"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_s_better_than_peas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "it's"
+                  },
+                  {
+                    "end": 82,
+                    "start": 39,
+                    "word": "better"
+                  },
+                  {
+                    "end": 105,
+                    "start": 83,
+                    "word": "than"
+                  },
+                  {
+                    "end": 174,
+                    "start": 106,
+                    "word": "peas"
+                  }
+                ],
+                "until": 174,
+                "utterances": "it's better than peas"
+              }
+            ],
+            "sentence": "it's better than peas."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pizza_is_spelled_p_i_z_z_a.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Pizza"
+                  },
+                  {
+                    "end": 89,
+                    "start": 75,
+                    "word": "is"
+                  },
+                  {
+                    "end": 147,
+                    "start": 90,
+                    "word": "spelled"
+                  },
+                  {
+                    "end": 178,
+                    "start": 148,
+                    "word": "p"
+                  },
+                  {
+                    "end": 203,
+                    "start": 179,
+                    "word": "i"
+                  },
+                  {
+                    "end": 247,
+                    "start": 212,
+                    "word": "z"
+                  },
+                  {
+                    "end": 288,
+                    "start": 248,
+                    "word": "z"
+                  },
+                  {
+                    "end": 325,
+                    "start": 289,
+                    "word": "a"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Pizza is spelled p i z z a"
+              }
+            ],
+            "sentence": "Pizza is spelled p i z z a."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_there_s_one_more_word_with_two_zees_today.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 62,
+                    "start": 45,
+                    "word": "there's"
+                  },
+                  {
+                    "end": 94,
+                    "start": 63,
+                    "word": "one"
+                  },
+                  {
+                    "end": 130,
+                    "start": 95,
+                    "word": "more"
+                  },
+                  {
+                    "end": 173,
+                    "start": 134,
+                    "word": "word"
+                  },
+                  {
+                    "end": 193,
+                    "start": 174,
+                    "word": "with"
+                  },
+                  {
+                    "end": 227,
+                    "start": 194,
+                    "word": "two"
+                  },
+                  {
+                    "end": 287,
+                    "start": 228,
+                    "word": "Zees"
+                  },
+                  {
+                    "end": 315,
+                    "start": 288,
+                    "word": "today"
+                  }
+                ],
+                "until": 315,
+                "utterances": "And there's one more word with two Zees today"
+              }
+            ],
+            "sentence": "And there's one more word with two Zees today."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_this_word.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 64,
+                    "start": 59,
+                    "word": "at"
+                  },
+                  {
+                    "end": 87,
+                    "start": 65,
+                    "word": "this"
+                  },
+                  {
+                    "end": 130,
+                    "start": 88,
+                    "word": "word"
+                  }
+                ],
+                "until": 130,
+                "utterances": "Look at this word"
+              }
+            ],
+            "sentence": "Look at this word"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "with_so_many_letters.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "with"
+                  },
+                  {
+                    "end": 66,
+                    "start": 31,
+                    "word": "so"
+                  },
+                  {
+                    "end": 92,
+                    "start": 67,
+                    "word": "many"
+                  },
+                  {
+                    "end": 161,
+                    "start": 93,
+                    "word": "letters"
+                  }
+                ],
+                "until": 161,
+                "utterances": "with so many letters"
+              }
+            ],
+            "sentence": "with so many letters."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_read_together_to_help_learn_it_better.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 66,
+                    "start": 41,
+                    "word": "read"
+                  },
+                  {
+                    "end": 131,
+                    "start": 67,
+                    "word": "together"
+                  },
+                  {
+                    "end": 154,
+                    "start": 138,
+                    "word": "to"
+                  },
+                  {
+                    "end": 181,
+                    "start": 161,
+                    "word": "help"
+                  },
+                  {
+                    "end": 204,
+                    "start": 182,
+                    "word": "learn"
+                  },
+                  {
+                    "end": 211,
+                    "start": 205,
+                    "word": "it"
+                  },
+                  {
+                    "end": 260,
+                    "start": 212,
+                    "word": "better"
+                  }
+                ],
+                "until": 260,
+                "utterances": "Let's read together to help learn it better"
+              }
+            ],
+            "sentence": "Let's read together to help learn it better..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "m_o_z_z_a_r_e_l_l_a_spells_mozzarella.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "m"
+                  },
+                  {
+                    "end": 63,
+                    "start": 33,
+                    "word": "o"
+                  },
+                  {
+                    "end": 92,
+                    "start": 64,
+                    "word": "z"
+                  },
+                  {
+                    "end": 117,
+                    "start": 93,
+                    "word": "z"
+                  },
+                  {
+                    "end": 148,
+                    "start": 128,
+                    "word": "a"
+                  },
+                  {
+                    "end": 197,
+                    "start": 149,
+                    "word": "r"
+                  },
+                  {
+                    "end": 228,
+                    "start": 202,
+                    "word": "e"
+                  },
+                  {
+                    "end": 263,
+                    "start": 229,
+                    "word": "l"
+                  },
+                  {
+                    "end": 295,
+                    "start": 268,
+                    "word": "l"
+                  },
+                  {
+                    "end": 328,
+                    "start": 299,
+                    "word": "a"
+                  },
+                  {
+                    "end": 379,
+                    "start": 329,
+                    "word": "spells"
+                  },
+                  {
+                    "end": 475,
+                    "start": 380,
+                    "word": "mozzarella"
+                  }
+                ],
+                "until": 475,
+                "utterances": "m o z z a r e l l a spells mozzarella"
+              }
+            ],
+            "sentence": "m o z z a r e l l a spells mozzarella."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mozzarella_is_the_name_of_the_cheese_on_your_pizza.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 10,
+                    "word": "Mozzarella"
+                  },
+                  {
+                    "end": 109,
+                    "start": 93,
+                    "word": "is"
+                  },
+                  {
+                    "end": 117,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 157,
+                    "start": 118,
+                    "word": "name"
+                  },
+                  {
+                    "end": 175,
+                    "start": 158,
+                    "word": "of"
+                  },
+                  {
+                    "end": 187,
+                    "start": 176,
+                    "word": "the"
+                  },
+                  {
+                    "end": 239,
+                    "start": 188,
+                    "word": "cheese"
+                  },
+                  {
+                    "end": 264,
+                    "start": 240,
+                    "word": "on"
+                  },
+                  {
+                    "end": 282,
+                    "start": 265,
+                    "word": "your"
+                  },
+                  {
+                    "end": 327,
+                    "start": 283,
+                    "word": "pizza"
+                  }
+                ],
+                "until": 327,
+                "utterances": "Mozzarella is the name of the cheese on your pizza"
+              }
+            ],
+            "sentence": "Mozzarella is the name of the cheese on your pizza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zap_zip_zoo_buzz_and_mozzarella_pizza.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Zap"
+                  },
+                  {
+                    "end": 97,
+                    "start": 55,
+                    "word": "zip"
+                  },
+                  {
+                    "end": 134,
+                    "start": 98,
+                    "word": "zoo"
+                  },
+                  {
+                    "end": 184,
+                    "start": 140,
+                    "word": "buzz"
+                  },
+                  {
+                    "end": 204,
+                    "start": 185,
+                    "word": "and"
+                  },
+                  {
+                    "end": 274,
+                    "start": 205,
+                    "word": "mozzarella"
+                  },
+                  {
+                    "end": 337,
+                    "start": 275,
+                    "word": "pizza"
+                  }
+                ],
+                "until": 337,
+                "utterances": "Zap zip zoo buzz and mozzarella pizza"
+              }
+            ],
+            "sentence": "Zap, zip, zoo, buzz, and mozzarella pizza!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Z is a Letter for us to Read Better",
+  "titleimage": null
+}

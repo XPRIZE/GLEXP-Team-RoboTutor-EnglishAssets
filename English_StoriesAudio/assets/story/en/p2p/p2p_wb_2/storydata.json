@@ -1,0 +1,525 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_has_big_feet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 61,
+                    "start": 39,
+                    "word": "has"
+                  },
+                  {
+                    "end": 97,
+                    "start": 62,
+                    "word": "big"
+                  },
+                  {
+                    "end": 144,
+                    "start": 98,
+                    "word": "feet"
+                  }
+                ],
+                "until": 144,
+                "utterances": "Pop has big feet"
+              }
+            ],
+            "sentence": "Pop has big feet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_can_hop_up_steps.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 63,
+                    "start": 44,
+                    "word": "can"
+                  },
+                  {
+                    "end": 97,
+                    "start": 64,
+                    "word": "hop"
+                  },
+                  {
+                    "end": 114,
+                    "start": 98,
+                    "word": "up"
+                  },
+                  {
+                    "end": 178,
+                    "start": 115,
+                    "word": "steps"
+                  }
+                ],
+                "until": 178,
+                "utterances": "Pop can hop up steps"
+              }
+            ],
+            "sentence": "Pop can hop up steps."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_can_step_on_a_big_twig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 67,
+                    "start": 51,
+                    "word": "can"
+                  },
+                  {
+                    "end": 107,
+                    "start": 68,
+                    "word": "step"
+                  },
+                  {
+                    "end": 123,
+                    "start": 108,
+                    "word": "on"
+                  },
+                  {
+                    "end": 131,
+                    "start": 124,
+                    "word": "a"
+                  },
+                  {
+                    "end": 172,
+                    "start": 132,
+                    "word": "big"
+                  },
+                  {
+                    "end": 224,
+                    "start": 173,
+                    "word": "twig"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Pop can step on a big twig"
+              }
+            ],
+            "sentence": "Pop can step on a big twig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_can_hop_in_the_pit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 64,
+                    "start": 46,
+                    "word": "can"
+                  },
+                  {
+                    "end": 111,
+                    "start": 65,
+                    "word": "hop"
+                  },
+                  {
+                    "end": 125,
+                    "start": 112,
+                    "word": "in"
+                  },
+                  {
+                    "end": 137,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 138,
+                    "word": "pit"
+                  }
+                ],
+                "until": 172,
+                "utterances": "Pop can hop in the pit"
+              }
+            ],
+            "sentence": "Pop can hop in the pit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_jump_in_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 27,
+                    "start": 2,
+                    "word": "can"
+                  },
+                  {
+                    "end": 72,
+                    "start": 28,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 88,
+                    "start": 73,
+                    "word": "in"
+                  },
+                  {
+                    "end": 97,
+                    "start": 89,
+                    "word": "the"
+                  },
+                  {
+                    "end": 147,
+                    "start": 98,
+                    "word": "pond"
+                  }
+                ],
+                "until": 147,
+                "utterances": "He can jump in the pond"
+              }
+            ],
+            "sentence": "He can jump in the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_can_hop_and_spin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 80,
+                    "start": 59,
+                    "word": "can"
+                  },
+                  {
+                    "end": 122,
+                    "start": 81,
+                    "word": "hop"
+                  },
+                  {
+                    "end": 140,
+                    "start": 123,
+                    "word": "and"
+                  },
+                  {
+                    "end": 206,
+                    "start": 141,
+                    "word": "spin"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Pop can hop and spin"
+              }
+            ],
+            "sentence": "Pop can hop and spin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_can_twist_and_bend.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 69,
+                    "start": 41,
+                    "word": "can"
+                  },
+                  {
+                    "end": 125,
+                    "start": 70,
+                    "word": "twist"
+                  },
+                  {
+                    "end": 147,
+                    "start": 126,
+                    "word": "and"
+                  },
+                  {
+                    "end": 202,
+                    "start": 148,
+                    "word": "bend"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Pop can twist and bend"
+              }
+            ],
+            "sentence": "Pop can twist and bend."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_slips.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 111,
+                    "start": 39,
+                    "word": "slips"
+                  }
+                ],
+                "until": 111,
+                "utterances": "Pop slips"
+              }
+            ],
+            "sentence": "Pop slips!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_stops.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 124,
+                    "start": 44,
+                    "word": "stops"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Pop stops"
+              }
+            ],
+            "sentence": "Pop stops."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_sits.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 123,
+                    "start": 56,
+                    "word": "sits"
+                  }
+                ],
+                "until": 123,
+                "utterances": "Pop sits"
+              }
+            ],
+            "sentence": "Pop sits."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_slaps_pop_s_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 99,
+                    "start": 48,
+                    "word": "slaps"
+                  },
+                  {
+                    "end": 141,
+                    "start": 100,
+                    "word": "Pop's"
+                  },
+                  {
+                    "end": 188,
+                    "start": 148,
+                    "word": "hand"
+                  }
+                ],
+                "until": 188,
+                "utterances": "Pat slaps Pop's hand"
+              }
+            ],
+            "sentence": "Pat slaps Pop's hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pop_must_rub_his_feet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Pop"
+                  },
+                  {
+                    "end": 76,
+                    "start": 43,
+                    "word": "must"
+                  },
+                  {
+                    "end": 111,
+                    "start": 77,
+                    "word": "rub"
+                  },
+                  {
+                    "end": 132,
+                    "start": 112,
+                    "word": "his"
+                  },
+                  {
+                    "end": 165,
+                    "start": 133,
+                    "word": "feet"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Pop must rub his feet"
+              }
+            ],
+            "sentence": "Pop must rub his feet!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Pop",
+  "titleimage": null
+}

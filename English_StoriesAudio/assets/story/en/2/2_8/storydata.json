@@ -1,0 +1,1423 @@
+{
+  "author": "Bukheye Mulongo Christopher and Rose Alungho",
+  "data": [
+    {
+      "image": "clever_goats_5_page_2_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "once_upon_a_time_a_man_had_two_goats.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 16,
+                    "word": "Once"
+                  },
+                  {
+                    "end": 74,
+                    "start": 47,
+                    "word": "upon"
+                  },
+                  {
+                    "end": 83,
+                    "start": 75,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 84,
+                    "word": "time"
+                  },
+                  {
+                    "end": 138,
+                    "start": 130,
+                    "word": "a"
+                  },
+                  {
+                    "end": 184,
+                    "start": 139,
+                    "word": "man"
+                  },
+                  {
+                    "end": 203,
+                    "start": 185,
+                    "word": "had"
+                  },
+                  {
+                    "end": 219,
+                    "start": 204,
+                    "word": "two"
+                  },
+                  {
+                    "end": 285,
+                    "start": 220,
+                    "word": "goats"
+                  }
+                ],
+                "until": 285,
+                "utterances": "Once upon a time a man had two goats"
+              },
+              {
+                "audio": "he_used_to_keep_them_in_a_goat_house_and_shut_the_door_every_evening.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "he"
+                  },
+                  {
+                    "end": 62,
+                    "start": 29,
+                    "word": "used"
+                  },
+                  {
+                    "end": 78,
+                    "start": 63,
+                    "word": "to"
+                  },
+                  {
+                    "end": 87,
+                    "start": 79,
+                    "word": "keep"
+                  },
+                  {
+                    "end": 98,
+                    "start": 88,
+                    "word": "them"
+                  },
+                  {
+                    "end": 109,
+                    "start": 99,
+                    "word": "in"
+                  },
+                  {
+                    "end": 114,
+                    "start": 110,
+                    "word": "a"
+                  },
+                  {
+                    "end": 141,
+                    "start": 115,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 187,
+                    "start": 142,
+                    "word": "house"
+                  },
+                  {
+                    "end": 204,
+                    "start": 188,
+                    "word": "and"
+                  },
+                  {
+                    "end": 236,
+                    "start": 205,
+                    "word": "shut"
+                  },
+                  {
+                    "end": 243,
+                    "start": 237,
+                    "word": "the"
+                  },
+                  {
+                    "end": 286,
+                    "start": 244,
+                    "word": "door"
+                  },
+                  {
+                    "end": 329,
+                    "start": 287,
+                    "word": "every"
+                  },
+                  {
+                    "end": 366,
+                    "start": 330,
+                    "word": "evening"
+                  }
+                ],
+                "until": 366,
+                "utterances": "he used to keep them in a goat house and shut the door every evening"
+              }
+            ],
+            "sentence": "Once upon a time, a man had two goats; he used to keep them in a goat house and shut the door every evening."
+          },
+          {
+            "narration": [
+              {
+                "audio": "in_the_morning_he_opened_the_door_and_took_them_to_graze.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 20,
+                    "word": "In"
+                  },
+                  {
+                    "end": 41,
+                    "start": 35,
+                    "word": "the"
+                  },
+                  {
+                    "end": 98,
+                    "start": 42,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 118,
+                    "start": 113,
+                    "word": "he"
+                  },
+                  {
+                    "end": 151,
+                    "start": 119,
+                    "word": "opened"
+                  },
+                  {
+                    "end": 159,
+                    "start": 152,
+                    "word": "the"
+                  },
+                  {
+                    "end": 208,
+                    "start": 160,
+                    "word": "door"
+                  },
+                  {
+                    "end": 220,
+                    "start": 209,
+                    "word": "and"
+                  },
+                  {
+                    "end": 241,
+                    "start": 221,
+                    "word": "took"
+                  },
+                  {
+                    "end": 253,
+                    "start": 242,
+                    "word": "them"
+                  },
+                  {
+                    "end": 264,
+                    "start": 254,
+                    "word": "to"
+                  },
+                  {
+                    "end": 381,
+                    "start": 265,
+                    "word": "graze"
+                  }
+                ],
+                "until": 381,
+                "utterances": "In the morning he opened the door and took them to graze"
+              }
+            ],
+            "sentence": "In the morning, he opened the door and took them to graze."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_used_to_tether_them_where_there_was_not_enough_grass.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 1,
+                    "word": "He"
+                  },
+                  {
+                    "end": 65,
+                    "start": 27,
+                    "word": "used"
+                  },
+                  {
+                    "end": 80,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 120,
+                    "start": 81,
+                    "word": "tether"
+                  },
+                  {
+                    "end": 154,
+                    "start": 121,
+                    "word": "them"
+                  },
+                  {
+                    "end": 175,
+                    "start": 155,
+                    "word": "where"
+                  },
+                  {
+                    "end": 191,
+                    "start": 176,
+                    "word": "there"
+                  },
+                  {
+                    "end": 217,
+                    "start": 192,
+                    "word": "was"
+                  },
+                  {
+                    "end": 247,
+                    "start": 218,
+                    "word": "not"
+                  },
+                  {
+                    "end": 284,
+                    "start": 248,
+                    "word": "enough"
+                  },
+                  {
+                    "end": 361,
+                    "start": 285,
+                    "word": "grass"
+                  }
+                ],
+                "until": 361,
+                "utterances": "He used to tether them where there was not enough grass"
+              }
+            ],
+            "sentence": "He used to tether them where there was not enough grass."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_goats_5_page_3_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_goats_never_had_enough_to_eat.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 69,
+                    "start": 29,
+                    "word": "goats"
+                  },
+                  {
+                    "end": 113,
+                    "start": 70,
+                    "word": "never"
+                  },
+                  {
+                    "end": 132,
+                    "start": 114,
+                    "word": "had"
+                  },
+                  {
+                    "end": 161,
+                    "start": 133,
+                    "word": "enough"
+                  },
+                  {
+                    "end": 186,
+                    "start": 162,
+                    "word": "to"
+                  },
+                  {
+                    "end": 218,
+                    "start": 187,
+                    "word": "eat"
+                  }
+                ],
+                "until": 218,
+                "utterances": "The goats never had enough to eat"
+              }
+            ],
+            "sentence": "The goats never had enough to eat."
+          },
+          {
+            "narration": [
+              {
+                "audio": "one_night_the_goats_discussed_how_to_open_the_door_and_get_out_to_find_food.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 82,
+                    "start": 44,
+                    "word": "night"
+                  },
+                  {
+                    "end": 91,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 131,
+                    "start": 92,
+                    "word": "goats"
+                  },
+                  {
+                    "end": 195,
+                    "start": 132,
+                    "word": "discussed"
+                  },
+                  {
+                    "end": 214,
+                    "start": 196,
+                    "word": "how"
+                  },
+                  {
+                    "end": 235,
+                    "start": 215,
+                    "word": "to"
+                  },
+                  {
+                    "end": 262,
+                    "start": 236,
+                    "word": "open"
+                  },
+                  {
+                    "end": 270,
+                    "start": 263,
+                    "word": "the"
+                  },
+                  {
+                    "end": 326,
+                    "start": 271,
+                    "word": "door"
+                  },
+                  {
+                    "end": 346,
+                    "start": 327,
+                    "word": "and"
+                  },
+                  {
+                    "end": 374,
+                    "start": 347,
+                    "word": "get"
+                  },
+                  {
+                    "end": 398,
+                    "start": 375,
+                    "word": "out"
+                  },
+                  {
+                    "end": 405,
+                    "start": 399,
+                    "word": "to"
+                  },
+                  {
+                    "end": 452,
+                    "start": 406,
+                    "word": "find"
+                  },
+                  {
+                    "end": 479,
+                    "start": 453,
+                    "word": "food"
+                  }
+                ],
+                "until": 479,
+                "utterances": "One night the goats discussed how to open the door and get out to find food"
+              }
+            ],
+            "sentence": "One night, the goats discussed how to open the door and get out to find food."
+          },
+          {
+            "narration": [
+              {
+                "audio": "one_goat_found_a_way_of_opening_the_door.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 71,
+                    "start": 47,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 114,
+                    "start": 72,
+                    "word": "found"
+                  },
+                  {
+                    "end": 118,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 119,
+                    "word": "way"
+                  },
+                  {
+                    "end": 160,
+                    "start": 143,
+                    "word": "of"
+                  },
+                  {
+                    "end": 210,
+                    "start": 161,
+                    "word": "opening"
+                  },
+                  {
+                    "end": 222,
+                    "start": 211,
+                    "word": "the"
+                  },
+                  {
+                    "end": 266,
+                    "start": 223,
+                    "word": "door"
+                  }
+                ],
+                "until": 266,
+                "utterances": "One goat found a way of opening the door"
+              }
+            ],
+            "sentence": "One goat found a way of opening the door."
+          },
+          {
+            "narration": [
+              {
+                "audio": "they_went_out_and_ate_potato_vines_belonging_to_the_home.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 1,
+                    "word": "They"
+                  },
+                  {
+                    "end": 54,
+                    "start": 21,
+                    "word": "went"
+                  },
+                  {
+                    "end": 105,
+                    "start": 55,
+                    "word": "out"
+                  },
+                  {
+                    "end": 130,
+                    "start": 106,
+                    "word": "and"
+                  },
+                  {
+                    "end": 137,
+                    "start": 131,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 170,
+                    "start": 138,
+                    "word": "potato"
+                  },
+                  {
+                    "end": 226,
+                    "start": 171,
+                    "word": "vines"
+                  },
+                  {
+                    "end": 282,
+                    "start": 227,
+                    "word": "belonging"
+                  },
+                  {
+                    "end": 301,
+                    "start": 283,
+                    "word": "to"
+                  },
+                  {
+                    "end": 312,
+                    "start": 302,
+                    "word": "the"
+                  },
+                  {
+                    "end": 340,
+                    "start": 313,
+                    "word": "home"
+                  }
+                ],
+                "until": 340,
+                "utterances": "They went out and ate potato vines belonging to the home"
+              }
+            ],
+            "sentence": "They went out and ate potato vines belonging to the home."
+          },
+          {
+            "narration": [
+              {
+                "audio": "after_eating_they_went_back_to_the_goat_house_and_shut_the_door.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "After"
+                  },
+                  {
+                    "end": 97,
+                    "start": 59,
+                    "word": "eating"
+                  },
+                  {
+                    "end": 126,
+                    "start": 98,
+                    "word": "they"
+                  },
+                  {
+                    "end": 157,
+                    "start": 127,
+                    "word": "went"
+                  },
+                  {
+                    "end": 184,
+                    "start": 158,
+                    "word": "back"
+                  },
+                  {
+                    "end": 192,
+                    "start": 185,
+                    "word": "to"
+                  },
+                  {
+                    "end": 201,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 228,
+                    "start": 202,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 275,
+                    "start": 229,
+                    "word": "house"
+                  },
+                  {
+                    "end": 289,
+                    "start": 276,
+                    "word": "and"
+                  },
+                  {
+                    "end": 329,
+                    "start": 290,
+                    "word": "shut"
+                  },
+                  {
+                    "end": 337,
+                    "start": 330,
+                    "word": "the"
+                  },
+                  {
+                    "end": 379,
+                    "start": 338,
+                    "word": "door"
+                  }
+                ],
+                "until": 379,
+                "utterances": "After eating they went back to the goat house and shut the door"
+              }
+            ],
+            "sentence": "After eating, they went back to the goat house and shut the door."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_goats_5_page_4_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_the_morning_the_man_discovered_that_his_vines_had_been_eaten_by_some_animals.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 20,
+                    "word": "In"
+                  },
+                  {
+                    "end": 44,
+                    "start": 38,
+                    "word": "the"
+                  },
+                  {
+                    "end": 110,
+                    "start": 45,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 123,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 154,
+                    "start": 124,
+                    "word": "man"
+                  },
+                  {
+                    "end": 213,
+                    "start": 155,
+                    "word": "discovered"
+                  },
+                  {
+                    "end": 224,
+                    "start": 214,
+                    "word": "that"
+                  },
+                  {
+                    "end": 245,
+                    "start": 225,
+                    "word": "his"
+                  },
+                  {
+                    "end": 306,
+                    "start": 246,
+                    "word": "vines"
+                  },
+                  {
+                    "end": 339,
+                    "start": 307,
+                    "word": "had"
+                  },
+                  {
+                    "end": 358,
+                    "start": 340,
+                    "word": "been"
+                  },
+                  {
+                    "end": 392,
+                    "start": 359,
+                    "word": "eaten"
+                  },
+                  {
+                    "end": 406,
+                    "start": 393,
+                    "word": "by"
+                  },
+                  {
+                    "end": 434,
+                    "start": 407,
+                    "word": "some"
+                  },
+                  {
+                    "end": 569,
+                    "start": 435,
+                    "word": "animals"
+                  }
+                ],
+                "until": 569,
+                "utterances": "In the morning the man discovered that his vines had been eaten by some animals"
+              }
+            ],
+            "sentence": "In the morning, the man discovered that his vines had been eaten by some animals."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_suspected_his_neighbour_s_goats.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 108,
+                    "start": 31,
+                    "word": "suspected"
+                  },
+                  {
+                    "end": 127,
+                    "start": 109,
+                    "word": "his"
+                  },
+                  {
+                    "end": 170,
+                    "start": 128,
+                    "word": "neighbour's"
+                  },
+                  {
+                    "end": 219,
+                    "start": 171,
+                    "word": "goats"
+                  }
+                ],
+                "until": 219,
+                "utterances": "He suspected his neighbour's goats"
+              }
+            ],
+            "sentence": "He suspected his neighbour's goats."
+          },
+          {
+            "narration": [
+              {
+                "audio": "that_night_his_goats_opened_the_door_again_and_ate_more_vines.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 20,
+                    "word": "That"
+                  },
+                  {
+                    "end": 75,
+                    "start": 46,
+                    "word": "night"
+                  },
+                  {
+                    "end": 100,
+                    "start": 76,
+                    "word": "his"
+                  },
+                  {
+                    "end": 128,
+                    "start": 101,
+                    "word": "goats"
+                  },
+                  {
+                    "end": 158,
+                    "start": 129,
+                    "word": "opened"
+                  },
+                  {
+                    "end": 167,
+                    "start": 159,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 168,
+                    "word": "door"
+                  },
+                  {
+                    "end": 236,
+                    "start": 196,
+                    "word": "again"
+                  },
+                  {
+                    "end": 278,
+                    "start": 254,
+                    "word": "and"
+                  },
+                  {
+                    "end": 305,
+                    "start": 279,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 325,
+                    "start": 306,
+                    "word": "more"
+                  },
+                  {
+                    "end": 390,
+                    "start": 326,
+                    "word": "vines"
+                  }
+                ],
+                "until": 390,
+                "utterances": "That night his goats opened the door again and ate more vines"
+              }
+            ],
+            "sentence": "That night, his goats opened the door again and ate more vines."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_goats_5_page_5_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_following_morning_the_man_found_the_vines_eaten.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 19,
+                    "word": "The"
+                  },
+                  {
+                    "end": 81,
+                    "start": 29,
+                    "word": "following"
+                  },
+                  {
+                    "end": 128,
+                    "start": 82,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 152,
+                    "start": 129,
+                    "word": "the"
+                  },
+                  {
+                    "end": 187,
+                    "start": 153,
+                    "word": "man"
+                  },
+                  {
+                    "end": 237,
+                    "start": 188,
+                    "word": "found"
+                  },
+                  {
+                    "end": 243,
+                    "start": 238,
+                    "word": "the"
+                  },
+                  {
+                    "end": 303,
+                    "start": 244,
+                    "word": "vines"
+                  },
+                  {
+                    "end": 340,
+                    "start": 304,
+                    "word": "eaten"
+                  }
+                ],
+                "until": 340,
+                "utterances": "The following morning the man found the vines eaten"
+              }
+            ],
+            "sentence": "The following morning, the man found the vines eaten."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_was_upset.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 20,
+                    "word": "He"
+                  },
+                  {
+                    "end": 57,
+                    "start": 33,
+                    "word": "was"
+                  },
+                  {
+                    "end": 125,
+                    "start": 58,
+                    "word": "upset"
+                  }
+                ],
+                "until": 125,
+                "utterances": "He was upset"
+              }
+            ],
+            "sentence": "He was upset."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_planned_to_check_on_his_vines_that_night.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 73,
+                    "start": 27,
+                    "word": "planned"
+                  },
+                  {
+                    "end": 90,
+                    "start": 74,
+                    "word": "to"
+                  },
+                  {
+                    "end": 128,
+                    "start": 91,
+                    "word": "check"
+                  },
+                  {
+                    "end": 142,
+                    "start": 129,
+                    "word": "on"
+                  },
+                  {
+                    "end": 161,
+                    "start": 143,
+                    "word": "his"
+                  },
+                  {
+                    "end": 206,
+                    "start": 162,
+                    "word": "vines"
+                  },
+                  {
+                    "end": 245,
+                    "start": 207,
+                    "word": "that"
+                  },
+                  {
+                    "end": 279,
+                    "start": 246,
+                    "word": "night"
+                  }
+                ],
+                "until": 279,
+                "utterances": "He planned to check on his vines that night"
+              }
+            ],
+            "sentence": "He planned to check on his vines that night."
+          },
+          {
+            "narration": [
+              {
+                "audio": "in_the_middle_of_the_night_he_came_out_with_a_spear.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 2,
+                    "word": "In"
+                  },
+                  {
+                    "end": 37,
+                    "start": 27,
+                    "word": "the"
+                  },
+                  {
+                    "end": 60,
+                    "start": 38,
+                    "word": "middle"
+                  },
+                  {
+                    "end": 68,
+                    "start": 61,
+                    "word": "of"
+                  },
+                  {
+                    "end": 88,
+                    "start": 69,
+                    "word": "the"
+                  },
+                  {
+                    "end": 107,
+                    "start": 89,
+                    "word": "night"
+                  },
+                  {
+                    "end": 154,
+                    "start": 140,
+                    "word": "he"
+                  },
+                  {
+                    "end": 188,
+                    "start": 155,
+                    "word": "came"
+                  },
+                  {
+                    "end": 226,
+                    "start": 189,
+                    "word": "out"
+                  },
+                  {
+                    "end": 239,
+                    "start": 227,
+                    "word": "with"
+                  },
+                  {
+                    "end": 243,
+                    "start": 240,
+                    "word": "a"
+                  },
+                  {
+                    "end": 324,
+                    "start": 244,
+                    "word": "spear"
+                  }
+                ],
+                "until": 324,
+                "utterances": "In the middle of the night he came out with a spear"
+              }
+            ],
+            "sentence": "In the middle of the night, he came out with a spear."
+          },
+          {
+            "narration": [
+              {
+                "audio": "he_tiptoed_towards_the_goats_aimed_and_threw_the_spear.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 7,
+                    "start": 2,
+                    "word": "He"
+                  },
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "tiptoed"
+                  },
+                  {
+                    "end": 115,
+                    "start": 84,
+                    "word": "towards"
+                  },
+                  {
+                    "end": 123,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 124,
+                    "word": "goats"
+                  },
+                  {
+                    "end": 257,
+                    "start": 205,
+                    "word": "aimed"
+                  },
+                  {
+                    "end": 274,
+                    "start": 258,
+                    "word": "and"
+                  },
+                  {
+                    "end": 334,
+                    "start": 275,
+                    "word": "threw"
+                  },
+                  {
+                    "end": 345,
+                    "start": 335,
+                    "word": "the"
+                  },
+                  {
+                    "end": 405,
+                    "start": 346,
+                    "word": "spear"
+                  }
+                ],
+                "until": 405,
+                "utterances": "He tiptoed towards the goats aimed and threw the spear"
+              }
+            ],
+            "sentence": "He tiptoed towards the goats, aimed and threw the spear."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "clever_goats_5_page_6_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_goat_was_speared_and_the_other_ran_away.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 2,
+                    "word": "One"
+                  },
+                  {
+                    "end": 60,
+                    "start": 44,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 77,
+                    "start": 61,
+                    "word": "was"
+                  },
+                  {
+                    "end": 134,
+                    "start": 78,
+                    "word": "speared"
+                  },
+                  {
+                    "end": 147,
+                    "start": 135,
+                    "word": "and"
+                  },
+                  {
+                    "end": 168,
+                    "start": 148,
+                    "word": "the"
+                  },
+                  {
+                    "end": 197,
+                    "start": 169,
+                    "word": "other"
+                  },
+                  {
+                    "end": 218,
+                    "start": 198,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 246,
+                    "start": 219,
+                    "word": "away"
+                  }
+                ],
+                "until": 246,
+                "utterances": "One goat was speared and the other ran away"
+              }
+            ],
+            "sentence": "One goat was speared and the other ran away."
+          },
+          {
+            "narration": [
+              {
+                "audio": "the_man_went_back_to_the_house.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 2,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 25,
+                    "word": "man"
+                  },
+                  {
+                    "end": 79,
+                    "start": 64,
+                    "word": "went"
+                  },
+                  {
+                    "end": 112,
+                    "start": 80,
+                    "word": "back"
+                  },
+                  {
+                    "end": 121,
+                    "start": 113,
+                    "word": "to"
+                  },
+                  {
+                    "end": 136,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 192,
+                    "start": 137,
+                    "word": "house"
+                  }
+                ],
+                "until": 192,
+                "utterances": "The man went back to the house"
+              }
+            ],
+            "sentence": "The man went back to the house."
+          },
+          {
+            "narration": [
+              {
+                "audio": "in_the_morning_he_went_to_check_on_what_he_had_speared_only_to_find_out_that_he_had_speared_his_own__4.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 21,
+                    "word": "In"
+                  },
+                  {
+                    "end": 41,
+                    "start": 36,
+                    "word": "the"
+                  },
+                  {
+                    "end": 90,
+                    "start": 42,
+                    "word": "morning"
+                  },
+                  {
+                    "end": 103,
+                    "start": 91,
+                    "word": "he"
+                  },
+                  {
+                    "end": 133,
+                    "start": 104,
+                    "word": "went"
+                  },
+                  {
+                    "end": 144,
+                    "start": 134,
+                    "word": "to"
+                  },
+                  {
+                    "end": 182,
+                    "start": 145,
+                    "word": "check"
+                  },
+                  {
+                    "end": 202,
+                    "start": 183,
+                    "word": "on"
+                  },
+                  {
+                    "end": 217,
+                    "start": 203,
+                    "word": "what"
+                  },
+                  {
+                    "end": 226,
+                    "start": 218,
+                    "word": "he"
+                  },
+                  {
+                    "end": 242,
+                    "start": 227,
+                    "word": "had"
+                  },
+                  {
+                    "end": 355,
+                    "start": 243,
+                    "word": "speared"
+                  },
+                  {
+                    "end": 391,
+                    "start": 356,
+                    "word": "only"
+                  },
+                  {
+                    "end": 404,
+                    "start": 392,
+                    "word": "to"
+                  },
+                  {
+                    "end": 440,
+                    "start": 405,
+                    "word": "find"
+                  },
+                  {
+                    "end": 487,
+                    "start": 441,
+                    "word": "out"
+                  },
+                  {
+                    "end": 505,
+                    "start": 488,
+                    "word": "that"
+                  },
+                  {
+                    "end": 516,
+                    "start": 506,
+                    "word": "he"
+                  },
+                  {
+                    "end": 536,
+                    "start": 517,
+                    "word": "had"
+                  },
+                  {
+                    "end": 634,
+                    "start": 537,
+                    "word": "speared"
+                  },
+                  {
+                    "end": 662,
+                    "start": 635,
+                    "word": "his"
+                  },
+                  {
+                    "end": 707,
+                    "start": 671,
+                    "word": "own"
+                  },
+                  {
+                    "end": 756,
+                    "start": 708,
+                    "word": "goat"
+                  }
+                ],
+                "until": 756,
+                "utterances": "In the morning he went to check on what he had speared only to find out that he had speared his own goat"
+              }
+            ],
+            "sentence": "In the morning, he went to check on what he had speared, only to find out that he had speared his own goat."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_was_very_sorry.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 18,
+                    "word": "He"
+                  },
+                  {
+                    "end": 63,
+                    "start": 38,
+                    "word": "was"
+                  },
+                  {
+                    "end": 117,
+                    "start": 64,
+                    "word": "very"
+                  },
+                  {
+                    "end": 184,
+                    "start": 118,
+                    "word": "sorry"
+                  }
+                ],
+                "until": 184,
+                "utterances": "He was very sorry"
+              }
+            ],
+            "sentence": "He was very sorry."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "2",
+  "title": "Clever Goats",
+  "titleimage": "clever_goats_5_page_01_image_0001.jpg"
+}

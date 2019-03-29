@@ -1,0 +1,650 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_get_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 70,
+                    "start": 35,
+                    "word": "you"
+                  },
+                  {
+                    "end": 92,
+                    "start": 71,
+                    "word": "get"
+                  },
+                  {
+                    "end": 109,
+                    "start": 100,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 110,
+                    "word": "box"
+                  }
+                ],
+                "until": 172,
+                "utterances": "Can you get the box"
+              }
+            ],
+            "sentence": "Can you get the box?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_is_in_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 72,
+                    "start": 50,
+                    "word": "is"
+                  },
+                  {
+                    "end": 104,
+                    "start": 76,
+                    "word": "in"
+                  },
+                  {
+                    "end": 111,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 112,
+                    "word": "box"
+                  }
+                ],
+                "until": 174,
+                "utterances": "What is in the box"
+              }
+            ],
+            "sentence": "What is in the box?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "six_ants_hid_in_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "Six"
+                  },
+                  {
+                    "end": 128,
+                    "start": 78,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 175,
+                    "start": 143,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 197,
+                    "start": 176,
+                    "word": "in"
+                  },
+                  {
+                    "end": 208,
+                    "start": 198,
+                    "word": "the"
+                  },
+                  {
+                    "end": 271,
+                    "start": 209,
+                    "word": "box"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Six ants hid in the box"
+              }
+            ],
+            "sentence": "Six ants hid in the box."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fox_got_in_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 89,
+                    "start": 26,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 112,
+                    "start": 90,
+                    "word": "got"
+                  },
+                  {
+                    "end": 148,
+                    "start": 123,
+                    "word": "in"
+                  },
+                  {
+                    "end": 157,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 223,
+                    "start": 158,
+                    "word": "box"
+                  }
+                ],
+                "until": 223,
+                "utterances": "A fox got in the box"
+              }
+            ],
+            "sentence": "A fox got in the box."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_box_has_six_ants_and_a_fox.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 31,
+                    "word": "box"
+                  },
+                  {
+                    "end": 108,
+                    "start": 83,
+                    "word": "has"
+                  },
+                  {
+                    "end": 161,
+                    "start": 109,
+                    "word": "six"
+                  },
+                  {
+                    "end": 213,
+                    "start": 162,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 250,
+                    "start": 219,
+                    "word": "and"
+                  },
+                  {
+                    "end": 262,
+                    "start": 251,
+                    "word": "a"
+                  },
+                  {
+                    "end": 327,
+                    "start": 270,
+                    "word": "fox"
+                  }
+                ],
+                "until": 327,
+                "utterances": "The box has six ants and a fox"
+              }
+            ],
+            "sentence": "The box has six ants and a fox."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_got_in_the_box_next.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 66,
+                    "start": 38,
+                    "word": "got"
+                  },
+                  {
+                    "end": 84,
+                    "start": 67,
+                    "word": "in"
+                  },
+                  {
+                    "end": 94,
+                    "start": 85,
+                    "word": "the"
+                  },
+                  {
+                    "end": 140,
+                    "start": 95,
+                    "word": "box"
+                  },
+                  {
+                    "end": 207,
+                    "start": 141,
+                    "word": "next"
+                  }
+                ],
+                "until": 207,
+                "utterances": "What got in the box next"
+              }
+            ],
+            "sentence": "What got in the box next?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_pig_got_in_next.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 75,
+                    "start": 44,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 107,
+                    "start": 76,
+                    "word": "got"
+                  },
+                  {
+                    "end": 145,
+                    "start": 116,
+                    "word": "in"
+                  },
+                  {
+                    "end": 199,
+                    "start": 146,
+                    "word": "next"
+                  }
+                ],
+                "until": 199,
+                "utterances": "A pig got in next"
+              }
+            ],
+            "sentence": "A pig got in next!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_box_has_six_ants_a_fox_and_a_pig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 29,
+                    "word": "box"
+                  },
+                  {
+                    "end": 98,
+                    "start": 79,
+                    "word": "has"
+                  },
+                  {
+                    "end": 140,
+                    "start": 99,
+                    "word": "six"
+                  },
+                  {
+                    "end": 199,
+                    "start": 141,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 218,
+                    "start": 206,
+                    "word": "a"
+                  },
+                  {
+                    "end": 274,
+                    "start": 219,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 314,
+                    "start": 275,
+                    "word": "and"
+                  },
+                  {
+                    "end": 321,
+                    "start": 315,
+                    "word": "a"
+                  },
+                  {
+                    "end": 364,
+                    "start": 322,
+                    "word": "pig"
+                  }
+                ],
+                "until": 364,
+                "utterances": "The box has six ants a fox and a pig"
+              }
+            ],
+            "sentence": "The box has six ants, a fox, and a pig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_got_in_the_box_next.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 66,
+                    "start": 38,
+                    "word": "got"
+                  },
+                  {
+                    "end": 84,
+                    "start": 67,
+                    "word": "in"
+                  },
+                  {
+                    "end": 94,
+                    "start": 85,
+                    "word": "the"
+                  },
+                  {
+                    "end": 140,
+                    "start": 95,
+                    "word": "box"
+                  },
+                  {
+                    "end": 207,
+                    "start": 141,
+                    "word": "next"
+                  }
+                ],
+                "until": 207,
+                "utterances": "What got in the box next"
+              }
+            ],
+            "sentence": "What got in the box next?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_t_rex_got_in_the_box.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 100,
+                    "start": 29,
+                    "word": "T-rex"
+                  },
+                  {
+                    "end": 125,
+                    "start": 101,
+                    "word": "got"
+                  },
+                  {
+                    "end": 140,
+                    "start": 126,
+                    "word": "in"
+                  },
+                  {
+                    "end": 148,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 206,
+                    "start": 149,
+                    "word": "box"
+                  }
+                ],
+                "until": 206,
+                "utterances": "A T-rex got in the box"
+              }
+            ],
+            "sentence": "A T-rex got in the box!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_box_has_six_ants_a_fox_a_pig_and_a_t_rex.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 46,
+                    "word": "box"
+                  },
+                  {
+                    "end": 122,
+                    "start": 96,
+                    "word": "has"
+                  },
+                  {
+                    "end": 168,
+                    "start": 123,
+                    "word": "six"
+                  },
+                  {
+                    "end": 224,
+                    "start": 175,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 246,
+                    "start": 232,
+                    "word": "a"
+                  },
+                  {
+                    "end": 304,
+                    "start": 247,
+                    "word": "fox"
+                  },
+                  {
+                    "end": 324,
+                    "start": 312,
+                    "word": "a"
+                  },
+                  {
+                    "end": 380,
+                    "start": 325,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 396,
+                    "start": 381,
+                    "word": "and"
+                  },
+                  {
+                    "end": 407,
+                    "start": 397,
+                    "word": "a"
+                  },
+                  {
+                    "end": 492,
+                    "start": 408,
+                    "word": "T-rex"
+                  }
+                ],
+                "until": 492,
+                "utterances": "The box has six ants a fox a pig and a T-rex"
+              }
+            ],
+            "sentence": "The box has six ants, a fox, a pig, and a T-rex."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_mix.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 52,
+                    "start": 49,
+                    "word": "a"
+                  },
+                  {
+                    "end": 117,
+                    "start": 53,
+                    "word": "mix"
+                  }
+                ],
+                "until": 117,
+                "utterances": "What a mix"
+              }
+            ],
+            "sentence": "What a mix!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Box",
+  "titleimage": null
+}

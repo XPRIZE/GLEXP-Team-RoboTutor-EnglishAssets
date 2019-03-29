@@ -1,0 +1,651 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_went_in_the_car_with_mom_and_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 93,
+                    "start": 57,
+                    "word": "went"
+                  },
+                  {
+                    "end": 111,
+                    "start": 94,
+                    "word": "in"
+                  },
+                  {
+                    "end": 121,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 171,
+                    "start": 122,
+                    "word": "car"
+                  },
+                  {
+                    "end": 202,
+                    "start": 172,
+                    "word": "with"
+                  },
+                  {
+                    "end": 240,
+                    "start": 203,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 267,
+                    "start": 241,
+                    "word": "and"
+                  },
+                  {
+                    "end": 305,
+                    "start": 268,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Josh went in the car with Mom and Dad"
+              }
+            ],
+            "sentence": "Josh went in the car with Mom and Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_get_to_a_farm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 63,
+                    "start": 33,
+                    "word": "get"
+                  },
+                  {
+                    "end": 111,
+                    "start": 78,
+                    "word": "to"
+                  },
+                  {
+                    "end": 125,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 222,
+                    "start": 126,
+                    "word": "farm"
+                  }
+                ],
+                "until": 222,
+                "utterances": "They get to a farm"
+              }
+            ],
+            "sentence": "They get to a farm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_jumps_from_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 86,
+                    "start": 36,
+                    "word": "jumps"
+                  },
+                  {
+                    "end": 135,
+                    "start": 98,
+                    "word": "from"
+                  },
+                  {
+                    "end": 150,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 207,
+                    "start": 151,
+                    "word": "car"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Josh jumps from the car"
+              }
+            ],
+            "sentence": "Josh jumps from the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "josh_can_see_a_star.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Josh"
+                  },
+                  {
+                    "end": 86,
+                    "start": 62,
+                    "word": "can"
+                  },
+                  {
+                    "end": 120,
+                    "start": 87,
+                    "word": "see"
+                  },
+                  {
+                    "end": 137,
+                    "start": 121,
+                    "word": "a"
+                  },
+                  {
+                    "end": 205,
+                    "start": 138,
+                    "word": "star"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Josh can see a star"
+              }
+            ],
+            "sentence": "Josh can see a star."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_to_look_hard.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 67,
+                    "start": 30,
+                    "word": "has"
+                  },
+                  {
+                    "end": 86,
+                    "start": 68,
+                    "word": "to"
+                  },
+                  {
+                    "end": 118,
+                    "start": 87,
+                    "word": "look"
+                  },
+                  {
+                    "end": 175,
+                    "start": 119,
+                    "word": "hard"
+                  }
+                ],
+                "until": 175,
+                "utterances": "He has to look hard"
+              }
+            ],
+            "sentence": "He has to look hard."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_and_dad_went_to_park_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 76,
+                    "start": 52,
+                    "word": "and"
+                  },
+                  {
+                    "end": 115,
+                    "start": 77,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 162,
+                    "start": 116,
+                    "word": "went"
+                  },
+                  {
+                    "end": 180,
+                    "start": 163,
+                    "word": "to"
+                  },
+                  {
+                    "end": 220,
+                    "start": 181,
+                    "word": "park"
+                  },
+                  {
+                    "end": 233,
+                    "start": 221,
+                    "word": "the"
+                  },
+                  {
+                    "end": 288,
+                    "start": 234,
+                    "word": "car"
+                  }
+                ],
+                "until": 288,
+                "utterances": "Mom and Dad went to park the car"
+              }
+            ],
+            "sentence": "Mom and Dad went to park the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_they_got_to_the_farm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 119,
+                    "start": 80,
+                    "word": "they"
+                  },
+                  {
+                    "end": 146,
+                    "start": 120,
+                    "word": "got"
+                  },
+                  {
+                    "end": 184,
+                    "start": 158,
+                    "word": "to"
+                  },
+                  {
+                    "end": 195,
+                    "start": 185,
+                    "word": "the"
+                  },
+                  {
+                    "end": 242,
+                    "start": 196,
+                    "word": "farm"
+                  }
+                ],
+                "until": 242,
+                "utterances": "Then they got to the farm"
+              }
+            ],
+            "sentence": "Then, they got to the farm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_can_see_the_star.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 82,
+                    "start": 56,
+                    "word": "can"
+                  },
+                  {
+                    "end": 125,
+                    "start": 83,
+                    "word": "see"
+                  },
+                  {
+                    "end": 137,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 187,
+                    "start": 138,
+                    "word": "star"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Mom can see the star"
+              }
+            ],
+            "sentence": "Mom can see the star."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_big_star.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 90,
+                    "start": 53,
+                    "word": "is"
+                  },
+                  {
+                    "end": 113,
+                    "start": 91,
+                    "word": "a"
+                  },
+                  {
+                    "end": 157,
+                    "start": 114,
+                    "word": "big"
+                  },
+                  {
+                    "end": 220,
+                    "start": 158,
+                    "word": "star"
+                  }
+                ],
+                "until": 220,
+                "utterances": "It is a big star"
+              }
+            ],
+            "sentence": "It is a big star."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_not_a_dim_dot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 65,
+                    "start": 40,
+                    "word": "is"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "not"
+                  },
+                  {
+                    "end": 136,
+                    "start": 119,
+                    "word": "a"
+                  },
+                  {
+                    "end": 185,
+                    "start": 137,
+                    "word": "dim"
+                  },
+                  {
+                    "end": 220,
+                    "start": 186,
+                    "word": "dot"
+                  }
+                ],
+                "until": 220,
+                "utterances": "It is not a dim dot"
+              }
+            ],
+            "sentence": "It is not a dim dot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_starts_to_look.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 105,
+                    "start": 54,
+                    "word": "starts"
+                  },
+                  {
+                    "end": 124,
+                    "start": 106,
+                    "word": "to"
+                  },
+                  {
+                    "end": 160,
+                    "start": 125,
+                    "word": "look"
+                  }
+                ],
+                "until": 160,
+                "utterances": "Dad starts to look"
+              }
+            ],
+            "sentence": "Dad starts to look."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_can_see_the_star.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 68,
+                    "start": 40,
+                    "word": "can"
+                  },
+                  {
+                    "end": 103,
+                    "start": 69,
+                    "word": "see"
+                  },
+                  {
+                    "end": 115,
+                    "start": 104,
+                    "word": "the"
+                  },
+                  {
+                    "end": 168,
+                    "start": 116,
+                    "word": "star"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Dad can see the star"
+              }
+            ],
+            "sentence": "Dad can see the star."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_grand_star_it_is.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 78,
+                    "start": 56,
+                    "word": "a"
+                  },
+                  {
+                    "end": 132,
+                    "start": 79,
+                    "word": "grand"
+                  },
+                  {
+                    "end": 196,
+                    "start": 133,
+                    "word": "star"
+                  },
+                  {
+                    "end": 211,
+                    "start": 197,
+                    "word": "it"
+                  },
+                  {
+                    "end": 261,
+                    "start": 212,
+                    "word": "is"
+                  }
+                ],
+                "until": 261,
+                "utterances": "What a grand star it is"
+              }
+            ],
+            "sentence": "What a grand star it is!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "What a Grand Star",
+  "titleimage": null
+}

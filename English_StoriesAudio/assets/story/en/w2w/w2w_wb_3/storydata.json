@@ -1,0 +1,595 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_went_to_the_bog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 25,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 82,
+                    "start": 44,
+                    "word": "went"
+                  },
+                  {
+                    "end": 104,
+                    "start": 86,
+                    "word": "to"
+                  },
+                  {
+                    "end": 115,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 116,
+                    "word": "bog"
+                  }
+                ],
+                "until": 172,
+                "utterances": "The frog went to the bog"
+              }
+            ],
+            "sentence": "The frog went to the bog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_vast_bog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 55,
+                    "start": 40,
+                    "word": "is"
+                  },
+                  {
+                    "end": 66,
+                    "start": 56,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 67,
+                    "word": "vast"
+                  },
+                  {
+                    "end": 179,
+                    "start": 128,
+                    "word": "bog"
+                  }
+                ],
+                "until": 179,
+                "utterances": "It is a vast bog"
+              }
+            ],
+            "sentence": "It is a vast bog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_frog_met_the_rat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 44,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 107,
+                    "start": 45,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 135,
+                    "start": 108,
+                    "word": "met"
+                  },
+                  {
+                    "end": 154,
+                    "start": 143,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 155,
+                    "word": "rat"
+                  }
+                ],
+                "until": 199,
+                "utterances": "But the frog met the rat"
+              }
+            ],
+            "sentence": "But the frog met the rat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_the_bat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 66,
+                    "start": 56,
+                    "word": "the"
+                  },
+                  {
+                    "end": 114,
+                    "start": 67,
+                    "word": "bat"
+                  }
+                ],
+                "until": 114,
+                "utterances": "And the bat"
+              }
+            ],
+            "sentence": "And the bat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bat_had_a_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 55,
+                    "word": "bat"
+                  },
+                  {
+                    "end": 121,
+                    "start": 96,
+                    "word": "had"
+                  },
+                  {
+                    "end": 130,
+                    "start": 122,
+                    "word": "a"
+                  },
+                  {
+                    "end": 179,
+                    "start": 131,
+                    "word": "wig"
+                  }
+                ],
+                "until": 179,
+                "utterances": "The bat had a wig"
+              }
+            ],
+            "sentence": "The bat had a wig!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bat_the_rat_and_the_frog_went_in_the_sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 24,
+                    "word": "bat"
+                  },
+                  {
+                    "end": 93,
+                    "start": 76,
+                    "word": "the"
+                  },
+                  {
+                    "end": 136,
+                    "start": 94,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 171,
+                    "start": 145,
+                    "word": "and"
+                  },
+                  {
+                    "end": 180,
+                    "start": 172,
+                    "word": "the"
+                  },
+                  {
+                    "end": 230,
+                    "start": 181,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 276,
+                    "start": 231,
+                    "word": "went"
+                  },
+                  {
+                    "end": 309,
+                    "start": 283,
+                    "word": "in"
+                  },
+                  {
+                    "end": 320,
+                    "start": 310,
+                    "word": "the"
+                  },
+                  {
+                    "end": 389,
+                    "start": 321,
+                    "word": "sun"
+                  }
+                ],
+                "until": 389,
+                "utterances": "The bat the rat and the frog went in the sun"
+              }
+            ],
+            "sentence": "The bat, the rat, and the frog went in the sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_went_to_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 99,
+                    "start": 37,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 142,
+                    "start": 100,
+                    "word": "went"
+                  },
+                  {
+                    "end": 163,
+                    "start": 143,
+                    "word": "to"
+                  },
+                  {
+                    "end": 227,
+                    "start": 164,
+                    "word": "swim"
+                  }
+                ],
+                "until": 227,
+                "utterances": "The frog went to swim"
+              }
+            ],
+            "sentence": "The frog went to swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 64,
+                    "start": 32,
+                    "word": "got"
+                  },
+                  {
+                    "end": 117,
+                    "start": 65,
+                    "word": "wet"
+                  }
+                ],
+                "until": 117,
+                "utterances": "It got wet"
+              }
+            ],
+            "sentence": "It got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bat_went_to_twist_its_wig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 30,
+                    "word": "bat"
+                  },
+                  {
+                    "end": 131,
+                    "start": 80,
+                    "word": "went"
+                  },
+                  {
+                    "end": 142,
+                    "start": 132,
+                    "word": "to"
+                  },
+                  {
+                    "end": 199,
+                    "start": 143,
+                    "word": "twist"
+                  },
+                  {
+                    "end": 230,
+                    "start": 208,
+                    "word": "its"
+                  },
+                  {
+                    "end": 276,
+                    "start": 231,
+                    "word": "wig"
+                  }
+                ],
+                "until": 276,
+                "utterances": "The bat went to twist its wig"
+              }
+            ],
+            "sentence": "The bat went to twist its wig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_got_twisted_in_a_web.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 61,
+                    "start": 34,
+                    "word": "got"
+                  },
+                  {
+                    "end": 139,
+                    "start": 73,
+                    "word": "twisted"
+                  },
+                  {
+                    "end": 155,
+                    "start": 140,
+                    "word": "in"
+                  },
+                  {
+                    "end": 162,
+                    "start": 156,
+                    "word": "a"
+                  },
+                  {
+                    "end": 218,
+                    "start": 163,
+                    "word": "web"
+                  }
+                ],
+                "until": 218,
+                "utterances": "It got twisted in a web"
+              }
+            ],
+            "sentence": "It got twisted in a web."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rat_went_to_wag_its_tail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 32,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 125,
+                    "start": 83,
+                    "word": "went"
+                  },
+                  {
+                    "end": 143,
+                    "start": 126,
+                    "word": "to"
+                  },
+                  {
+                    "end": 190,
+                    "start": 144,
+                    "word": "wag"
+                  },
+                  {
+                    "end": 213,
+                    "start": 191,
+                    "word": "its"
+                  },
+                  {
+                    "end": 252,
+                    "start": 214,
+                    "word": "tail"
+                  }
+                ],
+                "until": 252,
+                "utterances": "The rat went to wag its tail"
+              }
+            ],
+            "sentence": "The rat went to wag its tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_felt_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 72,
+                    "start": 34,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 109,
+                    "start": 85,
+                    "word": "wet"
+                  }
+                ],
+                "until": 109,
+                "utterances": "It felt wet"
+              }
+            ],
+            "sentence": "It felt wet."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Frog and the Bog",
+  "titleimage": null
+}

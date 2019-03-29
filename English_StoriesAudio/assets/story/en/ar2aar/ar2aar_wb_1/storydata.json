@@ -1,0 +1,682 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_got_in_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 124,
+                    "start": 87,
+                    "word": "got"
+                  },
+                  {
+                    "end": 152,
+                    "start": 125,
+                    "word": "in"
+                  },
+                  {
+                    "end": 168,
+                    "start": 153,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 169,
+                    "word": "car"
+                  }
+                ],
+                "until": 222,
+                "utterances": "Mark got in the car"
+              }
+            ],
+            "sentence": "Mark got in the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_it_did_not_start.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 50,
+                    "start": 37,
+                    "word": "it"
+                  },
+                  {
+                    "end": 93,
+                    "start": 59,
+                    "word": "did"
+                  },
+                  {
+                    "end": 128,
+                    "start": 94,
+                    "word": "not"
+                  },
+                  {
+                    "end": 191,
+                    "start": 129,
+                    "word": "start"
+                  }
+                ],
+                "until": 191,
+                "utterances": "But it did not start"
+              }
+            ],
+            "sentence": "But it did not start."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_car_did_not_have_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 27,
+                    "word": "car"
+                  },
+                  {
+                    "end": 98,
+                    "start": 79,
+                    "word": "did"
+                  },
+                  {
+                    "end": 133,
+                    "start": 99,
+                    "word": "not"
+                  },
+                  {
+                    "end": 174,
+                    "start": 134,
+                    "word": "have"
+                  },
+                  {
+                    "end": 240,
+                    "start": 175,
+                    "word": "gas"
+                  }
+                ],
+                "until": 240,
+                "utterances": "The car did not have gas"
+              }
+            ],
+            "sentence": "The car did not have gas!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_went_up_the_road.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 88,
+                    "start": 55,
+                    "word": "went"
+                  },
+                  {
+                    "end": 100,
+                    "start": 89,
+                    "word": "up"
+                  },
+                  {
+                    "end": 139,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 186,
+                    "start": 140,
+                    "word": "road"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Mark went up the road"
+              }
+            ],
+            "sentence": "Mark went up the road."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_went_past_a_park.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 75,
+                    "start": 40,
+                    "word": "went"
+                  },
+                  {
+                    "end": 139,
+                    "start": 120,
+                    "word": "past"
+                  },
+                  {
+                    "end": 162,
+                    "start": 140,
+                    "word": "a"
+                  },
+                  {
+                    "end": 211,
+                    "start": 163,
+                    "word": "park"
+                  }
+                ],
+                "until": 211,
+                "utterances": "He went past a park"
+              }
+            ],
+            "sentence": "He went past a park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_went_past_a_big_log.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 62,
+                    "start": 34,
+                    "word": "went"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "past"
+                  },
+                  {
+                    "end": 136,
+                    "start": 119,
+                    "word": "a"
+                  },
+                  {
+                    "end": 177,
+                    "start": 137,
+                    "word": "big"
+                  },
+                  {
+                    "end": 224,
+                    "start": 178,
+                    "word": "log"
+                  }
+                ],
+                "until": 224,
+                "utterances": "He went past a big log"
+              }
+            ],
+            "sentence": "He went past a big log."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_he_got_to_a_farm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 93,
+                    "start": 68,
+                    "word": "he"
+                  },
+                  {
+                    "end": 122,
+                    "start": 94,
+                    "word": "got"
+                  },
+                  {
+                    "end": 167,
+                    "start": 136,
+                    "word": "to"
+                  },
+                  {
+                    "end": 177,
+                    "start": 171,
+                    "word": "a"
+                  },
+                  {
+                    "end": 229,
+                    "start": 178,
+                    "word": "farm"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Then he got to a farm"
+              }
+            ],
+            "sentence": "Then he got to a farm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_asks_for_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 114,
+                    "start": 86,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 140,
+                    "start": 115,
+                    "word": "for"
+                  },
+                  {
+                    "end": 200,
+                    "start": 141,
+                    "word": "gas"
+                  }
+                ],
+                "until": 200,
+                "utterances": "Mark asks for gas"
+              }
+            ],
+            "sentence": "Mark asks for gas."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_got_a_jar_of_gas_from_the_shed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 99,
+                    "start": 65,
+                    "word": "got"
+                  },
+                  {
+                    "end": 108,
+                    "start": 100,
+                    "word": "a"
+                  },
+                  {
+                    "end": 155,
+                    "start": 109,
+                    "word": "jar"
+                  },
+                  {
+                    "end": 172,
+                    "start": 160,
+                    "word": "of"
+                  },
+                  {
+                    "end": 224,
+                    "start": 173,
+                    "word": "gas"
+                  },
+                  {
+                    "end": 259,
+                    "start": 225,
+                    "word": "from"
+                  },
+                  {
+                    "end": 269,
+                    "start": 260,
+                    "word": "the"
+                  },
+                  {
+                    "end": 317,
+                    "start": 270,
+                    "word": "shed"
+                  }
+                ],
+                "until": 317,
+                "utterances": "Mark got a jar of gas from the shed"
+              }
+            ],
+            "sentence": "Mark got a jar of gas from the shed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_mark_went_to_his_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 103,
+                    "start": 64,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 155,
+                    "start": 104,
+                    "word": "went"
+                  },
+                  {
+                    "end": 179,
+                    "start": 156,
+                    "word": "to"
+                  },
+                  {
+                    "end": 201,
+                    "start": 185,
+                    "word": "his"
+                  },
+                  {
+                    "end": 261,
+                    "start": 202,
+                    "word": "car"
+                  }
+                ],
+                "until": 261,
+                "utterances": "Then Mark went to his car"
+              }
+            ],
+            "sentence": "Then Mark went to his car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "past_the_log_past_the_park.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Past"
+                  },
+                  {
+                    "end": 70,
+                    "start": 60,
+                    "word": "the"
+                  },
+                  {
+                    "end": 115,
+                    "start": 71,
+                    "word": "log"
+                  },
+                  {
+                    "end": 174,
+                    "start": 129,
+                    "word": "past"
+                  },
+                  {
+                    "end": 183,
+                    "start": 175,
+                    "word": "the"
+                  },
+                  {
+                    "end": 228,
+                    "start": 184,
+                    "word": "park"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Past the log past the park"
+              }
+            ],
+            "sentence": "Past the log, past the park."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jar_of_gas_is_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 60,
+                    "start": 34,
+                    "word": "jar"
+                  },
+                  {
+                    "end": 97,
+                    "start": 61,
+                    "word": "of"
+                  },
+                  {
+                    "end": 146,
+                    "start": 98,
+                    "word": "gas"
+                  },
+                  {
+                    "end": 168,
+                    "start": 147,
+                    "word": "is"
+                  },
+                  {
+                    "end": 207,
+                    "start": 169,
+                    "word": "hot"
+                  }
+                ],
+                "until": 207,
+                "utterances": "The jar of gas is hot"
+              }
+            ],
+            "sentence": "The jar of gas is hot!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_car_start.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 39,
+                    "start": 31,
+                    "word": "the"
+                  },
+                  {
+                    "end": 79,
+                    "start": 40,
+                    "word": "car"
+                  },
+                  {
+                    "end": 136,
+                    "start": 80,
+                    "word": "start"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Did the car start"
+              }
+            ],
+            "sentence": "Did the car start?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_it_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 78,
+                    "start": 63,
+                    "word": "it"
+                  },
+                  {
+                    "end": 121,
+                    "start": 86,
+                    "word": "did"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Yes it did"
+              }
+            ],
+            "sentence": "Yes, it did!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Car",
+  "titleimage": null
+}

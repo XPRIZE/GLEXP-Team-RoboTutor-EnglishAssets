@@ -1,0 +1,748 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_had_a_red_yam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 76,
+                    "start": 65,
+                    "word": "had"
+                  },
+                  {
+                    "end": 97,
+                    "start": 77,
+                    "word": "a"
+                  },
+                  {
+                    "end": 153,
+                    "start": 118,
+                    "word": "red"
+                  },
+                  {
+                    "end": 197,
+                    "start": 154,
+                    "word": "yam"
+                  }
+                ],
+                "until": 197,
+                "utterances": "Sam had a red yam"
+              }
+            ],
+            "sentence": "Sam had a red yam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_had_a_red_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 93,
+                    "start": 65,
+                    "word": "had"
+                  },
+                  {
+                    "end": 105,
+                    "start": 94,
+                    "word": "a"
+                  },
+                  {
+                    "end": 135,
+                    "start": 106,
+                    "word": "red"
+                  },
+                  {
+                    "end": 179,
+                    "start": 136,
+                    "word": "ham"
+                  }
+                ],
+                "until": 179,
+                "utterances": "Sam had a red ham"
+              }
+            ],
+            "sentence": "Sam had a red ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_had_a_yam_and_a_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 81,
+                    "start": 58,
+                    "word": "had"
+                  },
+                  {
+                    "end": 90,
+                    "start": 82,
+                    "word": "a"
+                  },
+                  {
+                    "end": 139,
+                    "start": 91,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 176,
+                    "start": 147,
+                    "word": "and"
+                  },
+                  {
+                    "end": 183,
+                    "start": 177,
+                    "word": "a"
+                  },
+                  {
+                    "end": 224,
+                    "start": 184,
+                    "word": "ham"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Sam had a yam and a ham"
+              }
+            ],
+            "sentence": "Sam had a yam and a ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_ham_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 80,
+                    "start": 64,
+                    "word": "the"
+                  },
+                  {
+                    "end": 143,
+                    "start": 92,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 177,
+                    "start": 150,
+                    "word": "in"
+                  },
+                  {
+                    "end": 191,
+                    "start": 178,
+                    "word": "the"
+                  },
+                  {
+                    "end": 238,
+                    "start": 195,
+                    "word": "tub"
+                  }
+                ],
+                "until": 238,
+                "utterances": "Set the ham in the tub"
+              }
+            ],
+            "sentence": "Set the ham in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_yam_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 77,
+                    "start": 63,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 78,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 166,
+                    "start": 142,
+                    "word": "in"
+                  },
+                  {
+                    "end": 180,
+                    "start": 167,
+                    "word": "the"
+                  },
+                  {
+                    "end": 225,
+                    "start": 181,
+                    "word": "tub"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Set the yam in the tub"
+              }
+            ],
+            "sentence": "Set the yam in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_set_the_ham_and_the_yam_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 100,
+                    "start": 66,
+                    "word": "set"
+                  },
+                  {
+                    "end": 126,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 179,
+                    "start": 132,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 225,
+                    "start": 191,
+                    "word": "and"
+                  },
+                  {
+                    "end": 243,
+                    "start": 226,
+                    "word": "the"
+                  },
+                  {
+                    "end": 293,
+                    "start": 244,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 327,
+                    "start": 304,
+                    "word": "in"
+                  },
+                  {
+                    "end": 340,
+                    "start": 328,
+                    "word": "the"
+                  },
+                  {
+                    "end": 382,
+                    "start": 341,
+                    "word": "tub"
+                  }
+                ],
+                "until": 382,
+                "utterances": "Sam set the ham and the yam in the tub"
+              }
+            ],
+            "sentence": "Sam set the ham and the yam in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_yam_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 30,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 106,
+                    "start": 79,
+                    "word": "got"
+                  },
+                  {
+                    "end": 142,
+                    "start": 107,
+                    "word": "wet"
+                  }
+                ],
+                "until": 142,
+                "utterances": "The yam got wet"
+              }
+            ],
+            "sentence": "The yam got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ham_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 38,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 98,
+                    "start": 71,
+                    "word": "got"
+                  },
+                  {
+                    "end": 133,
+                    "start": 99,
+                    "word": "wet"
+                  }
+                ],
+                "until": 133,
+                "utterances": "The ham got wet"
+              }
+            ],
+            "sentence": "The ham got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_had_a_wet_red_ham_and_a_wet_red_yam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 68,
+                    "start": 58,
+                    "word": "had"
+                  },
+                  {
+                    "end": 85,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 118,
+                    "start": 86,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 159,
+                    "start": 130,
+                    "word": "red"
+                  },
+                  {
+                    "end": 207,
+                    "start": 160,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 233,
+                    "start": 214,
+                    "word": "and"
+                  },
+                  {
+                    "end": 236,
+                    "start": 234,
+                    "word": "a"
+                  },
+                  {
+                    "end": 270,
+                    "start": 237,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 315,
+                    "start": 283,
+                    "word": "red"
+                  },
+                  {
+                    "end": 362,
+                    "start": 316,
+                    "word": "yam"
+                  }
+                ],
+                "until": 362,
+                "utterances": "Sam had a wet red ham and a wet red yam"
+              }
+            ],
+            "sentence": "Sam had a wet, red ham and a wet, red yam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_ham_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 48,
+                    "start": 37,
+                    "word": "the"
+                  },
+                  {
+                    "end": 80,
+                    "start": 49,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 153,
+                    "start": 81,
+                    "word": "swim"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Can the ham swim"
+              }
+            ],
+            "sentence": "Can the ham swim?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_the_yam_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 39,
+                    "start": 32,
+                    "word": "the"
+                  },
+                  {
+                    "end": 84,
+                    "start": 40,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 153,
+                    "start": 85,
+                    "word": "swim"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Can the yam swim"
+              }
+            ],
+            "sentence": "Can the yam swim?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_the_ham_can_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 81,
+                    "start": 69,
+                    "word": "the"
+                  },
+                  {
+                    "end": 128,
+                    "start": 82,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 154,
+                    "start": 129,
+                    "word": "can"
+                  },
+                  {
+                    "end": 206,
+                    "start": 155,
+                    "word": "swim"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Yes the ham can swim"
+              }
+            ],
+            "sentence": "Yes, the ham can swim!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_the_yam_can_not_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 79,
+                    "start": 67,
+                    "word": "the"
+                  },
+                  {
+                    "end": 123,
+                    "start": 80,
+                    "word": "yam"
+                  },
+                  {
+                    "end": 161,
+                    "start": 124,
+                    "word": "can"
+                  },
+                  {
+                    "end": 189,
+                    "start": 162,
+                    "word": "not"
+                  },
+                  {
+                    "end": 241,
+                    "start": 190,
+                    "word": "swim"
+                  }
+                ],
+                "until": 241,
+                "utterances": "No the yam can not swim"
+              }
+            ],
+            "sentence": "No, the yam can not swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_got_in_the_tub_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 92,
+                    "start": 62,
+                    "word": "got"
+                  },
+                  {
+                    "end": 109,
+                    "start": 93,
+                    "word": "in"
+                  },
+                  {
+                    "end": 120,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 121,
+                    "word": "tub"
+                  },
+                  {
+                    "end": 223,
+                    "start": 169,
+                    "word": "too"
+                  }
+                ],
+                "until": 223,
+                "utterances": "Sam got in the tub too"
+              }
+            ],
+            "sentence": "Sam got in the tub, too!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 102,
+                    "start": 61,
+                    "word": "end"
+                  }
+                ],
+                "until": 102,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Sam and the Yam",
+  "titleimage": null
+}

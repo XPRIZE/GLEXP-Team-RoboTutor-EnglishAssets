@@ -1,0 +1,876 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_had_five_plants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 51,
+                    "start": 31,
+                    "word": "had"
+                  },
+                  {
+                    "end": 100,
+                    "start": 52,
+                    "word": "five"
+                  },
+                  {
+                    "end": 162,
+                    "start": 101,
+                    "word": "plants"
+                  }
+                ],
+                "until": 162,
+                "utterances": "I had five plants"
+              }
+            ],
+            "sentence": "I had five plants."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_put_them_on_the_porch.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 12,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 46,
+                    "start": 13,
+                    "word": "put"
+                  },
+                  {
+                    "end": 81,
+                    "start": 64,
+                    "word": "them"
+                  },
+                  {
+                    "end": 108,
+                    "start": 82,
+                    "word": "on"
+                  },
+                  {
+                    "end": 118,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 119,
+                    "word": "porch"
+                  }
+                ],
+                "until": 177,
+                "utterances": "I put them on the porch"
+              }
+            ],
+            "sentence": "I put them on the porch."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_spread_them_in_a_line.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "spread"
+                  },
+                  {
+                    "end": 94,
+                    "start": 72,
+                    "word": "them"
+                  },
+                  {
+                    "end": 104,
+                    "start": 95,
+                    "word": "in"
+                  },
+                  {
+                    "end": 110,
+                    "start": 105,
+                    "word": "a"
+                  },
+                  {
+                    "end": 165,
+                    "start": 111,
+                    "word": "line"
+                  }
+                ],
+                "until": 165,
+                "utterances": "I spread them in a line"
+              }
+            ],
+            "sentence": "I spread them in a line."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_plants_need_sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 30,
+                    "word": "plants"
+                  },
+                  {
+                    "end": 134,
+                    "start": 96,
+                    "word": "need"
+                  },
+                  {
+                    "end": 187,
+                    "start": 135,
+                    "word": "sun"
+                  }
+                ],
+                "until": 187,
+                "utterances": "The plants need sun"
+              }
+            ],
+            "sentence": "The plants need sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_need_sun_and_water_for_health.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 65,
+                    "start": 24,
+                    "word": "need"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 147,
+                    "start": 127,
+                    "word": "and"
+                  },
+                  {
+                    "end": 200,
+                    "start": 148,
+                    "word": "water"
+                  },
+                  {
+                    "end": 230,
+                    "start": 201,
+                    "word": "for"
+                  },
+                  {
+                    "end": 280,
+                    "start": 231,
+                    "word": "health"
+                  }
+                ],
+                "until": 280,
+                "utterances": "They need sun and water for health"
+              }
+            ],
+            "sentence": "They need sun and water for health."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_a_big_storm_came.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 58,
+                    "start": 53,
+                    "word": "a"
+                  },
+                  {
+                    "end": 104,
+                    "start": 59,
+                    "word": "big"
+                  },
+                  {
+                    "end": 166,
+                    "start": 105,
+                    "word": "storm"
+                  },
+                  {
+                    "end": 210,
+                    "start": 167,
+                    "word": "came"
+                  }
+                ],
+                "until": 210,
+                "utterances": "But a big storm came"
+              }
+            ],
+            "sentence": "But a big storm came."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_storm_had_a_lot_of_rain.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 94,
+                    "start": 34,
+                    "word": "storm"
+                  },
+                  {
+                    "end": 106,
+                    "start": 98,
+                    "word": "had"
+                  },
+                  {
+                    "end": 121,
+                    "start": 107,
+                    "word": "a"
+                  },
+                  {
+                    "end": 175,
+                    "start": 122,
+                    "word": "lot"
+                  },
+                  {
+                    "end": 199,
+                    "start": 176,
+                    "word": "of"
+                  },
+                  {
+                    "end": 239,
+                    "start": 200,
+                    "word": "rain"
+                  }
+                ],
+                "until": 239,
+                "utterances": "The storm had a lot of rain"
+              }
+            ],
+            "sentence": "The storm had a lot of rain."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_storm_made_hail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 28,
+                    "word": "storm"
+                  },
+                  {
+                    "end": 109,
+                    "start": 80,
+                    "word": "made"
+                  },
+                  {
+                    "end": 157,
+                    "start": 121,
+                    "word": "hail"
+                  }
+                ],
+                "until": 157,
+                "utterances": "The storm made hail"
+              }
+            ],
+            "sentence": "The storm made hail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hail_went_thud_on_the_roof.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 31,
+                    "word": "hail"
+                  },
+                  {
+                    "end": 96,
+                    "start": 66,
+                    "word": "went"
+                  },
+                  {
+                    "end": 139,
+                    "start": 97,
+                    "word": "thud"
+                  },
+                  {
+                    "end": 162,
+                    "start": 140,
+                    "word": "on"
+                  },
+                  {
+                    "end": 169,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 221,
+                    "start": 170,
+                    "word": "roof"
+                  }
+                ],
+                "until": 221,
+                "utterances": "The hail went thud on the roof"
+              }
+            ],
+            "sentence": "The hail went thud on the roof."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_plants_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 86,
+                    "start": 33,
+                    "word": "plants"
+                  },
+                  {
+                    "end": 103,
+                    "start": 87,
+                    "word": "got"
+                  },
+                  {
+                    "end": 136,
+                    "start": 104,
+                    "word": "wet"
+                  }
+                ],
+                "until": 136,
+                "utterances": "My plants got wet"
+              }
+            ],
+            "sentence": "My plants got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "too_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Too"
+                  },
+                  {
+                    "end": 82,
+                    "start": 31,
+                    "word": "wet"
+                  }
+                ],
+                "until": 82,
+                "utterances": "Too wet"
+              }
+            ],
+            "sentence": "Too wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_meant_to_put_them_in_my_room.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 16,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 67,
+                    "start": 17,
+                    "word": "meant"
+                  },
+                  {
+                    "end": 89,
+                    "start": 76,
+                    "word": "to"
+                  },
+                  {
+                    "end": 120,
+                    "start": 90,
+                    "word": "put"
+                  },
+                  {
+                    "end": 140,
+                    "start": 121,
+                    "word": "them"
+                  },
+                  {
+                    "end": 156,
+                    "start": 141,
+                    "word": "in"
+                  },
+                  {
+                    "end": 174,
+                    "start": 157,
+                    "word": "my"
+                  },
+                  {
+                    "end": 220,
+                    "start": 175,
+                    "word": "room"
+                  }
+                ],
+                "until": 220,
+                "utterances": "I meant to put them in my room"
+              }
+            ],
+            "sentence": "I meant to put them in my room."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_i_left_them_on_the_porch.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 41,
+                    "start": 37,
+                    "word": "I"
+                  },
+                  {
+                    "end": 89,
+                    "start": 42,
+                    "word": "left"
+                  },
+                  {
+                    "end": 108,
+                    "start": 90,
+                    "word": "them"
+                  },
+                  {
+                    "end": 132,
+                    "start": 109,
+                    "word": "on"
+                  },
+                  {
+                    "end": 141,
+                    "start": 133,
+                    "word": "the"
+                  },
+                  {
+                    "end": 204,
+                    "start": 142,
+                    "word": "porch"
+                  }
+                ],
+                "until": 204,
+                "utterances": "But I left them on the porch"
+              }
+            ],
+            "sentence": "But I left them on the porch."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "are_they_dead.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Are"
+                  },
+                  {
+                    "end": 45,
+                    "start": 29,
+                    "word": "they"
+                  },
+                  {
+                    "end": 82,
+                    "start": 46,
+                    "word": "dead"
+                  }
+                ],
+                "until": 82,
+                "utterances": "Are they dead"
+              }
+            ],
+            "sentence": "Are they dead?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not_yet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Not"
+                  },
+                  {
+                    "end": 74,
+                    "start": 33,
+                    "word": "yet"
+                  }
+                ],
+                "until": 74,
+                "utterances": "Not yet"
+              }
+            ],
+            "sentence": "Not yet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_need_to_care_for_the_health_of_my_plants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 69,
+                    "start": 25,
+                    "word": "need"
+                  },
+                  {
+                    "end": 87,
+                    "start": 70,
+                    "word": "to"
+                  },
+                  {
+                    "end": 132,
+                    "start": 88,
+                    "word": "care"
+                  },
+                  {
+                    "end": 161,
+                    "start": 133,
+                    "word": "for"
+                  },
+                  {
+                    "end": 175,
+                    "start": 162,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 181,
+                    "word": "health"
+                  },
+                  {
+                    "end": 227,
+                    "start": 214,
+                    "word": "of"
+                  },
+                  {
+                    "end": 258,
+                    "start": 232,
+                    "word": "my"
+                  },
+                  {
+                    "end": 324,
+                    "start": 259,
+                    "word": "plants"
+                  }
+                ],
+                "until": 324,
+                "utterances": "I need to care for the health of my plants"
+              }
+            ],
+            "sentence": "I need to care for the health of my plants."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_plants_are_in_bad_health.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 26,
+                    "word": "plants"
+                  },
+                  {
+                    "end": 104,
+                    "start": 80,
+                    "word": "are"
+                  },
+                  {
+                    "end": 121,
+                    "start": 105,
+                    "word": "in"
+                  },
+                  {
+                    "end": 165,
+                    "start": 122,
+                    "word": "bad"
+                  },
+                  {
+                    "end": 205,
+                    "start": 166,
+                    "word": "health"
+                  }
+                ],
+                "until": 205,
+                "utterances": "The plants are in bad health"
+              }
+            ],
+            "sentence": "The plants are in bad health."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_hope_they_are_not_dead.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 35,
+                    "word": "hope"
+                  },
+                  {
+                    "end": 81,
+                    "start": 69,
+                    "word": "they"
+                  },
+                  {
+                    "end": 101,
+                    "start": 82,
+                    "word": "are"
+                  },
+                  {
+                    "end": 124,
+                    "start": 102,
+                    "word": "not"
+                  },
+                  {
+                    "end": 172,
+                    "start": 137,
+                    "word": "dead"
+                  }
+                ],
+                "until": 172,
+                "utterances": "I hope they are not dead"
+              }
+            ],
+            "sentence": "I hope they are not dead!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "My Plants",
+  "titleimage": null
+}

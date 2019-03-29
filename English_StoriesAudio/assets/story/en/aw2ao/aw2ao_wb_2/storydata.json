@@ -1,0 +1,734 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shawn_had_to_wake_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Shawn"
+                  },
+                  {
+                    "end": 73,
+                    "start": 58,
+                    "word": "had"
+                  },
+                  {
+                    "end": 81,
+                    "start": 74,
+                    "word": "to"
+                  },
+                  {
+                    "end": 119,
+                    "start": 82,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 174,
+                    "start": 120,
+                    "word": "up"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Shawn had to wake up"
+              }
+            ],
+            "sentence": "Shawn had to wake up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_dawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 51,
+                    "start": 21,
+                    "word": "was"
+                  },
+                  {
+                    "end": 111,
+                    "start": 52,
+                    "word": "dawn"
+                  }
+                ],
+                "until": 111,
+                "utterances": "It was dawn"
+              }
+            ],
+            "sentence": "It was dawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dawn_means_the_sun_just_came_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Dawn"
+                  },
+                  {
+                    "end": 100,
+                    "start": 68,
+                    "word": "means"
+                  },
+                  {
+                    "end": 108,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 149,
+                    "start": 109,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 177,
+                    "start": 150,
+                    "word": "just"
+                  },
+                  {
+                    "end": 205,
+                    "start": 178,
+                    "word": "came"
+                  },
+                  {
+                    "end": 281,
+                    "start": 206,
+                    "word": "up"
+                  }
+                ],
+                "until": 281,
+                "utterances": "Dawn means the sun just came up"
+              }
+            ],
+            "sentence": "\"Dawn\" means the sun just came up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shawn_had_to_wake_up_at_dawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Shawn"
+                  },
+                  {
+                    "end": 78,
+                    "start": 55,
+                    "word": "had"
+                  },
+                  {
+                    "end": 85,
+                    "start": 79,
+                    "word": "to"
+                  },
+                  {
+                    "end": 125,
+                    "start": 86,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 151,
+                    "start": 126,
+                    "word": "up"
+                  },
+                  {
+                    "end": 173,
+                    "start": 152,
+                    "word": "at"
+                  },
+                  {
+                    "end": 215,
+                    "start": 174,
+                    "word": "dawn"
+                  }
+                ],
+                "until": 215,
+                "utterances": "Shawn had to wake up at dawn"
+              }
+            ],
+            "sentence": "Shawn had to wake up at dawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_him_yawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 31,
+                    "start": 7,
+                    "word": "made"
+                  },
+                  {
+                    "end": 49,
+                    "start": 32,
+                    "word": "him"
+                  },
+                  {
+                    "end": 99,
+                    "start": 50,
+                    "word": "yawn"
+                  }
+                ],
+                "until": 99,
+                "utterances": "It made him yawn"
+              }
+            ],
+            "sentence": "It made him yawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_to_stretch_his_arm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 43,
+                    "start": 23,
+                    "word": "had"
+                  },
+                  {
+                    "end": 56,
+                    "start": 44,
+                    "word": "to"
+                  },
+                  {
+                    "end": 125,
+                    "start": 57,
+                    "word": "stretch"
+                  },
+                  {
+                    "end": 143,
+                    "start": 126,
+                    "word": "his"
+                  },
+                  {
+                    "end": 193,
+                    "start": 144,
+                    "word": "arm"
+                  }
+                ],
+                "until": 193,
+                "utterances": "He had to stretch his arm"
+              }
+            ],
+            "sentence": "He had to stretch his arm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_stretch_his_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 110,
+                    "start": 47,
+                    "word": "stretch"
+                  },
+                  {
+                    "end": 134,
+                    "start": 118,
+                    "word": "his"
+                  },
+                  {
+                    "end": 184,
+                    "start": 135,
+                    "word": "leg"
+                  }
+                ],
+                "until": 184,
+                "utterances": "And stretch his leg"
+              }
+            ],
+            "sentence": "And stretch his leg."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_yawn_again.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 73,
+                    "start": 32,
+                    "word": "yawn"
+                  },
+                  {
+                    "end": 130,
+                    "start": 82,
+                    "word": "again"
+                  }
+                ],
+                "until": 130,
+                "utterances": "And yawn again"
+              }
+            ],
+            "sentence": "And yawn again."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shawn_had_to_feed_his_pet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Shawn"
+                  },
+                  {
+                    "end": 35,
+                    "start": 16,
+                    "word": "had"
+                  },
+                  {
+                    "end": 41,
+                    "start": 36,
+                    "word": "to"
+                  },
+                  {
+                    "end": 81,
+                    "start": 42,
+                    "word": "feed"
+                  },
+                  {
+                    "end": 98,
+                    "start": 82,
+                    "word": "his"
+                  },
+                  {
+                    "end": 122,
+                    "start": 99,
+                    "word": "pet"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Shawn had to feed his pet"
+              }
+            ],
+            "sentence": "Shawn had to feed his pet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_a_pet_hawk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 41,
+                    "start": 30,
+                    "word": "had"
+                  },
+                  {
+                    "end": 26,
+                    "start": 2,
+                    "word": "a"
+                  },
+                  {
+                    "end": 62,
+                    "start": 27,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 106,
+                    "start": 63,
+                    "word": "hawk"
+                  }
+                ],
+                "until": 106,
+                "utterances": "He had a pet hawk"
+              }
+            ],
+            "sentence": "He had a pet hawk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_went_to_the_barn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 65,
+                    "start": 27,
+                    "word": "went"
+                  },
+                  {
+                    "end": 74,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 83,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 84,
+                    "word": "barn"
+                  }
+                ],
+                "until": 129,
+                "utterances": "He went to the barn"
+              }
+            ],
+            "sentence": "He went to the barn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_fed_the_hawk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 32,
+                    "word": "fed"
+                  },
+                  {
+                    "end": 80,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 125,
+                    "start": 81,
+                    "word": "hawk"
+                  }
+                ],
+                "until": 125,
+                "utterances": "He fed the hawk"
+              }
+            ],
+            "sentence": "He fed the hawk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_he_had_to_cut_the_lawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 82,
+                    "start": 51,
+                    "word": "he"
+                  },
+                  {
+                    "end": 129,
+                    "start": 83,
+                    "word": "had"
+                  },
+                  {
+                    "end": 152,
+                    "start": 130,
+                    "word": "to"
+                  },
+                  {
+                    "end": 205,
+                    "start": 153,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 215,
+                    "start": 206,
+                    "word": "the"
+                  },
+                  {
+                    "end": 279,
+                    "start": 216,
+                    "word": "lawn"
+                  }
+                ],
+                "until": 279,
+                "utterances": "Then he had to cut the lawn"
+              }
+            ],
+            "sentence": "Then he had to cut the lawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_had_a_big_lawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 45,
+                    "start": 34,
+                    "word": "had"
+                  },
+                  {
+                    "end": 70,
+                    "start": 46,
+                    "word": "a"
+                  },
+                  {
+                    "end": 117,
+                    "start": 81,
+                    "word": "big"
+                  },
+                  {
+                    "end": 176,
+                    "start": 126,
+                    "word": "lawn"
+                  }
+                ],
+                "until": 176,
+                "utterances": "They had a big lawn"
+              }
+            ],
+            "sentence": "They had a big lawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_shawn_yawn_again.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 57,
+                    "start": 35,
+                    "word": "made"
+                  },
+                  {
+                    "end": 108,
+                    "start": 58,
+                    "word": "Shawn"
+                  },
+                  {
+                    "end": 149,
+                    "start": 109,
+                    "word": "yawn"
+                  },
+                  {
+                    "end": 209,
+                    "start": 159,
+                    "word": "again"
+                  }
+                ],
+                "until": 209,
+                "utterances": "It made Shawn yawn again"
+              }
+            ],
+            "sentence": "It made Shawn yawn again."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 100,
+                    "start": 53,
+                    "word": "end"
+                  }
+                ],
+                "until": 100,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Shawn Has to Yawn",
+  "titleimage": null
+}

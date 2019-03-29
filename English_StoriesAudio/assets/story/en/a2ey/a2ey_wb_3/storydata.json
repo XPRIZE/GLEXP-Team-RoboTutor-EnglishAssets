@@ -1,0 +1,816 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_have_a_big_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 73,
+                    "start": 47,
+                    "word": "have"
+                  },
+                  {
+                    "end": 81,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 122,
+                    "start": 82,
+                    "word": "big"
+                  },
+                  {
+                    "end": 183,
+                    "start": 123,
+                    "word": "snake"
+                  }
+                ],
+                "until": 183,
+                "utterances": "I have a big snake"
+              }
+            ],
+            "sentence": "I have a big snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_name_is_dale.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 8,
+                    "word": "His"
+                  },
+                  {
+                    "end": 88,
+                    "start": 41,
+                    "word": "name"
+                  },
+                  {
+                    "end": 128,
+                    "start": 89,
+                    "word": "is"
+                  },
+                  {
+                    "end": 175,
+                    "start": 129,
+                    "word": "Dale"
+                  }
+                ],
+                "until": 175,
+                "utterances": "His name is Dale"
+              }
+            ],
+            "sentence": "His name is Dale."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_the_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 86,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 147,
+                    "start": 87,
+                    "word": "snake"
+                  }
+                ],
+                "until": 147,
+                "utterances": "Dale the snake"
+              }
+            ],
+            "sentence": "Dale the snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_is_my_pet_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 68,
+                    "start": 54,
+                    "word": "is"
+                  },
+                  {
+                    "end": 89,
+                    "start": 69,
+                    "word": "my"
+                  },
+                  {
+                    "end": 132,
+                    "start": 90,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 190,
+                    "start": 133,
+                    "word": "snake"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Dale is my pet snake"
+              }
+            ],
+            "sentence": "Dale is my pet snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_is_a_male_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 76,
+                    "start": 64,
+                    "word": "is"
+                  },
+                  {
+                    "end": 83,
+                    "start": 77,
+                    "word": "a"
+                  },
+                  {
+                    "end": 126,
+                    "start": 84,
+                    "word": "male"
+                  },
+                  {
+                    "end": 181,
+                    "start": 127,
+                    "word": "snake"
+                  }
+                ],
+                "until": 181,
+                "utterances": "Dale is a male snake"
+              }
+            ],
+            "sentence": "Dale is a male snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_twist_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 68,
+                    "start": 36,
+                    "word": "can"
+                  },
+                  {
+                    "end": 128,
+                    "start": 69,
+                    "word": "twist"
+                  },
+                  {
+                    "end": 167,
+                    "start": 129,
+                    "word": "up"
+                  }
+                ],
+                "until": 167,
+                "utterances": "He can twist up"
+              }
+            ],
+            "sentence": "He can twist up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_the_snake_has_a_safe_spot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 58,
+                    "start": 51,
+                    "word": "the"
+                  },
+                  {
+                    "end": 111,
+                    "start": 59,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 140,
+                    "start": 112,
+                    "word": "has"
+                  },
+                  {
+                    "end": 145,
+                    "start": 141,
+                    "word": "a"
+                  },
+                  {
+                    "end": 200,
+                    "start": 146,
+                    "word": "safe"
+                  },
+                  {
+                    "end": 247,
+                    "start": 201,
+                    "word": "spot"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Dale the snake has a safe spot"
+              }
+            ],
+            "sentence": "Dale the snake has a safe spot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_gets_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 85,
+                    "start": 34,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 124,
+                    "start": 93,
+                    "word": "in"
+                  },
+                  {
+                    "end": 139,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 140,
+                    "word": "tub"
+                  }
+                ],
+                "until": 189,
+                "utterances": "He gets in the tub"
+              }
+            ],
+            "sentence": "He gets in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_safe_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 51,
+                    "start": 32,
+                    "word": "is"
+                  },
+                  {
+                    "end": 111,
+                    "start": 52,
+                    "word": "safe"
+                  },
+                  {
+                    "end": 131,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 144,
+                    "start": 132,
+                    "word": "the"
+                  },
+                  {
+                    "end": 181,
+                    "start": 145,
+                    "word": "tub"
+                  }
+                ],
+                "until": 181,
+                "utterances": "It is safe in the tub"
+              }
+            ],
+            "sentence": "It is safe in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_make_cake_for_dale.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 30,
+                    "word": "make"
+                  },
+                  {
+                    "end": 144,
+                    "start": 83,
+                    "word": "cake"
+                  },
+                  {
+                    "end": 164,
+                    "start": 145,
+                    "word": "for"
+                  },
+                  {
+                    "end": 202,
+                    "start": 165,
+                    "word": "Dale"
+                  }
+                ],
+                "until": 202,
+                "utterances": "I make cake for Dale"
+              }
+            ],
+            "sentence": "I make cake for Dale."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_dale_hates_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 80,
+                    "start": 38,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 132,
+                    "start": 81,
+                    "word": "hates"
+                  },
+                  {
+                    "end": 176,
+                    "start": 133,
+                    "word": "cake"
+                  }
+                ],
+                "until": 176,
+                "utterances": "But Dale hates cake"
+              }
+            ],
+            "sentence": "But Dale hates cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_hates_the_taste.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 96,
+                    "start": 60,
+                    "word": "hates"
+                  },
+                  {
+                    "end": 108,
+                    "start": 97,
+                    "word": "the"
+                  },
+                  {
+                    "end": 168,
+                    "start": 109,
+                    "word": "taste"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Dale hates the taste"
+              }
+            ],
+            "sentence": "Dale hates the taste."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_the_snake_hates_the_taste_of_cake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 50,
+                    "start": 43,
+                    "word": "the"
+                  },
+                  {
+                    "end": 107,
+                    "start": 51,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 169,
+                    "start": 128,
+                    "word": "hates"
+                  },
+                  {
+                    "end": 182,
+                    "start": 170,
+                    "word": "the"
+                  },
+                  {
+                    "end": 239,
+                    "start": 183,
+                    "word": "taste"
+                  },
+                  {
+                    "end": 251,
+                    "start": 240,
+                    "word": "of"
+                  },
+                  {
+                    "end": 299,
+                    "start": 252,
+                    "word": "cake"
+                  }
+                ],
+                "until": 299,
+                "utterances": "Dale the snake hates the taste of cake"
+              }
+            ],
+            "sentence": "Dale the snake hates the taste of cake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_is_a_brave_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 73,
+                    "start": 60,
+                    "word": "is"
+                  },
+                  {
+                    "end": 80,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 138,
+                    "start": 81,
+                    "word": "brave"
+                  },
+                  {
+                    "end": 197,
+                    "start": 139,
+                    "word": "snake"
+                  }
+                ],
+                "until": 197,
+                "utterances": "Dale is a brave snake"
+              }
+            ],
+            "sentence": "Dale is a brave snake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_went_in_the_lake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 70,
+                    "start": 27,
+                    "word": "went"
+                  },
+                  {
+                    "end": 104,
+                    "start": 84,
+                    "word": "in"
+                  },
+                  {
+                    "end": 112,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 162,
+                    "start": 113,
+                    "word": "lake"
+                  }
+                ],
+                "until": 162,
+                "utterances": "He went in the lake"
+              }
+            ],
+            "sentence": "He went in the lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_ate_a_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 58,
+                    "start": 25,
+                    "word": "ate"
+                  },
+                  {
+                    "end": 76,
+                    "start": 59,
+                    "word": "a"
+                  },
+                  {
+                    "end": 146,
+                    "start": 98,
+                    "word": "bug"
+                  }
+                ],
+                "until": 146,
+                "utterances": "He ate a bug"
+              }
+            ],
+            "sentence": "He ate a bug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dale_slept_in_the_tub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Dale"
+                  },
+                  {
+                    "end": 111,
+                    "start": 47,
+                    "word": "slept"
+                  },
+                  {
+                    "end": 132,
+                    "start": 112,
+                    "word": "in"
+                  },
+                  {
+                    "end": 144,
+                    "start": 133,
+                    "word": "the"
+                  },
+                  {
+                    "end": 191,
+                    "start": 145,
+                    "word": "tub"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Dale slept in the tub"
+              }
+            ],
+            "sentence": "Dale slept in the tub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 40,
+                    "word": "end"
+                  }
+                ],
+                "until": 77,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dale the Big Snake",
+  "titleimage": null
+}

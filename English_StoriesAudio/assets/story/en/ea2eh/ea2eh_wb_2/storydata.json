@@ -1,0 +1,738 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rich_has_a_gray_pooch.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Rich"
+                  },
+                  {
+                    "end": 91,
+                    "start": 69,
+                    "word": "has"
+                  },
+                  {
+                    "end": 99,
+                    "start": 92,
+                    "word": "a"
+                  },
+                  {
+                    "end": 135,
+                    "start": 100,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 194,
+                    "start": 136,
+                    "word": "pooch"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Rich has a gray pooch"
+              }
+            ],
+            "sentence": "Rich has a gray pooch."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pooch_is_the_same_as_dog.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 18,
+                    "word": "Pooch"
+                  },
+                  {
+                    "end": 80,
+                    "start": 56,
+                    "word": "is"
+                  },
+                  {
+                    "end": 88,
+                    "start": 81,
+                    "word": "the"
+                  },
+                  {
+                    "end": 130,
+                    "start": 89,
+                    "word": "same"
+                  },
+                  {
+                    "end": 154,
+                    "start": 131,
+                    "word": "as"
+                  },
+                  {
+                    "end": 201,
+                    "start": 155,
+                    "word": "dog"
+                  }
+                ],
+                "until": 201,
+                "utterances": "Pooch is the same as dog"
+              }
+            ],
+            "sentence": "\"Pooch\" is the same as \"dog.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_has_a_gray_head.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 64,
+                    "start": 22,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 84,
+                    "start": 65,
+                    "word": "has"
+                  },
+                  {
+                    "end": 90,
+                    "start": 85,
+                    "word": "a"
+                  },
+                  {
+                    "end": 124,
+                    "start": 91,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 160,
+                    "start": 125,
+                    "word": "head"
+                  }
+                ],
+                "until": 160,
+                "utterances": "The pooch has a gray head"
+              }
+            ],
+            "sentence": "The pooch has a gray head."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "with_gray_hair.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "With"
+                  },
+                  {
+                    "end": 82,
+                    "start": 41,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 125,
+                    "start": 83,
+                    "word": "hair"
+                  }
+                ],
+                "until": 125,
+                "utterances": "With gray hair"
+              }
+            ],
+            "sentence": "With gray hair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_likes_bread.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 27,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 109,
+                    "start": 69,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 152,
+                    "start": 110,
+                    "word": "bread"
+                  }
+                ],
+                "until": 152,
+                "utterances": "The pooch likes bread"
+              }
+            ],
+            "sentence": "The pooch likes bread."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_likes_jam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 28,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 130,
+                    "start": 79,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 163,
+                    "start": 131,
+                    "word": "jam"
+                  }
+                ],
+                "until": 163,
+                "utterances": "The pooch likes jam"
+              }
+            ],
+            "sentence": "The pooch likes jam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_can_spread_the_jam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 62,
+                    "start": 31,
+                    "word": "can"
+                  },
+                  {
+                    "end": 119,
+                    "start": 63,
+                    "word": "spread"
+                  },
+                  {
+                    "end": 128,
+                    "start": 120,
+                    "word": "the"
+                  },
+                  {
+                    "end": 181,
+                    "start": 129,
+                    "word": "jam"
+                  }
+                ],
+                "until": 181,
+                "utterances": "It can spread the jam"
+              }
+            ],
+            "sentence": "It can spread the jam."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_can_spread_the_jam_on_the_bread.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 61,
+                    "start": 35,
+                    "word": "can"
+                  },
+                  {
+                    "end": 138,
+                    "start": 62,
+                    "word": "spread"
+                  },
+                  {
+                    "end": 148,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 206,
+                    "start": 149,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 250,
+                    "start": 207,
+                    "word": "on"
+                  },
+                  {
+                    "end": 258,
+                    "start": 251,
+                    "word": "the"
+                  },
+                  {
+                    "end": 312,
+                    "start": 259,
+                    "word": "bread"
+                  }
+                ],
+                "until": 312,
+                "utterances": "It can spread the jam on the bread"
+              }
+            ],
+            "sentence": "It can spread the jam on the bread."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_spread_jam_on_bread.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 67,
+                    "start": 32,
+                    "word": "you"
+                  },
+                  {
+                    "end": 126,
+                    "start": 71,
+                    "word": "spread"
+                  },
+                  {
+                    "end": 165,
+                    "start": 127,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 193,
+                    "start": 166,
+                    "word": "on"
+                  },
+                  {
+                    "end": 231,
+                    "start": 194,
+                    "word": "bread"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Can you spread jam on bread"
+              }
+            ],
+            "sentence": "Can you spread jam on bread?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_gets_a_spoon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 25,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 108,
+                    "start": 69,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 111,
+                    "start": 109,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 112,
+                    "word": "spoon"
+                  }
+                ],
+                "until": 160,
+                "utterances": "The pooch gets a spoon"
+              }
+            ],
+            "sentence": "The pooch gets a spoon."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_can_scoop_the_jam_with_the_spoon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 60,
+                    "start": 20,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 82,
+                    "start": 61,
+                    "word": "can"
+                  },
+                  {
+                    "end": 134,
+                    "start": 83,
+                    "word": "scoop"
+                  },
+                  {
+                    "end": 151,
+                    "start": 135,
+                    "word": "the"
+                  },
+                  {
+                    "end": 191,
+                    "start": 152,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 213,
+                    "start": 192,
+                    "word": "with"
+                  },
+                  {
+                    "end": 225,
+                    "start": 214,
+                    "word": "the"
+                  },
+                  {
+                    "end": 283,
+                    "start": 226,
+                    "word": "spoon"
+                  }
+                ],
+                "until": 283,
+                "utterances": "The pooch can scoop the jam with the spoon"
+              }
+            ],
+            "sentence": "The pooch can scoop the jam with the spoon."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_spread_the_jam_on_the_bread.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 94,
+                    "start": 42,
+                    "word": "spread"
+                  },
+                  {
+                    "end": 104,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 164,
+                    "start": 105,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 189,
+                    "start": 165,
+                    "word": "on"
+                  },
+                  {
+                    "end": 197,
+                    "start": 190,
+                    "word": "the"
+                  },
+                  {
+                    "end": 240,
+                    "start": 198,
+                    "word": "bread"
+                  }
+                ],
+                "until": 240,
+                "utterances": "Then spread the jam on the bread"
+              }
+            ],
+            "sentence": "Then spread the jam on the bread."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pooch_does_not_like_dog_food.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 24,
+                    "word": "pooch"
+                  },
+                  {
+                    "end": 103,
+                    "start": 80,
+                    "word": "does"
+                  },
+                  {
+                    "end": 134,
+                    "start": 104,
+                    "word": "not"
+                  },
+                  {
+                    "end": 175,
+                    "start": 140,
+                    "word": "like"
+                  },
+                  {
+                    "end": 213,
+                    "start": 176,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 256,
+                    "start": 214,
+                    "word": "food"
+                  }
+                ],
+                "until": 256,
+                "utterances": "The pooch does not like dog food"
+              }
+            ],
+            "sentence": "The pooch does not like dog food."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_likes_jam_and_bread_instead.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 61,
+                    "start": 26,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 77,
+                    "start": 26,
+                    "word": "jam"
+                  },
+                  {
+                    "end": 92,
+                    "start": 78,
+                    "word": "and"
+                  },
+                  {
+                    "end": 142,
+                    "start": 93,
+                    "word": "bread"
+                  },
+                  {
+                    "end": 212,
+                    "start": 143,
+                    "word": "instead"
+                  }
+                ],
+                "until": 212,
+                "utterances": "He likes jam and bread instead"
+              }
+            ],
+            "sentence": "He likes jam and bread instead."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 40,
+                    "word": "end"
+                  }
+                ],
+                "until": 75,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Bread and Jam",
+  "titleimage": null
+}

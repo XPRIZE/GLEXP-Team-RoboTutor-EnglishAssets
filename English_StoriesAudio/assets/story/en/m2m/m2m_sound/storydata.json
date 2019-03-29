@@ -1,0 +1,599 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "MAD"
+                  }
+                ],
+                "until": 74,
+                "utterances": "MAD"
+              }
+            ],
+            "sentence": "mad "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "met.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "MET"
+                  }
+                ],
+                "until": 76,
+                "utterances": "MET"
+              }
+            ],
+            "sentence": "met "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mix.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "MIX"
+                  }
+                ],
+                "until": 80,
+                "utterances": "MIX"
+              }
+            ],
+            "sentence": "mix "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_m_make_in_man_met_and_mix.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 121,
+                    "start": 55,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 146,
+                    "start": 122,
+                    "word": "does"
+                  },
+                  {
+                    "end": 156,
+                    "start": 147,
+                    "word": "the"
+                  },
+                  {
+                    "end": 214,
+                    "start": 157,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 264,
+                    "start": 215,
+                    "word": "M"
+                  },
+                  {
+                    "end": 338,
+                    "start": 293,
+                    "word": "make"
+                  },
+                  {
+                    "end": 374,
+                    "start": 343,
+                    "word": "in"
+                  },
+                  {
+                    "end": 445,
+                    "start": 375,
+                    "word": "MAN"
+                  },
+                  {
+                    "end": 557,
+                    "start": 475,
+                    "word": "MET"
+                  },
+                  {
+                    "end": 621,
+                    "start": 575,
+                    "word": "and"
+                  },
+                  {
+                    "end": 671,
+                    "start": 622,
+                    "word": "MIX"
+                  }
+                ],
+                "until": 671,
+                "utterances": "What sound does the letter M make in MAN MET and MIX"
+              }
+            ],
+            "sentence": "What sound does the letter m make in man, met and mix?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "make.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 10,
+                    "word": "MAKE"
+                  }
+                ],
+                "until": 87,
+                "utterances": "MAKE"
+              }
+            ],
+            "sentence": "make "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 10,
+                    "word": "MOON"
+                  }
+                ],
+                "until": 85,
+                "utterances": "MOON"
+              }
+            ],
+            "sentence": "moon "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 10,
+                    "word": "MILK"
+                  }
+                ],
+                "until": 82,
+                "utterances": "MILK"
+              }
+            ],
+            "sentence": "milk "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "MUD"
+                  }
+                ],
+                "until": 70,
+                "utterances": "MUD"
+              }
+            ],
+            "sentence": "mud "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "more.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "MORE"
+                  }
+                ],
+                "until": 67,
+                "utterances": "MORE"
+              }
+            ],
+            "sentence": "more "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_mid_may_i_met.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "IN"
+                  },
+                  {
+                    "end": 62,
+                    "start": 37,
+                    "word": "MID"
+                  },
+                  {
+                    "end": 113,
+                    "start": 63,
+                    "word": "MAY"
+                  },
+                  {
+                    "end": 140,
+                    "start": 114,
+                    "word": "I"
+                  },
+                  {
+                    "end": 166,
+                    "start": 141,
+                    "word": "MET"
+                  }
+                ],
+                "until": 166,
+                "utterances": "IN MID MAY I MET"
+              },
+              {
+                "audio": "the_milk_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "THE"
+                  },
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "MILK"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "MAN"
+                  }
+                ],
+                "until": 95,
+                "utterances": "THE MILK MAN"
+              }
+            ],
+            "sentence": "In mid May, I met the milk man."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_milk_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "THE"
+                  },
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "MILK"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "MAN"
+                  }
+                ],
+                "until": 95,
+                "utterances": "THE MILK MAN"
+              },
+              {
+                "audio": "made_me_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "MADE"
+                  },
+                  {
+                    "end": 125,
+                    "start": 73,
+                    "word": "ME"
+                  },
+                  {
+                    "end": 204,
+                    "start": 132,
+                    "word": "MAD"
+                  }
+                ],
+                "until": 204,
+                "utterances": "MADE ME MAD"
+              }
+            ],
+            "sentence": "The milk man made me mad! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_milk_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "THE"
+                  },
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "MILK"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "MAN"
+                  }
+                ],
+                "until": 95,
+                "utterances": "THE MILK MAN"
+              },
+              {
+                "audio": "made_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "MADE"
+                  },
+                  {
+                    "end": 130,
+                    "start": 73,
+                    "word": "ME"
+                  }
+                ],
+                "until": 130,
+                "utterances": "MADE ME"
+              },
+              {
+                "audio": "mix_a_mug_of_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "MIX"
+                  },
+                  {
+                    "end": 96,
+                    "start": 72,
+                    "word": "A"
+                  },
+                  {
+                    "end": 143,
+                    "start": 97,
+                    "word": "MUG"
+                  },
+                  {
+                    "end": 170,
+                    "start": 150,
+                    "word": "OF"
+                  },
+                  {
+                    "end": 224,
+                    "start": 171,
+                    "word": "MILK"
+                  }
+                ],
+                "until": 224,
+                "utterances": "MIX A MUG OF MILK"
+              },
+              {
+                "audio": "at_the_mall.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "AT"
+                  },
+                  {
+                    "end": 58,
+                    "start": 47,
+                    "word": "THE"
+                  },
+                  {
+                    "end": 109,
+                    "start": 59,
+                    "word": "MALL"
+                  }
+                ],
+                "until": 109,
+                "utterances": "AT THE MALL"
+              },
+              {
+                "audio": "i_made_up_my_mind.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 85,
+                    "start": 32,
+                    "word": "MADE"
+                  },
+                  {
+                    "end": 128,
+                    "start": 91,
+                    "word": "UP"
+                  },
+                  {
+                    "end": 159,
+                    "start": 129,
+                    "word": "MY"
+                  },
+                  {
+                    "end": 231,
+                    "start": 160,
+                    "word": "MIND"
+                  }
+                ],
+                "until": 231,
+                "utterances": "I MADE UP MY MIND"
+              }
+            ],
+            "sentence": "The milk man made me mix a mug of milk at the mall! I made up my mind. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_more.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "NO"
+                  },
+                  {
+                    "end": 121,
+                    "start": 56,
+                    "word": "MORE"
+                  }
+                ],
+                "until": 121,
+                "utterances": "NO MORE"
+              }
+            ],
+            "sentence": "No more! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "MY MOM MAKES ME MAD!",
+  "titleimage": null
+}

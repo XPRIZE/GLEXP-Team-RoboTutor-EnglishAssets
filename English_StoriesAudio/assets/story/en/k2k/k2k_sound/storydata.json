@@ -1,0 +1,423 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "KID"
+                  }
+                ],
+                "until": 50,
+                "utterances": "KID"
+              }
+            ],
+            "sentence": "kid "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "keep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "KEEP"
+                  }
+                ],
+                "until": 45,
+                "utterances": "KEEP"
+              }
+            ],
+            "sentence": "keep "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "key.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "KEY"
+                  }
+                ],
+                "until": 56,
+                "utterances": "KEY"
+              }
+            ],
+            "sentence": "key "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_k_make_in_the_words_kid_keep_and_key.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 77,
+                    "start": 34,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 90,
+                    "start": 78,
+                    "word": "does"
+                  },
+                  {
+                    "end": 99,
+                    "start": 91,
+                    "word": "the"
+                  },
+                  {
+                    "end": 128,
+                    "start": 100,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 168,
+                    "start": 133,
+                    "word": "K"
+                  },
+                  {
+                    "end": 207,
+                    "start": 169,
+                    "word": "make"
+                  },
+                  {
+                    "end": 221,
+                    "start": 208,
+                    "word": "in"
+                  },
+                  {
+                    "end": 229,
+                    "start": 222,
+                    "word": "the"
+                  },
+                  {
+                    "end": 273,
+                    "start": 230,
+                    "word": "words"
+                  },
+                  {
+                    "end": 329,
+                    "start": 274,
+                    "word": "KID"
+                  },
+                  {
+                    "end": 377,
+                    "start": 335,
+                    "word": "KEEP"
+                  },
+                  {
+                    "end": 398,
+                    "start": 378,
+                    "word": "and"
+                  },
+                  {
+                    "end": 442,
+                    "start": 399,
+                    "word": "KEY"
+                  }
+                ],
+                "until": 442,
+                "utterances": "What sound does the Letter K make in the words KID KEEP and KEY"
+              }
+            ],
+            "sentence": "What sound does the Letter k make in the words kid, keep, and key?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kick.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "KICK"
+                  }
+                ],
+                "until": 57,
+                "utterances": "KICK"
+              }
+            ],
+            "sentence": "kick "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "king.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "KING"
+                  }
+                ],
+                "until": 54,
+                "utterances": "KING"
+              }
+            ],
+            "sentence": "king "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiss.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "KISS"
+                  }
+                ],
+                "until": 58,
+                "utterances": "KISS"
+              }
+            ],
+            "sentence": "kiss "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "KIT"
+                  }
+                ],
+                "until": 60,
+                "utterances": "KIT"
+              }
+            ],
+            "sentence": "kit "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kind.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "KIND"
+                  }
+                ],
+                "until": 61,
+                "utterances": "KIND"
+              }
+            ],
+            "sentence": "kind "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Ken"
+                  }
+                ],
+                "until": 43,
+                "utterances": "Ken"
+              },
+              {
+                "audio": "the_king.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "king"
+                  }
+                ],
+                "until": 57,
+                "utterances": "the king"
+              },
+              {
+                "audio": "koala_bear.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "koala"
+                  },
+                  {
+                    "end": 103,
+                    "start": 62,
+                    "word": "bear"
+                  }
+                ],
+                "until": 103,
+                "utterances": "koala bear"
+              },
+              {
+                "audio": "has_a_kite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "has"
+                  },
+                  {
+                    "end": 55,
+                    "start": 50,
+                    "word": "a"
+                  },
+                  {
+                    "end": 100,
+                    "start": 56,
+                    "word": "kite"
+                  }
+                ],
+                "until": 100,
+                "utterances": "has a kite"
+              }
+            ],
+            "sentence": "Ken the king koala bear has a kite. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "good_job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Good"
+                  },
+                  {
+                    "end": 84,
+                    "start": 33,
+                    "word": "job"
+                  }
+                ],
+                "until": 84,
+                "utterances": "Good job"
+              }
+            ],
+            "sentence": "Good job! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter K in KID, KEEP, and KEY",
+  "titleimage": null
+}

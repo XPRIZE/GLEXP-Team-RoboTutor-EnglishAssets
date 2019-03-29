@@ -1,0 +1,770 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kirk_the_bird_likes_to_play.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Kirk"
+                  },
+                  {
+                    "end": 72,
+                    "start": 59,
+                    "word": "the"
+                  },
+                  {
+                    "end": 124,
+                    "start": 73,
+                    "word": "bird"
+                  },
+                  {
+                    "end": 186,
+                    "start": 144,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 205,
+                    "start": 187,
+                    "word": "to"
+                  },
+                  {
+                    "end": 243,
+                    "start": 206,
+                    "word": "play"
+                  }
+                ],
+                "until": 243,
+                "utterances": "Kirk the bird likes to play"
+              }
+            ],
+            "sentence": "Kirk the bird likes to play."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_sits_on_a_twig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 91,
+                    "start": 32,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 129,
+                    "start": 100,
+                    "word": "on"
+                  },
+                  {
+                    "end": 147,
+                    "start": 130,
+                    "word": "a"
+                  },
+                  {
+                    "end": 197,
+                    "start": 148,
+                    "word": "twig"
+                  }
+                ],
+                "until": 197,
+                "utterances": "He sits on a twig"
+              }
+            ],
+            "sentence": "He sits on a twig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "first_he_makes_a_chirp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "First"
+                  },
+                  {
+                    "end": 92,
+                    "start": 84,
+                    "word": "he"
+                  },
+                  {
+                    "end": 133,
+                    "start": 93,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 145,
+                    "start": 134,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 146,
+                    "word": "chirp"
+                  }
+                ],
+                "until": 194,
+                "utterances": "First he makes a chirp"
+              }
+            ],
+            "sentence": "First he makes a chirp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_says_chirp_chirp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 77,
+                    "start": 27,
+                    "word": "says"
+                  },
+                  {
+                    "end": 119,
+                    "start": 78,
+                    "word": "chirp"
+                  },
+                  {
+                    "end": 146,
+                    "start": 120,
+                    "word": "chirp"
+                  }
+                ],
+                "until": 146,
+                "utterances": "He says chirp chirp"
+              }
+            ],
+            "sentence": "He says, \"chirp chirp!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_make_a_bird_sound.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 56,
+                    "start": 33,
+                    "word": "you"
+                  },
+                  {
+                    "end": 85,
+                    "start": 57,
+                    "word": "make"
+                  },
+                  {
+                    "end": 89,
+                    "start": 86,
+                    "word": "a"
+                  },
+                  {
+                    "end": 128,
+                    "start": 90,
+                    "word": "bird"
+                  },
+                  {
+                    "end": 179,
+                    "start": 129,
+                    "word": "sound"
+                  }
+                ],
+                "until": 179,
+                "utterances": "Can you make a bird sound"
+              }
+            ],
+            "sentence": "Can you make a bird sound?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kirk_the_bird_chirps_and_chirps.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Kirk"
+                  },
+                  {
+                    "end": 60,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 112,
+                    "start": 61,
+                    "word": "bird"
+                  },
+                  {
+                    "end": 156,
+                    "start": 113,
+                    "word": "chirps"
+                  },
+                  {
+                    "end": 203,
+                    "start": 171,
+                    "word": "and"
+                  },
+                  {
+                    "end": 268,
+                    "start": 204,
+                    "word": "chirps"
+                  }
+                ],
+                "until": 268,
+                "utterances": "Kirk the bird chirps and chirps"
+              }
+            ],
+            "sentence": "Kirk the bird chirps and chirps."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_make_the_sound_with_his_mouth.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 47,
+                    "start": 25,
+                    "word": "can"
+                  },
+                  {
+                    "end": 69,
+                    "start": 48,
+                    "word": "make"
+                  },
+                  {
+                    "end": 82,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 83,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 166,
+                    "start": 140,
+                    "word": "with"
+                  },
+                  {
+                    "end": 180,
+                    "start": 167,
+                    "word": "his"
+                  },
+                  {
+                    "end": 230,
+                    "start": 181,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 230,
+                "utterances": "He can make the sound with his mouth"
+              }
+            ],
+            "sentence": "He can make the sound with his mouth."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chirp_chirp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Chirp"
+                  },
+                  {
+                    "end": 66,
+                    "start": 38,
+                    "word": "chirp"
+                  }
+                ],
+                "until": 66,
+                "utterances": "Chirp chirp"
+              }
+            ],
+            "sentence": "Chirp chirp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_not_shout.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 58,
+                    "start": 31,
+                    "word": "can"
+                  },
+                  {
+                    "end": 91,
+                    "start": 59,
+                    "word": "not"
+                  },
+                  {
+                    "end": 151,
+                    "start": 92,
+                    "word": "shout"
+                  }
+                ],
+                "until": 151,
+                "utterances": "He can not shout"
+              }
+            ],
+            "sentence": "He can not shout."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_not_squeak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 61,
+                    "start": 35,
+                    "word": "can"
+                  },
+                  {
+                    "end": 86,
+                    "start": 62,
+                    "word": "not"
+                  },
+                  {
+                    "end": 138,
+                    "start": 87,
+                    "word": "squeak"
+                  }
+                ],
+                "until": 138,
+                "utterances": "He can not squeak"
+              }
+            ],
+            "sentence": "He can not squeak."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_not_squeal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 56,
+                    "start": 29,
+                    "word": "can"
+                  },
+                  {
+                    "end": 83,
+                    "start": 57,
+                    "word": "not"
+                  },
+                  {
+                    "end": 160,
+                    "start": 84,
+                    "word": "squeal"
+                  }
+                ],
+                "until": 160,
+                "utterances": "He can not squeal"
+              }
+            ],
+            "sentence": "He can not squeal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_he_can_chirp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 72,
+                    "start": 43,
+                    "word": "he"
+                  },
+                  {
+                    "end": 100,
+                    "start": 73,
+                    "word": "can"
+                  },
+                  {
+                    "end": 155,
+                    "start": 105,
+                    "word": "chirp"
+                  }
+                ],
+                "until": 155,
+                "utterances": "But he can chirp"
+              }
+            ],
+            "sentence": "But he can chirp!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_can_chirp_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 67,
+                    "start": 42,
+                    "word": "can"
+                  },
+                  {
+                    "end": 107,
+                    "start": 71,
+                    "word": "chirp"
+                  },
+                  {
+                    "end": 169,
+                    "start": 108,
+                    "word": "loud"
+                  }
+                ],
+                "until": 169,
+                "utterances": "He can chirp loud"
+              }
+            ],
+            "sentence": "He can chirp loud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kirk_sits_in_the_fir_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Kirk"
+                  },
+                  {
+                    "end": 114,
+                    "start": 67,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 130,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 137,
+                    "start": 131,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 138,
+                    "word": "fir"
+                  },
+                  {
+                    "end": 211,
+                    "start": 170,
+                    "word": "tree"
+                  }
+                ],
+                "until": 211,
+                "utterances": "Kirk sits in the fir tree"
+              }
+            ],
+            "sentence": "Kirk sits in the fir tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_the_fir_tree_he_can_chirp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 39,
+                    "start": 32,
+                    "word": "the"
+                  },
+                  {
+                    "end": 36,
+                    "start": 3,
+                    "word": "fir"
+                  },
+                  {
+                    "end": 80,
+                    "start": 37,
+                    "word": "tree"
+                  },
+                  {
+                    "end": 101,
+                    "start": 81,
+                    "word": "he"
+                  },
+                  {
+                    "end": 126,
+                    "start": 102,
+                    "word": "can"
+                  },
+                  {
+                    "end": 183,
+                    "start": 127,
+                    "word": "chirp"
+                  }
+                ],
+                "until": 183,
+                "utterances": "In the fir tree he can chirp"
+              }
+            ],
+            "sentence": "In the fir tree he can chirp."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_loud_bird.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 46,
+                    "start": 44,
+                    "word": "a"
+                  },
+                  {
+                    "end": 101,
+                    "start": 47,
+                    "word": "loud"
+                  },
+                  {
+                    "end": 152,
+                    "start": 102,
+                    "word": "bird"
+                  }
+                ],
+                "until": 152,
+                "utterances": "What a loud bird"
+              }
+            ],
+            "sentence": "What a loud bird!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 47,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 47,
+                    "word": "The"
+                  },
+                  {
+                    "end": 54,
+                    "start": 30,
+                    "word": "end"
+                  }
+                ],
+                "until": 54,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Kirk the Bird",
+  "titleimage": null
+}

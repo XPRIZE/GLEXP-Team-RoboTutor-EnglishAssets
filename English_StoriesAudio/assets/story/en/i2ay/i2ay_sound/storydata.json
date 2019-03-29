@@ -1,0 +1,587 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fight.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "FIGHT"
+                  }
+                ],
+                "until": 76,
+                "utterances": "FIGHT"
+              }
+            ],
+            "sentence": "fight "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sign.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "SIGN"
+                  }
+                ],
+                "until": 76,
+                "utterances": "SIGN"
+              }
+            ],
+            "sentence": "sign "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "flight.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 10,
+                    "word": "FLIGHT"
+                  }
+                ],
+                "until": 78,
+                "utterances": "FLIGHT"
+              }
+            ],
+            "sentence": "flight "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_i_make_in_fight_sign_and_flight.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 114,
+                    "start": 55,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 145,
+                    "start": 121,
+                    "word": "does"
+                  },
+                  {
+                    "end": 158,
+                    "start": 146,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 165,
+                    "word": "I"
+                  },
+                  {
+                    "end": 222,
+                    "start": 190,
+                    "word": "make"
+                  },
+                  {
+                    "end": 250,
+                    "start": 223,
+                    "word": "in"
+                  },
+                  {
+                    "end": 295,
+                    "start": 251,
+                    "word": "FIGHT"
+                  },
+                  {
+                    "end": 357,
+                    "start": 309,
+                    "word": "SIGN"
+                  },
+                  {
+                    "end": 395,
+                    "start": 358,
+                    "word": "and"
+                  },
+                  {
+                    "end": 447,
+                    "start": 404,
+                    "word": "FLIGHT"
+                  }
+                ],
+                "until": 447,
+                "utterances": "What sound does the I make in FIGHT SIGN and FLIGHT"
+              }
+            ],
+            "sentence": "What sound does the i make in fight, sign and flight?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "TIME"
+                  }
+                ],
+                "until": 71,
+                "utterances": "TIME"
+              }
+            ],
+            "sentence": "time "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "FINE"
+                  }
+                ],
+                "until": 46,
+                "utterances": "FINE"
+              }
+            ],
+            "sentence": "fine "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "KITE"
+                  }
+                ],
+                "until": 61,
+                "utterances": "KITE"
+              }
+            ],
+            "sentence": "kite "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "right.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "RIGHT"
+                  }
+                ],
+                "until": 66,
+                "utterances": "RIGHT"
+              }
+            ],
+            "sentence": "right "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "high.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "HIGH"
+                  }
+                ],
+                "until": 53,
+                "utterances": "HIGH"
+              }
+            ],
+            "sentence": "high "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "night.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "NIGHT"
+                  }
+                ],
+                "until": 55,
+                "utterances": "NIGHT"
+              }
+            ],
+            "sentence": "night "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_read_the_following_silly_sentences_out_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 82,
+                    "start": 49,
+                    "word": "read"
+                  },
+                  {
+                    "end": 90,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 91,
+                    "word": "following"
+                  },
+                  {
+                    "end": 170,
+                    "start": 140,
+                    "word": "silly"
+                  },
+                  {
+                    "end": 250,
+                    "start": 171,
+                    "word": "sentences"
+                  },
+                  {
+                    "end": 291,
+                    "start": 251,
+                    "word": "out"
+                  },
+                  {
+                    "end": 321,
+                    "start": 292,
+                    "word": "loud"
+                  }
+                ],
+                "until": 321,
+                "utterances": "Now read the following silly sentences out loud"
+              }
+            ],
+            "sentence": "Now, read the following silly sentences out loud!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_light_was_bright_upon_first_sight_but_then_it_faded_into_the_night.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 72,
+                    "start": 34,
+                    "word": "LIGHT"
+                  },
+                  {
+                    "end": 102,
+                    "start": 78,
+                    "word": "was"
+                  },
+                  {
+                    "end": 145,
+                    "start": 103,
+                    "word": "BRIGHT"
+                  },
+                  {
+                    "end": 208,
+                    "start": 154,
+                    "word": "upon"
+                  },
+                  {
+                    "end": 251,
+                    "start": 209,
+                    "word": "FIRST"
+                  },
+                  {
+                    "end": 301,
+                    "start": 252,
+                    "word": "SIGHT"
+                  },
+                  {
+                    "end": 338,
+                    "start": 312,
+                    "word": "but"
+                  },
+                  {
+                    "end": 375,
+                    "start": 339,
+                    "word": "then"
+                  },
+                  {
+                    "end": 393,
+                    "start": 381,
+                    "word": "it"
+                  },
+                  {
+                    "end": 467,
+                    "start": 394,
+                    "word": "faded"
+                  },
+                  {
+                    "end": 509,
+                    "start": 468,
+                    "word": "into"
+                  },
+                  {
+                    "end": 523,
+                    "start": 510,
+                    "word": "the"
+                  },
+                  {
+                    "end": 547,
+                    "start": 524,
+                    "word": "NIGHT"
+                  }
+                ],
+                "until": 547,
+                "utterances": "My LIGHT was BRIGHT upon FIRST SIGHT but then it faded into the NIGHT"
+              }
+            ],
+            "sentence": "My light was bright upon first sight, but then it faded into the night."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_time_i_found_a_fine_sign_in_the_grime_of_a_mine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 115,
+                    "start": 68,
+                    "word": "TIME"
+                  },
+                  {
+                    "end": 142,
+                    "start": 124,
+                    "word": "I"
+                  },
+                  {
+                    "end": 198,
+                    "start": 143,
+                    "word": "found"
+                  },
+                  {
+                    "end": 216,
+                    "start": 206,
+                    "word": "a"
+                  },
+                  {
+                    "end": 282,
+                    "start": 217,
+                    "word": "FINE"
+                  },
+                  {
+                    "end": 353,
+                    "start": 287,
+                    "word": "SIGN"
+                  },
+                  {
+                    "end": 391,
+                    "start": 362,
+                    "word": "in"
+                  },
+                  {
+                    "end": 406,
+                    "start": 392,
+                    "word": "the"
+                  },
+                  {
+                    "end": 478,
+                    "start": 407,
+                    "word": "GRIME"
+                  },
+                  {
+                    "end": 515,
+                    "start": 479,
+                    "word": "of"
+                  },
+                  {
+                    "end": 534,
+                    "start": 522,
+                    "word": "a"
+                  },
+                  {
+                    "end": 573,
+                    "start": 535,
+                    "word": "MINE"
+                  }
+                ],
+                "until": 573,
+                "utterances": "One TIME I found a FINE SIGN in the GRIME of a MINE"
+              }
+            ],
+            "sentence": "One time, I found a fine sign in the grime of a mine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fine_time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "FINE"
+                  },
+                  {
+                    "end": 119,
+                    "start": 73,
+                    "word": "TIME"
+                  }
+                ],
+                "until": 119,
+                "utterances": "FINE TIME"
+              }
+            ],
+            "sentence": "Fine time! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letter I in FIGHT, SIGN and FLIGHT.",
+  "titleimage": null
+}

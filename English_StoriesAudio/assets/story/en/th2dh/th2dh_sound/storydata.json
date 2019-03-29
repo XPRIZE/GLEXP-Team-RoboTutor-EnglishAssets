@@ -1,0 +1,415 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 8,
+                    "word": "THE"
+                  }
+                ],
+                "until": 71,
+                "utterances": "THE"
+              }
+            ],
+            "sentence": "the "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "THIS"
+                  }
+                ],
+                "until": 61,
+                "utterances": "THIS"
+              }
+            ],
+            "sentence": "this "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "THAT"
+                  }
+                ],
+                "until": 30,
+                "utterances": "THAT"
+              }
+            ],
+            "sentence": "that "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_t_h_make_in_the_words_the_this_and_that.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 78,
+                    "start": 30,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 90,
+                    "start": 79,
+                    "word": "do"
+                  },
+                  {
+                    "end": 98,
+                    "start": 91,
+                    "word": "the"
+                  },
+                  {
+                    "end": 140,
+                    "start": 99,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 186,
+                    "start": 141,
+                    "word": "T"
+                  },
+                  {
+                    "end": 238,
+                    "start": 197,
+                    "word": "H"
+                  },
+                  {
+                    "end": 279,
+                    "start": 239,
+                    "word": "make"
+                  },
+                  {
+                    "end": 289,
+                    "start": 280,
+                    "word": "in"
+                  },
+                  {
+                    "end": 297,
+                    "start": 290,
+                    "word": "the"
+                  },
+                  {
+                    "end": 336,
+                    "start": 298,
+                    "word": "words"
+                  },
+                  {
+                    "end": 369,
+                    "start": 337,
+                    "word": "THE"
+                  },
+                  {
+                    "end": 425,
+                    "start": 387,
+                    "word": "THIS"
+                  },
+                  {
+                    "end": 448,
+                    "start": 426,
+                    "word": "and"
+                  },
+                  {
+                    "end": 487,
+                    "start": 449,
+                    "word": "THAT"
+                  }
+                ],
+                "until": 487,
+                "utterances": "What sound do the Letters T H make in the words THE THIS and THAT"
+              }
+            ],
+            "sentence": "What sound do the letters t h make in the words the, this, and that?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "THEN"
+                  }
+                ],
+                "until": 41,
+                "utterances": "THEN"
+              }
+            ],
+            "sentence": "then "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "THEY"
+                  }
+                ],
+                "until": 58,
+                "utterances": "THEY"
+              }
+            ],
+            "sentence": "they "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "them.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "THEM"
+                  }
+                ],
+                "until": 55,
+                "utterances": "THEM"
+              }
+            ],
+            "sentence": "them "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "there.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "THERE"
+                  }
+                ],
+                "until": 63,
+                "utterances": "THERE"
+              }
+            ],
+            "sentence": "there "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "those.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "THOSE"
+                  }
+                ],
+                "until": 67,
+                "utterances": "THOSE"
+              }
+            ],
+            "sentence": "those "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "though.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "THOUGH"
+                  }
+                ],
+                "until": 51,
+                "utterances": "THOUGH"
+              }
+            ],
+            "sentence": "though "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "their.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "THEIR"
+                  }
+                ],
+                "until": 52,
+                "utterances": "THEIR"
+              }
+            ],
+            "sentence": "their "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_wasn_t_too_hard_was_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 73,
+                    "start": 39,
+                    "word": "wasn't"
+                  },
+                  {
+                    "end": 94,
+                    "start": 74,
+                    "word": "too"
+                  },
+                  {
+                    "end": 123,
+                    "start": 95,
+                    "word": "hard"
+                  },
+                  {
+                    "end": 150,
+                    "start": 124,
+                    "word": "was"
+                  },
+                  {
+                    "end": 158,
+                    "start": 151,
+                    "word": "it"
+                  }
+                ],
+                "until": 158,
+                "utterances": "That wasn't too hard was it"
+              }
+            ],
+            "sentence": "That wasn't too hard, was it?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letters T H in The, This, and That",
+  "titleimage": null
+}

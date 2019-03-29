@@ -1,0 +1,560 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dot_is_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 23,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 83,
+                    "start": 64,
+                    "word": "is"
+                  },
+                  {
+                    "end": 107,
+                    "start": 84,
+                    "word": "on"
+                  },
+                  {
+                    "end": 113,
+                    "start": 108,
+                    "word": "the"
+                  },
+                  {
+                    "end": 251,
+                    "start": 114,
+                    "word": "mat"
+                  }
+                ],
+                "until": 251,
+                "utterances": "The dot is on the mat"
+              }
+            ],
+            "sentence": "The dot is on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_the_mat_of_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 64,
+                    "start": 31,
+                    "word": "is"
+                  },
+                  {
+                    "end": 73,
+                    "start": 65,
+                    "word": "the"
+                  },
+                  {
+                    "end": 113,
+                    "start": 74,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 131,
+                    "start": 114,
+                    "word": "of"
+                  },
+                  {
+                    "end": 189,
+                    "start": 132,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 189,
+                "utterances": "It is the mat of Dad"
+              }
+            ],
+            "sentence": "It is the mat of Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_a_rad_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 39,
+                    "start": 24,
+                    "word": "is"
+                  },
+                  {
+                    "end": 10,
+                    "start": 3,
+                    "word": "a"
+                  },
+                  {
+                    "end": 65,
+                    "start": 11,
+                    "word": "rad"
+                  },
+                  {
+                    "end": 113,
+                    "start": 66,
+                    "word": "mat"
+                  }
+                ],
+                "until": 113,
+                "utterances": "It is a rad mat"
+              }
+            ],
+            "sentence": "It is a rad mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fat_rat_is_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 25,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 114,
+                    "start": 75,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 135,
+                    "start": 115,
+                    "word": "is"
+                  },
+                  {
+                    "end": 162,
+                    "start": 136,
+                    "word": "on"
+                  },
+                  {
+                    "end": 169,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 170,
+                    "word": "mat"
+                  }
+                ],
+                "until": 219,
+                "utterances": "The fat rat is on the mat"
+              }
+            ],
+            "sentence": "The fat rat is on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_rat_rot_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 40,
+                    "start": 31,
+                    "word": "the"
+                  },
+                  {
+                    "end": 87,
+                    "start": 41,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 117,
+                    "start": 88,
+                    "word": "rot"
+                  },
+                  {
+                    "end": 146,
+                    "start": 118,
+                    "word": "on"
+                  },
+                  {
+                    "end": 154,
+                    "start": 147,
+                    "word": "the"
+                  },
+                  {
+                    "end": 324,
+                    "start": 155,
+                    "word": "mat"
+                  }
+                ],
+                "until": 324,
+                "utterances": "Did the rat rot on the mat"
+              }
+            ],
+            "sentence": "Did the rat rot on the mat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 74,
+                    "start": 45,
+                    "word": "is"
+                  },
+                  {
+                    "end": 163,
+                    "start": 75,
+                    "word": "mad"
+                  }
+                ],
+                "until": 163,
+                "utterances": "Dad is mad"
+              }
+            ],
+            "sentence": "Dad is mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sits_on_the_rat_rot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 65,
+                    "start": 16,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 87,
+                    "start": 66,
+                    "word": "on"
+                  },
+                  {
+                    "end": 99,
+                    "start": 88,
+                    "word": "the"
+                  },
+                  {
+                    "end": 135,
+                    "start": 100,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 170,
+                    "start": 136,
+                    "word": "rot"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Sis sits on the rat rot"
+              }
+            ],
+            "sentence": "Sis sits on the rat rot.  "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 59,
+                    "start": 49,
+                    "word": "is"
+                  },
+                  {
+                    "end": 122,
+                    "start": 60,
+                    "word": "sad"
+                  }
+                ],
+                "until": 122,
+                "utterances": "Sis is sad"
+              }
+            ],
+            "sentence": "Sis is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_rid_the_mat_of_rot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 67,
+                    "start": 47,
+                    "word": "rid"
+                  },
+                  {
+                    "end": 76,
+                    "start": 68,
+                    "word": "the"
+                  },
+                  {
+                    "end": 108,
+                    "start": 77,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 119,
+                    "start": 109,
+                    "word": "of"
+                  },
+                  {
+                    "end": 168,
+                    "start": 120,
+                    "word": "rot"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Dad rid the mat of rot"
+              }
+            ],
+            "sentence": "Dad rid the mat of rot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_rad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 63,
+                    "start": 43,
+                    "word": "is"
+                  },
+                  {
+                    "end": 124,
+                    "start": 64,
+                    "word": "rad"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Dad is rad"
+              }
+            ],
+            "sentence": "Dad is rad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sits_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 77,
+                    "start": 36,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 96,
+                    "start": 78,
+                    "word": "on"
+                  },
+                  {
+                    "end": 103,
+                    "start": 97,
+                    "word": "the"
+                  },
+                  {
+                    "end": 337,
+                    "start": 104,
+                    "word": "mat"
+                  }
+                ],
+                "until": 337,
+                "utterances": "Dad sits on the mat"
+              }
+            ],
+            "sentence": "Dad sits on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_is_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 72,
+                    "start": 54,
+                    "word": "is"
+                  },
+                  {
+                    "end": 128,
+                    "start": 73,
+                    "word": "glad"
+                  }
+                ],
+                "until": 128,
+                "utterances": "Sis is glad"
+              }
+            ],
+            "sentence": "Sis is glad."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dot on Mat",
+  "titleimage": null
+}

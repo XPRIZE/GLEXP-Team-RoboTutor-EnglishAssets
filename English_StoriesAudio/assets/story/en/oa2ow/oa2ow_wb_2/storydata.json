@@ -1,0 +1,676 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_goat_and_a_toad_ran_in_the_road.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 70,
+                    "start": 23,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 116,
+                    "start": 91,
+                    "word": "and"
+                  },
+                  {
+                    "end": 124,
+                    "start": 117,
+                    "word": "a"
+                  },
+                  {
+                    "end": 181,
+                    "start": 125,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 229,
+                    "start": 190,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 266,
+                    "start": 242,
+                    "word": "in"
+                  },
+                  {
+                    "end": 277,
+                    "start": 267,
+                    "word": "the"
+                  },
+                  {
+                    "end": 326,
+                    "start": 278,
+                    "word": "road"
+                  }
+                ],
+                "until": 326,
+                "utterances": "A goat and a toad ran in the road"
+              }
+            ],
+            "sentence": "A goat and a toad ran in the road."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "stop_i_said.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Stop"
+                  },
+                  {
+                    "end": 92,
+                    "start": 80,
+                    "word": "I"
+                  },
+                  {
+                    "end": 140,
+                    "start": 93,
+                    "word": "said"
+                  }
+                ],
+                "until": 140,
+                "utterances": "Stop I said"
+              }
+            ],
+            "sentence": "\"Stop,\" I said."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do_not_hit_the_goat_and_the_toad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 70,
+                    "start": 25,
+                    "word": "not"
+                  },
+                  {
+                    "end": 91,
+                    "start": 71,
+                    "word": "hit"
+                  },
+                  {
+                    "end": 120,
+                    "start": 92,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 121,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 204,
+                    "start": 181,
+                    "word": "and"
+                  },
+                  {
+                    "end": 219,
+                    "start": 205,
+                    "word": "the"
+                  },
+                  {
+                    "end": 264,
+                    "start": 220,
+                    "word": "toad"
+                  }
+                ],
+                "until": 264,
+                "utterances": "Do not hit the goat and the toad"
+              }
+            ],
+            "sentence": "\"Do not hit the goat and the toad!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_wish_the_goat_would_go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 15,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 24,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 88,
+                    "start": 73,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 89,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 163,
+                    "start": 130,
+                    "word": "would"
+                  },
+                  {
+                    "end": 202,
+                    "start": 164,
+                    "word": "go"
+                  }
+                ],
+                "until": 202,
+                "utterances": "I wish the goat would go"
+              }
+            ],
+            "sentence": "I wish the goat would go.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_goat_just_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 49,
+                    "start": 33,
+                    "word": "the"
+                  },
+                  {
+                    "end": 90,
+                    "start": 50,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 145,
+                    "start": 104,
+                    "word": "just"
+                  },
+                  {
+                    "end": 184,
+                    "start": 146,
+                    "word": "sat"
+                  }
+                ],
+                "until": 184,
+                "utterances": "But the goat just sat"
+              }
+            ],
+            "sentence": "But the goat just sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_said_let_s_help_the_goat_and_the_toad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 31,
+                    "word": "said"
+                  },
+                  {
+                    "end": 114,
+                    "start": 69,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 156,
+                    "start": 115,
+                    "word": "help"
+                  },
+                  {
+                    "end": 170,
+                    "start": 157,
+                    "word": "the"
+                  },
+                  {
+                    "end": 220,
+                    "start": 171,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 247,
+                    "start": 221,
+                    "word": "and"
+                  },
+                  {
+                    "end": 263,
+                    "start": 248,
+                    "word": "the"
+                  },
+                  {
+                    "end": 306,
+                    "start": 267,
+                    "word": "toad"
+                  }
+                ],
+                "until": 306,
+                "utterances": "I said Let's help the goat and the toad"
+              }
+            ],
+            "sentence": "I said, \"Let's help the goat and the toad.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_left_the_road.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 8,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 60,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 140,
+                    "start": 96,
+                    "word": "left"
+                  },
+                  {
+                    "end": 154,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 198,
+                    "start": 155,
+                    "word": "road"
+                  }
+                ],
+                "until": 198,
+                "utterances": "The toad left the road"
+              }
+            ],
+            "sentence": "The toad left the road. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_sat_by_an_oak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 68,
+                    "start": 26,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 93,
+                    "start": 69,
+                    "word": "by"
+                  },
+                  {
+                    "end": 117,
+                    "start": 94,
+                    "word": "an"
+                  },
+                  {
+                    "end": 153,
+                    "start": 118,
+                    "word": "oak"
+                  }
+                ],
+                "until": 153,
+                "utterances": "It sat by an oak"
+              }
+            ],
+            "sentence": "It sat by an oak."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_had_to_beg_the_goat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 79,
+                    "start": 35,
+                    "word": "had"
+                  },
+                  {
+                    "end": 87,
+                    "start": 80,
+                    "word": "to"
+                  },
+                  {
+                    "end": 140,
+                    "start": 88,
+                    "word": "beg"
+                  },
+                  {
+                    "end": 157,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 205,
+                    "start": 158,
+                    "word": "goat"
+                  }
+                ],
+                "until": 205,
+                "utterances": "We had to beg the goat"
+              }
+            ],
+            "sentence": "We had to beg the goat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_had_to_rush_the_goat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 57,
+                    "start": 42,
+                    "word": "had"
+                  },
+                  {
+                    "end": 90,
+                    "start": 58,
+                    "word": "to"
+                  },
+                  {
+                    "end": 129,
+                    "start": 91,
+                    "word": "rush"
+                  },
+                  {
+                    "end": 141,
+                    "start": 130,
+                    "word": "the"
+                  },
+                  {
+                    "end": 188,
+                    "start": 142,
+                    "word": "goat"
+                  }
+                ],
+                "until": 188,
+                "utterances": "We had to rush the goat"
+              }
+            ],
+            "sentence": "We had to rush the goat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_had_to_grab_the_goat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 55,
+                    "start": 30,
+                    "word": "had"
+                  },
+                  {
+                    "end": 67,
+                    "start": 56,
+                    "word": "to"
+                  },
+                  {
+                    "end": 101,
+                    "start": 68,
+                    "word": "grab"
+                  },
+                  {
+                    "end": 136,
+                    "start": 123,
+                    "word": "the"
+                  },
+                  {
+                    "end": 182,
+                    "start": 137,
+                    "word": "goat"
+                  }
+                ],
+                "until": 182,
+                "utterances": "We had to grab the goat"
+              }
+            ],
+            "sentence": "We had to grab the goat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_goat_did_not_stand_up.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 8,
+                    "word": "But"
+                  },
+                  {
+                    "end": 38,
+                    "start": 26,
+                    "word": "the"
+                  },
+                  {
+                    "end": 76,
+                    "start": 39,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 105,
+                    "start": 77,
+                    "word": "did"
+                  },
+                  {
+                    "end": 135,
+                    "start": 106,
+                    "word": "not"
+                  },
+                  {
+                    "end": 185,
+                    "start": 136,
+                    "word": "stand"
+                  },
+                  {
+                    "end": 229,
+                    "start": 191,
+                    "word": "up"
+                  }
+                ],
+                "until": 229,
+                "utterances": "But the goat did not stand up"
+              }
+            ],
+            "sentence": "But the goat did not stand up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_goat_just_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 25,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 121,
+                    "start": 83,
+                    "word": "just"
+                  },
+                  {
+                    "end": 150,
+                    "start": 122,
+                    "word": "sat"
+                  }
+                ],
+                "until": 150,
+                "utterances": "The goat just sat"
+              }
+            ],
+            "sentence": "The goat just sat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "A Goat and a Toad",
+  "titleimage": null
+}

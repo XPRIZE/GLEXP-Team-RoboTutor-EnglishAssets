@@ -1,0 +1,748 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_had_a_tan_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 75,
+                    "start": 48,
+                    "word": "had"
+                  },
+                  {
+                    "end": 89,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 90,
+                    "word": "tan"
+                  },
+                  {
+                    "end": 174,
+                    "start": 130,
+                    "word": "nut"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Don had a tan nut"
+              }
+            ],
+            "sentence": "Don had a tan nut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_nut_got_soft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 23,
+                    "word": "nut"
+                  },
+                  {
+                    "end": 63,
+                    "start": 32,
+                    "word": "got"
+                  },
+                  {
+                    "end": 130,
+                    "start": 64,
+                    "word": "soft"
+                  }
+                ],
+                "until": 130,
+                "utterances": "The nut got soft"
+              }
+            ],
+            "sentence": "The nut got soft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_an_ant_find_the_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 63,
+                    "start": 34,
+                    "word": "an"
+                  },
+                  {
+                    "end": 103,
+                    "start": 64,
+                    "word": "ant"
+                  },
+                  {
+                    "end": 156,
+                    "start": 104,
+                    "word": "find"
+                  },
+                  {
+                    "end": 166,
+                    "start": 157,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 167,
+                    "word": "nut"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Did an ant find the nut"
+              }
+            ],
+            "sentence": "Did an ant find the nut?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_a_man_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 79,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 80,
+                    "word": "man"
+                  },
+                  {
+                    "end": 160,
+                    "start": 128,
+                    "word": "did"
+                  }
+                ],
+                "until": 160,
+                "utterances": "No a man did"
+              }
+            ],
+            "sentence": "No, a man did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_man_had_a_grin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 23,
+                    "word": "man"
+                  },
+                  {
+                    "end": 95,
+                    "start": 63,
+                    "word": "had"
+                  },
+                  {
+                    "end": 112,
+                    "start": 96,
+                    "word": "a"
+                  },
+                  {
+                    "end": 163,
+                    "start": 113,
+                    "word": "grin"
+                  }
+                ],
+                "until": 163,
+                "utterances": "The man had a grin"
+              }
+            ],
+            "sentence": "The man had a grin. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_slit_the_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 29,
+                    "word": "slit"
+                  },
+                  {
+                    "end": 102,
+                    "start": 91,
+                    "word": "the"
+                  },
+                  {
+                    "end": 143,
+                    "start": 103,
+                    "word": "nut"
+                  }
+                ],
+                "until": 143,
+                "utterances": "He slit the nut"
+              }
+            ],
+            "sentence": "He slit the nut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_nut_had_no_guts.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 53,
+                    "word": "nut"
+                  },
+                  {
+                    "end": 127,
+                    "start": 90,
+                    "word": "had"
+                  },
+                  {
+                    "end": 163,
+                    "start": 128,
+                    "word": "no"
+                  },
+                  {
+                    "end": 228,
+                    "start": 164,
+                    "word": "guts"
+                  }
+                ],
+                "until": 228,
+                "utterances": "The nut had no guts"
+              }
+            ],
+            "sentence": "The nut had no guts."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_man_fit_the_nut_in_his_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 22,
+                    "word": "man"
+                  },
+                  {
+                    "end": 104,
+                    "start": 69,
+                    "word": "fit"
+                  },
+                  {
+                    "end": 115,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 150,
+                    "start": 116,
+                    "word": "nut"
+                  },
+                  {
+                    "end": 178,
+                    "start": 163,
+                    "word": "in"
+                  },
+                  {
+                    "end": 201,
+                    "start": 179,
+                    "word": "his"
+                  },
+                  {
+                    "end": 235,
+                    "start": 202,
+                    "word": "hat"
+                  }
+                ],
+                "until": 235,
+                "utterances": "The man fit the nut in his hat"
+              }
+            ],
+            "sentence": "The man fit the nut in his hat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hat_sat_in_the_sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 59,
+                    "start": 22,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 107,
+                    "start": 60,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 120,
+                    "start": 108,
+                    "word": "in"
+                  },
+                  {
+                    "end": 129,
+                    "start": 121,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 130,
+                    "word": "sun"
+                  }
+                ],
+                "until": 177,
+                "utterances": "The hat sat in the sun"
+              }
+            ],
+            "sentence": "The hat sat in the sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_got_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 57,
+                    "start": 29,
+                    "word": "got"
+                  },
+                  {
+                    "end": 106,
+                    "start": 58,
+                    "word": "hot"
+                  }
+                ],
+                "until": 106,
+                "utterances": "It got hot"
+              }
+            ],
+            "sentence": "It got hot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_got_mad_at_the_man.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 86,
+                    "start": 52,
+                    "word": "got"
+                  },
+                  {
+                    "end": 143,
+                    "start": 87,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 161,
+                    "start": 144,
+                    "word": "at"
+                  },
+                  {
+                    "end": 174,
+                    "start": 166,
+                    "word": "the"
+                  },
+                  {
+                    "end": 224,
+                    "start": 175,
+                    "word": "man"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Don got mad at the man"
+              }
+            ],
+            "sentence": "Don got mad at the man."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_man_had_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 35,
+                    "word": "man"
+                  },
+                  {
+                    "end": 124,
+                    "start": 80,
+                    "word": "had"
+                  },
+                  {
+                    "end": 175,
+                    "start": 125,
+                    "word": "fun"
+                  }
+                ],
+                "until": 175,
+                "utterances": "The man had fun"
+              }
+            ],
+            "sentence": "The man had fun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "at_last_the_man_got_a_fan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "At"
+                  },
+                  {
+                    "end": 95,
+                    "start": 25,
+                    "word": "last"
+                  },
+                  {
+                    "end": 105,
+                    "start": 96,
+                    "word": "the"
+                  },
+                  {
+                    "end": 144,
+                    "start": 106,
+                    "word": "man"
+                  },
+                  {
+                    "end": 182,
+                    "start": 145,
+                    "word": "got"
+                  },
+                  {
+                    "end": 190,
+                    "start": 183,
+                    "word": "a"
+                  },
+                  {
+                    "end": 241,
+                    "start": 191,
+                    "word": "fan"
+                  }
+                ],
+                "until": 241,
+                "utterances": "At last the man got a fan"
+              }
+            ],
+            "sentence": "At last, the man got a fan."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_was_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 95,
+                    "start": 69,
+                    "word": "was"
+                  },
+                  {
+                    "end": 149,
+                    "start": 96,
+                    "word": "glad"
+                  }
+                ],
+                "until": 149,
+                "utterances": "Don was glad"
+              }
+            ],
+            "sentence": "Don was glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_and_the_man_sat_in_the_sun_in_the_sand_and_got_a_tan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 91,
+                    "start": 58,
+                    "word": "and"
+                  },
+                  {
+                    "end": 101,
+                    "start": 92,
+                    "word": "the"
+                  },
+                  {
+                    "end": 144,
+                    "start": 102,
+                    "word": "man"
+                  },
+                  {
+                    "end": 190,
+                    "start": 145,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 203,
+                    "start": 191,
+                    "word": "in"
+                  },
+                  {
+                    "end": 213,
+                    "start": 204,
+                    "word": "the"
+                  },
+                  {
+                    "end": 258,
+                    "start": 214,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 283,
+                    "start": 265,
+                    "word": "in"
+                  },
+                  {
+                    "end": 292,
+                    "start": 284,
+                    "word": "the"
+                  },
+                  {
+                    "end": 344,
+                    "start": 293,
+                    "word": "sand"
+                  },
+                  {
+                    "end": 365,
+                    "start": 351,
+                    "word": "and"
+                  },
+                  {
+                    "end": 391,
+                    "start": 366,
+                    "word": "got"
+                  },
+                  {
+                    "end": 399,
+                    "start": 392,
+                    "word": "a"
+                  },
+                  {
+                    "end": 449,
+                    "start": 400,
+                    "word": "tan"
+                  }
+                ],
+                "until": 449,
+                "utterances": "Don and the man sat in the sun in the sand and got a tan"
+              }
+            ],
+            "sentence": "Don and the man sat in the sun in the sand and got a tan!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Nut",
+  "titleimage": null
+}

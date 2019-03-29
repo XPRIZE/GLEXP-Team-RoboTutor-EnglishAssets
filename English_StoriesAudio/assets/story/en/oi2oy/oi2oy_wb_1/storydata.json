@@ -1,0 +1,1578 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_and_jon_took_a_trip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 83,
+                    "start": 61,
+                    "word": "and"
+                  },
+                  {
+                    "end": 141,
+                    "start": 84,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 168,
+                    "start": 142,
+                    "word": "took"
+                  },
+                  {
+                    "end": 172,
+                    "start": 169,
+                    "word": "a"
+                  },
+                  {
+                    "end": 236,
+                    "start": 173,
+                    "word": "trip"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Jen and Jon took a trip"
+              }
+            ],
+            "sentence": "Jen and Jon took a trip."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_went_to_the_beach.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 75,
+                    "start": 27,
+                    "word": "went"
+                  },
+                  {
+                    "end": 110,
+                    "start": 76,
+                    "word": "to"
+                  },
+                  {
+                    "end": 124,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 125,
+                    "word": "beach"
+                  }
+                ],
+                "until": 178,
+                "utterances": "They went to the beach"
+              }
+            ],
+            "sentence": "They went to the beach."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_they_found_a_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 25,
+                    "start": 7,
+                    "word": "they"
+                  },
+                  {
+                    "end": 64,
+                    "start": 26,
+                    "word": "found"
+                  },
+                  {
+                    "end": 68,
+                    "start": 65,
+                    "word": "a"
+                  },
+                  {
+                    "end": 133,
+                    "start": 69,
+                    "word": "snake"
+                  }
+                ],
+                "until": 133,
+                "utterances": "But they found a snake"
+              }
+            ],
+            "sentence": "But they found a snake!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_said_look_look_a_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 79,
+                    "start": 42,
+                    "word": "said"
+                  },
+                  {
+                    "end": 116,
+                    "start": 80,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 154,
+                    "start": 117,
+                    "word": "look"
+                  },
+                  {
+                    "end": 167,
+                    "start": 155,
+                    "word": "a"
+                  },
+                  {
+                    "end": 231,
+                    "start": 168,
+                    "word": "snake"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Jen said Look look a snake"
+              }
+            ],
+            "sentence": "Jen said, \"Look look a snake!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_said_do_not_point.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 28,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 112,
+                    "start": 73,
+                    "word": "said"
+                  },
+                  {
+                    "end": 148,
+                    "start": 126,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 170,
+                    "start": 149,
+                    "word": "not"
+                  },
+                  {
+                    "end": 234,
+                    "start": 182,
+                    "word": "point"
+                  }
+                ],
+                "until": 234,
+                "utterances": "The snake said Do not point"
+              }
+            ],
+            "sentence": "The snake said, \"Do not point."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_rude_to_point.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 56,
+                    "start": 35,
+                    "word": "is"
+                  },
+                  {
+                    "end": 106,
+                    "start": 57,
+                    "word": "rude"
+                  },
+                  {
+                    "end": 130,
+                    "start": 115,
+                    "word": "to"
+                  },
+                  {
+                    "end": 190,
+                    "start": 131,
+                    "word": "point"
+                  }
+                ],
+                "until": 190,
+                "utterances": "It is rude to point"
+              }
+            ],
+            "sentence": "It is rude to point.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_came_close.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 22,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 123,
+                    "start": 86,
+                    "word": "came"
+                  },
+                  {
+                    "end": 189,
+                    "start": 124,
+                    "word": "close"
+                  }
+                ],
+                "until": 189,
+                "utterances": "The snake came close"
+              }
+            ],
+            "sentence": "The snake came close."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_they_gave_it_a_coin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 52,
+                    "start": 39,
+                    "word": "they"
+                  },
+                  {
+                    "end": 82,
+                    "start": 53,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 101,
+                    "start": 83,
+                    "word": "it"
+                  },
+                  {
+                    "end": 104,
+                    "start": 102,
+                    "word": "a"
+                  },
+                  {
+                    "end": 153,
+                    "start": 105,
+                    "word": "coin"
+                  }
+                ],
+                "until": 153,
+                "utterances": "So they gave it a coin"
+              }
+            ],
+            "sentence": "So they gave it a coin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_said_i_do_not_need_a_coin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 79,
+                    "start": 58,
+                    "word": "said"
+                  },
+                  {
+                    "end": 104,
+                    "start": 88,
+                    "word": "I"
+                  },
+                  {
+                    "end": 120,
+                    "start": 105,
+                    "word": "do"
+                  },
+                  {
+                    "end": 142,
+                    "start": 121,
+                    "word": "not"
+                  },
+                  {
+                    "end": 174,
+                    "start": 143,
+                    "word": "need"
+                  },
+                  {
+                    "end": 183,
+                    "start": 175,
+                    "word": "a"
+                  },
+                  {
+                    "end": 241,
+                    "start": 184,
+                    "word": "coin"
+                  }
+                ],
+                "until": 241,
+                "utterances": "The snake said I do not need a coin"
+              }
+            ],
+            "sentence": "The snake said, \"I do not need a coin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_can_a_snake_do_with_a_coin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 50,
+                    "start": 32,
+                    "word": "can"
+                  },
+                  {
+                    "end": 58,
+                    "start": 51,
+                    "word": "a"
+                  },
+                  {
+                    "end": 110,
+                    "start": 59,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 132,
+                    "start": 111,
+                    "word": "do"
+                  },
+                  {
+                    "end": 157,
+                    "start": 133,
+                    "word": "with"
+                  },
+                  {
+                    "end": 164,
+                    "start": 158,
+                    "word": "a"
+                  },
+                  {
+                    "end": 214,
+                    "start": 165,
+                    "word": "coin"
+                  }
+                ],
+                "until": 214,
+                "utterances": "What can a snake do with a coin"
+              }
+            ],
+            "sentence": "What can a snake do with a coin?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_and_jon_said_you_can_not_spoil_our_trip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 62,
+                    "start": 42,
+                    "word": "and"
+                  },
+                  {
+                    "end": 92,
+                    "start": 63,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 130,
+                    "start": 93,
+                    "word": "said"
+                  },
+                  {
+                    "end": 151,
+                    "start": 131,
+                    "word": "You"
+                  },
+                  {
+                    "end": 176,
+                    "start": 152,
+                    "word": "can"
+                  },
+                  {
+                    "end": 198,
+                    "start": 177,
+                    "word": "not"
+                  },
+                  {
+                    "end": 256,
+                    "start": 199,
+                    "word": "spoil"
+                  },
+                  {
+                    "end": 280,
+                    "start": 257,
+                    "word": "our"
+                  },
+                  {
+                    "end": 325,
+                    "start": 281,
+                    "word": "trip"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Jen and Jon said You can not spoil our trip"
+              }
+            ],
+            "sentence": "Jen and Jon said, \"You can not spoil our trip.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_said_then_do_not_spoil_mine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 43,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 128,
+                    "start": 90,
+                    "word": "said"
+                  },
+                  {
+                    "end": 165,
+                    "start": 143,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 186,
+                    "start": 166,
+                    "word": "do"
+                  },
+                  {
+                    "end": 209,
+                    "start": 187,
+                    "word": "not"
+                  },
+                  {
+                    "end": 265,
+                    "start": 210,
+                    "word": "spoil"
+                  },
+                  {
+                    "end": 314,
+                    "start": 266,
+                    "word": "mine"
+                  }
+                ],
+                "until": 314,
+                "utterances": "The snake said Then do not spoil mine"
+              }
+            ],
+            "sentence": "The snake said, \"Then do not spoil mine.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_sat_in_a_coil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 24,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 106,
+                    "start": 73,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 130,
+                    "start": 118,
+                    "word": "in"
+                  },
+                  {
+                    "end": 139,
+                    "start": 131,
+                    "word": "a"
+                  },
+                  {
+                    "end": 193,
+                    "start": 140,
+                    "word": "coil"
+                  }
+                ],
+                "until": 193,
+                "utterances": "The snake sat in a coil"
+              }
+            ],
+            "sentence": "The snake sat in a coil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_sat_on_the_soil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 87,
+                    "start": 26,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 110,
+                    "start": 88,
+                    "word": "on"
+                  },
+                  {
+                    "end": 118,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 165,
+                    "start": 119,
+                    "word": "soil"
+                  }
+                ],
+                "until": 165,
+                "utterances": "It sat on the soil"
+              }
+            ],
+            "sentence": "It sat on the soil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "soil_is_like_dirt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Soil"
+                  },
+                  {
+                    "end": 94,
+                    "start": 76,
+                    "word": "is"
+                  },
+                  {
+                    "end": 124,
+                    "start": 95,
+                    "word": "like"
+                  },
+                  {
+                    "end": 153,
+                    "start": 125,
+                    "word": "dirt"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Soil is like dirt"
+              }
+            ],
+            "sentence": "Soil is like dirt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_sat_in_a_coil_in_the_soil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 30,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 111,
+                    "start": 83,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 145,
+                    "start": 132,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 146,
+                    "word": "a"
+                  },
+                  {
+                    "end": 219,
+                    "start": 157,
+                    "word": "coil"
+                  },
+                  {
+                    "end": 238,
+                    "start": 224,
+                    "word": "in"
+                  },
+                  {
+                    "end": 246,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 301,
+                    "start": 247,
+                    "word": "soil"
+                  }
+                ],
+                "until": 301,
+                "utterances": "The snake sat in a coil in the soil"
+              }
+            ],
+            "sentence": "The snake sat in a coil in the soil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_dump_oil_on_the_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 70,
+                    "start": 42,
+                    "word": "dump"
+                  },
+                  {
+                    "end": 119,
+                    "start": 82,
+                    "word": "oil"
+                  },
+                  {
+                    "end": 140,
+                    "start": 123,
+                    "word": "on"
+                  },
+                  {
+                    "end": 148,
+                    "start": 141,
+                    "word": "the"
+                  },
+                  {
+                    "end": 205,
+                    "start": 149,
+                    "word": "snake"
+                  }
+                ],
+                "until": 205,
+                "utterances": "Let's dump oil on the snake"
+              }
+            ],
+            "sentence": "\"Let's dump oil on the snake.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_and_jon_got_the_oil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 70,
+                    "start": 52,
+                    "word": "and"
+                  },
+                  {
+                    "end": 115,
+                    "start": 71,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 135,
+                    "start": 116,
+                    "word": "got"
+                  },
+                  {
+                    "end": 156,
+                    "start": 142,
+                    "word": "the"
+                  },
+                  {
+                    "end": 198,
+                    "start": 157,
+                    "word": "oil"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Jen and Jon got the oil"
+              }
+            ],
+            "sentence": "Jen and Jon got the oil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_sat_in_a_coil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 24,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 106,
+                    "start": 73,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 130,
+                    "start": 118,
+                    "word": "in"
+                  },
+                  {
+                    "end": 139,
+                    "start": 131,
+                    "word": "a"
+                  },
+                  {
+                    "end": 193,
+                    "start": 140,
+                    "word": "coil"
+                  }
+                ],
+                "until": 193,
+                "utterances": "The snake sat in a coil"
+              }
+            ],
+            "sentence": "The snake sat in a coil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_said_do_not_dump_oil_on_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 90,
+                    "start": 63,
+                    "word": "said"
+                  },
+                  {
+                    "end": 106,
+                    "start": 91,
+                    "word": "Do"
+                  },
+                  {
+                    "end": 127,
+                    "start": 107,
+                    "word": "not"
+                  },
+                  {
+                    "end": 172,
+                    "start": 141,
+                    "word": "dump"
+                  },
+                  {
+                    "end": 212,
+                    "start": 183,
+                    "word": "oil"
+                  },
+                  {
+                    "end": 239,
+                    "start": 213,
+                    "word": "on"
+                  },
+                  {
+                    "end": 279,
+                    "start": 240,
+                    "word": "me"
+                  }
+                ],
+                "until": 279,
+                "utterances": "The snake said Do not dump oil on me"
+              }
+            ],
+            "sentence": "The snake said, \"Do not dump oil on me!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_is_rude.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 78,
+                    "start": 58,
+                    "word": "is"
+                  },
+                  {
+                    "end": 130,
+                    "start": 79,
+                    "word": "rude"
+                  }
+                ],
+                "until": 130,
+                "utterances": "That is rude"
+              }
+            ],
+            "sentence": "That is rude!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_came_to_point_at_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 68,
+                    "start": 26,
+                    "word": "came"
+                  },
+                  {
+                    "end": 89,
+                    "start": 72,
+                    "word": "to"
+                  },
+                  {
+                    "end": 135,
+                    "start": 90,
+                    "word": "point"
+                  },
+                  {
+                    "end": 162,
+                    "start": 136,
+                    "word": "at"
+                  },
+                  {
+                    "end": 185,
+                    "start": 163,
+                    "word": "me"
+                  }
+                ],
+                "until": 185,
+                "utterances": "You came to point at me"
+              }
+            ],
+            "sentence": "You came to point at me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_came_to_dump_oil_on_me.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 65,
+                    "start": 24,
+                    "word": "came"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 117,
+                    "start": 87,
+                    "word": "dump"
+                  },
+                  {
+                    "end": 167,
+                    "start": 118,
+                    "word": "oil"
+                  },
+                  {
+                    "end": 195,
+                    "start": 168,
+                    "word": "on"
+                  },
+                  {
+                    "end": 245,
+                    "start": 196,
+                    "word": "me"
+                  }
+                ],
+                "until": 245,
+                "utterances": "You came to dump oil on me"
+              }
+            ],
+            "sentence": "You came to dump oil on me."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_gave_me_a_coin_i_do_not_need.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 65,
+                    "start": 32,
+                    "word": "gave"
+                  },
+                  {
+                    "end": 83,
+                    "start": 66,
+                    "word": "me"
+                  },
+                  {
+                    "end": 97,
+                    "start": 84,
+                    "word": "a"
+                  },
+                  {
+                    "end": 148,
+                    "start": 98,
+                    "word": "coin"
+                  },
+                  {
+                    "end": 165,
+                    "start": 149,
+                    "word": "I"
+                  },
+                  {
+                    "end": 184,
+                    "start": 166,
+                    "word": "do"
+                  },
+                  {
+                    "end": 206,
+                    "start": 185,
+                    "word": "not"
+                  },
+                  {
+                    "end": 253,
+                    "start": 207,
+                    "word": "need"
+                  }
+                ],
+                "until": 253,
+                "utterances": "You gave me a coin I do not need"
+              }
+            ],
+            "sentence": "You gave me a coin I do not need."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_rude.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 99,
+                    "start": 52,
+                    "word": "rude"
+                  }
+                ],
+                "until": 99,
+                "utterances": "How rude"
+              }
+            ],
+            "sentence": "How rude!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_and_jon_took_a_good_look.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 67,
+                    "start": 44,
+                    "word": "and"
+                  },
+                  {
+                    "end": 115,
+                    "start": 68,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 146,
+                    "start": 116,
+                    "word": "took"
+                  },
+                  {
+                    "end": 168,
+                    "start": 155,
+                    "word": "a"
+                  },
+                  {
+                    "end": 202,
+                    "start": 174,
+                    "word": "good"
+                  },
+                  {
+                    "end": 242,
+                    "start": 203,
+                    "word": "look"
+                  }
+                ],
+                "until": 242,
+                "utterances": "Jen and Jon took a good look"
+              }
+            ],
+            "sentence": "Jen and Jon took a good look."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_said_you_can_join_us_snake.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 69,
+                    "start": 26,
+                    "word": "said"
+                  },
+                  {
+                    "end": 117,
+                    "start": 98,
+                    "word": "You"
+                  },
+                  {
+                    "end": 143,
+                    "start": 122,
+                    "word": "can"
+                  },
+                  {
+                    "end": 175,
+                    "start": 144,
+                    "word": "join"
+                  },
+                  {
+                    "end": 207,
+                    "start": 176,
+                    "word": "us"
+                  },
+                  {
+                    "end": 263,
+                    "start": 208,
+                    "word": "snake"
+                  }
+                ],
+                "until": 263,
+                "utterances": "They said You can join us snake"
+              }
+            ],
+            "sentence": "They said, \"You can join us, snake.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_snake_came_out_of_his_coil.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 19,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 100,
+                    "start": 67,
+                    "word": "came"
+                  },
+                  {
+                    "end": 131,
+                    "start": 101,
+                    "word": "out"
+                  },
+                  {
+                    "end": 140,
+                    "start": 132,
+                    "word": "of"
+                  },
+                  {
+                    "end": 158,
+                    "start": 141,
+                    "word": "his"
+                  },
+                  {
+                    "end": 209,
+                    "start": 159,
+                    "word": "coil"
+                  }
+                ],
+                "until": 209,
+                "utterances": "The snake came out of his coil"
+              }
+            ],
+            "sentence": "The snake came out of his coil."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_jon_and_the_snake_went_to_the_beach.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 104,
+                    "start": 63,
+                    "word": "Jon"
+                  },
+                  {
+                    "end": 127,
+                    "start": 114,
+                    "word": "and"
+                  },
+                  {
+                    "end": 134,
+                    "start": 128,
+                    "word": "the"
+                  },
+                  {
+                    "end": 182,
+                    "start": 135,
+                    "word": "snake"
+                  },
+                  {
+                    "end": 213,
+                    "start": 183,
+                    "word": "went"
+                  },
+                  {
+                    "end": 240,
+                    "start": 214,
+                    "word": "to"
+                  },
+                  {
+                    "end": 250,
+                    "start": 241,
+                    "word": "the"
+                  },
+                  {
+                    "end": 303,
+                    "start": 251,
+                    "word": "beach"
+                  }
+                ],
+                "until": 303,
+                "utterances": "Jen Jon and the snake went to the beach"
+              }
+            ],
+            "sentence": "Jen, Jon, and the snake went to the beach."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 31,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 106,
+                    "start": 59,
+                    "word": "end"
+                  }
+                ],
+                "until": 106,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Beach Snake",
+  "titleimage": null
+}

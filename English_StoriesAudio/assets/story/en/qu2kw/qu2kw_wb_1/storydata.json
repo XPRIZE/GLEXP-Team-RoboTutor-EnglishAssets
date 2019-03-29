@@ -1,0 +1,613 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_made_a_quilt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 72,
+                    "start": 41,
+                    "word": "made"
+                  },
+                  {
+                    "end": 76,
+                    "start": 73,
+                    "word": "a"
+                  },
+                  {
+                    "end": 128,
+                    "start": 77,
+                    "word": "quilt"
+                  }
+                ],
+                "until": 128,
+                "utterances": "I made a quilt"
+              }
+            ],
+            "sentence": "I made a quilt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_such_a_soft_quilt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 42,
+                    "start": 27,
+                    "word": "is"
+                  },
+                  {
+                    "end": 85,
+                    "start": 43,
+                    "word": "such"
+                  },
+                  {
+                    "end": 89,
+                    "start": 86,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 90,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 193,
+                    "start": 130,
+                    "word": "quilt"
+                  }
+                ],
+                "until": 193,
+                "utterances": "It is such a soft quilt"
+              }
+            ],
+            "sentence": "It is such a soft quilt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_has_red_stripes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 70,
+                    "start": 43,
+                    "word": "has"
+                  },
+                  {
+                    "end": 103,
+                    "start": 71,
+                    "word": "red"
+                  },
+                  {
+                    "end": 173,
+                    "start": 104,
+                    "word": "stripes"
+                  }
+                ],
+                "until": 173,
+                "utterances": "It has red stripes"
+              }
+            ],
+            "sentence": "It has red stripes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_it_has_green_dots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 73,
+                    "start": 59,
+                    "word": "it"
+                  },
+                  {
+                    "end": 97,
+                    "start": 74,
+                    "word": "has"
+                  },
+                  {
+                    "end": 138,
+                    "start": 98,
+                    "word": "green"
+                  },
+                  {
+                    "end": 206,
+                    "start": 139,
+                    "word": "dots"
+                  }
+                ],
+                "until": 206,
+                "utterances": "And it has green dots"
+              }
+            ],
+            "sentence": "And it has green dots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_quilt_has_red_spots.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 23,
+                    "word": "quilt"
+                  },
+                  {
+                    "end": 108,
+                    "start": 81,
+                    "word": "has"
+                  },
+                  {
+                    "end": 146,
+                    "start": 109,
+                    "word": "red"
+                  },
+                  {
+                    "end": 219,
+                    "start": 147,
+                    "word": "spots"
+                  }
+                ],
+                "until": 219,
+                "utterances": "The quilt has red spots"
+              }
+            ],
+            "sentence": "The quilt has red spots."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_green_stripes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 73,
+                    "start": 37,
+                    "word": "green"
+                  },
+                  {
+                    "end": 146,
+                    "start": 74,
+                    "word": "stripes"
+                  }
+                ],
+                "until": 146,
+                "utterances": "And green stripes"
+              }
+            ],
+            "sentence": "And green stripes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_says_that_s_quite_a_quilt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 96,
+                    "start": 43,
+                    "word": "says"
+                  },
+                  {
+                    "end": 139,
+                    "start": 113,
+                    "word": "That's"
+                  },
+                  {
+                    "end": 188,
+                    "start": 140,
+                    "word": "quite"
+                  },
+                  {
+                    "end": 192,
+                    "start": 189,
+                    "word": "a"
+                  },
+                  {
+                    "end": 249,
+                    "start": 193,
+                    "word": "quilt"
+                  }
+                ],
+                "until": 249,
+                "utterances": "Mom says That's quite a quilt"
+              }
+            ],
+            "sentence": "Mom says, \"That's quite a quilt!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_did_not_make_it_quickly.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 47,
+                    "start": 23,
+                    "word": "did"
+                  },
+                  {
+                    "end": 71,
+                    "start": 48,
+                    "word": "not"
+                  },
+                  {
+                    "end": 103,
+                    "start": 72,
+                    "word": "make"
+                  },
+                  {
+                    "end": 114,
+                    "start": 104,
+                    "word": "it"
+                  },
+                  {
+                    "end": 162,
+                    "start": 115,
+                    "word": "quickly"
+                  }
+                ],
+                "until": 162,
+                "utterances": "I did not make it quickly"
+              }
+            ],
+            "sentence": "I did not make it quickly."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_takes_time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 74,
+                    "start": 41,
+                    "word": "takes"
+                  },
+                  {
+                    "end": 124,
+                    "start": 75,
+                    "word": "time"
+                  }
+                ],
+                "until": 124,
+                "utterances": "It takes time"
+              }
+            ],
+            "sentence": "It takes time."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_can_not_quit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 68,
+                    "start": 37,
+                    "word": "can"
+                  },
+                  {
+                    "end": 101,
+                    "start": 69,
+                    "word": "not"
+                  },
+                  {
+                    "end": 137,
+                    "start": 102,
+                    "word": "quit"
+                  }
+                ],
+                "until": 137,
+                "utterances": "You can not quit"
+              },
+              {
+                "audio": "it_takes_quite_a_lot_of_time_to_make_a_quilt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 64,
+                    "start": 38,
+                    "word": "takes"
+                  },
+                  {
+                    "end": 98,
+                    "start": 65,
+                    "word": "quite"
+                  },
+                  {
+                    "end": 101,
+                    "start": 99,
+                    "word": "a"
+                  },
+                  {
+                    "end": 160,
+                    "start": 102,
+                    "word": "lot"
+                  },
+                  {
+                    "end": 193,
+                    "start": 161,
+                    "word": "of"
+                  },
+                  {
+                    "end": 217,
+                    "start": 194,
+                    "word": "time"
+                  },
+                  {
+                    "end": 223,
+                    "start": 218,
+                    "word": "to"
+                  },
+                  {
+                    "end": 245,
+                    "start": 224,
+                    "word": "make"
+                  },
+                  {
+                    "end": 251,
+                    "start": 246,
+                    "word": "a"
+                  },
+                  {
+                    "end": 309,
+                    "start": 252,
+                    "word": "quilt"
+                  }
+                ],
+                "until": 309,
+                "utterances": "It takes quite a lot of time to make a quilt"
+              }
+            ],
+            "sentence": "You can not quit. It takes quite a lot of time to make a quilt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "soon_i_will_go_to_sleep_with_my_soft_quilt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Soon"
+                  },
+                  {
+                    "end": 72,
+                    "start": 60,
+                    "word": "I"
+                  },
+                  {
+                    "end": 92,
+                    "start": 73,
+                    "word": "will"
+                  },
+                  {
+                    "end": 114,
+                    "start": 93,
+                    "word": "go"
+                  },
+                  {
+                    "end": 128,
+                    "start": 115,
+                    "word": "to"
+                  },
+                  {
+                    "end": 171,
+                    "start": 129,
+                    "word": "sleep"
+                  },
+                  {
+                    "end": 194,
+                    "start": 172,
+                    "word": "with"
+                  },
+                  {
+                    "end": 212,
+                    "start": 195,
+                    "word": "my"
+                  },
+                  {
+                    "end": 269,
+                    "start": 213,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 322,
+                    "start": 270,
+                    "word": "quilt"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Soon I will go to sleep with my soft quilt"
+              }
+            ],
+            "sentence": "Soon I will go to sleep with my soft quilt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 50,
+                    "word": "end"
+                  }
+                ],
+                "until": 87,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Quite a Quilt",
+  "titleimage": null
+}

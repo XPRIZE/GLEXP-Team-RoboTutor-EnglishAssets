@@ -1,0 +1,461 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "red.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "red"
+                  }
+                ],
+                "until": 50,
+                "utterances": "red"
+              }
+            ],
+            "sentence": "red "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "rat"
+                  }
+                ],
+                "until": 46,
+                "utterances": "rat"
+              }
+            ],
+            "sentence": "rat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "RUB"
+                  }
+                ],
+                "until": 43,
+                "utterances": "RUB"
+              }
+            ],
+            "sentence": "rub "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_r_make_in_the_words_red_rat_and_rub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 102,
+                    "start": 45,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 121,
+                    "start": 103,
+                    "word": "does"
+                  },
+                  {
+                    "end": 129,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 130,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 199,
+                    "start": 168,
+                    "word": "R"
+                  },
+                  {
+                    "end": 239,
+                    "start": 200,
+                    "word": "make"
+                  },
+                  {
+                    "end": 255,
+                    "start": 243,
+                    "word": "in"
+                  },
+                  {
+                    "end": 263,
+                    "start": 256,
+                    "word": "the"
+                  },
+                  {
+                    "end": 301,
+                    "start": 264,
+                    "word": "words"
+                  },
+                  {
+                    "end": 348,
+                    "start": 302,
+                    "word": "RED"
+                  },
+                  {
+                    "end": 400,
+                    "start": 361,
+                    "word": "RAT"
+                  },
+                  {
+                    "end": 439,
+                    "start": 410,
+                    "word": "and"
+                  },
+                  {
+                    "end": 474,
+                    "start": 440,
+                    "word": "RUB"
+                  }
+                ],
+                "until": 474,
+                "utterances": "What sound does the Letter R make in the words RED RAT and RUB"
+              }
+            ],
+            "sentence": "What sound does the Letter r make in the words red, rat, and rub?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Rob"
+                  }
+                ],
+                "until": 48,
+                "utterances": "Rob"
+              }
+            ],
+            "sentence": "rob "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "RIP"
+                  }
+                ],
+                "until": 37,
+                "utterances": "RIP"
+              }
+            ],
+            "sentence": "rip "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "run.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "RUN"
+                  }
+                ],
+                "until": 54,
+                "utterances": "RUN"
+              }
+            ],
+            "sentence": "run "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "roll.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "ROLL"
+                  }
+                ],
+                "until": 62,
+                "utterances": "ROLL"
+              }
+            ],
+            "sentence": "roll "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rock.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "ROCK"
+                  }
+                ],
+                "until": 56,
+                "utterances": "ROCK"
+              }
+            ],
+            "sentence": "rock "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ron.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Ron"
+                  }
+                ],
+                "until": 51,
+                "utterances": "Ron"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 33,
+                "utterances": "the"
+              },
+              {
+                "audio": "rude.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "rude"
+                  }
+                ],
+                "until": 41,
+                "utterances": "rude"
+              },
+              {
+                "audio": "rat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "rat"
+                  }
+                ],
+                "until": 46,
+                "utterances": "rat"
+              },
+              {
+                "audio": "is_a_really_good_reader.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "is"
+                  },
+                  {
+                    "end": 40,
+                    "start": 30,
+                    "word": "a"
+                  },
+                  {
+                    "end": 77,
+                    "start": 41,
+                    "word": "really"
+                  },
+                  {
+                    "end": 112,
+                    "start": 78,
+                    "word": "good"
+                  },
+                  {
+                    "end": 155,
+                    "start": 113,
+                    "word": "reader"
+                  }
+                ],
+                "until": 155,
+                "utterances": "is a really good reader"
+              }
+            ],
+            "sentence": "Ron the rude rat is a really good reader! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "reading_is_radical_with_the_letter_r.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Reading"
+                  },
+                  {
+                    "end": 72,
+                    "start": 57,
+                    "word": "is"
+                  },
+                  {
+                    "end": 125,
+                    "start": 73,
+                    "word": "radical"
+                  },
+                  {
+                    "end": 143,
+                    "start": 126,
+                    "word": "with"
+                  },
+                  {
+                    "end": 150,
+                    "start": 144,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 151,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 242,
+                    "start": 200,
+                    "word": "R"
+                  }
+                ],
+                "until": 242,
+                "utterances": "Reading is radical with the letter R"
+              }
+            ],
+            "sentence": "Reading is radical with the letter r! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter R in RED, RAT, and RUB",
+  "titleimage": null
+}

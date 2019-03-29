@@ -1,0 +1,779 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_had_a_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 82,
+                    "start": 48,
+                    "word": "had"
+                  },
+                  {
+                    "end": 89,
+                    "start": 83,
+                    "word": "a"
+                  },
+                  {
+                    "end": 119,
+                    "start": 90,
+                    "word": "hut"
+                  }
+                ],
+                "until": 119,
+                "utterances": "Dad had a hut"
+              }
+            ],
+            "sentence": "Dad had a hut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_hut_was_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 98,
+                    "start": 42,
+                    "word": "hut"
+                  },
+                  {
+                    "end": 122,
+                    "start": 99,
+                    "word": "was"
+                  },
+                  {
+                    "end": 164,
+                    "start": 123,
+                    "word": "mud"
+                  }
+                ],
+                "until": 164,
+                "utterances": "His hut was mud"
+              }
+            ],
+            "sentence": "His hut was mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_was_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 59,
+                    "start": 38,
+                    "word": "was"
+                  },
+                  {
+                    "end": 113,
+                    "start": 60,
+                    "word": "glad"
+                  }
+                ],
+                "until": 113,
+                "utterances": "Dad was glad"
+              }
+            ],
+            "sentence": "Dad was glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mum_had_some_gum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Mum"
+                  },
+                  {
+                    "end": 92,
+                    "start": 51,
+                    "word": "had"
+                  },
+                  {
+                    "end": 113,
+                    "start": 93,
+                    "word": "some"
+                  },
+                  {
+                    "end": 145,
+                    "start": 114,
+                    "word": "gum"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Mum had some gum"
+              }
+            ],
+            "sentence": "Mum had some gum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_did_a_sum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 44,
+                    "start": 24,
+                    "word": "did"
+                  },
+                  {
+                    "end": 49,
+                    "start": 45,
+                    "word": "a"
+                  },
+                  {
+                    "end": 98,
+                    "start": 50,
+                    "word": "sum"
+                  }
+                ],
+                "until": 98,
+                "utterances": "I did a sum"
+              }
+            ],
+            "sentence": "I did a sum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sat_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 91,
+                    "start": 43,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 112,
+                    "start": 92,
+                    "word": "on"
+                  },
+                  {
+                    "end": 118,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 173,
+                    "start": 119,
+                    "word": "mat"
+                  }
+                ],
+                "until": 173,
+                "utterances": "Sis sat on the mat"
+              }
+            ],
+            "sentence": "Sis sat on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_did_a_glad_hum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 75,
+                    "start": 48,
+                    "word": "did"
+                  },
+                  {
+                    "end": 82,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 125,
+                    "start": 83,
+                    "word": "glad"
+                  },
+                  {
+                    "end": 162,
+                    "start": 126,
+                    "word": "hum"
+                  }
+                ],
+                "until": 162,
+                "utterances": "Dad did a glad hum"
+              }
+            ],
+            "sentence": "Dad did a glad hum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dust_got_in_the_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 20,
+                    "word": "dust"
+                  },
+                  {
+                    "end": 101,
+                    "start": 81,
+                    "word": "got"
+                  },
+                  {
+                    "end": 114,
+                    "start": 102,
+                    "word": "in"
+                  },
+                  {
+                    "end": 124,
+                    "start": 115,
+                    "word": "the"
+                  },
+                  {
+                    "end": 177,
+                    "start": 125,
+                    "word": "hut"
+                  }
+                ],
+                "until": 177,
+                "utterances": "The dust got in the hut"
+              }
+            ],
+            "sentence": "The dust got in the hut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_hot_in_the_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 44,
+                    "start": 24,
+                    "word": "was"
+                  },
+                  {
+                    "end": 81,
+                    "start": 45,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 93,
+                    "start": 82,
+                    "word": "in"
+                  },
+                  {
+                    "end": 103,
+                    "start": 94,
+                    "word": "the"
+                  },
+                  {
+                    "end": 153,
+                    "start": 104,
+                    "word": "hut"
+                  }
+                ],
+                "until": 153,
+                "utterances": "It was hot in the hut"
+              }
+            ],
+            "sentence": "It was hot in the hut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mum_was_glum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Mum"
+                  },
+                  {
+                    "end": 57,
+                    "start": 37,
+                    "word": "was"
+                  },
+                  {
+                    "end": 110,
+                    "start": 58,
+                    "word": "glum"
+                  }
+                ],
+                "until": 110,
+                "utterances": "Mum was glum"
+              }
+            ],
+            "sentence": "Mum was glum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_was_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 48,
+                    "start": 33,
+                    "word": "was"
+                  },
+                  {
+                    "end": 105,
+                    "start": 49,
+                    "word": "sad"
+                  }
+                ],
+                "until": 105,
+                "utterances": "Dad was sad"
+              }
+            ],
+            "sentence": "Dad was sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_was_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 63,
+                    "start": 49,
+                    "word": "was"
+                  },
+                  {
+                    "end": 110,
+                    "start": 64,
+                    "word": "mad"
+                  }
+                ],
+                "until": 110,
+                "utterances": "Sis was mad"
+              }
+            ],
+            "sentence": "Sis was mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_rust_was_on_the_raft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 31,
+                    "word": "rust"
+                  },
+                  {
+                    "end": 104,
+                    "start": 83,
+                    "word": "was"
+                  },
+                  {
+                    "end": 121,
+                    "start": 105,
+                    "word": "on"
+                  },
+                  {
+                    "end": 131,
+                    "start": 122,
+                    "word": "the"
+                  },
+                  {
+                    "end": 205,
+                    "start": 132,
+                    "word": "raft"
+                  }
+                ],
+                "until": 205,
+                "utterances": "The rust was on the raft"
+              }
+            ],
+            "sentence": "The rust was on the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_put_the_gum_of_mum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 78,
+                    "start": 52,
+                    "word": "put"
+                  },
+                  {
+                    "end": 90,
+                    "start": 79,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 91,
+                    "word": "gum"
+                  },
+                  {
+                    "end": 134,
+                    "start": 118,
+                    "word": "of"
+                  },
+                  {
+                    "end": 174,
+                    "start": 135,
+                    "word": "Mum"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Sis put the gum of Mum"
+              },
+              {
+                "audio": "on_the_raft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "on"
+                  },
+                  {
+                    "end": 39,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 101,
+                    "start": 40,
+                    "word": "raft"
+                  }
+                ],
+                "until": 101,
+                "utterances": "on the raft"
+              }
+            ],
+            "sentence": "Sis put the gum of Mum on the raft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_got_dad_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 109,
+                    "start": 78,
+                    "word": "got"
+                  },
+                  {
+                    "end": 164,
+                    "start": 110,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 215,
+                    "start": 165,
+                    "word": "glad"
+                  }
+                ],
+                "until": 215,
+                "utterances": "This got Dad glad"
+              }
+            ],
+            "sentence": "This got Dad glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_got_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 68,
+                    "start": 45,
+                    "word": "got"
+                  },
+                  {
+                    "end": 114,
+                    "start": 69,
+                    "word": "glad"
+                  }
+                ],
+                "until": 114,
+                "utterances": "Sis got glad"
+              }
+            ],
+            "sentence": "Sis got glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mum_got_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Mum"
+                  },
+                  {
+                    "end": 69,
+                    "start": 41,
+                    "word": "got"
+                  },
+                  {
+                    "end": 117,
+                    "start": 70,
+                    "word": "glad"
+                  }
+                ],
+                "until": 117,
+                "utterances": "Mum got glad"
+              }
+            ],
+            "sentence": "Mum got glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_rad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 105,
+                    "start": 40,
+                    "word": "rad"
+                  }
+                ],
+                "until": 105,
+                "utterances": "How rad"
+              }
+            ],
+            "sentence": "How rad!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dad had a Hut",
+  "titleimage": null
+}

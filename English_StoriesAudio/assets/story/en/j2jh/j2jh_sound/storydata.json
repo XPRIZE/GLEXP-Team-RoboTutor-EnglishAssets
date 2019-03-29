@@ -1,0 +1,343 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jam.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "JAM"
+                  }
+                ],
+                "until": 68,
+                "utterances": "JAM"
+              }
+            ],
+            "sentence": "jam "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "JET"
+                  }
+                ],
+                "until": 50,
+                "utterances": "JET"
+              }
+            ],
+            "sentence": "jet "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "joe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "JOE"
+                  }
+                ],
+                "until": 62,
+                "utterances": "JOE"
+              }
+            ],
+            "sentence": "Joe "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_j_make_in_the_words_jam_jet_and_joe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 85,
+                    "start": 34,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 99,
+                    "start": 86,
+                    "word": "does"
+                  },
+                  {
+                    "end": 107,
+                    "start": 100,
+                    "word": "the"
+                  },
+                  {
+                    "end": 141,
+                    "start": 108,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 177,
+                    "start": 142,
+                    "word": "J"
+                  },
+                  {
+                    "end": 221,
+                    "start": 178,
+                    "word": "make"
+                  },
+                  {
+                    "end": 232,
+                    "start": 222,
+                    "word": "in"
+                  },
+                  {
+                    "end": 239,
+                    "start": 233,
+                    "word": "the"
+                  },
+                  {
+                    "end": 289,
+                    "start": 240,
+                    "word": "words"
+                  },
+                  {
+                    "end": 351,
+                    "start": 290,
+                    "word": "JAM"
+                  },
+                  {
+                    "end": 405,
+                    "start": 368,
+                    "word": "JET"
+                  },
+                  {
+                    "end": 449,
+                    "start": 418,
+                    "word": "and"
+                  },
+                  {
+                    "end": 514,
+                    "start": 456,
+                    "word": "JOE"
+                  }
+                ],
+                "until": 514,
+                "utterances": "What sound does the Letter J make in the words JAM JET and JOE"
+              }
+            ],
+            "sentence": "What sound does the letter j make in the words jam, jet, and Joe?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "JUG"
+                  }
+                ],
+                "until": 50,
+                "utterances": "JUG"
+              }
+            ],
+            "sentence": "jug "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jar.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "JAR"
+                  }
+                ],
+                "until": 53,
+                "utterances": "JAR"
+              }
+            ],
+            "sentence": "jar "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "JOB"
+                  }
+                ],
+                "until": 40,
+                "utterances": "JOB"
+              }
+            ],
+            "sentence": "job "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jump.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "JUMP"
+                  }
+                ],
+                "until": 42,
+                "utterances": "JUMP"
+              }
+            ],
+            "sentence": "jump "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jaw.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "JAW"
+                  }
+                ],
+                "until": 59,
+                "utterances": "JAW"
+              }
+            ],
+            "sentence": "jaw "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "job_well_done.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Job"
+                  },
+                  {
+                    "end": 104,
+                    "start": 61,
+                    "word": "well"
+                  },
+                  {
+                    "end": 134,
+                    "start": 105,
+                    "word": "done"
+                  }
+                ],
+                "until": 134,
+                "utterances": "Job well done"
+              }
+            ],
+            "sentence": "Job well done! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter J in JAM, JET, and JOE",
+  "titleimage": null
+}

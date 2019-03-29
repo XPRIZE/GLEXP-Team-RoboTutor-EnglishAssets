@@ -1,0 +1,442 @@
+{
+  "author": "Ivan Higenyi",
+  "data": [
+    {
+      "image": "things_i_do_at_school_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_read_with_friends.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 23,
+                    "word": "I"
+                  },
+                  {
+                    "end": 71,
+                    "start": 41,
+                    "word": "read"
+                  },
+                  {
+                    "end": 92,
+                    "start": 72,
+                    "word": "with"
+                  },
+                  {
+                    "end": 151,
+                    "start": 93,
+                    "word": "friends"
+                  }
+                ],
+                "until": 151,
+                "utterances": "I read with friends"
+              }
+            ],
+            "sentence": "I read with friends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_03_image_0001.jpg",
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_learn_to_write_numbers.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 18,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 34,
+                    "word": "learn"
+                  },
+                  {
+                    "end": 86,
+                    "start": 71,
+                    "word": "to"
+                  },
+                  {
+                    "end": 113,
+                    "start": 87,
+                    "word": "write"
+                  },
+                  {
+                    "end": 185,
+                    "start": 114,
+                    "word": "numbers"
+                  }
+                ],
+                "until": 185,
+                "utterances": "I learn to write numbers"
+              }
+            ],
+            "sentence": "I learn to write numbers."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_04_image_0001.jpg",
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_learn_to_write_letters.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 68,
+                    "start": 29,
+                    "word": "learn"
+                  },
+                  {
+                    "end": 86,
+                    "start": 69,
+                    "word": "to"
+                  },
+                  {
+                    "end": 108,
+                    "start": 87,
+                    "word": "write"
+                  },
+                  {
+                    "end": 184,
+                    "start": 109,
+                    "word": "letters"
+                  }
+                ],
+                "until": 184,
+                "utterances": "I learn to write letters"
+              }
+            ],
+            "sentence": "I learn to write letters."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_05_image_0001.jpg",
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_play_with_friends.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 23,
+                    "word": "I"
+                  },
+                  {
+                    "end": 64,
+                    "start": 39,
+                    "word": "play"
+                  },
+                  {
+                    "end": 83,
+                    "start": 65,
+                    "word": "with"
+                  },
+                  {
+                    "end": 148,
+                    "start": 84,
+                    "word": "friends"
+                  }
+                ],
+                "until": 148,
+                "utterances": "I play with friends"
+              }
+            ],
+            "sentence": "I play with friends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_06_image_0001.jpg",
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_sing_at_school.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 70,
+                    "start": 28,
+                    "word": "sing"
+                  },
+                  {
+                    "end": 96,
+                    "start": 71,
+                    "word": "at"
+                  },
+                  {
+                    "end": 145,
+                    "start": 97,
+                    "word": "school"
+                  }
+                ],
+                "until": 145,
+                "utterances": "I sing at school"
+              }
+            ],
+            "sentence": "I sing at school."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_07_image_0001.jpg",
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_dance_too.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 19,
+                    "word": "I"
+                  },
+                  {
+                    "end": 55,
+                    "start": 32,
+                    "word": "can"
+                  },
+                  {
+                    "end": 112,
+                    "start": 56,
+                    "word": "dance"
+                  },
+                  {
+                    "end": 153,
+                    "start": 113,
+                    "word": "too"
+                  }
+                ],
+                "until": 153,
+                "utterances": "I can dance too"
+              }
+            ],
+            "sentence": "I can dance too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_08_image_0001.jpg",
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_also_go_to_garden_with_the_teacher_and_friends.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 20,
+                    "word": "I"
+                  },
+                  {
+                    "end": 65,
+                    "start": 36,
+                    "word": "also"
+                  },
+                  {
+                    "end": 83,
+                    "start": 66,
+                    "word": "go"
+                  },
+                  {
+                    "end": 100,
+                    "start": 84,
+                    "word": "to"
+                  },
+                  {
+                    "end": 157,
+                    "start": 101,
+                    "word": "garden"
+                  },
+                  {
+                    "end": 183,
+                    "start": 168,
+                    "word": "with"
+                  },
+                  {
+                    "end": 189,
+                    "start": 184,
+                    "word": "the"
+                  },
+                  {
+                    "end": 239,
+                    "start": 190,
+                    "word": "teacher"
+                  },
+                  {
+                    "end": 258,
+                    "start": 240,
+                    "word": "and"
+                  },
+                  {
+                    "end": 319,
+                    "start": 259,
+                    "word": "friends"
+                  }
+                ],
+                "until": 319,
+                "utterances": "I also go to garden with the teacher and friends"
+              }
+            ],
+            "sentence": "I also go to garden with the teacher and friends."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_09_image_0001.jpg",
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "teacher_sings_for_us_a_lullaby.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 18,
+                    "word": "Teacher"
+                  },
+                  {
+                    "end": 113,
+                    "start": 62,
+                    "word": "sings"
+                  },
+                  {
+                    "end": 146,
+                    "start": 114,
+                    "word": "for"
+                  },
+                  {
+                    "end": 166,
+                    "start": 147,
+                    "word": "us"
+                  },
+                  {
+                    "end": 169,
+                    "start": 167,
+                    "word": "a"
+                  },
+                  {
+                    "end": 244,
+                    "start": 170,
+                    "word": "lullaby"
+                  }
+                ],
+                "until": 244,
+                "utterances": "Teacher sings for us a lullaby"
+              }
+            ],
+            "sentence": "Teacher sings for us a lullaby."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "things_i_do_at_school_page_10_image_0001.jpg",
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_do_you_do_at_your_school.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 21,
+                    "word": "What"
+                  },
+                  {
+                    "end": 53,
+                    "start": 45,
+                    "word": "do"
+                  },
+                  {
+                    "end": 77,
+                    "start": 54,
+                    "word": "you"
+                  },
+                  {
+                    "end": 111,
+                    "start": 78,
+                    "word": "do"
+                  },
+                  {
+                    "end": 130,
+                    "start": 112,
+                    "word": "at"
+                  },
+                  {
+                    "end": 151,
+                    "start": 131,
+                    "word": "your"
+                  },
+                  {
+                    "end": 206,
+                    "start": 152,
+                    "word": "school"
+                  }
+                ],
+                "until": 206,
+                "utterances": "What do you do at your school"
+              }
+            ],
+            "sentence": "What do you do at your school?"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Things I Do at School",
+  "titleimage": "things_i_do_at_school_page_01_image_0001.jpg"
+}

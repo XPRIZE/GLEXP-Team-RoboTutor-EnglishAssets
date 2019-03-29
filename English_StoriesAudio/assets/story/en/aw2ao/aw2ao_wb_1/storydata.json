@@ -1,0 +1,784 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dawn_is_an_artist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 10,
+                    "word": "Dawn"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "is"
+                  },
+                  {
+                    "end": 133,
+                    "start": 118,
+                    "word": "an"
+                  },
+                  {
+                    "end": 202,
+                    "start": 144,
+                    "word": "artist"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Dawn is an artist"
+              }
+            ],
+            "sentence": "Dawn is an artist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_likes_to_make_art.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 79,
+                    "start": 37,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 95,
+                    "start": 80,
+                    "word": "to"
+                  },
+                  {
+                    "end": 129,
+                    "start": 96,
+                    "word": "make"
+                  },
+                  {
+                    "end": 177,
+                    "start": 130,
+                    "word": "art"
+                  }
+                ],
+                "until": 177,
+                "utterances": "She likes to make art"
+              }
+            ],
+            "sentence": "She likes to make art."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dawn_can_draw.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Dawn"
+                  },
+                  {
+                    "end": 78,
+                    "start": 56,
+                    "word": "can"
+                  },
+                  {
+                    "end": 135,
+                    "start": 79,
+                    "word": "draw"
+                  }
+                ],
+                "until": 135,
+                "utterances": "Dawn can draw"
+              }
+            ],
+            "sentence": "Dawn can draw."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_draw_a_hawk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 62,
+                    "start": 40,
+                    "word": "can"
+                  },
+                  {
+                    "end": 107,
+                    "start": 63,
+                    "word": "draw"
+                  },
+                  {
+                    "end": 123,
+                    "start": 111,
+                    "word": "a"
+                  },
+                  {
+                    "end": 172,
+                    "start": 124,
+                    "word": "hawk"
+                  }
+                ],
+                "until": 172,
+                "utterances": "She can draw a hawk"
+              }
+            ],
+            "sentence": "She can draw a hawk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_draw_the_hawk_s_claw.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 59,
+                    "start": 39,
+                    "word": "can"
+                  },
+                  {
+                    "end": 97,
+                    "start": 60,
+                    "word": "draw"
+                  },
+                  {
+                    "end": 111,
+                    "start": 98,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 112,
+                    "word": "hawk's"
+                  },
+                  {
+                    "end": 216,
+                    "start": 160,
+                    "word": "claw"
+                  }
+                ],
+                "until": 216,
+                "utterances": "She can draw the hawk's claw"
+              }
+            ],
+            "sentence": "She can draw the hawk's claw."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_draw_the_hawk_s_jaw.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 63,
+                    "start": 42,
+                    "word": "can"
+                  },
+                  {
+                    "end": 105,
+                    "start": 64,
+                    "word": "draw"
+                  },
+                  {
+                    "end": 117,
+                    "start": 106,
+                    "word": "the"
+                  },
+                  {
+                    "end": 170,
+                    "start": 118,
+                    "word": "hawk's"
+                  },
+                  {
+                    "end": 214,
+                    "start": 171,
+                    "word": "jaw"
+                  }
+                ],
+                "until": 214,
+                "utterances": "She can draw the hawk's jaw"
+              }
+            ],
+            "sentence": "She can draw the hawk's jaw."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_jaw_is_the_bone_in_your_mouth.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 81,
+                    "start": 24,
+                    "word": "jaw"
+                  },
+                  {
+                    "end": 102,
+                    "start": 82,
+                    "word": "is"
+                  },
+                  {
+                    "end": 111,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 156,
+                    "start": 112,
+                    "word": "bone"
+                  },
+                  {
+                    "end": 177,
+                    "start": 157,
+                    "word": "in"
+                  },
+                  {
+                    "end": 190,
+                    "start": 178,
+                    "word": "your"
+                  },
+                  {
+                    "end": 239,
+                    "start": 191,
+                    "word": "mouth"
+                  }
+                ],
+                "until": 239,
+                "utterances": "A jaw is the bone in your mouth"
+              }
+            ],
+            "sentence": "A jaw is the bone in your mouth."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dawn_likes_to_sit_on_her_lawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Dawn"
+                  },
+                  {
+                    "end": 82,
+                    "start": 49,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 97,
+                    "start": 83,
+                    "word": "to"
+                  },
+                  {
+                    "end": 138,
+                    "start": 98,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 160,
+                    "start": 139,
+                    "word": "on"
+                  },
+                  {
+                    "end": 181,
+                    "start": 170,
+                    "word": "her"
+                  },
+                  {
+                    "end": 220,
+                    "start": 182,
+                    "word": "lawn"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Dawn likes to sit on her lawn"
+              }
+            ],
+            "sentence": "Dawn likes to sit on her lawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_lawn_means_the_grass_in_your_yard.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 12,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 70,
+                    "start": 13,
+                    "word": "lawn"
+                  },
+                  {
+                    "end": 115,
+                    "start": 71,
+                    "word": "means"
+                  },
+                  {
+                    "end": 126,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 173,
+                    "start": 127,
+                    "word": "grass"
+                  },
+                  {
+                    "end": 187,
+                    "start": 174,
+                    "word": "in"
+                  },
+                  {
+                    "end": 209,
+                    "start": 188,
+                    "word": "your"
+                  },
+                  {
+                    "end": 251,
+                    "start": 210,
+                    "word": "yard"
+                  }
+                ],
+                "until": 251,
+                "utterances": "A lawn means the grass in your yard"
+              }
+            ],
+            "sentence": "A lawn means the grass in your yard."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_sits_on_the_lawn_to_draw.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 69,
+                    "start": 32,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 95,
+                    "start": 70,
+                    "word": "on"
+                  },
+                  {
+                    "end": 104,
+                    "start": 96,
+                    "word": "the"
+                  },
+                  {
+                    "end": 149,
+                    "start": 105,
+                    "word": "lawn"
+                  },
+                  {
+                    "end": 163,
+                    "start": 150,
+                    "word": "to"
+                  },
+                  {
+                    "end": 216,
+                    "start": 164,
+                    "word": "draw"
+                  }
+                ],
+                "until": 216,
+                "utterances": "She sits on the lawn to draw"
+              }
+            ],
+            "sentence": "She sits on the lawn to draw."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_draw_a_fawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 75,
+                    "start": 48,
+                    "word": "can"
+                  },
+                  {
+                    "end": 119,
+                    "start": 76,
+                    "word": "draw"
+                  },
+                  {
+                    "end": 133,
+                    "start": 120,
+                    "word": "a"
+                  },
+                  {
+                    "end": 188,
+                    "start": 134,
+                    "word": "fawn"
+                  }
+                ],
+                "until": 188,
+                "utterances": "She can draw a fawn"
+              }
+            ],
+            "sentence": "She can draw a fawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fawn_is_a_baby_dear.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 78,
+                    "start": 22,
+                    "word": "fawn"
+                  },
+                  {
+                    "end": 119,
+                    "start": 87,
+                    "word": "is"
+                  },
+                  {
+                    "end": 134,
+                    "start": 120,
+                    "word": "a"
+                  },
+                  {
+                    "end": 178,
+                    "start": 135,
+                    "word": "baby"
+                  },
+                  {
+                    "end": 217,
+                    "start": 179,
+                    "word": "dear"
+                  }
+                ],
+                "until": 217,
+                "utterances": "A fawn is a baby dear"
+              }
+            ],
+            "sentence": "A fawn is a baby dear."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_saw_dawn_draw_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 23,
+                    "word": "saw"
+                  },
+                  {
+                    "end": 106,
+                    "start": 60,
+                    "word": "Dawn"
+                  },
+                  {
+                    "end": 129,
+                    "start": 107,
+                    "word": "draw"
+                  },
+                  {
+                    "end": 132,
+                    "start": 130,
+                    "word": "a"
+                  },
+                  {
+                    "end": 202,
+                    "start": 133,
+                    "word": "lot"
+                  }
+                ],
+                "until": 202,
+                "utterances": "I saw Dawn draw a lot"
+              }
+            ],
+            "sentence": "I saw Dawn draw a lot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_she_had_a_big_yawn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 25,
+                    "start": 6,
+                    "word": "she"
+                  },
+                  {
+                    "end": 35,
+                    "start": 26,
+                    "word": "had"
+                  },
+                  {
+                    "end": 55,
+                    "start": 36,
+                    "word": "a"
+                  },
+                  {
+                    "end": 88,
+                    "start": 56,
+                    "word": "big"
+                  },
+                  {
+                    "end": 155,
+                    "start": 89,
+                    "word": "yawn"
+                  }
+                ],
+                "until": 155,
+                "utterances": "Then she had a big yawn"
+              }
+            ],
+            "sentence": "Then she had a big yawn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_for_a_nap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 76,
+                    "start": 50,
+                    "word": "for"
+                  },
+                  {
+                    "end": 95,
+                    "start": 77,
+                    "word": "a"
+                  },
+                  {
+                    "end": 137,
+                    "start": 96,
+                    "word": "nap"
+                  }
+                ],
+                "until": 137,
+                "utterances": "Time for a nap"
+              }
+            ],
+            "sentence": "Time for a nap!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 38,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 38,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 38,
+                    "word": "end"
+                  }
+                ],
+                "until": 86,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dawn the Artist",
+  "titleimage": null
+}

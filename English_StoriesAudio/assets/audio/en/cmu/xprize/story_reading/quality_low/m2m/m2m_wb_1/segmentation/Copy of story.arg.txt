@@ -1,0 +1,8 @@
+status=Active
+predecessor=None
+author=mJV3-6-1988-11-14
+skills=a m t s Word Building Story
+title=Sam Sat
+Genre=WordBuilding
+ActivityType=Simple
+level=K

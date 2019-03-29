@@ -1,0 +1,630 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "beth_has_to_do_math.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 100,
+                    "start": 72,
+                    "word": "has"
+                  },
+                  {
+                    "end": 111,
+                    "start": 101,
+                    "word": "to"
+                  },
+                  {
+                    "end": 131,
+                    "start": 112,
+                    "word": "do"
+                  },
+                  {
+                    "end": 196,
+                    "start": 132,
+                    "word": "math"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Beth has to do math"
+              }
+            ],
+            "sentence": "Beth has to do math."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_does_not_like_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 59,
+                    "start": 38,
+                    "word": "does"
+                  },
+                  {
+                    "end": 58,
+                    "start": 26,
+                    "word": "not"
+                  },
+                  {
+                    "end": 90,
+                    "start": 59,
+                    "word": "like"
+                  },
+                  {
+                    "end": 113,
+                    "start": 91,
+                    "word": "it"
+                  }
+                ],
+                "until": 113,
+                "utterances": "She does not like it"
+              }
+            ],
+            "sentence": "She does not like it."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "in_fact_beth_hates_math.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "In"
+                  },
+                  {
+                    "end": 81,
+                    "start": 24,
+                    "word": "fact"
+                  },
+                  {
+                    "end": 130,
+                    "start": 104,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 177,
+                    "start": 131,
+                    "word": "hates"
+                  },
+                  {
+                    "end": 229,
+                    "start": 178,
+                    "word": "math"
+                  }
+                ],
+                "until": 229,
+                "utterances": "In fact Beth hates math"
+              }
+            ],
+            "sentence": "In fact, Beth hates math."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "math_makes_beth_think_too_hard.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Math"
+                  },
+                  {
+                    "end": 93,
+                    "start": 60,
+                    "word": "makes"
+                  },
+                  {
+                    "end": 128,
+                    "start": 94,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 176,
+                    "start": 129,
+                    "word": "think"
+                  },
+                  {
+                    "end": 213,
+                    "start": 184,
+                    "word": "too"
+                  },
+                  {
+                    "end": 262,
+                    "start": 214,
+                    "word": "hard"
+                  }
+                ],
+                "until": 262,
+                "utterances": "Math makes Beth think too hard"
+              }
+            ],
+            "sentence": "Math makes Beth think too hard."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_does_not_like_to_think_about_math.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 48,
+                    "start": 30,
+                    "word": "does"
+                  },
+                  {
+                    "end": 69,
+                    "start": 49,
+                    "word": "not"
+                  },
+                  {
+                    "end": 109,
+                    "start": 70,
+                    "word": "like"
+                  },
+                  {
+                    "end": 120,
+                    "start": 110,
+                    "word": "to"
+                  },
+                  {
+                    "end": 151,
+                    "start": 121,
+                    "word": "think"
+                  },
+                  {
+                    "end": 182,
+                    "start": 152,
+                    "word": "about"
+                  },
+                  {
+                    "end": 243,
+                    "start": 183,
+                    "word": "math"
+                  }
+                ],
+                "until": 243,
+                "utterances": "She does not like to think about math"
+              }
+            ],
+            "sentence": "She does not like to think about math."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_help_beth_with_her_math.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 49,
+                    "start": 29,
+                    "word": "you"
+                  },
+                  {
+                    "end": 83,
+                    "start": 50,
+                    "word": "help"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 137,
+                    "start": 118,
+                    "word": "with"
+                  },
+                  {
+                    "end": 147,
+                    "start": 138,
+                    "word": "her"
+                  },
+                  {
+                    "end": 196,
+                    "start": 148,
+                    "word": "math"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Can you help Beth with her math"
+              }
+            ],
+            "sentence": "Can you help Beth with her math?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_plus_one_equals.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 75,
+                    "start": 44,
+                    "word": "plus"
+                  },
+                  {
+                    "end": 111,
+                    "start": 76,
+                    "word": "one"
+                  },
+                  {
+                    "end": 189,
+                    "start": 112,
+                    "word": "equals"
+                  }
+                ],
+                "until": 189,
+                "utterances": "One plus one equals"
+              }
+            ],
+            "sentence": "One plus one equals..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "two.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Two"
+                  }
+                ],
+                "until": 51,
+                "utterances": "Two"
+              }
+            ],
+            "sentence": "Two!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "two_plus_two_equals.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Two"
+                  },
+                  {
+                    "end": 80,
+                    "start": 45,
+                    "word": "plus"
+                  },
+                  {
+                    "end": 127,
+                    "start": 81,
+                    "word": "two"
+                  },
+                  {
+                    "end": 221,
+                    "start": 128,
+                    "word": "equals"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Two plus two equals"
+              },
+              {
+                "audio": "four.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 10,
+                    "word": "Four"
+                  }
+                ],
+                "until": 85,
+                "utterances": "Four"
+              }
+            ],
+            "sentence": "Two plus two equals... Four!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thank_you.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Thank"
+                  },
+                  {
+                    "end": 80,
+                    "start": 42,
+                    "word": "you"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Thank you"
+              }
+            ],
+            "sentence": "Thank you!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "beth_is_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 64,
+                    "start": 44,
+                    "word": "is"
+                  },
+                  {
+                    "end": 113,
+                    "start": 65,
+                    "word": "glad"
+                  }
+                ],
+                "until": 113,
+                "utterances": "Beth is glad"
+              }
+            ],
+            "sentence": "Beth is glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thanks_for_your_help.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Thanks"
+                  },
+                  {
+                    "end": 59,
+                    "start": 46,
+                    "word": "for"
+                  },
+                  {
+                    "end": 88,
+                    "start": 60,
+                    "word": "your"
+                  },
+                  {
+                    "end": 142,
+                    "start": 89,
+                    "word": "help"
+                  }
+                ],
+                "until": 142,
+                "utterances": "Thanks for your help"
+              }
+            ],
+            "sentence": "Thanks for your help."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_beth_has_to_take_a_bath.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 71,
+                    "start": 36,
+                    "word": "Beth"
+                  },
+                  {
+                    "end": 94,
+                    "start": 79,
+                    "word": "has"
+                  },
+                  {
+                    "end": 105,
+                    "start": 95,
+                    "word": "to"
+                  },
+                  {
+                    "end": 132,
+                    "start": 106,
+                    "word": "take"
+                  },
+                  {
+                    "end": 136,
+                    "start": 133,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 137,
+                    "word": "bath"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Now Beth has to take a bath"
+              }
+            ],
+            "sentence": "Now Beth has to take a bath."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 54,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 54,
+                    "word": "The"
+                  },
+                  {
+                    "end": 56,
+                    "start": 34,
+                    "word": "end"
+                  }
+                ],
+                "until": 56,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Beth Hates Math",
+  "titleimage": null
+}

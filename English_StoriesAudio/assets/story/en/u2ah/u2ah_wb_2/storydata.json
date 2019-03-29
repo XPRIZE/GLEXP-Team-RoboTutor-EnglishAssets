@@ -1,0 +1,637 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_got_us_a_gift.mp3",
+                "from": 7,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 7,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 80,
+                    "start": 51,
+                    "word": "got"
+                  },
+                  {
+                    "end": 114,
+                    "start": 81,
+                    "word": "us"
+                  },
+                  {
+                    "end": 129,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 182,
+                    "start": 130,
+                    "word": "gift"
+                  }
+                ],
+                "until": 182,
+                "utterances": "Tom got us a gift"
+              }
+            ],
+            "sentence": "Tom got us a gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_got_a_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 58,
+                    "start": 30,
+                    "word": "got"
+                  },
+                  {
+                    "end": 66,
+                    "start": 59,
+                    "word": "a"
+                  },
+                  {
+                    "end": 115,
+                    "start": 67,
+                    "word": "mug"
+                  }
+                ],
+                "until": 115,
+                "utterances": "We got a mug"
+              }
+            ],
+            "sentence": "We got a mug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_got_a_rug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 64,
+                    "start": 31,
+                    "word": "got"
+                  },
+                  {
+                    "end": 75,
+                    "start": 65,
+                    "word": "a"
+                  },
+                  {
+                    "end": 116,
+                    "start": 76,
+                    "word": "rug"
+                  }
+                ],
+                "until": 116,
+                "utterances": "We got a rug"
+              }
+            ],
+            "sentence": "We got a rug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_got_us_a_mug_and_a_rug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 97,
+                    "start": 58,
+                    "word": "got"
+                  },
+                  {
+                    "end": 131,
+                    "start": 98,
+                    "word": "us"
+                  },
+                  {
+                    "end": 162,
+                    "start": 132,
+                    "word": "a"
+                  },
+                  {
+                    "end": 200,
+                    "start": 163,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 250,
+                    "start": 211,
+                    "word": "and"
+                  },
+                  {
+                    "end": 263,
+                    "start": 251,
+                    "word": "a"
+                  },
+                  {
+                    "end": 308,
+                    "start": 264,
+                    "word": "rug"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Tom got us a mug and a rug"
+              }
+            ],
+            "sentence": "Tom got us a mug and a rug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_we_hug_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 48,
+                    "start": 29,
+                    "word": "we"
+                  },
+                  {
+                    "end": 84,
+                    "start": 49,
+                    "word": "hug"
+                  },
+                  {
+                    "end": 136,
+                    "start": 85,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Did we hug Tom"
+              }
+            ],
+            "sentence": "Did we hug Tom?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 71,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_did_hug_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 70,
+                    "start": 43,
+                    "word": "did"
+                  },
+                  {
+                    "end": 103,
+                    "start": 71,
+                    "word": "hug"
+                  },
+                  {
+                    "end": 153,
+                    "start": 104,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 153,
+                "utterances": "We did hug Tom"
+              }
+            ],
+            "sentence": "We did hug Tom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mug_had_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 49,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 133,
+                    "start": 96,
+                    "word": "had"
+                  },
+                  {
+                    "end": 171,
+                    "start": 134,
+                    "word": "mud"
+                  }
+                ],
+                "until": 171,
+                "utterances": "The mug had mud"
+              }
+            ],
+            "sentence": "The mug had mud!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mug_had_hot_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 25,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 106,
+                    "start": 72,
+                    "word": "had"
+                  },
+                  {
+                    "end": 146,
+                    "start": 107,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 186,
+                    "start": 147,
+                    "word": "mud"
+                  }
+                ],
+                "until": 186,
+                "utterances": "The mug had hot mud"
+              }
+            ],
+            "sentence": "The mug had hot mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_got_us_a_mug_with_hot_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 90,
+                    "start": 55,
+                    "word": "got"
+                  },
+                  {
+                    "end": 114,
+                    "start": 91,
+                    "word": "us"
+                  },
+                  {
+                    "end": 142,
+                    "start": 115,
+                    "word": "a"
+                  },
+                  {
+                    "end": 178,
+                    "start": 143,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 210,
+                    "start": 179,
+                    "word": "with"
+                  },
+                  {
+                    "end": 250,
+                    "start": 211,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 295,
+                    "start": 251,
+                    "word": "mud"
+                  }
+                ],
+                "until": 295,
+                "utterances": "Tom got us a mug with hot mud"
+              }
+            ],
+            "sentence": "Tom got us a mug with hot mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_lit_the_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 109,
+                    "start": 61,
+                    "word": "lit"
+                  },
+                  {
+                    "end": 128,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 175,
+                    "start": 129,
+                    "word": "mug"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Sis lit the mug"
+              }
+            ],
+            "sentence": "Sis lit the mug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_got_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 26,
+                    "word": "got"
+                  },
+                  {
+                    "end": 99,
+                    "start": 60,
+                    "word": "hot"
+                  }
+                ],
+                "until": 99,
+                "utterances": "It got hot"
+              }
+            ],
+            "sentence": "It got hot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hot_mug_sits_on_the_rug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 22,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 103,
+                    "start": 58,
+                    "word": "mug"
+                  },
+                  {
+                    "end": 146,
+                    "start": 104,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 182,
+                    "start": 147,
+                    "word": "on"
+                  },
+                  {
+                    "end": 193,
+                    "start": 183,
+                    "word": "the"
+                  },
+                  {
+                    "end": 238,
+                    "start": 194,
+                    "word": "rug"
+                  }
+                ],
+                "until": 238,
+                "utterances": "The hot mug sits on the rug"
+              }
+            ],
+            "sentence": "The hot mug sits on the rug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_and_mom_lift_the_mug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 98,
+                    "start": 73,
+                    "word": "and"
+                  },
+                  {
+                    "end": 137,
+                    "start": 99,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 181,
+                    "start": 138,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 196,
+                    "start": 182,
+                    "word": "the"
+                  },
+                  {
+                    "end": 239,
+                    "start": 197,
+                    "word": "mug"
+                  }
+                ],
+                "until": 239,
+                "utterances": "Tom and Mom lift the mug"
+              }
+            ],
+            "sentence": "Tom and Mom lift the mug."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Tom's Gift",
+  "titleimage": null
+}

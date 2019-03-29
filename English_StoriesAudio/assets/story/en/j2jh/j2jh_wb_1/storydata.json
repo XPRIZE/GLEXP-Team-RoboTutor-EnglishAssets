@@ -1,0 +1,627 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_can_jog_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 104,
+                    "start": 69,
+                    "word": "can"
+                  },
+                  {
+                    "end": 163,
+                    "start": 105,
+                    "word": "jog"
+                  },
+                  {
+                    "end": 244,
+                    "start": 164,
+                    "word": "fast"
+                  }
+                ],
+                "until": 244,
+                "utterances": "Jen can jog fast"
+              }
+            ],
+            "sentence": "Jen can jog fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_can_jump_too.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 94,
+                    "start": 63,
+                    "word": "can"
+                  },
+                  {
+                    "end": 144,
+                    "start": 95,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 206,
+                    "start": 163,
+                    "word": "too"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Jen can jump too"
+              }
+            ],
+            "sentence": "Jen can jump, too."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_just_got_a_job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 112,
+                    "start": 60,
+                    "word": "just"
+                  },
+                  {
+                    "end": 158,
+                    "start": 122,
+                    "word": "got"
+                  },
+                  {
+                    "end": 176,
+                    "start": 159,
+                    "word": "a"
+                  },
+                  {
+                    "end": 231,
+                    "start": 177,
+                    "word": "job"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Jen just got a job"
+              }
+            ],
+            "sentence": "Jen just got a job."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_is_a_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 99,
+                    "start": 64,
+                    "word": "is"
+                  },
+                  {
+                    "end": 114,
+                    "start": 100,
+                    "word": "a"
+                  },
+                  {
+                    "end": 165,
+                    "start": 115,
+                    "word": "vet"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Jen is a vet"
+              }
+            ],
+            "sentence": "Jen is a vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 76,
+                    "start": 45,
+                    "word": "is"
+                  },
+                  {
+                    "end": 123,
+                    "start": 77,
+                    "word": "fun"
+                  }
+                ],
+                "until": 123,
+                "utterances": "It is fun"
+              }
+            ],
+            "sentence": "It is fun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_got_on_a_jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 94,
+                    "start": 57,
+                    "word": "got"
+                  },
+                  {
+                    "end": 125,
+                    "start": 95,
+                    "word": "on"
+                  },
+                  {
+                    "end": 147,
+                    "start": 126,
+                    "word": "a"
+                  },
+                  {
+                    "end": 197,
+                    "start": 148,
+                    "word": "jet"
+                  }
+                ],
+                "until": 197,
+                "utterances": "Jen got on a jet"
+              }
+            ],
+            "sentence": "Jen got on a jet. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jet_went_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 120,
+                    "start": 79,
+                    "word": "went"
+                  },
+                  {
+                    "end": 191,
+                    "start": 153,
+                    "word": "fast"
+                  }
+                ],
+                "until": 191,
+                "utterances": "The jet went fast"
+              }
+            ],
+            "sentence": "The jet went fast!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jet_went_west.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 61,
+                    "start": 35,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 109,
+                    "start": 73,
+                    "word": "went"
+                  },
+                  {
+                    "end": 172,
+                    "start": 110,
+                    "word": "west"
+                  }
+                ],
+                "until": 172,
+                "utterances": "The jet went west"
+              }
+            ],
+            "sentence": "The jet went west."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "on_the_jet_jen_had_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "On"
+                  },
+                  {
+                    "end": 61,
+                    "start": 47,
+                    "word": "the"
+                  },
+                  {
+                    "end": 98,
+                    "start": 68,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 171,
+                    "start": 137,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 205,
+                    "start": 172,
+                    "word": "had"
+                  },
+                  {
+                    "end": 252,
+                    "start": 206,
+                    "word": "milk"
+                  }
+                ],
+                "until": 252,
+                "utterances": "On the jet Jen had milk"
+              }
+            ],
+            "sentence": "On the jet, Jen had milk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_got_a_jug_of_milk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 101,
+                    "start": 60,
+                    "word": "got"
+                  },
+                  {
+                    "end": 117,
+                    "start": 102,
+                    "word": "a"
+                  },
+                  {
+                    "end": 172,
+                    "start": 118,
+                    "word": "jug"
+                  },
+                  {
+                    "end": 201,
+                    "start": 180,
+                    "word": "of"
+                  },
+                  {
+                    "end": 248,
+                    "start": 202,
+                    "word": "milk"
+                  }
+                ],
+                "until": 248,
+                "utterances": "Jen got a jug of milk"
+              }
+            ],
+            "sentence": "Jen got a jug of milk."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "milk_helps_jen_jog_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Milk"
+                  },
+                  {
+                    "end": 104,
+                    "start": 64,
+                    "word": "helps"
+                  },
+                  {
+                    "end": 152,
+                    "start": 105,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 201,
+                    "start": 153,
+                    "word": "jog"
+                  },
+                  {
+                    "end": 270,
+                    "start": 202,
+                    "word": "fast"
+                  }
+                ],
+                "until": 270,
+                "utterances": "Milk helps Jen jog fast"
+              }
+            ],
+            "sentence": "Milk helps Jen jog fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_left_the_jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 105,
+                    "start": 61,
+                    "word": "left"
+                  },
+                  {
+                    "end": 120,
+                    "start": 106,
+                    "word": "the"
+                  },
+                  {
+                    "end": 152,
+                    "start": 121,
+                    "word": "jet"
+                  }
+                ],
+                "until": 152,
+                "utterances": "Jen left the jet"
+              }
+            ],
+            "sentence": "Jen left the jet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_did_a_jig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 87,
+                    "start": 58,
+                    "word": "did"
+                  },
+                  {
+                    "end": 102,
+                    "start": 88,
+                    "word": "a"
+                  },
+                  {
+                    "end": 151,
+                    "start": 103,
+                    "word": "jig"
+                  }
+                ],
+                "until": 151,
+                "utterances": "Jen did a jig"
+              }
+            ],
+            "sentence": "Jen did a jig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_jig_is_a_kind_of_dance.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 91,
+                    "start": 26,
+                    "word": "jig"
+                  },
+                  {
+                    "end": 69,
+                    "start": 55,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 122,
+                    "start": 79,
+                    "word": "kind"
+                  },
+                  {
+                    "end": 132,
+                    "start": 123,
+                    "word": "of"
+                  },
+                  {
+                    "end": 202,
+                    "start": 142,
+                    "word": "dance"
+                  }
+                ],
+                "until": 202,
+                "utterances": "A jig is a kind of dance"
+              }
+            ],
+            "sentence": "A jig is a kind of dance!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Jen can Jog",
+  "titleimage": null
+}

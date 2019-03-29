@@ -1,0 +1,653 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_car_is_teal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 90,
+                    "start": 30,
+                    "word": "car"
+                  },
+                  {
+                    "end": 120,
+                    "start": 94,
+                    "word": "is"
+                  },
+                  {
+                    "end": 170,
+                    "start": 121,
+                    "word": "teal"
+                  }
+                ],
+                "until": 170,
+                "utterances": "The car is teal"
+              }
+            ],
+            "sentence": "The car is teal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "teal_means_blue_green.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Teal"
+                  },
+                  {
+                    "end": 97,
+                    "start": 52,
+                    "word": "means"
+                  },
+                  {
+                    "end": 180,
+                    "start": 98,
+                    "word": "blue-green"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Teal means blue-green"
+              }
+            ],
+            "sentence": "Teal means blue-green."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_got_in_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 99,
+                    "start": 70,
+                    "word": "got"
+                  },
+                  {
+                    "end": 138,
+                    "start": 100,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 157,
+                    "word": "car"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Mark got in the car"
+              }
+            ],
+            "sentence": "Mark got in the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_sat_in_the_seat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 84,
+                    "start": 39,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 135,
+                    "start": 102,
+                    "word": "in"
+                  },
+                  {
+                    "end": 148,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 149,
+                    "word": "seat"
+                  }
+                ],
+                "until": 203,
+                "utterances": "He sat in the seat"
+              }
+            ],
+            "sentence": "He sat in the seat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_he_got_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 85,
+                    "start": 56,
+                    "word": "he"
+                  },
+                  {
+                    "end": 111,
+                    "start": 86,
+                    "word": "got"
+                  },
+                  {
+                    "end": 132,
+                    "start": 112,
+                    "word": "up"
+                  }
+                ],
+                "until": 132,
+                "utterances": "Then he got up"
+              }
+            ],
+            "sentence": "Then he got up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_left_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 109,
+                    "start": 58,
+                    "word": "left"
+                  },
+                  {
+                    "end": 122,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 174,
+                    "start": 123,
+                    "word": "car"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Mark left the car"
+              }
+            ],
+            "sentence": "Mark left the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "next_mark_had_to_clean_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Next"
+                  },
+                  {
+                    "end": 115,
+                    "start": 69,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 142,
+                    "start": 116,
+                    "word": "had"
+                  },
+                  {
+                    "end": 162,
+                    "start": 143,
+                    "word": "to"
+                  },
+                  {
+                    "end": 221,
+                    "start": 163,
+                    "word": "clean"
+                  },
+                  {
+                    "end": 233,
+                    "start": 222,
+                    "word": "the"
+                  },
+                  {
+                    "end": 281,
+                    "start": 234,
+                    "word": "car"
+                  }
+                ],
+                "until": 281,
+                "utterances": "Next Mark had to clean the car"
+              }
+            ],
+            "sentence": "Next, Mark had to clean the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_got_water_and_soap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 90,
+                    "start": 64,
+                    "word": "got"
+                  },
+                  {
+                    "end": 157,
+                    "start": 91,
+                    "word": "water"
+                  },
+                  {
+                    "end": 181,
+                    "start": 161,
+                    "word": "and"
+                  },
+                  {
+                    "end": 225,
+                    "start": 182,
+                    "word": "soap"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Mark got water and soap"
+              }
+            ],
+            "sentence": "Mark got water and soap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_water_did_not_leak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 28,
+                    "word": "water"
+                  },
+                  {
+                    "end": 116,
+                    "start": 87,
+                    "word": "did"
+                  },
+                  {
+                    "end": 146,
+                    "start": 117,
+                    "word": "not"
+                  },
+                  {
+                    "end": 186,
+                    "start": 147,
+                    "word": "leak"
+                  }
+                ],
+                "until": 186,
+                "utterances": "The water did not leak"
+              }
+            ],
+            "sentence": "The water did not leak. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_the_car_clean.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 50,
+                    "start": 39,
+                    "word": "the"
+                  },
+                  {
+                    "end": 91,
+                    "start": 51,
+                    "word": "car"
+                  },
+                  {
+                    "end": 143,
+                    "start": 92,
+                    "word": "clean"
+                  }
+                ],
+                "until": 143,
+                "utterances": "Is the car clean"
+              }
+            ],
+            "sentence": "Is the car clean?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 74,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_got_in_the_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 99,
+                    "start": 70,
+                    "word": "got"
+                  },
+                  {
+                    "end": 138,
+                    "start": 100,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 157,
+                    "word": "car"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Mark got in the car"
+              }
+            ],
+            "sentence": "Mark got in the car."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_went_east.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 120,
+                    "start": 57,
+                    "word": "went"
+                  },
+                  {
+                    "end": 190,
+                    "start": 137,
+                    "word": "east"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Mark went east"
+              }
+            ],
+            "sentence": "Mark went east."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_mark_went_west.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 85,
+                    "start": 38,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 142,
+                    "start": 96,
+                    "word": "went"
+                  },
+                  {
+                    "end": 211,
+                    "start": 143,
+                    "word": "west"
+                  }
+                ],
+                "until": 211,
+                "utterances": "And Mark went west"
+              }
+            ],
+            "sentence": "And Mark went west."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mark_said_this_clean_car_is_best.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Mark"
+                  },
+                  {
+                    "end": 90,
+                    "start": 44,
+                    "word": "said"
+                  },
+                  {
+                    "end": 141,
+                    "start": 91,
+                    "word": "this"
+                  },
+                  {
+                    "end": 192,
+                    "start": 142,
+                    "word": "clean"
+                  },
+                  {
+                    "end": 242,
+                    "start": 193,
+                    "word": "car"
+                  },
+                  {
+                    "end": 264,
+                    "start": 246,
+                    "word": "is"
+                  },
+                  {
+                    "end": 328,
+                    "start": 265,
+                    "word": "best"
+                  }
+                ],
+                "until": 328,
+                "utterances": "Mark said this clean car is best"
+              }
+            ],
+            "sentence": "Mark said, \"this clean car is best!\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Car is Teal",
+  "titleimage": null
+}

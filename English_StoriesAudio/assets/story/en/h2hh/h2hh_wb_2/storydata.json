@@ -1,0 +1,633 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hog_had_a_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 29,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 97,
+                    "start": 88,
+                    "word": "had"
+                  },
+                  {
+                    "end": 134,
+                    "start": 98,
+                    "word": "a"
+                  },
+                  {
+                    "end": 170,
+                    "start": 154,
+                    "word": "hat"
+                  }
+                ],
+                "until": 170,
+                "utterances": "The hog had a hat"
+              }
+            ],
+            "sentence": "The hog had a hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hat_fit_the_hog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 91,
+                    "start": 82,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 142,
+                    "start": 92,
+                    "word": "fit"
+                  },
+                  {
+                    "end": 159,
+                    "start": 143,
+                    "word": "the"
+                  },
+                  {
+                    "end": 201,
+                    "start": 167,
+                    "word": "hog"
+                  }
+                ],
+                "until": 201,
+                "utterances": "The hat fit the hog"
+              }
+            ],
+            "sentence": "The hat fit the hog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hog_got_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 83,
+                    "start": 37,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "got"
+                  },
+                  {
+                    "end": 170,
+                    "start": 118,
+                    "word": "hot"
+                  }
+                ],
+                "until": 170,
+                "utterances": "The hog got hot"
+              }
+            ],
+            "sentence": "The hog got hot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hat_got_soft.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 41,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 95,
+                    "start": 73,
+                    "word": "got"
+                  },
+                  {
+                    "end": 153,
+                    "start": 96,
+                    "word": "soft"
+                  }
+                ],
+                "until": 153,
+                "utterances": "The hat got soft"
+              }
+            ],
+            "sentence": "The hat got soft."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_soft_hat_slid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 97,
+                    "start": 46,
+                    "word": "soft"
+                  },
+                  {
+                    "end": 124,
+                    "start": 98,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 173,
+                    "start": 125,
+                    "word": "slid"
+                  }
+                ],
+                "until": 173,
+                "utterances": "The soft hat slid"
+              }
+            ],
+            "sentence": "The soft hat slid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hog_had_to_lift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 32,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 107,
+                    "start": 78,
+                    "word": "had"
+                  },
+                  {
+                    "end": 124,
+                    "start": 108,
+                    "word": "to"
+                  },
+                  {
+                    "end": 179,
+                    "start": 125,
+                    "word": "lift"
+                  }
+                ],
+                "until": 179,
+                "utterances": "The hog had to lift"
+              },
+              {
+                "audio": "the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 87,
+                    "start": 44,
+                    "word": "hat"
+                  }
+                ],
+                "until": 87,
+                "utterances": "the hat"
+              }
+            ],
+            "sentence": "The hog had to lift the hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "at_last_the_hog_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "At"
+                  },
+                  {
+                    "end": 88,
+                    "start": 28,
+                    "word": "last"
+                  },
+                  {
+                    "end": 103,
+                    "start": 89,
+                    "word": "the"
+                  },
+                  {
+                    "end": 138,
+                    "start": 104,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 197,
+                    "start": 139,
+                    "word": "sat"
+                  }
+                ],
+                "until": 197,
+                "utterances": "At last the hog sat"
+              }
+            ],
+            "sentence": "At last, the hog sat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_hog_lift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 49,
+                    "start": 38,
+                    "word": "the"
+                  },
+                  {
+                    "end": 89,
+                    "start": 50,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 136,
+                    "start": 90,
+                    "word": "lift"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Did the hog lift"
+              },
+              {
+                "audio": "the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 87,
+                    "start": 44,
+                    "word": "hat"
+                  }
+                ],
+                "until": 87,
+                "utterances": "the hat"
+              }
+            ],
+            "sentence": "Did the hog lift the hat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 80,
+                    "start": 41,
+                    "word": "did"
+                  }
+                ],
+                "until": 80,
+                "utterances": "It did"
+              }
+            ],
+            "sentence": "It did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hog_sat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 47,
+                    "word": "hog"
+                  },
+                  {
+                    "end": 149,
+                    "start": 85,
+                    "word": "sat"
+                  }
+                ],
+                "until": 149,
+                "utterances": "The hog sat"
+              },
+              {
+                "audio": "the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "the"
+                  },
+                  {
+                    "end": 87,
+                    "start": 44,
+                    "word": "hat"
+                  }
+                ],
+                "until": 87,
+                "utterances": "the hat"
+              },
+              {
+                "audio": "on_the_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "on"
+                  },
+                  {
+                    "end": 82,
+                    "start": 53,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 83,
+                    "word": "ham"
+                  }
+                ],
+                "until": 117,
+                "utterances": "on the ham"
+              }
+            ],
+            "sentence": "The hog sat the hat on the ham."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ham_has_a_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 41,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 120,
+                    "start": 79,
+                    "word": "has"
+                  },
+                  {
+                    "end": 127,
+                    "start": 121,
+                    "word": "a"
+                  },
+                  {
+                    "end": 178,
+                    "start": 160,
+                    "word": "hat"
+                  }
+                ],
+                "until": 178,
+                "utterances": "The ham has a hat"
+              }
+            ],
+            "sentence": "The ham has a hat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ham_hid_the_hat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 38,
+                    "word": "ham"
+                  },
+                  {
+                    "end": 133,
+                    "start": 87,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 160,
+                    "start": 134,
+                    "word": "the"
+                  },
+                  {
+                    "end": 175,
+                    "start": 161,
+                    "word": "hat"
+                  }
+                ],
+                "until": 175,
+                "utterances": "The ham hid the hat"
+              }
+            ],
+            "sentence": "The ham hid the hat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hat_got_lost.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 31,
+                    "word": "hat"
+                  },
+                  {
+                    "end": 91,
+                    "start": 68,
+                    "word": "got"
+                  },
+                  {
+                    "end": 164,
+                    "start": 92,
+                    "word": "lost"
+                  }
+                ],
+                "until": 164,
+                "utterances": "The hat got lost"
+              }
+            ],
+            "sentence": "The hat got lost."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Hog",
+  "titleimage": null
+}

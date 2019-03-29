@@ -1,0 +1,82 @@
+{Sit} {Project LISTEN} {WORD}
+
+
+Dad sits.
+
+
+
+
+
+Sam sits.
+
+
+
+
+
+Dad and Sam sit.
+
+
+
+
+
+Did Sis sit?
+
+
+
+
+
+Is Sis mad?
+
+
+
+
+
+Dad and Sam sit on the mat.
+
+
+
+
+
+Dad is on it.
+
+
+
+
+
+Sam is on it.
+
+
+
+
+
+Sam and Dad sit on it.
+
+
+
+
+
+Did Sis sit on it?
+
+
+
+
+
+Sis is mad.
+
+
+
+
+
+Sis is sad.
+
+
+
+
+
+Sis did sit.
+
+
+
+
+
+Sis did sit on the mat.

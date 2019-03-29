@@ -1,0 +1,627 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_can_i_eat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 96,
+                    "start": 71,
+                    "word": "can"
+                  },
+                  {
+                    "end": 117,
+                    "start": 107,
+                    "word": "I"
+                  },
+                  {
+                    "end": 173,
+                    "start": 154,
+                    "word": "eat"
+                  }
+                ],
+                "until": 173,
+                "utterances": "What can I eat"
+              }
+            ],
+            "sentence": "What can I eat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_need_to_go_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 63,
+                    "start": 23,
+                    "word": "need"
+                  },
+                  {
+                    "end": 81,
+                    "start": 64,
+                    "word": "to"
+                  },
+                  {
+                    "end": 106,
+                    "start": 82,
+                    "word": "go"
+                  },
+                  {
+                    "end": 164,
+                    "start": 112,
+                    "word": "shop"
+                  }
+                ],
+                "until": 164,
+                "utterances": "I need to go shop"
+              }
+            ],
+            "sentence": "I need to go shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_get_corn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 57,
+                    "start": 28,
+                    "word": "can"
+                  },
+                  {
+                    "end": 76,
+                    "start": 58,
+                    "word": "get"
+                  },
+                  {
+                    "end": 202,
+                    "start": 87,
+                    "word": "corn"
+                  }
+                ],
+                "until": 202,
+                "utterances": "I can get corn"
+              }
+            ],
+            "sentence": "I can get corn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_much_corn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 70,
+                    "start": 32,
+                    "word": "much"
+                  },
+                  {
+                    "end": 157,
+                    "start": 71,
+                    "word": "corn"
+                  }
+                ],
+                "until": 157,
+                "utterances": "How much corn"
+              }
+            ],
+            "sentence": "How much corn?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "six_or_seven.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Six"
+                  },
+                  {
+                    "end": 59,
+                    "start": 44,
+                    "word": "or"
+                  },
+                  {
+                    "end": 176,
+                    "start": 60,
+                    "word": "seven"
+                  }
+                ],
+                "until": 176,
+                "utterances": "Six or seven"
+              }
+            ],
+            "sentence": "Six or seven."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_get_beef.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 53,
+                    "start": 32,
+                    "word": "can"
+                  },
+                  {
+                    "end": 76,
+                    "start": 59,
+                    "word": "get"
+                  },
+                  {
+                    "end": 152,
+                    "start": 98,
+                    "word": "beef"
+                  }
+                ],
+                "until": 152,
+                "utterances": "I can get beef"
+              }
+            ],
+            "sentence": "I can get beef."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "who_can_chop_the_beef.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Who"
+                  },
+                  {
+                    "end": 73,
+                    "start": 49,
+                    "word": "can"
+                  },
+                  {
+                    "end": 118,
+                    "start": 74,
+                    "word": "chop"
+                  },
+                  {
+                    "end": 130,
+                    "start": 119,
+                    "word": "the"
+                  },
+                  {
+                    "end": 190,
+                    "start": 131,
+                    "word": "beef"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Who can chop the beef"
+              }
+            ],
+            "sentence": "Who can chop the beef?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_much_to_chop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 81,
+                    "start": 37,
+                    "word": "much"
+                  },
+                  {
+                    "end": 99,
+                    "start": 82,
+                    "word": "to"
+                  },
+                  {
+                    "end": 152,
+                    "start": 100,
+                    "word": "chop"
+                  }
+                ],
+                "until": 152,
+                "utterances": "How much to chop"
+              }
+            ],
+            "sentence": "How much to chop?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_can_get_a_bean_or_a_pea.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 63,
+                    "start": 34,
+                    "word": "can"
+                  },
+                  {
+                    "end": 82,
+                    "start": 64,
+                    "word": "get"
+                  },
+                  {
+                    "end": 104,
+                    "start": 92,
+                    "word": "a"
+                  },
+                  {
+                    "end": 151,
+                    "start": 105,
+                    "word": "bean"
+                  },
+                  {
+                    "end": 185,
+                    "start": 152,
+                    "word": "or"
+                  },
+                  {
+                    "end": 199,
+                    "start": 186,
+                    "word": "a"
+                  },
+                  {
+                    "end": 261,
+                    "start": 200,
+                    "word": "pea"
+                  }
+                ],
+                "until": 261,
+                "utterances": "I can get a bean or a pea"
+              }
+            ],
+            "sentence": "I can get a bean or a pea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_bean_for_mom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 71,
+                    "start": 28,
+                    "word": "bean"
+                  },
+                  {
+                    "end": 105,
+                    "start": 84,
+                    "word": "for"
+                  },
+                  {
+                    "end": 155,
+                    "start": 106,
+                    "word": "Mom"
+                  }
+                ],
+                "until": 155,
+                "utterances": "A bean for Mom"
+              }
+            ],
+            "sentence": "A bean for Mom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_pea_for_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 73,
+                    "start": 27,
+                    "word": "pea"
+                  },
+                  {
+                    "end": 99,
+                    "start": 74,
+                    "word": "for"
+                  },
+                  {
+                    "end": 124,
+                    "start": 100,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 124,
+                "utterances": "A pea for Dad"
+              }
+            ],
+            "sentence": "A pea for Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_much_beef.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "How"
+                  },
+                  {
+                    "end": 66,
+                    "start": 37,
+                    "word": "much"
+                  },
+                  {
+                    "end": 121,
+                    "start": 67,
+                    "word": "beef"
+                  }
+                ],
+                "until": 121,
+                "utterances": "How much beef"
+              }
+            ],
+            "sentence": "How much beef?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "an_inch_for_mom_an_inch_for_dad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "An"
+                  },
+                  {
+                    "end": 70,
+                    "start": 35,
+                    "word": "inch"
+                  },
+                  {
+                    "end": 95,
+                    "start": 71,
+                    "word": "for"
+                  },
+                  {
+                    "end": 143,
+                    "start": 96,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 176,
+                    "start": 149,
+                    "word": "an"
+                  },
+                  {
+                    "end": 209,
+                    "start": 177,
+                    "word": "inch"
+                  },
+                  {
+                    "end": 234,
+                    "start": 210,
+                    "word": "for"
+                  },
+                  {
+                    "end": 280,
+                    "start": 235,
+                    "word": "Dad"
+                  }
+                ],
+                "until": 280,
+                "utterances": "An inch for Mom an inch for Dad"
+              }
+            ],
+            "sentence": "An inch for Mom, an inch for Dad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "an_inch_of_beef_for_each.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "An"
+                  },
+                  {
+                    "end": 75,
+                    "start": 37,
+                    "word": "inch"
+                  },
+                  {
+                    "end": 106,
+                    "start": 76,
+                    "word": "of"
+                  },
+                  {
+                    "end": 148,
+                    "start": 107,
+                    "word": "beef"
+                  },
+                  {
+                    "end": 190,
+                    "start": 160,
+                    "word": "for"
+                  },
+                  {
+                    "end": 241,
+                    "start": 194,
+                    "word": "each"
+                  }
+                ],
+                "until": 241,
+                "utterances": "An inch of beef for each"
+              }
+            ],
+            "sentence": "An inch of beef for each."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "What can I Eat",
+  "titleimage": null
+}

@@ -1,0 +1,678 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_can_hunt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 83,
+                    "start": 57,
+                    "word": "can"
+                  },
+                  {
+                    "end": 135,
+                    "start": 84,
+                    "word": "hunt"
+                  }
+                ],
+                "until": 135,
+                "utterances": "Don can hunt"
+              }
+            ],
+            "sentence": "Don can hunt."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_don_hunt_an_ant.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 69,
+                    "start": 34,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 120,
+                    "start": 70,
+                    "word": "hunt"
+                  },
+                  {
+                    "end": 130,
+                    "start": 121,
+                    "word": "an"
+                  },
+                  {
+                    "end": 185,
+                    "start": 131,
+                    "word": "ant"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Did Don hunt an ant"
+              }
+            ],
+            "sentence": "Did Don hunt an ant?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_he_did_not_hunt_an_ant.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 91,
+                    "start": 52,
+                    "word": "he"
+                  },
+                  {
+                    "end": 115,
+                    "start": 92,
+                    "word": "did"
+                  },
+                  {
+                    "end": 149,
+                    "start": 116,
+                    "word": "not"
+                  },
+                  {
+                    "end": 198,
+                    "start": 150,
+                    "word": "hunt"
+                  },
+                  {
+                    "end": 214,
+                    "start": 199,
+                    "word": "an"
+                  },
+                  {
+                    "end": 263,
+                    "start": 215,
+                    "word": "ant"
+                  }
+                ],
+                "until": 263,
+                "utterances": "No he did not hunt an ant"
+              }
+            ],
+            "sentence": "No, he did not hunt an ant."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_don_hunt_cats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 77,
+                    "start": 38,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 117,
+                    "start": 78,
+                    "word": "hunt"
+                  },
+                  {
+                    "end": 186,
+                    "start": 125,
+                    "word": "cats"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Did Don hunt cats"
+              }
+            ],
+            "sentence": "Did Don hunt cats?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 56,
+                "utterances": "No"
+              }
+            ],
+            "sentence": "No."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_did_don_hunt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 64,
+                    "start": 41,
+                    "word": "did"
+                  },
+                  {
+                    "end": 98,
+                    "start": 65,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 153,
+                    "start": 99,
+                    "word": "hunt"
+                  }
+                ],
+                "until": 153,
+                "utterances": "What did Don hunt"
+              }
+            ],
+            "sentence": "What did Don hunt?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 64,
+                    "start": 32,
+                    "word": "nut"
+                  }
+                ],
+                "until": 64,
+                "utterances": "A nut"
+              }
+            ],
+            "sentence": "A nut!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_had_a_tan_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 75,
+                    "start": 48,
+                    "word": "had"
+                  },
+                  {
+                    "end": 89,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 90,
+                    "word": "tan"
+                  },
+                  {
+                    "end": 174,
+                    "start": 130,
+                    "word": "nut"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Don had a tan nut"
+              }
+            ],
+            "sentence": "Don had a tan nut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_a_grand_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 57,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 117,
+                    "start": 58,
+                    "word": "grand"
+                  },
+                  {
+                    "end": 162,
+                    "start": 118,
+                    "word": "nut"
+                  }
+                ],
+                "until": 162,
+                "utterances": "What a grand nut"
+              }
+            ],
+            "sentence": "What a grand nut!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_cut_the_nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 88,
+                    "start": 58,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 113,
+                    "start": 94,
+                    "word": "the"
+                  },
+                  {
+                    "end": 158,
+                    "start": 114,
+                    "word": "nut"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Don cut the nut"
+              }
+            ],
+            "sentence": "Don cut the nut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_got_a_fat_tin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 76,
+                    "start": 50,
+                    "word": "got"
+                  },
+                  {
+                    "end": 95,
+                    "start": 77,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 96,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 190,
+                    "start": 146,
+                    "word": "tin"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Don got a fat tin"
+              }
+            ],
+            "sentence": "Don got a fat tin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_hid_the_nut_in_the_tin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 33,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 80,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 120,
+                    "start": 81,
+                    "word": "nut"
+                  },
+                  {
+                    "end": 155,
+                    "start": 132,
+                    "word": "in"
+                  },
+                  {
+                    "end": 170,
+                    "start": 156,
+                    "word": "the"
+                  },
+                  {
+                    "end": 210,
+                    "start": 171,
+                    "word": "tin"
+                  }
+                ],
+                "until": 210,
+                "utterances": "He hid the nut in the tin"
+              }
+            ],
+            "sentence": "He hid the nut in the tin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fat_tin_had_a_lid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 23,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 110,
+                    "start": 72,
+                    "word": "tin"
+                  },
+                  {
+                    "end": 157,
+                    "start": 111,
+                    "word": "had"
+                  },
+                  {
+                    "end": 170,
+                    "start": 158,
+                    "word": "a"
+                  },
+                  {
+                    "end": 209,
+                    "start": 171,
+                    "word": "lid"
+                  }
+                ],
+                "until": 209,
+                "utterances": "The fat tin had a lid"
+              }
+            ],
+            "sentence": "The fat tin had a lid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_ran_to_a_mud_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 91,
+                    "start": 46,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 111,
+                    "start": 92,
+                    "word": "to"
+                  },
+                  {
+                    "end": 123,
+                    "start": 112,
+                    "word": "a"
+                  },
+                  {
+                    "end": 152,
+                    "start": 124,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 186,
+                    "start": 153,
+                    "word": "hut"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Don ran to a mud hut"
+              }
+            ],
+            "sentence": "Don ran to a mud hut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "don_hid_the_tin_in_the_mud_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Don"
+                  },
+                  {
+                    "end": 95,
+                    "start": 58,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 118,
+                    "start": 102,
+                    "word": "the"
+                  },
+                  {
+                    "end": 183,
+                    "start": 119,
+                    "word": "tin"
+                  },
+                  {
+                    "end": 207,
+                    "start": 184,
+                    "word": "in"
+                  },
+                  {
+                    "end": 236,
+                    "start": 208,
+                    "word": "the"
+                  },
+                  {
+                    "end": 275,
+                    "start": 237,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 323,
+                    "start": 276,
+                    "word": "hut"
+                  }
+                ],
+                "until": 323,
+                "utterances": "Don hid the tin in the mud hut"
+              }
+            ],
+            "sentence": "Don hid the tin in the mud hut."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Don can Hunt",
+  "titleimage": null
+}

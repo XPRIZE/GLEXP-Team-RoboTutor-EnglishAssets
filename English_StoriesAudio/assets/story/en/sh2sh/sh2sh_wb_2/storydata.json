@@ -1,0 +1,636 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_went_to_the_pet_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 94,
+                    "start": 60,
+                    "word": "went"
+                  },
+                  {
+                    "end": 122,
+                    "start": 104,
+                    "word": "to"
+                  },
+                  {
+                    "end": 133,
+                    "start": 123,
+                    "word": "the"
+                  },
+                  {
+                    "end": 163,
+                    "start": 134,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 215,
+                    "start": 164,
+                    "word": "shop"
+                  }
+                ],
+                "until": 215,
+                "utterances": "Rob went to the pet shop"
+              }
+            ],
+            "sentence": "Rob went to the pet shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_got_a_pet_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 91,
+                    "start": 67,
+                    "word": "got"
+                  },
+                  {
+                    "end": 118,
+                    "start": 101,
+                    "word": "a"
+                  },
+                  {
+                    "end": 157,
+                    "start": 119,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 213,
+                    "start": 158,
+                    "word": "fish"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Rob got a pet fish"
+              }
+            ],
+            "sentence": "Rob got a pet fish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_set_the_fish_in_a_dish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 58,
+                    "start": 25,
+                    "word": "set"
+                  },
+                  {
+                    "end": 80,
+                    "start": 69,
+                    "word": "the"
+                  },
+                  {
+                    "end": 136,
+                    "start": 81,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 166,
+                    "start": 143,
+                    "word": "in"
+                  },
+                  {
+                    "end": 184,
+                    "start": 167,
+                    "word": "a"
+                  },
+                  {
+                    "end": 237,
+                    "start": 185,
+                    "word": "dish"
+                  }
+                ],
+                "until": 237,
+                "utterances": "He set the fish in a dish"
+              }
+            ],
+            "sentence": "He set the fish in a dish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_set_the_dish_on_a_shelf.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 70,
+                    "start": 32,
+                    "word": "set"
+                  },
+                  {
+                    "end": 94,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 144,
+                    "start": 102,
+                    "word": "dish"
+                  },
+                  {
+                    "end": 181,
+                    "start": 154,
+                    "word": "on"
+                  },
+                  {
+                    "end": 198,
+                    "start": 182,
+                    "word": "a"
+                  },
+                  {
+                    "end": 262,
+                    "start": 199,
+                    "word": "shelf"
+                  }
+                ],
+                "until": 262,
+                "utterances": "He set the dish on a shelf"
+              }
+            ],
+            "sentence": "He set the dish on a shelf."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fish_went_splash.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 25,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 111,
+                    "start": 79,
+                    "word": "went"
+                  },
+                  {
+                    "end": 190,
+                    "start": 112,
+                    "word": "splash"
+                  }
+                ],
+                "until": 190,
+                "utterances": "The fish went splash"
+              }
+            ],
+            "sentence": "The fish went splash."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_sat_with_the_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 83,
+                    "start": 51,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 137,
+                    "start": 102,
+                    "word": "with"
+                  },
+                  {
+                    "end": 148,
+                    "start": 138,
+                    "word": "the"
+                  },
+                  {
+                    "end": 203,
+                    "start": 149,
+                    "word": "fish"
+                  }
+                ],
+                "until": 203,
+                "utterances": "Rob sat with the fish"
+              }
+            ],
+            "sentence": "Rob sat with the fish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_said_i_wish_i_had_six_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 88,
+                    "start": 43,
+                    "word": "said"
+                  },
+                  {
+                    "end": 111,
+                    "start": 89,
+                    "word": "I"
+                  },
+                  {
+                    "end": 154,
+                    "start": 112,
+                    "word": "wish"
+                  },
+                  {
+                    "end": 173,
+                    "start": 155,
+                    "word": "I"
+                  },
+                  {
+                    "end": 208,
+                    "start": 198,
+                    "word": "had"
+                  },
+                  {
+                    "end": 262,
+                    "start": 209,
+                    "word": "six"
+                  },
+                  {
+                    "end": 312,
+                    "start": 263,
+                    "word": "fish"
+                  }
+                ],
+                "until": 312,
+                "utterances": "Rob said I wish I had six fish"
+              }
+            ],
+            "sentence": "Rob said, \"I wish I had six fish.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so_rob_went_to_the_pet_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "So"
+                  },
+                  {
+                    "end": 82,
+                    "start": 59,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 128,
+                    "start": 83,
+                    "word": "went"
+                  },
+                  {
+                    "end": 136,
+                    "start": 129,
+                    "word": "to"
+                  },
+                  {
+                    "end": 148,
+                    "start": 137,
+                    "word": "the"
+                  },
+                  {
+                    "end": 175,
+                    "start": 149,
+                    "word": "pet"
+                  },
+                  {
+                    "end": 228,
+                    "start": 176,
+                    "word": "shop"
+                  }
+                ],
+                "until": 228,
+                "utterances": "So Rob went to the pet shop"
+              }
+            ],
+            "sentence": "So Rob went to the pet shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_rob_rush_to_the_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 72,
+                    "start": 32,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 120,
+                    "start": 73,
+                    "word": "rush"
+                  },
+                  {
+                    "end": 137,
+                    "start": 121,
+                    "word": "to"
+                  },
+                  {
+                    "end": 147,
+                    "start": 138,
+                    "word": "the"
+                  },
+                  {
+                    "end": 210,
+                    "start": 148,
+                    "word": "shop"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Did Rob rush to the shop"
+              }
+            ],
+            "sentence": "Did Rob rush to the shop?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_got_six_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 77,
+                    "start": 49,
+                    "word": "got"
+                  },
+                  {
+                    "end": 130,
+                    "start": 78,
+                    "word": "six"
+                  },
+                  {
+                    "end": 191,
+                    "start": 131,
+                    "word": "fish"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Rob got six fish"
+              }
+            ],
+            "sentence": "Rob got six fish."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_he_got_a_brush.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "And"
+                  },
+                  {
+                    "end": 59,
+                    "start": 47,
+                    "word": "he"
+                  },
+                  {
+                    "end": 82,
+                    "start": 60,
+                    "word": "got"
+                  },
+                  {
+                    "end": 88,
+                    "start": 83,
+                    "word": "a"
+                  },
+                  {
+                    "end": 151,
+                    "start": 89,
+                    "word": "brush"
+                  }
+                ],
+                "until": 151,
+                "utterances": "And he got a brush"
+              }
+            ],
+            "sentence": "And he got a brush!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_rob_brush_his_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 94,
+                    "start": 44,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 133,
+                    "start": 95,
+                    "word": "brush"
+                  },
+                  {
+                    "end": 154,
+                    "start": 134,
+                    "word": "his"
+                  },
+                  {
+                    "end": 203,
+                    "start": 155,
+                    "word": "fish"
+                  }
+                ],
+                "until": 203,
+                "utterances": "Did Rob brush his fish"
+              }
+            ],
+            "sentence": "Did Rob brush his fish?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "silly_rob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Silly"
+                  },
+                  {
+                    "end": 112,
+                    "start": 62,
+                    "word": "Rob"
+                  }
+                ],
+                "until": 112,
+                "utterances": "Silly Rob"
+              }
+            ],
+            "sentence": "Silly Rob!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Rob went to the Pet Shop",
+  "titleimage": null
+}

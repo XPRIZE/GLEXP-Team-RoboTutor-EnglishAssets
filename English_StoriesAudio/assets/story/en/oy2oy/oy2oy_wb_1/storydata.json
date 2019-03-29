@@ -1,0 +1,999 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "roy_is_my_brother.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 89,
+                    "start": 59,
+                    "word": "is"
+                  },
+                  {
+                    "end": 113,
+                    "start": 90,
+                    "word": "my"
+                  },
+                  {
+                    "end": 168,
+                    "start": 114,
+                    "word": "brother"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Roy is my brother"
+              }
+            ],
+            "sentence": "Roy is my brother."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_five.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 74,
+                    "start": 50,
+                    "word": "is"
+                  },
+                  {
+                    "end": 115,
+                    "start": 75,
+                    "word": "five"
+                  }
+                ],
+                "until": 115,
+                "utterances": "He is five"
+              }
+            ],
+            "sentence": "He is five."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_is_a_good_boy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 46,
+                    "start": 30,
+                    "word": "is"
+                  },
+                  {
+                    "end": 56,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 77,
+                    "start": 57,
+                    "word": "good"
+                  },
+                  {
+                    "end": 126,
+                    "start": 78,
+                    "word": "boy"
+                  }
+                ],
+                "until": 126,
+                "utterances": "He is a good boy"
+              }
+            ],
+            "sentence": "He is a good boy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_and_dad_spoil_him.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 66,
+                    "start": 48,
+                    "word": "and"
+                  },
+                  {
+                    "end": 103,
+                    "start": 67,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 169,
+                    "start": 104,
+                    "word": "spoil"
+                  },
+                  {
+                    "end": 235,
+                    "start": 173,
+                    "word": "him"
+                  }
+                ],
+                "until": 235,
+                "utterances": "Mom and Dad spoil him"
+              }
+            ],
+            "sentence": "Mom and Dad spoil him."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "that_means_he_gets_a_lot_of_gifts.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "That"
+                  },
+                  {
+                    "end": 88,
+                    "start": 50,
+                    "word": "means"
+                  },
+                  {
+                    "end": 40,
+                    "start": 30,
+                    "word": "he"
+                  },
+                  {
+                    "end": 71,
+                    "start": 41,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 79,
+                    "start": 72,
+                    "word": "a"
+                  },
+                  {
+                    "end": 123,
+                    "start": 80,
+                    "word": "lot"
+                  },
+                  {
+                    "end": 143,
+                    "start": 124,
+                    "word": "of"
+                  },
+                  {
+                    "end": 218,
+                    "start": 152,
+                    "word": "gifts"
+                  }
+                ],
+                "until": 218,
+                "utterances": "That means he gets a lot of gifts"
+              }
+            ],
+            "sentence": "That means he gets a lot of gifts."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "roy_got_a_toy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 65,
+                    "start": 43,
+                    "word": "got"
+                  },
+                  {
+                    "end": 81,
+                    "start": 73,
+                    "word": "a"
+                  },
+                  {
+                    "end": 121,
+                    "start": 82,
+                    "word": "toy"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Roy got a toy"
+              }
+            ],
+            "sentence": "Roy got a toy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_him_a_toy_train_set.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 75,
+                    "start": 44,
+                    "word": "got"
+                  },
+                  {
+                    "end": 94,
+                    "start": 76,
+                    "word": "him"
+                  },
+                  {
+                    "end": 120,
+                    "start": 103,
+                    "word": "a"
+                  },
+                  {
+                    "end": 162,
+                    "start": 121,
+                    "word": "toy"
+                  },
+                  {
+                    "end": 212,
+                    "start": 163,
+                    "word": "train"
+                  },
+                  {
+                    "end": 247,
+                    "start": 213,
+                    "word": "set"
+                  }
+                ],
+                "until": 247,
+                "utterances": "Dad got him a toy train set"
+              }
+            ],
+            "sentence": "Dad got him a toy train set."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_roy_jump_for_joy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 59,
+                    "start": 34,
+                    "word": "made"
+                  },
+                  {
+                    "end": 59,
+                    "start": 24,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 98,
+                    "start": 60,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 120,
+                    "start": 99,
+                    "word": "for"
+                  },
+                  {
+                    "end": 156,
+                    "start": 121,
+                    "word": "joy"
+                  }
+                ],
+                "until": 156,
+                "utterances": "It made Roy jump for joy"
+              }
+            ],
+            "sentence": "It made Roy jump for joy!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_roy_shout_oh_boy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 54,
+                    "start": 27,
+                    "word": "made"
+                  },
+                  {
+                    "end": 46,
+                    "start": 19,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 114,
+                    "start": 47,
+                    "word": "shout"
+                  },
+                  {
+                    "end": 123,
+                    "start": 115,
+                    "word": "Oh"
+                  },
+                  {
+                    "end": 169,
+                    "start": 124,
+                    "word": "boy"
+                  }
+                ],
+                "until": 169,
+                "utterances": "It made Roy shout Oh boy"
+              }
+            ],
+            "sentence": "It made Roy shout, \"Oh boy!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_i_get_a_toy_train_set.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 42,
+                    "start": 31,
+                    "word": "I"
+                  },
+                  {
+                    "end": 101,
+                    "start": 74,
+                    "word": "get"
+                  },
+                  {
+                    "end": 109,
+                    "start": 102,
+                    "word": "a"
+                  },
+                  {
+                    "end": 143,
+                    "start": 110,
+                    "word": "toy"
+                  },
+                  {
+                    "end": 179,
+                    "start": 144,
+                    "word": "train"
+                  },
+                  {
+                    "end": 229,
+                    "start": 180,
+                    "word": "set"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Did I get a toy train set"
+              }
+            ],
+            "sentence": "Did I get a toy train set?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 50,
+                "utterances": "No"
+              }
+            ],
+            "sentence": "No."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_had_to_help_roy_set_up_his.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 54,
+                    "start": 37,
+                    "word": "had"
+                  },
+                  {
+                    "end": 73,
+                    "start": 55,
+                    "word": "to"
+                  },
+                  {
+                    "end": 107,
+                    "start": 74,
+                    "word": "help"
+                  },
+                  {
+                    "end": 150,
+                    "start": 108,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 184,
+                    "start": 151,
+                    "word": "set"
+                  },
+                  {
+                    "end": 212,
+                    "start": 185,
+                    "word": "up"
+                  },
+                  {
+                    "end": 256,
+                    "start": 213,
+                    "word": "his"
+                  }
+                ],
+                "until": 256,
+                "utterances": "I had to help Roy set up his"
+              }
+            ],
+            "sentence": "I had to help Roy set up his."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_did_not_jump_for_joy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 12,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 36,
+                    "start": 13,
+                    "word": "did"
+                  },
+                  {
+                    "end": 75,
+                    "start": 37,
+                    "word": "not"
+                  },
+                  {
+                    "end": 105,
+                    "start": 76,
+                    "word": "jump"
+                  },
+                  {
+                    "end": 124,
+                    "start": 106,
+                    "word": "for"
+                  },
+                  {
+                    "end": 169,
+                    "start": 125,
+                    "word": "joy"
+                  }
+                ],
+                "until": 169,
+                "utterances": "I did not jump for joy"
+              }
+            ],
+            "sentence": "I did not jump for joy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_roy_is_a_good_boy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 90,
+                    "start": 49,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 116,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 127,
+                    "start": 117,
+                    "word": "a"
+                  },
+                  {
+                    "end": 161,
+                    "start": 132,
+                    "word": "good"
+                  },
+                  {
+                    "end": 190,
+                    "start": 162,
+                    "word": "boy"
+                  }
+                ],
+                "until": 190,
+                "utterances": "But Roy is a good boy"
+              }
+            ],
+            "sentence": "But Roy is a good boy."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_said_thanks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 83,
+                    "start": 32,
+                    "word": "said"
+                  },
+                  {
+                    "end": 170,
+                    "start": 84,
+                    "word": "Thanks"
+                  }
+                ],
+                "until": 170,
+                "utterances": "He said Thanks"
+              }
+            ],
+            "sentence": "He said, \"Thanks.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_knelt_with_roy_to_play.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 69,
+                    "start": 23,
+                    "word": "knelt"
+                  },
+                  {
+                    "end": 54,
+                    "start": 33,
+                    "word": "with"
+                  },
+                  {
+                    "end": 97,
+                    "start": 62,
+                    "word": "Roy"
+                  },
+                  {
+                    "end": 113,
+                    "start": 98,
+                    "word": "to"
+                  },
+                  {
+                    "end": 138,
+                    "start": 114,
+                    "word": "play"
+                  }
+                ],
+                "until": 138,
+                "utterances": "I knelt with Roy to play"
+              }
+            ],
+            "sentence": "I knelt with Roy to play."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_drove_the_toy_train.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 85,
+                    "start": 33,
+                    "word": "drove"
+                  },
+                  {
+                    "end": 67,
+                    "start": 56,
+                    "word": "the"
+                  },
+                  {
+                    "end": 105,
+                    "start": 68,
+                    "word": "toy"
+                  },
+                  {
+                    "end": 173,
+                    "start": 106,
+                    "word": "train"
+                  }
+                ],
+                "until": 173,
+                "utterances": "We drove the toy train"
+              }
+            ],
+            "sentence": "We drove the toy train."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "boy_was_it_fun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Boy"
+                  },
+                  {
+                    "end": 56,
+                    "start": 33,
+                    "word": "was"
+                  },
+                  {
+                    "end": 71,
+                    "start": 57,
+                    "word": "it"
+                  },
+                  {
+                    "end": 151,
+                    "start": 72,
+                    "word": "fun"
+                  }
+                ],
+                "until": 151,
+                "utterances": "Boy was it fun"
+              }
+            ],
+            "sentence": "Boy was it fun!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_mom_said_let_s_go_boys.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 65,
+                    "start": 36,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 103,
+                    "start": 66,
+                    "word": "said"
+                  },
+                  {
+                    "end": 127,
+                    "start": 104,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 152,
+                    "start": 128,
+                    "word": "go"
+                  },
+                  {
+                    "end": 206,
+                    "start": 153,
+                    "word": "boys"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Then Mom said Let's go boys"
+              }
+            ],
+            "sentence": "Then Mom said, \"Let's go boys!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_took_us_to_see_a_real_train.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 55,
+                    "start": 28,
+                    "word": "took"
+                  },
+                  {
+                    "end": 73,
+                    "start": 56,
+                    "word": "us"
+                  },
+                  {
+                    "end": 86,
+                    "start": 74,
+                    "word": "to"
+                  },
+                  {
+                    "end": 106,
+                    "start": 87,
+                    "word": "see"
+                  },
+                  {
+                    "end": 111,
+                    "start": 107,
+                    "word": "a"
+                  },
+                  {
+                    "end": 150,
+                    "start": 112,
+                    "word": "real"
+                  },
+                  {
+                    "end": 220,
+                    "start": 151,
+                    "word": "train"
+                  }
+                ],
+                "until": 220,
+                "utterances": "They took us to see a real train"
+              }
+            ],
+            "sentence": "They took us to see a real train!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 40,
+                    "word": "end"
+                  }
+                ],
+                "until": 78,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "My Brother's Toy Train Set",
+  "titleimage": null
+}

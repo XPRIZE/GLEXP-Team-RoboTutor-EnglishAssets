@@ -1,0 +1,836 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_got_a_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 122,
+                    "start": 74,
+                    "word": "got"
+                  },
+                  {
+                    "end": 142,
+                    "start": 123,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 143,
+                    "word": "bug"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Rob got a bug"
+              }
+            ],
+            "sentence": "Rob got a bug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_big_fat_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 86,
+                    "start": 45,
+                    "word": "big"
+                  },
+                  {
+                    "end": 150,
+                    "start": 99,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 214,
+                    "start": 171,
+                    "word": "bug"
+                  }
+                ],
+                "until": 214,
+                "utterances": "A big fat bug"
+              }
+            ],
+            "sentence": "A big, fat bug!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bug_ran_and_ran.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 27,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 141,
+                    "start": 78,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 177,
+                    "start": 149,
+                    "word": "and"
+                  },
+                  {
+                    "end": 238,
+                    "start": 178,
+                    "word": "ran"
+                  }
+                ],
+                "until": 238,
+                "utterances": "The bug ran and ran"
+              }
+            ],
+            "sentence": "The bug ran and ran."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_rob_got_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 87,
+                    "start": 37,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 131,
+                    "start": 102,
+                    "word": "got"
+                  },
+                  {
+                    "end": 187,
+                    "start": 132,
+                    "word": "it"
+                  }
+                ],
+                "until": 187,
+                "utterances": "But Rob got it"
+              }
+            ],
+            "sentence": "But Rob got it!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_got_on_the_bus.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 118,
+                    "start": 66,
+                    "word": "got"
+                  },
+                  {
+                    "end": 163,
+                    "start": 119,
+                    "word": "on"
+                  },
+                  {
+                    "end": 195,
+                    "start": 164,
+                    "word": "the"
+                  },
+                  {
+                    "end": 262,
+                    "start": 196,
+                    "word": "bus"
+                  }
+                ],
+                "until": 262,
+                "utterances": "Rob got on the bus"
+              }
+            ],
+            "sentence": "Rob got on the bus."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bug_is_in_his_bag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 87,
+                    "start": 32,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 115,
+                    "start": 88,
+                    "word": "is"
+                  },
+                  {
+                    "end": 150,
+                    "start": 116,
+                    "word": "in"
+                  },
+                  {
+                    "end": 183,
+                    "start": 151,
+                    "word": "his"
+                  },
+                  {
+                    "end": 238,
+                    "start": 184,
+                    "word": "bag"
+                  }
+                ],
+                "until": 238,
+                "utterances": "The bug is in his bag"
+              }
+            ],
+            "sentence": "The bug is in his bag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_big_fat_bug_got_on_his_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 27,
+                    "word": "big"
+                  },
+                  {
+                    "end": 119,
+                    "start": 76,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 180,
+                    "start": 131,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 208,
+                    "start": 181,
+                    "word": "got"
+                  },
+                  {
+                    "end": 241,
+                    "start": 209,
+                    "word": "on"
+                  },
+                  {
+                    "end": 272,
+                    "start": 242,
+                    "word": "his"
+                  },
+                  {
+                    "end": 334,
+                    "start": 273,
+                    "word": "hand"
+                  }
+                ],
+                "until": 334,
+                "utterances": "The big fat bug got on his hand"
+              }
+            ],
+            "sentence": "The big fat bug got on his hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_asks_the_bug_to_sit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 108,
+                    "start": 61,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 121,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 166,
+                    "start": 122,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 188,
+                    "start": 172,
+                    "word": "to"
+                  },
+                  {
+                    "end": 245,
+                    "start": 189,
+                    "word": "sit"
+                  }
+                ],
+                "until": 245,
+                "utterances": "Rob asks the bug to sit"
+              }
+            ],
+            "sentence": "Rob asks the bug to sit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bug_ran_and_hid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 99,
+                    "start": 42,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 158,
+                    "start": 100,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 195,
+                    "start": 167,
+                    "word": "and"
+                  },
+                  {
+                    "end": 244,
+                    "start": 196,
+                    "word": "hid"
+                  }
+                ],
+                "until": 244,
+                "utterances": "The bug ran and hid"
+              }
+            ],
+            "sentence": "The bug ran and hid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_said_bad_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 99,
+                    "start": 47,
+                    "word": "said"
+                  },
+                  {
+                    "end": 158,
+                    "start": 112,
+                    "word": "Bad"
+                  },
+                  {
+                    "end": 206,
+                    "start": 159,
+                    "word": "bug"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Rob said Bad bug"
+              }
+            ],
+            "sentence": "Rob said, \"Bad bug!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Bad"
+                  }
+                ],
+                "until": 61,
+                "utterances": "Bad"
+              }
+            ],
+            "sentence": "Bad!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_asks_bud_can_you_grab_the_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 114,
+                    "start": 72,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 161,
+                    "start": 115,
+                    "word": "Bud"
+                  },
+                  {
+                    "end": 212,
+                    "start": 192,
+                    "word": "can"
+                  },
+                  {
+                    "end": 232,
+                    "start": 213,
+                    "word": "you"
+                  },
+                  {
+                    "end": 285,
+                    "start": 233,
+                    "word": "grab"
+                  },
+                  {
+                    "end": 310,
+                    "start": 293,
+                    "word": "the"
+                  },
+                  {
+                    "end": 360,
+                    "start": 311,
+                    "word": "bug"
+                  }
+                ],
+                "until": 360,
+                "utterances": "Rob asks Bud can you grab the bug"
+              }
+            ],
+            "sentence": "Rob asks Bud, \"can you grab the bug?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nab_the_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Nab"
+                  },
+                  {
+                    "end": 78,
+                    "start": 62,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 79,
+                    "word": "bug"
+                  }
+                ],
+                "until": 139,
+                "utterances": "Nab the bug"
+              }
+            ],
+            "sentence": "\"Nab the bug!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "grab_the_bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Grab"
+                  },
+                  {
+                    "end": 78,
+                    "start": 61,
+                    "word": "the"
+                  },
+                  {
+                    "end": 142,
+                    "start": 79,
+                    "word": "bug"
+                  }
+                ],
+                "until": 142,
+                "utterances": "Grab the bug"
+              }
+            ],
+            "sentence": "\"Grab the bug!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_fat_bug_ran_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 51,
+                    "start": 34,
+                    "word": "the"
+                  },
+                  {
+                    "end": 94,
+                    "start": 52,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 146,
+                    "start": 102,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 197,
+                    "start": 147,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 276,
+                    "start": 198,
+                    "word": "fast"
+                  }
+                ],
+                "until": 276,
+                "utterances": "But the fat bug ran fast"
+              }
+            ],
+            "sentence": "But the fat bug ran fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_slid_in_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 93,
+                    "start": 35,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 135,
+                    "start": 102,
+                    "word": "in"
+                  },
+                  {
+                    "end": 151,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 207,
+                    "start": 152,
+                    "word": "mat"
+                  }
+                ],
+                "until": 207,
+                "utterances": "It slid in the mat"
+              }
+            ],
+            "sentence": "It slid in the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fat_bug_dug_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 29,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 115,
+                    "start": 76,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 157,
+                    "start": 122,
+                    "word": "dug"
+                  },
+                  {
+                    "end": 233,
+                    "start": 158,
+                    "word": "fast"
+                  }
+                ],
+                "until": 233,
+                "utterances": "The fat bug dug fast"
+              }
+            ],
+            "sentence": "The fat bug dug fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rob_had_the_bug_but_it_got_away.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Rob"
+                  },
+                  {
+                    "end": 86,
+                    "start": 53,
+                    "word": "had"
+                  },
+                  {
+                    "end": 95,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 146,
+                    "start": 96,
+                    "word": "bug"
+                  },
+                  {
+                    "end": 183,
+                    "start": 159,
+                    "word": "but"
+                  },
+                  {
+                    "end": 207,
+                    "start": 184,
+                    "word": "it"
+                  },
+                  {
+                    "end": 253,
+                    "start": 208,
+                    "word": "got"
+                  },
+                  {
+                    "end": 310,
+                    "start": 254,
+                    "word": "away"
+                  }
+                ],
+                "until": 310,
+                "utterances": "Rob had the bug but it got away"
+              }
+            ],
+            "sentence": "Rob had the bug, but it got away!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Rob Got a Bug",
+  "titleimage": null
+}

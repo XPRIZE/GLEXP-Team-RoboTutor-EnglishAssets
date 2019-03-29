@@ -1,0 +1,703 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_had_a_flag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 67,
+                    "start": 56,
+                    "word": "had"
+                  },
+                  {
+                    "end": 106,
+                    "start": 68,
+                    "word": "a"
+                  },
+                  {
+                    "end": 165,
+                    "start": 107,
+                    "word": "flag"
+                  }
+                ],
+                "until": 165,
+                "utterances": "Tom had a flag"
+              }
+            ],
+            "sentence": "Tom had a flag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_flag_slid_in_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 84,
+                    "start": 29,
+                    "word": "flag"
+                  },
+                  {
+                    "end": 145,
+                    "start": 85,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 175,
+                    "start": 156,
+                    "word": "in"
+                  },
+                  {
+                    "end": 185,
+                    "start": 176,
+                    "word": "the"
+                  },
+                  {
+                    "end": 230,
+                    "start": 186,
+                    "word": "mud"
+                  }
+                ],
+                "until": 230,
+                "utterances": "The flag slid in the mud"
+              }
+            ],
+            "sentence": "The flag slid in the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_we_hug_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 52,
+                    "start": 30,
+                    "word": "we"
+                  },
+                  {
+                    "end": 88,
+                    "start": 53,
+                    "word": "hug"
+                  },
+                  {
+                    "end": 142,
+                    "start": 89,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 142,
+                "utterances": "Did we hug Tom"
+              }
+            ],
+            "sentence": "Did we hug Tom?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "Yes"
+                  }
+                ],
+                "until": 76,
+                "utterances": "Yes"
+              }
+            ],
+            "sentence": "Yes!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "we_did_hug_tom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "We"
+                  },
+                  {
+                    "end": 63,
+                    "start": 22,
+                    "word": "did"
+                  },
+                  {
+                    "end": 104,
+                    "start": 64,
+                    "word": "hug"
+                  },
+                  {
+                    "end": 178,
+                    "start": 105,
+                    "word": "Tom"
+                  }
+                ],
+                "until": 178,
+                "utterances": "We did hug Tom"
+              }
+            ],
+            "sentence": "We did hug Tom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_got_the_flag_in_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 90,
+                    "start": 62,
+                    "word": "got"
+                  },
+                  {
+                    "end": 110,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 111,
+                    "word": "flag"
+                  },
+                  {
+                    "end": 201,
+                    "start": 179,
+                    "word": "in"
+                  },
+                  {
+                    "end": 211,
+                    "start": 202,
+                    "word": "the"
+                  },
+                  {
+                    "end": 249,
+                    "start": 212,
+                    "word": "mud"
+                  }
+                ],
+                "until": 249,
+                "utterances": "Tom got the flag in the mud"
+              }
+            ],
+            "sentence": "Tom got the flag in the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_hid_the_flag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 89,
+                    "start": 71,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 108,
+                    "start": 90,
+                    "word": "the"
+                  },
+                  {
+                    "end": 145,
+                    "start": 109,
+                    "word": "flag"
+                  }
+                ],
+                "until": 145,
+                "utterances": "Tom hid the flag"
+              }
+            ],
+            "sentence": "Tom hid the flag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_hid_the_flag_in_the_fog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 107,
+                    "start": 77,
+                    "word": "hid"
+                  },
+                  {
+                    "end": 132,
+                    "start": 108,
+                    "word": "the"
+                  },
+                  {
+                    "end": 201,
+                    "start": 133,
+                    "word": "flag"
+                  },
+                  {
+                    "end": 230,
+                    "start": 202,
+                    "word": "in"
+                  },
+                  {
+                    "end": 253,
+                    "start": 231,
+                    "word": "the"
+                  },
+                  {
+                    "end": 303,
+                    "start": 254,
+                    "word": "fog"
+                  }
+                ],
+                "until": 303,
+                "utterances": "Tom hid the flag in the fog"
+              }
+            ],
+            "sentence": "Tom hid the flag in the fog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_fog_lift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 48,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 103,
+                    "start": 49,
+                    "word": "fog"
+                  },
+                  {
+                    "end": 154,
+                    "start": 104,
+                    "word": "lift"
+                  }
+                ],
+                "until": 154,
+                "utterances": "Did the fog lift"
+              }
+            ],
+            "sentence": "Did the fog lift?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 55,
+                    "start": 37,
+                    "word": "did"
+                  }
+                ],
+                "until": 55,
+                "utterances": "It did"
+              }
+            ],
+            "sentence": "It did!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_got_the_flag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 101,
+                    "start": 72,
+                    "word": "got"
+                  },
+                  {
+                    "end": 117,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 153,
+                    "start": 118,
+                    "word": "flag"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Sis got the flag"
+              }
+            ],
+            "sentence": "Sis got the flag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_and_sis_sat_on_the_rug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 94,
+                    "start": 56,
+                    "word": "and"
+                  },
+                  {
+                    "end": 138,
+                    "start": 95,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 184,
+                    "start": 139,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 210,
+                    "start": 185,
+                    "word": "on"
+                  },
+                  {
+                    "end": 223,
+                    "start": 211,
+                    "word": "the"
+                  },
+                  {
+                    "end": 266,
+                    "start": 224,
+                    "word": "rug"
+                  }
+                ],
+                "until": 266,
+                "utterances": "Tom and Sis sat on the rug"
+              }
+            ],
+            "sentence": "Tom and Sis sat on the rug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_and_sis_sat_on_the_rug_in_the_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 80,
+                    "start": 62,
+                    "word": "and"
+                  },
+                  {
+                    "end": 121,
+                    "start": 81,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 167,
+                    "start": 122,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 191,
+                    "start": 168,
+                    "word": "on"
+                  },
+                  {
+                    "end": 206,
+                    "start": 192,
+                    "word": "the"
+                  },
+                  {
+                    "end": 246,
+                    "start": 207,
+                    "word": "rug"
+                  },
+                  {
+                    "end": 263,
+                    "start": 247,
+                    "word": "in"
+                  },
+                  {
+                    "end": 275,
+                    "start": 264,
+                    "word": "the"
+                  },
+                  {
+                    "end": 319,
+                    "start": 276,
+                    "word": "hut"
+                  }
+                ],
+                "until": 319,
+                "utterances": "Tom and Sis sat on the rug in the hut"
+              }
+            ],
+            "sentence": "Tom and Sis sat on the rug in the hut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_got_mud_on_the_rug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 95,
+                    "start": 60,
+                    "word": "got"
+                  },
+                  {
+                    "end": 151,
+                    "start": 96,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 178,
+                    "start": 152,
+                    "word": "on"
+                  },
+                  {
+                    "end": 191,
+                    "start": 179,
+                    "word": "the"
+                  },
+                  {
+                    "end": 240,
+                    "start": 192,
+                    "word": "rug"
+                  }
+                ],
+                "until": 240,
+                "utterances": "Tom got mud on the rug"
+              }
+            ],
+            "sentence": "Tom got mud on the rug."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_got_mud_in_the_hut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 94,
+                    "start": 67,
+                    "word": "got"
+                  },
+                  {
+                    "end": 143,
+                    "start": 95,
+                    "word": "mud"
+                  },
+                  {
+                    "end": 157,
+                    "start": 144,
+                    "word": "in"
+                  },
+                  {
+                    "end": 170,
+                    "start": 158,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 174,
+                    "word": "hut"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Sis got mud in the hut"
+              }
+            ],
+            "sentence": "Sis got mud in the hut."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Flag",
+  "titleimage": null
+}

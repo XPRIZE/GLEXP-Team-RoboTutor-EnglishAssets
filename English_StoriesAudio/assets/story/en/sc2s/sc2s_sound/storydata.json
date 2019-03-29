@@ -1,0 +1,291 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "science.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 10,
+                    "word": "SCIENCE"
+                  }
+                ],
+                "until": 88,
+                "utterances": "SCIENCE"
+              }
+            ],
+            "sentence": "science "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scene.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "SCENE"
+                  }
+                ],
+                "until": 69,
+                "utterances": "SCENE"
+              }
+            ],
+            "sentence": "scene "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scent.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "SCENT"
+                  }
+                ],
+                "until": 59,
+                "utterances": "SCENT"
+              }
+            ],
+            "sentence": "scent "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_s_c_make_in_the_words_science_scene_and_scent.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 71,
+                    "start": 31,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 80,
+                    "start": 72,
+                    "word": "do"
+                  },
+                  {
+                    "end": 90,
+                    "start": 81,
+                    "word": "the"
+                  },
+                  {
+                    "end": 131,
+                    "start": 91,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 157,
+                    "start": 135,
+                    "word": "S"
+                  },
+                  {
+                    "end": 220,
+                    "start": 158,
+                    "word": "C"
+                  },
+                  {
+                    "end": 253,
+                    "start": 221,
+                    "word": "make"
+                  },
+                  {
+                    "end": 261,
+                    "start": 254,
+                    "word": "in"
+                  },
+                  {
+                    "end": 268,
+                    "start": 262,
+                    "word": "the"
+                  },
+                  {
+                    "end": 311,
+                    "start": 269,
+                    "word": "words"
+                  },
+                  {
+                    "end": 374,
+                    "start": 312,
+                    "word": "SCIENCE"
+                  },
+                  {
+                    "end": 435,
+                    "start": 378,
+                    "word": "SCENE"
+                  },
+                  {
+                    "end": 447,
+                    "start": 436,
+                    "word": "and"
+                  },
+                  {
+                    "end": 496,
+                    "start": 448,
+                    "word": "SCENT"
+                  }
+                ],
+                "until": 496,
+                "utterances": "What sound do the Letters S C make in the words SCIENCE SCENE and SCENT"
+              }
+            ],
+            "sentence": "What sound do the letters s c make in the words science, scene, and scent?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scenario.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "SCENARIO"
+                  }
+                ],
+                "until": 80,
+                "utterances": "SCENARIO"
+              }
+            ],
+            "sentence": "scenario "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scepter.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "SCEPTER"
+                  }
+                ],
+                "until": 71,
+                "utterances": "SCEPTER"
+              }
+            ],
+            "sentence": "scepter "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scissors.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "SCISSORS"
+                  }
+                ],
+                "until": 70,
+                "utterances": "SCISSORS"
+              }
+            ],
+            "sentence": "scissors "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "good_job.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Good"
+                  },
+                  {
+                    "end": 74,
+                    "start": 35,
+                    "word": "job"
+                  }
+                ],
+                "until": 74,
+                "utterances": "Good job"
+              }
+            ],
+            "sentence": "Good job! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letters S C in SCIENCE, SCENE, and SCENT",
+  "titleimage": null
+}

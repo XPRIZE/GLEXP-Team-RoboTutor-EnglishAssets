@@ -1,0 +1,436 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "big.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "big"
+                  }
+                ],
+                "until": 48,
+                "utterances": "big"
+              }
+            ],
+            "sentence": "big "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ben.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Ben"
+                  }
+                ],
+                "until": 47,
+                "utterances": "Ben"
+              }
+            ],
+            "sentence": "Ben "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bus.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "BUS"
+                  }
+                ],
+                "until": 58,
+                "utterances": "BUS"
+              }
+            ],
+            "sentence": "bus "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_b_make_in_the_words_big_ben_and_bus.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 77,
+                    "start": 29,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 91,
+                    "start": 78,
+                    "word": "does"
+                  },
+                  {
+                    "end": 100,
+                    "start": 92,
+                    "word": "the"
+                  },
+                  {
+                    "end": 130,
+                    "start": 101,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 161,
+                    "start": 131,
+                    "word": "B"
+                  },
+                  {
+                    "end": 200,
+                    "start": 162,
+                    "word": "make"
+                  },
+                  {
+                    "end": 216,
+                    "start": 201,
+                    "word": "in"
+                  },
+                  {
+                    "end": 223,
+                    "start": 217,
+                    "word": "the"
+                  },
+                  {
+                    "end": 261,
+                    "start": 224,
+                    "word": "words"
+                  },
+                  {
+                    "end": 309,
+                    "start": 262,
+                    "word": "BIG"
+                  },
+                  {
+                    "end": 364,
+                    "start": 310,
+                    "word": "BEN"
+                  },
+                  {
+                    "end": 380,
+                    "start": 365,
+                    "word": "and"
+                  },
+                  {
+                    "end": 439,
+                    "start": 390,
+                    "word": "BUS"
+                  }
+                ],
+                "until": 439,
+                "utterances": "What sound does the Letter B make in the words BIG BEN and BUS"
+              }
+            ],
+            "sentence": "What sound does the letter b make in the words big, Ben, and bus?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "BIT"
+                  }
+                ],
+                "until": 25,
+                "utterances": "BIT"
+              }
+            ],
+            "sentence": "bit "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bug.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "bug"
+                  }
+                ],
+                "until": 59,
+                "utterances": "bug"
+              }
+            ],
+            "sentence": "bug "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "bat"
+                  }
+                ],
+                "until": 27,
+                "utterances": "bat"
+              }
+            ],
+            "sentence": "bat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "back.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "BACK"
+                  }
+                ],
+                "until": 44,
+                "utterances": "BACK"
+              }
+            ],
+            "sentence": "back "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ball.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "BALL"
+                  }
+                ],
+                "until": 51,
+                "utterances": "BALL"
+              }
+            ],
+            "sentence": "ball "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ben.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Ben"
+                  }
+                ],
+                "until": 47,
+                "utterances": "Ben"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 35,
+                "utterances": "the"
+              },
+              {
+                "audio": "big.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "big"
+                  }
+                ],
+                "until": 48,
+                "utterances": "big"
+              },
+              {
+                "audio": "bunny.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "bunny"
+                  }
+                ],
+                "until": 51,
+                "utterances": "bunny"
+              },
+              {
+                "audio": "loves_books.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "loves"
+                  },
+                  {
+                    "end": 127,
+                    "start": 61,
+                    "word": "books"
+                  }
+                ],
+                "until": 127,
+                "utterances": "loves books"
+              }
+            ],
+            "sentence": "Ben the big bunny loves books! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "b_is_a_beautiful_letter.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "B"
+                  },
+                  {
+                    "end": 66,
+                    "start": 53,
+                    "word": "is"
+                  },
+                  {
+                    "end": 76,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 154,
+                    "start": 77,
+                    "word": "beautiful"
+                  },
+                  {
+                    "end": 181,
+                    "start": 155,
+                    "word": "letter"
+                  }
+                ],
+                "until": 181,
+                "utterances": "B is a beautiful letter"
+              }
+            ],
+            "sentence": "B is a beautiful letter! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter B in BIG, BEN, and BUS",
+  "titleimage": null
+}

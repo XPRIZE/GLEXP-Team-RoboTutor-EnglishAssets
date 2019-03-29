@@ -1,0 +1,835 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_was_a_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 102,
+                    "start": 58,
+                    "word": "was"
+                  },
+                  {
+                    "end": 118,
+                    "start": 103,
+                    "word": "a"
+                  },
+                  {
+                    "end": 180,
+                    "start": 119,
+                    "word": "vet"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Ken was a vet"
+              }
+            ],
+            "sentence": "Ken was a vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_to_mend_cats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 75,
+                    "start": 33,
+                    "word": "had"
+                  },
+                  {
+                    "end": 96,
+                    "start": 76,
+                    "word": "to"
+                  },
+                  {
+                    "end": 144,
+                    "start": 97,
+                    "word": "mend"
+                  },
+                  {
+                    "end": 219,
+                    "start": 152,
+                    "word": "cats"
+                  }
+                ],
+                "until": 219,
+                "utterances": "He had to mend cats"
+              }
+            ],
+            "sentence": "He had to mend cats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ten_cats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Ten"
+                  },
+                  {
+                    "end": 134,
+                    "start": 57,
+                    "word": "cats"
+                  }
+                ],
+                "until": 134,
+                "utterances": "Ten cats"
+              }
+            ],
+            "sentence": "Ten cats!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_had_to_mend_ten_red_cats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 111,
+                    "start": 66,
+                    "word": "had"
+                  },
+                  {
+                    "end": 132,
+                    "start": 112,
+                    "word": "to"
+                  },
+                  {
+                    "end": 180,
+                    "start": 133,
+                    "word": "mend"
+                  },
+                  {
+                    "end": 238,
+                    "start": 181,
+                    "word": "ten"
+                  },
+                  {
+                    "end": 297,
+                    "start": 239,
+                    "word": "red"
+                  },
+                  {
+                    "end": 366,
+                    "start": 298,
+                    "word": "cats"
+                  }
+                ],
+                "until": 366,
+                "utterances": "Ken had to mend ten red cats"
+              }
+            ],
+            "sentence": "Ken had to mend ten red cats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_was_the_best_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 66,
+                    "start": 43,
+                    "word": "was"
+                  },
+                  {
+                    "end": 77,
+                    "start": 67,
+                    "word": "the"
+                  },
+                  {
+                    "end": 125,
+                    "start": 78,
+                    "word": "best"
+                  },
+                  {
+                    "end": 168,
+                    "start": 126,
+                    "word": "vet"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Ken was the best vet"
+              }
+            ],
+            "sentence": "Ken was the best vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_had_to_mend_a_hen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 84,
+                    "start": 51,
+                    "word": "had"
+                  },
+                  {
+                    "end": 100,
+                    "start": 85,
+                    "word": "to"
+                  },
+                  {
+                    "end": 138,
+                    "start": 101,
+                    "word": "mend"
+                  },
+                  {
+                    "end": 162,
+                    "start": 144,
+                    "word": "a"
+                  },
+                  {
+                    "end": 208,
+                    "start": 163,
+                    "word": "hen"
+                  }
+                ],
+                "until": 208,
+                "utterances": "Ken had to mend a hen"
+              }
+            ],
+            "sentence": "Ken had to mend a hen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hen_had_a_cut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 62,
+                    "start": 23,
+                    "word": "hen"
+                  },
+                  {
+                    "end": 91,
+                    "start": 63,
+                    "word": "had"
+                  },
+                  {
+                    "end": 101,
+                    "start": 92,
+                    "word": "a"
+                  },
+                  {
+                    "end": 135,
+                    "start": 108,
+                    "word": "cut"
+                  }
+                ],
+                "until": 135,
+                "utterances": "The hen had a cut"
+              }
+            ],
+            "sentence": "The hen had a cut."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_hen_had_a_cut_on_its_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 22,
+                    "word": "hen"
+                  },
+                  {
+                    "end": 89,
+                    "start": 64,
+                    "word": "had"
+                  },
+                  {
+                    "end": 102,
+                    "start": 90,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 103,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 173,
+                    "start": 154,
+                    "word": "on"
+                  },
+                  {
+                    "end": 191,
+                    "start": 174,
+                    "word": "its"
+                  },
+                  {
+                    "end": 237,
+                    "start": 192,
+                    "word": "leg"
+                  }
+                ],
+                "until": 237,
+                "utterances": "The hen had a cut on its leg"
+              }
+            ],
+            "sentence": "The hen had a cut on its leg."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_set_the_hen_in_its_nest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 105,
+                    "start": 67,
+                    "word": "set"
+                  },
+                  {
+                    "end": 128,
+                    "start": 109,
+                    "word": "the"
+                  },
+                  {
+                    "end": 185,
+                    "start": 129,
+                    "word": "hen"
+                  },
+                  {
+                    "end": 211,
+                    "start": 186,
+                    "word": "in"
+                  },
+                  {
+                    "end": 241,
+                    "start": 218,
+                    "word": "its"
+                  },
+                  {
+                    "end": 300,
+                    "start": 242,
+                    "word": "nest"
+                  }
+                ],
+                "until": 300,
+                "utterances": "Ken set the hen in its nest"
+              }
+            ],
+            "sentence": "Ken set the hen in its nest."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_said_rub_the_cut_and_rest.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 93,
+                    "start": 47,
+                    "word": "said"
+                  },
+                  {
+                    "end": 137,
+                    "start": 94,
+                    "word": "rub"
+                  },
+                  {
+                    "end": 155,
+                    "start": 138,
+                    "word": "the"
+                  },
+                  {
+                    "end": 193,
+                    "start": 156,
+                    "word": "cut"
+                  },
+                  {
+                    "end": 232,
+                    "start": 208,
+                    "word": "and"
+                  },
+                  {
+                    "end": 285,
+                    "start": 233,
+                    "word": "rest"
+                  }
+                ],
+                "until": 285,
+                "utterances": "Ken said rub the cut and rest"
+              }
+            ],
+            "sentence": "Ken said, \"rub the cut and rest.\" "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_left_the_hen_in_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 100,
+                    "start": 50,
+                    "word": "left"
+                  },
+                  {
+                    "end": 113,
+                    "start": 101,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 114,
+                    "word": "hen"
+                  },
+                  {
+                    "end": 191,
+                    "start": 170,
+                    "word": "in"
+                  },
+                  {
+                    "end": 232,
+                    "start": 192,
+                    "word": "bed"
+                  }
+                ],
+                "until": 232,
+                "utterances": "Ken left the hen in bed"
+              }
+            ],
+            "sentence": "Ken left the hen in bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_cub_ran_to_ken.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 82,
+                    "start": 33,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 132,
+                    "start": 89,
+                    "word": "ran"
+                  },
+                  {
+                    "end": 150,
+                    "start": 133,
+                    "word": "to"
+                  },
+                  {
+                    "end": 198,
+                    "start": 151,
+                    "word": "Ken"
+                  }
+                ],
+                "until": 198,
+                "utterances": "A cub ran to Ken"
+              }
+            ],
+            "sentence": "A cub ran to Ken."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_said_do_not_fret.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 18,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 88,
+                    "start": 46,
+                    "word": "said"
+                  },
+                  {
+                    "end": 119,
+                    "start": 106,
+                    "word": "do"
+                  },
+                  {
+                    "end": 148,
+                    "start": 120,
+                    "word": "not"
+                  },
+                  {
+                    "end": 195,
+                    "start": 149,
+                    "word": "fret"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Ken said do not fret"
+              }
+            ],
+            "sentence": "Ken said, \"do not fret."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_a_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 81,
+                    "start": 67,
+                    "word": "am"
+                  },
+                  {
+                    "end": 90,
+                    "start": 82,
+                    "word": "a"
+                  },
+                  {
+                    "end": 118,
+                    "start": 91,
+                    "word": "vet"
+                  }
+                ],
+                "until": 118,
+                "utterances": "I am a vet"
+              }
+            ],
+            "sentence": "I am a vet!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_led_the_cub_to_a_cot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 111,
+                    "start": 70,
+                    "word": "led"
+                  },
+                  {
+                    "end": 123,
+                    "start": 112,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 124,
+                    "word": "cub"
+                  },
+                  {
+                    "end": 198,
+                    "start": 171,
+                    "word": "to"
+                  },
+                  {
+                    "end": 211,
+                    "start": 199,
+                    "word": "a"
+                  },
+                  {
+                    "end": 244,
+                    "start": 212,
+                    "word": "cot"
+                  }
+                ],
+                "until": 244,
+                "utterances": "Ken led the cub to a cot"
+              }
+            ],
+            "sentence": "Ken led the cub to a cot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_bent_to_lift_the_cub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 106,
+                    "start": 57,
+                    "word": "bent"
+                  },
+                  {
+                    "end": 137,
+                    "start": 107,
+                    "word": "to"
+                  },
+                  {
+                    "end": 180,
+                    "start": 138,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 191,
+                    "start": 181,
+                    "word": "the"
+                  },
+                  {
+                    "end": 236,
+                    "start": 192,
+                    "word": "cub"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Ken bent to lift the cub"
+              }
+            ],
+            "sentence": "Ken bent to lift the cub."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ken_was_the_best_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Ken"
+                  },
+                  {
+                    "end": 66,
+                    "start": 43,
+                    "word": "was"
+                  },
+                  {
+                    "end": 77,
+                    "start": 67,
+                    "word": "the"
+                  },
+                  {
+                    "end": 125,
+                    "start": 78,
+                    "word": "best"
+                  },
+                  {
+                    "end": 168,
+                    "start": 126,
+                    "word": "vet"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Ken was the best vet"
+              }
+            ],
+            "sentence": "Ken was the best vet!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ken was a Vet",
+  "titleimage": null
+}

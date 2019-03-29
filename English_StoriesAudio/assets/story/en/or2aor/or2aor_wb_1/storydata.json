@@ -1,0 +1,500 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_ed_was_born.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "When"
+                  },
+                  {
+                    "end": 82,
+                    "start": 55,
+                    "word": "Ed"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "was"
+                  },
+                  {
+                    "end": 167,
+                    "start": 116,
+                    "word": "born"
+                  }
+                ],
+                "until": 167,
+                "utterances": "When Ed was born"
+              }
+            ],
+            "sentence": "When Ed was born, "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_a_horn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "he"
+                  },
+                  {
+                    "end": 51,
+                    "start": 38,
+                    "word": "had"
+                  },
+                  {
+                    "end": 85,
+                    "start": 52,
+                    "word": "a"
+                  },
+                  {
+                    "end": 114,
+                    "start": 86,
+                    "word": "horn"
+                  }
+                ],
+                "until": 114,
+                "utterances": "he had a horn"
+              }
+            ],
+            "sentence": "he had a horn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_for_lunch.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 8,
+                    "word": "He"
+                  },
+                  {
+                    "end": 52,
+                    "start": 34,
+                    "word": "had"
+                  },
+                  {
+                    "end": 112,
+                    "start": 79,
+                    "word": "for"
+                  },
+                  {
+                    "end": 171,
+                    "start": 113,
+                    "word": "lunch"
+                  }
+                ],
+                "until": 171,
+                "utterances": "He had for lunch"
+              }
+            ],
+            "sentence": "He had for lunch "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_cob_of_corn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "a"
+                  },
+                  {
+                    "end": 92,
+                    "start": 30,
+                    "word": "cob"
+                  },
+                  {
+                    "end": 117,
+                    "start": 93,
+                    "word": "of"
+                  },
+                  {
+                    "end": 166,
+                    "start": 118,
+                    "word": "corn"
+                  }
+                ],
+                "until": 166,
+                "utterances": "a cob of corn"
+              }
+            ],
+            "sentence": "a cob of corn."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_ed_was_born.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "When"
+                  },
+                  {
+                    "end": 82,
+                    "start": 55,
+                    "word": "Ed"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "was"
+                  },
+                  {
+                    "end": 167,
+                    "start": 116,
+                    "word": "born"
+                  }
+                ],
+                "until": 167,
+                "utterances": "When Ed was born"
+              }
+            ],
+            "sentence": "When Ed was born, "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_was_too_short.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "he"
+                  },
+                  {
+                    "end": 84,
+                    "start": 33,
+                    "word": "was"
+                  },
+                  {
+                    "end": 115,
+                    "start": 85,
+                    "word": "too"
+                  },
+                  {
+                    "end": 177,
+                    "start": 119,
+                    "word": "short"
+                  }
+                ],
+                "until": 177,
+                "utterances": "he was too short"
+              }
+            ],
+            "sentence": "he was too short."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_set_his_feet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 76,
+                    "start": 30,
+                    "word": "set"
+                  },
+                  {
+                    "end": 111,
+                    "start": 84,
+                    "word": "his"
+                  },
+                  {
+                    "end": 149,
+                    "start": 112,
+                    "word": "feet"
+                  }
+                ],
+                "until": 149,
+                "utterances": "He set his feet"
+              }
+            ],
+            "sentence": "He set his feet, "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_dug_a_fort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "and"
+                  },
+                  {
+                    "end": 95,
+                    "start": 52,
+                    "word": "dug"
+                  },
+                  {
+                    "end": 112,
+                    "start": 96,
+                    "word": "a"
+                  },
+                  {
+                    "end": 167,
+                    "start": 113,
+                    "word": "fort"
+                  }
+                ],
+                "until": 167,
+                "utterances": "and dug a fort"
+              }
+            ],
+            "sentence": "and dug a fort."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_ed_was_born.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "When"
+                  },
+                  {
+                    "end": 82,
+                    "start": 55,
+                    "word": "Ed"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "was"
+                  },
+                  {
+                    "end": 167,
+                    "start": 116,
+                    "word": "born"
+                  }
+                ],
+                "until": 167,
+                "utterances": "When Ed was born"
+              }
+            ],
+            "sentence": "When Ed was born,"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_had_a_tail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "he"
+                  },
+                  {
+                    "end": 52,
+                    "start": 38,
+                    "word": "had"
+                  },
+                  {
+                    "end": 89,
+                    "start": 53,
+                    "word": "a"
+                  },
+                  {
+                    "end": 164,
+                    "start": 117,
+                    "word": "tail"
+                  }
+                ],
+                "until": 164,
+                "utterances": "he had a tail"
+              }
+            ],
+            "sentence": "he had a tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_got_a_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 86,
+                    "start": 35,
+                    "word": "got"
+                  },
+                  {
+                    "end": 98,
+                    "start": 87,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 99,
+                    "word": "boat"
+                  }
+                ],
+                "until": 142,
+                "utterances": "He got a boat"
+              }
+            ],
+            "sentence": "He got a boat, "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "and_set_to_sail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "and"
+                  },
+                  {
+                    "end": 84,
+                    "start": 48,
+                    "word": "set"
+                  },
+                  {
+                    "end": 123,
+                    "start": 106,
+                    "word": "to"
+                  },
+                  {
+                    "end": 180,
+                    "start": 124,
+                    "word": "sail"
+                  }
+                ],
+                "until": 180,
+                "utterances": "and set to sail"
+              }
+            ],
+            "sentence": "and set to sail."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Ed",
+  "titleimage": null
+}

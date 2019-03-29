@@ -1,0 +1,539 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_is_rich.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 108,
+                    "start": 70,
+                    "word": "is"
+                  },
+                  {
+                    "end": 172,
+                    "start": 109,
+                    "word": "Rich"
+                  }
+                ],
+                "until": 172,
+                "utterances": "This is Rich"
+              }
+            ],
+            "sentence": "This is Rich."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rich_can_reach_the_dot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Rich"
+                  },
+                  {
+                    "end": 95,
+                    "start": 63,
+                    "word": "can"
+                  },
+                  {
+                    "end": 146,
+                    "start": 96,
+                    "word": "reach"
+                  },
+                  {
+                    "end": 176,
+                    "start": 158,
+                    "word": "the"
+                  },
+                  {
+                    "end": 234,
+                    "start": 177,
+                    "word": "dot"
+                  }
+                ],
+                "until": 234,
+                "utterances": "Rich can reach the dot"
+              }
+            ],
+            "sentence": "Rich can reach the dot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rich_got_the_dot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Rich"
+                  },
+                  {
+                    "end": 95,
+                    "start": 55,
+                    "word": "got"
+                  },
+                  {
+                    "end": 125,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 163,
+                    "start": 126,
+                    "word": "dot"
+                  }
+                ],
+                "until": 163,
+                "utterances": "Rich got the dot"
+              }
+            ],
+            "sentence": "Rich got the dot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 64,
+                    "start": 46,
+                    "word": "the"
+                  },
+                  {
+                    "end": 101,
+                    "start": 65,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 156,
+                    "start": 123,
+                    "word": "on"
+                  },
+                  {
+                    "end": 189,
+                    "start": 157,
+                    "word": "your"
+                  },
+                  {
+                    "end": 241,
+                    "start": 190,
+                    "word": "hand"
+                  }
+                ],
+                "until": 241,
+                "utterances": "Set the dot on your hand"
+              }
+            ],
+            "sentence": "Set the dot on your hand."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_cheek.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 68,
+                    "start": 56,
+                    "word": "the"
+                  },
+                  {
+                    "end": 103,
+                    "start": 69,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 148,
+                    "start": 121,
+                    "word": "on"
+                  },
+                  {
+                    "end": 163,
+                    "start": 149,
+                    "word": "your"
+                  },
+                  {
+                    "end": 269,
+                    "start": 164,
+                    "word": "cheek"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Set the dot on your cheek"
+              }
+            ],
+            "sentence": "Set the dot on your cheek."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_arm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 64,
+                    "start": 45,
+                    "word": "the"
+                  },
+                  {
+                    "end": 113,
+                    "start": 65,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 140,
+                    "start": 114,
+                    "word": "on"
+                  },
+                  {
+                    "end": 157,
+                    "start": 141,
+                    "word": "your"
+                  },
+                  {
+                    "end": 224,
+                    "start": 158,
+                    "word": "arm"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Set the dot on your arm"
+              }
+            ],
+            "sentence": "Set the dot on your arm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_tail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 60,
+                    "start": 48,
+                    "word": "the"
+                  },
+                  {
+                    "end": 88,
+                    "start": 61,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 118,
+                    "start": 89,
+                    "word": "on"
+                  },
+                  {
+                    "end": 136,
+                    "start": 119,
+                    "word": "your"
+                  },
+                  {
+                    "end": 202,
+                    "start": 142,
+                    "word": "tail"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Set the dot on your tail"
+              }
+            ],
+            "sentence": "Set the dot on your tail!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_chin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 64,
+                    "start": 53,
+                    "word": "the"
+                  },
+                  {
+                    "end": 102,
+                    "start": 65,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 147,
+                    "start": 116,
+                    "word": "on"
+                  },
+                  {
+                    "end": 168,
+                    "start": 148,
+                    "word": "your"
+                  },
+                  {
+                    "end": 216,
+                    "start": 169,
+                    "word": "chin"
+                  }
+                ],
+                "until": 216,
+                "utterances": "Set the dot on your chin"
+              }
+            ],
+            "sentence": "Set the dot on your chin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_skin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 78,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 79,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 166,
+                    "start": 134,
+                    "word": "on"
+                  },
+                  {
+                    "end": 186,
+                    "start": 167,
+                    "word": "your"
+                  },
+                  {
+                    "end": 237,
+                    "start": 187,
+                    "word": "skin"
+                  }
+                ],
+                "until": 237,
+                "utterances": "Set the dot on your skin"
+              }
+            ],
+            "sentence": "Set the dot on your skin."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 75,
+                    "start": 64,
+                    "word": "the"
+                  },
+                  {
+                    "end": 123,
+                    "start": 76,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 163,
+                    "start": 132,
+                    "word": "on"
+                  },
+                  {
+                    "end": 184,
+                    "start": 164,
+                    "word": "your"
+                  },
+                  {
+                    "end": 224,
+                    "start": 185,
+                    "word": "leg"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Set the dot on your leg"
+              }
+            ],
+            "sentence": "Set the dot on your leg."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_the_dot_on_your_heel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Set"
+                  },
+                  {
+                    "end": 70,
+                    "start": 55,
+                    "word": "the"
+                  },
+                  {
+                    "end": 110,
+                    "start": 71,
+                    "word": "dot"
+                  },
+                  {
+                    "end": 157,
+                    "start": 127,
+                    "word": "on"
+                  },
+                  {
+                    "end": 181,
+                    "start": 158,
+                    "word": "your"
+                  },
+                  {
+                    "end": 225,
+                    "start": 182,
+                    "word": "heel"
+                  }
+                ],
+                "until": 225,
+                "utterances": "Set the dot on your heel"
+              }
+            ],
+            "sentence": "Set the dot on your heel."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "This is Rich",
+  "titleimage": null
+}

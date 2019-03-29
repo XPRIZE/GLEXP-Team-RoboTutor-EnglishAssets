@@ -1,0 +1,404 @@
+{
+  "author": "Jack Mostow",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "counting_to_20.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 2,
+                    "word": "Counting"
+                  },
+                  {
+                    "end": 78,
+                    "start": 66,
+                    "word": "to"
+                  },
+                  {
+                    "end": 127,
+                    "start": 79,
+                    "word": "20"
+                  }
+                ],
+                "until": 127,
+                "utterances": "Counting to 20"
+              }
+            ],
+            "sentence": "Counting to 20"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_count_all_the_way_from_0_to_20.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 20,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 74,
+                    "start": 43,
+                    "word": "count"
+                  },
+                  {
+                    "end": 102,
+                    "start": 75,
+                    "word": "all"
+                  },
+                  {
+                    "end": 108,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 109,
+                    "word": "way"
+                  },
+                  {
+                    "end": 163,
+                    "start": 134,
+                    "word": "from"
+                  },
+                  {
+                    "end": 221,
+                    "start": 164,
+                    "word": "0"
+                  },
+                  {
+                    "end": 249,
+                    "start": 222,
+                    "word": "to"
+                  },
+                  {
+                    "end": 294,
+                    "start": 250,
+                    "word": "20"
+                  }
+                ],
+                "until": 294,
+                "utterances": "Let's count all the way from 0 to 20"
+              }
+            ],
+            "sentence": "Let's count all the way from 0 to 20!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "0.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 20,
+                    "word": "0"
+                  }
+                ],
+                "until": 99,
+                "utterances": "0"
+              }
+            ],
+            "sentence": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1_2_3.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "1"
+                  },
+                  {
+                    "end": 113,
+                    "start": 99,
+                    "word": "2"
+                  },
+                  {
+                    "end": 203,
+                    "start": 181,
+                    "word": "3"
+                  }
+                ],
+                "until": 203,
+                "utterances": "1 2 3"
+              }
+            ],
+            "sentence": "1, 2, 3"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "4_5_6.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 2,
+                    "word": "4"
+                  },
+                  {
+                    "end": 144,
+                    "start": 90,
+                    "word": "5"
+                  },
+                  {
+                    "end": 229,
+                    "start": 166,
+                    "word": "6"
+                  }
+                ],
+                "until": 229,
+                "utterances": "4 5 6"
+              }
+            ],
+            "sentence": "4, 5, 6"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "7_8_9.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 20,
+                    "word": "7"
+                  },
+                  {
+                    "end": 117,
+                    "start": 105,
+                    "word": "8"
+                  },
+                  {
+                    "end": 229,
+                    "start": 179,
+                    "word": "9"
+                  }
+                ],
+                "until": 229,
+                "utterances": "7 8 9"
+              }
+            ],
+            "sentence": "7, 8, 9"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 19,
+                    "word": "10"
+                  }
+                ],
+                "until": 53,
+                "utterances": "10"
+              }
+            ],
+            "sentence": "10!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "11_12_13.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "11"
+                  },
+                  {
+                    "end": 162,
+                    "start": 108,
+                    "word": "12"
+                  },
+                  {
+                    "end": 255,
+                    "start": 192,
+                    "word": "13"
+                  }
+                ],
+                "until": 255,
+                "utterances": "11 12 13"
+              }
+            ],
+            "sentence": "11, 12, 13"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "14_15_16.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 18,
+                    "word": "14"
+                  },
+                  {
+                    "end": 166,
+                    "start": 112,
+                    "word": "15"
+                  },
+                  {
+                    "end": 255,
+                    "start": 187,
+                    "word": "16"
+                  }
+                ],
+                "until": 255,
+                "utterances": "14 15 16"
+              }
+            ],
+            "sentence": "14, 15, 16"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "17_18_19.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 20,
+                    "word": "17"
+                  },
+                  {
+                    "end": 175,
+                    "start": 124,
+                    "word": "18"
+                  },
+                  {
+                    "end": 260,
+                    "start": 204,
+                    "word": "19"
+                  }
+                ],
+                "until": 260,
+                "utterances": "17 18 19"
+              }
+            ],
+            "sentence": "17, 18, 19"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "20.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 20,
+                    "word": "20"
+                  }
+                ],
+                "until": 58,
+                "utterances": "20"
+              }
+            ],
+            "sentence": "20!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "1",
+  "title": "Counting to 20",
+  "titleimage": null
+}

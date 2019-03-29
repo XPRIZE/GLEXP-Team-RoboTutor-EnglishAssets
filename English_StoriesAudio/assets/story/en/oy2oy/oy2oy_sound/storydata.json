@@ -1,0 +1,44 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "enjoy_your_day.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Enjoy"
+                  },
+                  {
+                    "end": 87,
+                    "start": 69,
+                    "word": "your"
+                  },
+                  {
+                    "end": 133,
+                    "start": 88,
+                    "word": "day"
+                  }
+                ],
+                "until": 133,
+                "utterances": "Enjoy your day"
+              }
+            ],
+            "sentence": "Enjoy your day! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "B",
+  "title": "The sound of the letters O Y in BOY, TOY, and ROY",
+  "titleimage": null
+}

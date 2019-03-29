@@ -1,0 +1,660 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_sat_by_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 117,
+                    "start": 79,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 159,
+                    "start": 129,
+                    "word": "by"
+                  },
+                  {
+                    "end": 174,
+                    "start": 160,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 175,
+                    "word": "tree"
+                  }
+                ],
+                "until": 222,
+                "utterances": "Tom sat by the tree"
+              }
+            ],
+            "sentence": "Tom sat by the tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_green_elm_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 75,
+                    "start": 36,
+                    "word": "was"
+                  },
+                  {
+                    "end": 88,
+                    "start": 76,
+                    "word": "a"
+                  },
+                  {
+                    "end": 146,
+                    "start": 89,
+                    "word": "green"
+                  },
+                  {
+                    "end": 200,
+                    "start": 162,
+                    "word": "elm"
+                  },
+                  {
+                    "end": 252,
+                    "start": 204,
+                    "word": "tree"
+                  }
+                ],
+                "until": 252,
+                "utterances": "It was a green elm tree"
+              }
+            ],
+            "sentence": "It was a green elm tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_train_went_past_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 81,
+                    "start": 26,
+                    "word": "train"
+                  },
+                  {
+                    "end": 126,
+                    "start": 82,
+                    "word": "went"
+                  },
+                  {
+                    "end": 192,
+                    "start": 127,
+                    "word": "past"
+                  },
+                  {
+                    "end": 211,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 253,
+                    "start": 212,
+                    "word": "tree"
+                  }
+                ],
+                "until": 253,
+                "utterances": "The train went past the tree"
+              }
+            ],
+            "sentence": "The train went past the tree. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Zoom"
+                  }
+                ],
+                "until": 75,
+                "utterances": "Zoom"
+              }
+            ],
+            "sentence": "Zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_what.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 64,
+                    "start": 34,
+                    "word": "what"
+                  }
+                ],
+                "until": 64,
+                "utterances": "Then what"
+              }
+            ],
+            "sentence": "Then what?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_jeep_went_past_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 66,
+                    "start": 25,
+                    "word": "jeep"
+                  },
+                  {
+                    "end": 101,
+                    "start": 67,
+                    "word": "went"
+                  },
+                  {
+                    "end": 166,
+                    "start": 102,
+                    "word": "past"
+                  },
+                  {
+                    "end": 181,
+                    "start": 167,
+                    "word": "the"
+                  },
+                  {
+                    "end": 224,
+                    "start": 182,
+                    "word": "tree"
+                  }
+                ],
+                "until": 224,
+                "utterances": "A jeep went past the tree"
+              }
+            ],
+            "sentence": "A jeep went past the tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Zoom"
+                  }
+                ],
+                "until": 75,
+                "utterances": "Zoom"
+              }
+            ],
+            "sentence": "Zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_next.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 107,
+                    "start": 51,
+                    "word": "next"
+                  }
+                ],
+                "until": 107,
+                "utterances": "What next"
+              }
+            ],
+            "sentence": "What next?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_man_went_past.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 87,
+                    "start": 27,
+                    "word": "man"
+                  },
+                  {
+                    "end": 135,
+                    "start": 88,
+                    "word": "went"
+                  },
+                  {
+                    "end": 204,
+                    "start": 136,
+                    "word": "past"
+                  }
+                ],
+                "until": 204,
+                "utterances": "A man went past"
+              }
+            ],
+            "sentence": "A man went past."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mailman.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 103,
+                    "start": 31,
+                    "word": "mailman"
+                  }
+                ],
+                "until": 103,
+                "utterances": "The mailman"
+              }
+            ],
+            "sentence": "The mailman! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Zoom"
+                  }
+                ],
+                "until": 75,
+                "utterances": "Zoom"
+              }
+            ],
+            "sentence": "Zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_what.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 64,
+                    "start": 34,
+                    "word": "what"
+                  }
+                ],
+                "until": 64,
+                "utterances": "Then what"
+              }
+            ],
+            "sentence": "Then what?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_big_brain.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 81,
+                    "start": 27,
+                    "word": "big"
+                  },
+                  {
+                    "end": 153,
+                    "start": 82,
+                    "word": "brain"
+                  }
+                ],
+                "until": 153,
+                "utterances": "A big brain"
+              }
+            ],
+            "sentence": "A big brain!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_brain_had_a_tail.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 100,
+                    "start": 40,
+                    "word": "brain"
+                  },
+                  {
+                    "end": 123,
+                    "start": 101,
+                    "word": "had"
+                  },
+                  {
+                    "end": 145,
+                    "start": 124,
+                    "word": "a"
+                  },
+                  {
+                    "end": 225,
+                    "start": 168,
+                    "word": "tail"
+                  }
+                ],
+                "until": 225,
+                "utterances": "The brain had a tail"
+              }
+            ],
+            "sentence": "The brain had a tail."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_brain_with_a_tail_went_past_the_tree.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 25,
+                    "word": "brain"
+                  },
+                  {
+                    "end": 116,
+                    "start": 79,
+                    "word": "with"
+                  },
+                  {
+                    "end": 130,
+                    "start": 117,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 131,
+                    "word": "tail"
+                  },
+                  {
+                    "end": 226,
+                    "start": 188,
+                    "word": "went"
+                  },
+                  {
+                    "end": 287,
+                    "start": 227,
+                    "word": "past"
+                  },
+                  {
+                    "end": 304,
+                    "start": 288,
+                    "word": "the"
+                  },
+                  {
+                    "end": 353,
+                    "start": 305,
+                    "word": "tree"
+                  }
+                ],
+                "until": 353,
+                "utterances": "The brain with a tail went past the tree"
+              }
+            ],
+            "sentence": "The brain with a tail went past the tree."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Zoom"
+                  }
+                ],
+                "until": 75,
+                "utterances": "Zoom"
+              }
+            ],
+            "sentence": "Zoom!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tom_felt_faint.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "Tom"
+                  },
+                  {
+                    "end": 116,
+                    "start": 64,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 182,
+                    "start": 127,
+                    "word": "faint"
+                  }
+                ],
+                "until": 182,
+                "utterances": "Tom felt faint"
+              }
+            ],
+            "sentence": "Tom felt faint."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Tree",
+  "titleimage": null
+}

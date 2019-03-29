@@ -1,0 +1,585 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let_s_go_shop_said_bob.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Let's"
+                  },
+                  {
+                    "end": 82,
+                    "start": 53,
+                    "word": "go"
+                  },
+                  {
+                    "end": 148,
+                    "start": 83,
+                    "word": "shop"
+                  },
+                  {
+                    "end": 176,
+                    "start": 149,
+                    "word": "said"
+                  },
+                  {
+                    "end": 222,
+                    "start": 177,
+                    "word": "Bob"
+                  }
+                ],
+                "until": 222,
+                "utterances": "Let's go shop said Bob"
+              }
+            ],
+            "sentence": "\"Let's go shop,\" said Bob."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_got_her_coat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 74,
+                    "start": 51,
+                    "word": "got"
+                  },
+                  {
+                    "end": 92,
+                    "start": 75,
+                    "word": "her"
+                  },
+                  {
+                    "end": 128,
+                    "start": 93,
+                    "word": "coat"
+                  }
+                ],
+                "until": 128,
+                "utterances": "Jen got her coat"
+              }
+            ],
+            "sentence": "Jen got her coat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_went_past_the_oak.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 61,
+                    "start": 26,
+                    "word": "went"
+                  },
+                  {
+                    "end": 124,
+                    "start": 62,
+                    "word": "past"
+                  },
+                  {
+                    "end": 136,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 149,
+                    "word": "oak"
+                  }
+                ],
+                "until": 178,
+                "utterances": "They went past the oak"
+              }
+            ],
+            "sentence": "They went past the oak."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_went_past_the_elm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 64,
+                    "start": 28,
+                    "word": "went"
+                  },
+                  {
+                    "end": 125,
+                    "start": 65,
+                    "word": "past"
+                  },
+                  {
+                    "end": 146,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 223,
+                    "start": 147,
+                    "word": "elm"
+                  }
+                ],
+                "until": 223,
+                "utterances": "They went past the elm"
+              }
+            ],
+            "sentence": "They went past the elm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_they_got_to_the_road.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 80,
+                    "start": 48,
+                    "word": "they"
+                  },
+                  {
+                    "end": 109,
+                    "start": 81,
+                    "word": "got"
+                  },
+                  {
+                    "end": 154,
+                    "start": 124,
+                    "word": "to"
+                  },
+                  {
+                    "end": 167,
+                    "start": 155,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 168,
+                    "word": "road"
+                  }
+                ],
+                "until": 212,
+                "utterances": "Then they got to the road"
+              }
+            ],
+            "sentence": "Then they got to the road."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_they_got_to_the_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 60,
+                    "start": 44,
+                    "word": "they"
+                  },
+                  {
+                    "end": 87,
+                    "start": 61,
+                    "word": "got"
+                  },
+                  {
+                    "end": 122,
+                    "start": 98,
+                    "word": "to"
+                  },
+                  {
+                    "end": 131,
+                    "start": 123,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 132,
+                    "word": "shop"
+                  }
+                ],
+                "until": 213,
+                "utterances": "Then they got to the shop"
+              }
+            ],
+            "sentence": "Then they got to the shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_had_cash.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 56,
+                    "start": 28,
+                    "word": "had"
+                  },
+                  {
+                    "end": 87,
+                    "start": 57,
+                    "word": "cash"
+                  }
+                ],
+                "until": 87,
+                "utterances": "Bob had cash"
+              }
+            ],
+            "sentence": "Bob had cash."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cash_means_money.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "Cash"
+                  },
+                  {
+                    "end": 130,
+                    "start": 75,
+                    "word": "means"
+                  },
+                  {
+                    "end": 167,
+                    "start": 131,
+                    "word": "money"
+                  }
+                ],
+                "until": 167,
+                "utterances": "Cash means money"
+              }
+            ],
+            "sentence": "Cash means money."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_asks_bob_for_a_loan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 109,
+                    "start": 86,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 163,
+                    "start": 110,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 190,
+                    "start": 164,
+                    "word": "for"
+                  },
+                  {
+                    "end": 213,
+                    "start": 191,
+                    "word": "a"
+                  },
+                  {
+                    "end": 261,
+                    "start": 214,
+                    "word": "loan"
+                  }
+                ],
+                "until": 261,
+                "utterances": "Jen asks Bob for a loan"
+              }
+            ],
+            "sentence": "Jen asks Bob for a loan."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "then_jen_and_bob_went_in_the_shop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Then"
+                  },
+                  {
+                    "end": 112,
+                    "start": 59,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 142,
+                    "start": 113,
+                    "word": "and"
+                  },
+                  {
+                    "end": 189,
+                    "start": 143,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 242,
+                    "start": 190,
+                    "word": "went"
+                  },
+                  {
+                    "end": 268,
+                    "start": 243,
+                    "word": "in"
+                  },
+                  {
+                    "end": 286,
+                    "start": 269,
+                    "word": "the"
+                  },
+                  {
+                    "end": 353,
+                    "start": 287,
+                    "word": "shop"
+                  }
+                ],
+                "until": 353,
+                "utterances": "Then Jen and Bob went in the shop"
+              }
+            ],
+            "sentence": "Then Jen and Bob went in the shop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jen_got_oats_and_a_plum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Jen"
+                  },
+                  {
+                    "end": 79,
+                    "start": 53,
+                    "word": "got"
+                  },
+                  {
+                    "end": 135,
+                    "start": 100,
+                    "word": "oats"
+                  },
+                  {
+                    "end": 150,
+                    "start": 136,
+                    "word": "and"
+                  },
+                  {
+                    "end": 187,
+                    "start": 151,
+                    "word": "a"
+                  },
+                  {
+                    "end": 237,
+                    "start": 188,
+                    "word": "plum"
+                  }
+                ],
+                "until": 237,
+                "utterances": "Jen got oats and a plum"
+              }
+            ],
+            "sentence": "Jen got oats and a plum."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_got_a_loaf_of_bread_and_ham.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 93,
+                    "start": 63,
+                    "word": "got"
+                  },
+                  {
+                    "end": 96,
+                    "start": 94,
+                    "word": "a"
+                  },
+                  {
+                    "end": 158,
+                    "start": 97,
+                    "word": "loaf"
+                  },
+                  {
+                    "end": 187,
+                    "start": 166,
+                    "word": "of"
+                  },
+                  {
+                    "end": 240,
+                    "start": 188,
+                    "word": "bread"
+                  },
+                  {
+                    "end": 283,
+                    "start": 255,
+                    "word": "and"
+                  },
+                  {
+                    "end": 325,
+                    "start": 294,
+                    "word": "ham"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Bob got a loaf of bread and ham"
+              }
+            ],
+            "sentence": "Bob got a loaf of bread and ham."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Shopping",
+  "titleimage": null
+}

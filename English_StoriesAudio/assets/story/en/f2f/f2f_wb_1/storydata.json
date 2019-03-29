@@ -1,0 +1,984 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_rad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 53,
+                    "start": 38,
+                    "word": "is"
+                  },
+                  {
+                    "end": 98,
+                    "start": 54,
+                    "word": "rad"
+                  }
+                ],
+                "until": 98,
+                "utterances": "Dad is rad"
+              }
+            ],
+            "sentence": "Dad is rad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mat_is_rad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 52,
+                    "start": 20,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 75,
+                    "start": 53,
+                    "word": "is"
+                  },
+                  {
+                    "end": 134,
+                    "start": 76,
+                    "word": "rad"
+                  }
+                ],
+                "until": 134,
+                "utterances": "The mat is rad"
+              }
+            ],
+            "sentence": "The mat is rad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sat_on_the_rad_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 91,
+                    "start": 41,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 112,
+                    "start": 92,
+                    "word": "on"
+                  },
+                  {
+                    "end": 126,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 171,
+                    "start": 127,
+                    "word": "rad"
+                  },
+                  {
+                    "end": 298,
+                    "start": 172,
+                    "word": "mat"
+                  }
+                ],
+                "until": 298,
+                "utterances": "Dad sat on the rad mat"
+              }
+            ],
+            "sentence": "Dad sat on the rad mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 51,
+                    "start": 39,
+                    "word": "is"
+                  },
+                  {
+                    "end": 357,
+                    "start": 52,
+                    "word": "sad"
+                  }
+                ],
+                "until": 357,
+                "utterances": "Mom is sad"
+              }
+            ],
+            "sentence": "Mom is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mat_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 18,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 19,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 85,
+                    "start": 67,
+                    "word": "is"
+                  },
+                  {
+                    "end": 155,
+                    "start": 86,
+                    "word": "sad"
+                  }
+                ],
+                "until": 155,
+                "utterances": "The mat is sad"
+              }
+            ],
+            "sentence": "The mat is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mom_sat_on_the_sad_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 94,
+                    "start": 44,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 114,
+                    "start": 95,
+                    "word": "on"
+                  },
+                  {
+                    "end": 121,
+                    "start": 115,
+                    "word": "the"
+                  },
+                  {
+                    "end": 163,
+                    "start": 122,
+                    "word": "sad"
+                  },
+                  {
+                    "end": 216,
+                    "start": 164,
+                    "word": "mat"
+                  }
+                ],
+                "until": 216,
+                "utterances": "Mom sat on the sad mat"
+              }
+            ],
+            "sentence": "Mom sat on the sad mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fat_rat_sat_on_mom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 64,
+                    "start": 21,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 99,
+                    "start": 65,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 125,
+                    "start": 100,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 142,
+                    "start": 126,
+                    "word": "on"
+                  },
+                  {
+                    "end": 361,
+                    "start": 143,
+                    "word": "Mom"
+                  }
+                ],
+                "until": 361,
+                "utterances": "A fat rat sat on Mom"
+              }
+            ],
+            "sentence": "A fat rat sat on Mom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fat_rat_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 83,
+                    "start": 58,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 96,
+                    "start": 84,
+                    "word": "is"
+                  },
+                  {
+                    "end": 157,
+                    "start": 97,
+                    "word": "sad"
+                  }
+                ],
+                "until": 157,
+                "utterances": "The fat rat is sad"
+              }
+            ],
+            "sentence": "The fat rat is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tad_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Tad"
+                  },
+                  {
+                    "end": 53,
+                    "start": 38,
+                    "word": "is"
+                  },
+                  {
+                    "end": 104,
+                    "start": 54,
+                    "word": "mad"
+                  }
+                ],
+                "until": 104,
+                "utterances": "Tad is mad"
+              }
+            ],
+            "sentence": "Tad is mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mat_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 57,
+                    "start": 20,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 81,
+                    "start": 58,
+                    "word": "is"
+                  },
+                  {
+                    "end": 135,
+                    "start": 82,
+                    "word": "mad"
+                  }
+                ],
+                "until": 135,
+                "utterances": "The mat is mad"
+              }
+            ],
+            "sentence": "The mat is mad"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tad_sat_on_the_mad_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Tad"
+                  },
+                  {
+                    "end": 84,
+                    "start": 42,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 102,
+                    "start": 85,
+                    "word": "on"
+                  },
+                  {
+                    "end": 110,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 149,
+                    "start": 111,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 178,
+                    "start": 150,
+                    "word": "mat"
+                  }
+                ],
+                "until": 178,
+                "utterances": "Tad sat on the mad mat"
+              }
+            ],
+            "sentence": "Tad sat on the mad mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sat_on_the_rad_sad_mad_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 108,
+                    "start": 48,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 126,
+                    "start": 109,
+                    "word": "on"
+                  },
+                  {
+                    "end": 137,
+                    "start": 127,
+                    "word": "the"
+                  },
+                  {
+                    "end": 179,
+                    "start": 138,
+                    "word": "rad"
+                  },
+                  {
+                    "end": 231,
+                    "start": 180,
+                    "word": "sad"
+                  },
+                  {
+                    "end": 280,
+                    "start": 252,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 308,
+                    "start": 281,
+                    "word": "mat"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Sis sat on the rad sad mad mat"
+              }
+            ],
+            "sentence": "Sis sat on the rad, sad, mad mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fat_rat_sat_on_sis.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 19,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 53,
+                    "start": 20,
+                    "word": "fat"
+                  },
+                  {
+                    "end": 84,
+                    "start": 54,
+                    "word": "rat"
+                  },
+                  {
+                    "end": 112,
+                    "start": 85,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 128,
+                    "start": 113,
+                    "word": "on"
+                  },
+                  {
+                    "end": 180,
+                    "start": 129,
+                    "word": "Sis"
+                  }
+                ],
+                "until": 180,
+                "utterances": "The fat rat sat on Sis"
+              }
+            ],
+            "sentence": "The fat rat sat on Sis."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_sis_mad_or_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 27,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 138,
+                    "start": 79,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 150,
+                    "start": 139,
+                    "word": "or"
+                  },
+                  {
+                    "end": 206,
+                    "start": 151,
+                    "word": "sad"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Is Sis mad or sad"
+              }
+            ],
+            "sentence": "Is Sis mad or sad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "if_sis_is_mad_dad_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "If"
+                  },
+                  {
+                    "end": 63,
+                    "start": 29,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 74,
+                    "start": 64,
+                    "word": "is"
+                  },
+                  {
+                    "end": 140,
+                    "start": 75,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 172,
+                    "start": 141,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 182,
+                    "start": 173,
+                    "word": "is"
+                  },
+                  {
+                    "end": 229,
+                    "start": 183,
+                    "word": "mad"
+                  }
+                ],
+                "until": 229,
+                "utterances": "If Sis is mad Dad is mad"
+              }
+            ],
+            "sentence": "If Sis is mad, Dad is mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "if_dad_is_mad_mom_is_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "If"
+                  },
+                  {
+                    "end": 79,
+                    "start": 53,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 91,
+                    "start": 80,
+                    "word": "is"
+                  },
+                  {
+                    "end": 149,
+                    "start": 92,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 175,
+                    "start": 150,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 187,
+                    "start": 176,
+                    "word": "is"
+                  },
+                  {
+                    "end": 237,
+                    "start": 188,
+                    "word": "sad"
+                  }
+                ],
+                "until": 237,
+                "utterances": "If Dad is mad Mom is sad"
+              }
+            ],
+            "sentence": "If Dad is mad, Mom is sad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "is_tad_mad_or_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "Is"
+                  },
+                  {
+                    "end": 65,
+                    "start": 30,
+                    "word": "Tad"
+                  },
+                  {
+                    "end": 93,
+                    "start": 66,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 97,
+                    "start": 94,
+                    "word": "or"
+                  },
+                  {
+                    "end": 147,
+                    "start": 98,
+                    "word": "sad"
+                  }
+                ],
+                "until": 147,
+                "utterances": "Is Tad mad or sad"
+              }
+            ],
+            "sentence": "Is Tad mad or sad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "are_you_rad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "Are"
+                  },
+                  {
+                    "end": 36,
+                    "start": 22,
+                    "word": "you"
+                  },
+                  {
+                    "end": 72,
+                    "start": 37,
+                    "word": "rad"
+                  }
+                ],
+                "until": 72,
+                "utterances": "Are you rad"
+              }
+            ],
+            "sentence": "Are you rad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "are_you_sad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Are"
+                  },
+                  {
+                    "end": 37,
+                    "start": 28,
+                    "word": "you"
+                  },
+                  {
+                    "end": 91,
+                    "start": 38,
+                    "word": "sad"
+                  }
+                ],
+                "until": 91,
+                "utterances": "Are you sad"
+              }
+            ],
+            "sentence": "Are you sad?  "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "are_you_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "Are"
+                  },
+                  {
+                    "end": 39,
+                    "start": 29,
+                    "word": "you"
+                  },
+                  {
+                    "end": 110,
+                    "start": 40,
+                    "word": "mad"
+                  }
+                ],
+                "until": 110,
+                "utterances": "Are you mad"
+              }
+            ],
+            "sentence": "Are you mad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_not_a_fad_to_be_sad_or_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 46,
+                    "start": 29,
+                    "word": "is"
+                  },
+                  {
+                    "end": 78,
+                    "start": 47,
+                    "word": "not"
+                  },
+                  {
+                    "end": 88,
+                    "start": 79,
+                    "word": "a"
+                  },
+                  {
+                    "end": 138,
+                    "start": 89,
+                    "word": "fad"
+                  },
+                  {
+                    "end": 151,
+                    "start": 139,
+                    "word": "to"
+                  },
+                  {
+                    "end": 169,
+                    "start": 152,
+                    "word": "be"
+                  },
+                  {
+                    "end": 225,
+                    "start": 170,
+                    "word": "sad"
+                  },
+                  {
+                    "end": 253,
+                    "start": 226,
+                    "word": "or"
+                  },
+                  {
+                    "end": 300,
+                    "start": 254,
+                    "word": "mad"
+                  }
+                ],
+                "until": 300,
+                "utterances": "It is not a fad to be sad or mad"
+              }
+            ],
+            "sentence": "It is not a fad to be sad or mad."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dad is Rad",
+  "titleimage": null
+}

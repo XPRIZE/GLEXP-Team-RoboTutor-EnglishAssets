@@ -1,0 +1,882 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sick.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "SICK"
+                  }
+                ],
+                "until": 68,
+                "utterances": "SICK"
+              }
+            ],
+            "sentence": "SICK"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "south.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 10,
+                    "word": "SOUTH"
+                  }
+                ],
+                "until": 93,
+                "utterances": "SOUTH"
+              }
+            ],
+            "sentence": "SOUTH"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "say.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "SAY"
+                  }
+                ],
+                "until": 57,
+                "utterances": "SAY"
+              }
+            ],
+            "sentence": "SAY"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "side.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "SIDE"
+                  }
+                ],
+                "until": 74,
+                "utterances": "SIDE"
+              }
+            ],
+            "sentence": "SIDE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 10,
+                    "word": "SUN"
+                  }
+                ],
+                "until": 77,
+                "utterances": "SUN"
+              }
+            ],
+            "sentence": "SUN\t"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "which_of_these_is_your_favorite_color.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Which"
+                  },
+                  {
+                    "end": 70,
+                    "start": 49,
+                    "word": "of"
+                  },
+                  {
+                    "end": 119,
+                    "start": 71,
+                    "word": "these"
+                  },
+                  {
+                    "end": 148,
+                    "start": 123,
+                    "word": "is"
+                  },
+                  {
+                    "end": 177,
+                    "start": 149,
+                    "word": "your"
+                  },
+                  {
+                    "end": 231,
+                    "start": 178,
+                    "word": "favorite"
+                  },
+                  {
+                    "end": 268,
+                    "start": 232,
+                    "word": "color"
+                  }
+                ],
+                "until": 268,
+                "utterances": "Which of these is your favorite color"
+              }
+            ],
+            "sentence": "Which of these is your favorite color?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sunny_yellow.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 10,
+                    "word": "sunny"
+                  },
+                  {
+                    "end": 160,
+                    "start": 94,
+                    "word": "yellow"
+                  }
+                ],
+                "until": 160,
+                "utterances": "sunny yellow"
+              }
+            ],
+            "sentence": "sunny yellow"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sad_blue.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "sad"
+                  },
+                  {
+                    "end": 144,
+                    "start": 100,
+                    "word": "blue"
+                  }
+                ],
+                "until": 144,
+                "utterances": "sad blue"
+              }
+            ],
+            "sentence": "sad blue"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "scarlet_red.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 10,
+                    "word": "scarlet"
+                  },
+                  {
+                    "end": 184,
+                    "start": 128,
+                    "word": "red"
+                  }
+                ],
+                "until": 184,
+                "utterances": "scarlet red"
+              }
+            ],
+            "sentence": "scarlet red"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "silly_green.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 10,
+                    "word": "silly"
+                  },
+                  {
+                    "end": 161,
+                    "start": 104,
+                    "word": "green"
+                  }
+                ],
+                "until": 161,
+                "utterances": "silly green"
+              }
+            ],
+            "sentence": "silly green"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_activity_would_you_like_to_do.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 155,
+                    "start": 67,
+                    "word": "activity"
+                  },
+                  {
+                    "end": 184,
+                    "start": 156,
+                    "word": "would"
+                  },
+                  {
+                    "end": 208,
+                    "start": 185,
+                    "word": "you"
+                  },
+                  {
+                    "end": 251,
+                    "start": 209,
+                    "word": "like"
+                  },
+                  {
+                    "end": 271,
+                    "start": 252,
+                    "word": "to"
+                  },
+                  {
+                    "end": 308,
+                    "start": 272,
+                    "word": "do"
+                  }
+                ],
+                "until": 308,
+                "utterances": "What activity would you like to do"
+              }
+            ],
+            "sentence": "What activity would you like to do?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sing_songs_to_sellout_crowds.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "sing"
+                  },
+                  {
+                    "end": 125,
+                    "start": 63,
+                    "word": "songs"
+                  },
+                  {
+                    "end": 144,
+                    "start": 126,
+                    "word": "to"
+                  },
+                  {
+                    "end": 201,
+                    "start": 145,
+                    "word": "sellout"
+                  },
+                  {
+                    "end": 244,
+                    "start": 202,
+                    "word": "crowds"
+                  }
+                ],
+                "until": 244,
+                "utterances": "sing songs to sellout crowds"
+              }
+            ],
+            "sentence": "sing songs to sellout crowds"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sail_the_seven_seas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 10,
+                    "word": "sail"
+                  },
+                  {
+                    "end": 84,
+                    "start": 73,
+                    "word": "the"
+                  },
+                  {
+                    "end": 132,
+                    "start": 85,
+                    "word": "seven"
+                  },
+                  {
+                    "end": 208,
+                    "start": 143,
+                    "word": "seas"
+                  }
+                ],
+                "until": 208,
+                "utterances": "sail the seven seas"
+              }
+            ],
+            "sentence": "sail the seven seas"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "set_serious_laws.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "set"
+                  },
+                  {
+                    "end": 155,
+                    "start": 82,
+                    "word": "serious"
+                  },
+                  {
+                    "end": 232,
+                    "start": 162,
+                    "word": "laws"
+                  }
+                ],
+                "until": 232,
+                "utterances": "set serious laws"
+              }
+            ],
+            "sentence": "set serious laws"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sell_million_dollar_stocks_for_millions_of_dollars.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 10,
+                    "word": "sell"
+                  },
+                  {
+                    "end": 141,
+                    "start": 81,
+                    "word": "million"
+                  },
+                  {
+                    "end": 186,
+                    "start": 142,
+                    "word": "dollar"
+                  },
+                  {
+                    "end": 266,
+                    "start": 193,
+                    "word": "stocks"
+                  },
+                  {
+                    "end": 283,
+                    "start": 267,
+                    "word": "for"
+                  },
+                  {
+                    "end": 356,
+                    "start": 301,
+                    "word": "millions"
+                  },
+                  {
+                    "end": 374,
+                    "start": 357,
+                    "word": "of"
+                  },
+                  {
+                    "end": 444,
+                    "start": 375,
+                    "word": "dollars"
+                  }
+                ],
+                "until": 444,
+                "utterances": "sell million dollar stocks for millions of dollars"
+              }
+            ],
+            "sentence": "sell million dollar stocks for millions of dollars"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "save_some_of_the_endangered_animals.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 10,
+                    "word": "save"
+                  },
+                  {
+                    "end": 113,
+                    "start": 72,
+                    "word": "some"
+                  },
+                  {
+                    "end": 130,
+                    "start": 114,
+                    "word": "of"
+                  },
+                  {
+                    "end": 147,
+                    "start": 131,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 148,
+                    "word": "endangered"
+                  },
+                  {
+                    "end": 285,
+                    "start": 227,
+                    "word": "animals"
+                  }
+                ],
+                "until": 285,
+                "utterances": "save some of the endangered animals"
+              }
+            ],
+            "sentence": "save some of the endangered animals"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_type_of_shoes_do_you_like_to_wear.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 64,
+                    "start": 36,
+                    "word": "type"
+                  },
+                  {
+                    "end": 80,
+                    "start": 65,
+                    "word": "of"
+                  },
+                  {
+                    "end": 126,
+                    "start": 81,
+                    "word": "shoes"
+                  },
+                  {
+                    "end": 141,
+                    "start": 127,
+                    "word": "do"
+                  },
+                  {
+                    "end": 164,
+                    "start": 142,
+                    "word": "you"
+                  },
+                  {
+                    "end": 193,
+                    "start": 165,
+                    "word": "like"
+                  },
+                  {
+                    "end": 210,
+                    "start": 194,
+                    "word": "to"
+                  },
+                  {
+                    "end": 233,
+                    "start": 211,
+                    "word": "wear"
+                  }
+                ],
+                "until": 233,
+                "utterances": "What type of shoes do you like to wear"
+              }
+            ],
+            "sentence": "What type of shoes do you like to wear?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tennis_shoes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "tennis"
+                  },
+                  {
+                    "end": 115,
+                    "start": 61,
+                    "word": "shoes"
+                  }
+                ],
+                "until": 115,
+                "utterances": "tennis shoes"
+              }
+            ],
+            "sentence": "tennis shoes"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dress_shoes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "dress"
+                  },
+                  {
+                    "end": 127,
+                    "start": 68,
+                    "word": "shoes"
+                  }
+                ],
+                "until": 127,
+                "utterances": "dress shoes"
+              }
+            ],
+            "sentence": "dress shoes"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sandals.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 10,
+                    "word": "sandals"
+                  }
+                ],
+                "until": 101,
+                "utterances": "sandals"
+              }
+            ],
+            "sentence": "sandals"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "casual_shoes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "casual"
+                  },
+                  {
+                    "end": 128,
+                    "start": 69,
+                    "word": "shoes"
+                  }
+                ],
+                "until": 128,
+                "utterances": "casual shoes"
+              }
+            ],
+            "sentence": "casual shoes"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "heeled_shoes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "heeled"
+                  },
+                  {
+                    "end": 144,
+                    "start": 74,
+                    "word": "shoes"
+                  }
+                ],
+                "until": 144,
+                "utterances": "heeled shoes"
+              }
+            ],
+            "sentence": "heeled shoes"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "slippers.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 10,
+                    "word": "slippers"
+                  }
+                ],
+                "until": 105,
+                "utterances": "slippers"
+              }
+            ],
+            "sentence": "slippers"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_shoes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "no"
+                  },
+                  {
+                    "end": 95,
+                    "start": 44,
+                    "word": "shoes"
+                  }
+                ],
+                "until": 95,
+                "utterances": "no shoes"
+              }
+            ],
+            "sentence": "no shoes"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "What sound does the letter S make in the words SUN, SOCK and SIP?",
+  "titleimage": null
+}

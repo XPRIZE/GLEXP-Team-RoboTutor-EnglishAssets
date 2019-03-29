@@ -1,0 +1,112 @@
+{Val is a Nun} {Project LISTEN} {WORD}
+
+
+Val is a nun.
+
+
+
+
+
+Tom is a kid.
+
+
+
+
+
+Val asks Tom to sit.
+
+
+
+
+
+Val said, "Sit in the van, Tom."
+
+
+
+
+
+Tom did not sit.
+
+
+
+
+
+Tom said, "I can not sit in the van.
+
+
+
+
+
+It is not fun!"
+
+
+
+
+
+Val can nag.
+
+
+
+
+
+Val said, "The van is vast.
+
+
+
+
+
+And soft!
+
+
+
+
+
+It is fun!
+
+
+
+
+
+It is a vast, soft van.
+
+
+
+
+
+Tom, sit in the van."
+
+
+
+
+
+Tom sat in the van.
+
+
+
+
+
+Tom did not grin.
+
+
+
+
+
+Val did.
+
+
+
+
+
+The van has no gas.
+
+
+
+
+
+Val said, "no gas in the van!"
+
+
+
+
+
+We must run.

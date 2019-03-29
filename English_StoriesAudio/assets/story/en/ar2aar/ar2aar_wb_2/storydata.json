@@ -1,0 +1,556 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "three_fish_went_to_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "Three"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 166,
+                    "start": 119,
+                    "word": "went"
+                  },
+                  {
+                    "end": 183,
+                    "start": 167,
+                    "word": "to"
+                  },
+                  {
+                    "end": 244,
+                    "start": 184,
+                    "word": "swim"
+                  }
+                ],
+                "until": 244,
+                "utterances": "Three fish went to swim"
+              }
+            ],
+            "sentence": "Three fish went to swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_swim_in_the_wet_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 84,
+                    "start": 29,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 110,
+                    "start": 85,
+                    "word": "in"
+                  },
+                  {
+                    "end": 118,
+                    "start": 111,
+                    "word": "the"
+                  },
+                  {
+                    "end": 146,
+                    "start": 119,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 211,
+                    "start": 162,
+                    "word": "pond"
+                  }
+                ],
+                "until": 211,
+                "utterances": "They swim in the wet pond"
+              }
+            ],
+            "sentence": "They swim in the wet pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_swim_in_the_best_part_of_the_pond.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 84,
+                    "start": 32,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 102,
+                    "start": 85,
+                    "word": "in"
+                  },
+                  {
+                    "end": 121,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 122,
+                    "word": "best"
+                  },
+                  {
+                    "end": 228,
+                    "start": 170,
+                    "word": "part"
+                  },
+                  {
+                    "end": 251,
+                    "start": 229,
+                    "word": "of"
+                  },
+                  {
+                    "end": 264,
+                    "start": 252,
+                    "word": "the"
+                  },
+                  {
+                    "end": 317,
+                    "start": 265,
+                    "word": "pond"
+                  }
+                ],
+                "until": 317,
+                "utterances": "They swim in the best part of the pond"
+              }
+            ],
+            "sentence": "They swim in the best part of the pond."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "one_fish_said_look_at_that_shark.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "One"
+                  },
+                  {
+                    "end": 73,
+                    "start": 36,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 115,
+                    "start": 74,
+                    "word": "said"
+                  },
+                  {
+                    "end": 148,
+                    "start": 128,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 154,
+                    "start": 149,
+                    "word": "at"
+                  },
+                  {
+                    "end": 197,
+                    "start": 155,
+                    "word": "that"
+                  },
+                  {
+                    "end": 252,
+                    "start": 198,
+                    "word": "shark"
+                  }
+                ],
+                "until": 252,
+                "utterances": "One fish said Look at that shark"
+              }
+            ],
+            "sentence": "One fish said, \"Look at that shark! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Swim"
+                  },
+                  {
+                    "end": 112,
+                    "start": 54,
+                    "word": "fast"
+                  }
+                ],
+                "until": 112,
+                "utterances": "Swim fast"
+              }
+            ],
+            "sentence": "Swim fast!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "faster.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Faster"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Faster"
+              }
+            ],
+            "sentence": "Faster!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "faster.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 10,
+                    "word": "Faster"
+                  }
+                ],
+                "until": 80,
+                "utterances": "Faster"
+              }
+            ],
+            "sentence": "Faster!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_fish_start_to_swim_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 38,
+                    "start": 32,
+                    "word": "the"
+                  },
+                  {
+                    "end": 83,
+                    "start": 39,
+                    "word": "fish"
+                  },
+                  {
+                    "end": 149,
+                    "start": 89,
+                    "word": "start"
+                  },
+                  {
+                    "end": 156,
+                    "start": 150,
+                    "word": "to"
+                  },
+                  {
+                    "end": 197,
+                    "start": 157,
+                    "word": "swim"
+                  },
+                  {
+                    "end": 265,
+                    "start": 201,
+                    "word": "fast"
+                  }
+                ],
+                "until": 265,
+                "utterances": "Did the fish start to swim fast"
+              }
+            ],
+            "sentence": "Did the fish start to swim fast?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 123,
+                "utterances": "No"
+              }
+            ],
+            "sentence": "No."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_shark_get_the_fish.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 46,
+                    "start": 32,
+                    "word": "the"
+                  },
+                  {
+                    "end": 102,
+                    "start": 47,
+                    "word": "shark"
+                  },
+                  {
+                    "end": 125,
+                    "start": 103,
+                    "word": "get"
+                  },
+                  {
+                    "end": 146,
+                    "start": 126,
+                    "word": "the"
+                  },
+                  {
+                    "end": 198,
+                    "start": 147,
+                    "word": "fish"
+                  }
+                ],
+                "until": 198,
+                "utterances": "Did the shark get the fish"
+              }
+            ],
+            "sentence": "Did the shark get the fish?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 123,
+                    "start": 10,
+                    "word": "No"
+                  }
+                ],
+                "until": 123,
+                "utterances": "No"
+              }
+            ],
+            "sentence": "No!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pond_has_no_sharks.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 33,
+                    "word": "pond"
+                  },
+                  {
+                    "end": 123,
+                    "start": 80,
+                    "word": "has"
+                  },
+                  {
+                    "end": 145,
+                    "start": 124,
+                    "word": "no"
+                  },
+                  {
+                    "end": 215,
+                    "start": 146,
+                    "word": "sharks"
+                  }
+                ],
+                "until": 215,
+                "utterances": "The pond has no sharks"
+              }
+            ],
+            "sentence": "The pond has no sharks."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_joke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 69,
+                    "start": 31,
+                    "word": "was"
+                  },
+                  {
+                    "end": 83,
+                    "start": 70,
+                    "word": "a"
+                  },
+                  {
+                    "end": 140,
+                    "start": 91,
+                    "word": "joke"
+                  }
+                ],
+                "until": 140,
+                "utterances": "It was a joke"
+              }
+            ],
+            "sentence": "It was a joke!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Three Fish",
+  "titleimage": null
+}

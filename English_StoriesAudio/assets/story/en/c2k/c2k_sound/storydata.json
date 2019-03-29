@@ -1,0 +1,451 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "cat"
+                  }
+                ],
+                "until": 54,
+                "utterances": "cat"
+              }
+            ],
+            "sentence": "cat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cup.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "CUP"
+                  }
+                ],
+                "until": 40,
+                "utterances": "CUP"
+              }
+            ],
+            "sentence": "cup "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "CAR"
+                  }
+                ],
+                "until": 47,
+                "utterances": "CAR"
+              }
+            ],
+            "sentence": "car "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_c_make_in_the_words_cat_cup_and_car.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 78,
+                    "start": 31,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 92,
+                    "start": 79,
+                    "word": "does"
+                  },
+                  {
+                    "end": 101,
+                    "start": 93,
+                    "word": "the"
+                  },
+                  {
+                    "end": 131,
+                    "start": 102,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 172,
+                    "start": 132,
+                    "word": "C"
+                  },
+                  {
+                    "end": 211,
+                    "start": 173,
+                    "word": "make"
+                  },
+                  {
+                    "end": 219,
+                    "start": 212,
+                    "word": "in"
+                  },
+                  {
+                    "end": 229,
+                    "start": 220,
+                    "word": "the"
+                  },
+                  {
+                    "end": 265,
+                    "start": 230,
+                    "word": "words"
+                  },
+                  {
+                    "end": 312,
+                    "start": 266,
+                    "word": "CAT"
+                  },
+                  {
+                    "end": 367,
+                    "start": 325,
+                    "word": "CUP"
+                  },
+                  {
+                    "end": 380,
+                    "start": 368,
+                    "word": "and"
+                  },
+                  {
+                    "end": 426,
+                    "start": 381,
+                    "word": "CAR"
+                  }
+                ],
+                "until": 426,
+                "utterances": "What sound does the Letter C make in the words CAT CUP and CAR"
+              }
+            ],
+            "sentence": "What sound does the letter c make in the words cat, cup, and car?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "COT"
+                  }
+                ],
+                "until": 46,
+                "utterances": "COT"
+              }
+            ],
+            "sentence": "cot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cub.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "CUB"
+                  }
+                ],
+                "until": 47,
+                "utterances": "CUB"
+              }
+            ],
+            "sentence": "cub "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "CAP"
+                  }
+                ],
+                "until": 40,
+                "utterances": "CAP"
+              }
+            ],
+            "sentence": "cap "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "CAN"
+                  }
+                ],
+                "until": 54,
+                "utterances": "CAN"
+              }
+            ],
+            "sentence": "can "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "candy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "candy"
+                  }
+                ],
+                "until": 74,
+                "utterances": "candy"
+              }
+            ],
+            "sentence": "candy "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "A"
+                  }
+                ],
+                "until": 37,
+                "utterances": "A"
+              },
+              {
+                "audio": "camel.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "camel"
+                  }
+                ],
+                "until": 62,
+                "utterances": "camel"
+              },
+              {
+                "audio": "can_eat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "can"
+                  },
+                  {
+                    "end": 63,
+                    "start": 30,
+                    "word": "eat"
+                  }
+                ],
+                "until": 63,
+                "utterances": "can eat"
+              },
+              {
+                "audio": "candy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "candy"
+                  }
+                ],
+                "until": 74,
+                "utterances": "candy"
+              },
+              {
+                "audio": "can_you.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 76,
+                    "start": 38,
+                    "word": "you"
+                  }
+                ],
+                "until": 76,
+                "utterances": "Can you"
+              }
+            ],
+            "sentence": "A camel can eat candy. Can you? "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "congratulations_on_reading_with_the_letter_c.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 161,
+                    "start": 10,
+                    "word": "Congratulations"
+                  },
+                  {
+                    "end": 182,
+                    "start": 162,
+                    "word": "on"
+                  },
+                  {
+                    "end": 220,
+                    "start": 183,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 238,
+                    "start": 221,
+                    "word": "with"
+                  },
+                  {
+                    "end": 253,
+                    "start": 242,
+                    "word": "the"
+                  },
+                  {
+                    "end": 296,
+                    "start": 254,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 358,
+                    "start": 297,
+                    "word": "C"
+                  }
+                ],
+                "until": 358,
+                "utterances": "Congratulations on reading with the letter C"
+              }
+            ],
+            "sentence": "Congratulations on reading with the letter c! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter C in CAT, CUP, and CAR",
+  "titleimage": null
+}

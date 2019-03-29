@@ -1,0 +1,514 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_the_nun_is_in_the_sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 103,
+                    "start": 87,
+                    "word": "the"
+                  },
+                  {
+                    "end": 172,
+                    "start": 104,
+                    "word": "nun"
+                  },
+                  {
+                    "end": 196,
+                    "start": 173,
+                    "word": "is"
+                  },
+                  {
+                    "end": 227,
+                    "start": 197,
+                    "word": "in"
+                  },
+                  {
+                    "end": 236,
+                    "start": 228,
+                    "word": "the"
+                  },
+                  {
+                    "end": 291,
+                    "start": 237,
+                    "word": "sun"
+                  }
+                ],
+                "until": 291,
+                "utterances": "Val the nun is in the sun"
+              }
+            ],
+            "sentence": "Val the nun is in the sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_got_hot_in_the_sun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 83,
+                    "start": 59,
+                    "word": "got"
+                  },
+                  {
+                    "end": 126,
+                    "start": 84,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 160,
+                    "start": 143,
+                    "word": "in"
+                  },
+                  {
+                    "end": 170,
+                    "start": 161,
+                    "word": "the"
+                  },
+                  {
+                    "end": 221,
+                    "start": 171,
+                    "word": "sun"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Val got hot in the sun"
+              }
+            ],
+            "sentence": "Val got hot in the sun."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_asks_for_a_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 99,
+                    "start": 57,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 126,
+                    "start": 100,
+                    "word": "for"
+                  },
+                  {
+                    "end": 131,
+                    "start": 127,
+                    "word": "a"
+                  },
+                  {
+                    "end": 194,
+                    "start": 132,
+                    "word": "gift"
+                  }
+                ],
+                "until": 194,
+                "utterances": "Val asks for a gift"
+              }
+            ],
+            "sentence": "Val asks for a gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_asks_for_a_fan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 109,
+                    "start": 66,
+                    "word": "asks"
+                  },
+                  {
+                    "end": 139,
+                    "start": 110,
+                    "word": "for"
+                  },
+                  {
+                    "end": 158,
+                    "start": 140,
+                    "word": "a"
+                  },
+                  {
+                    "end": 221,
+                    "start": 159,
+                    "word": "fan"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Val asks for a fan"
+              }
+            ],
+            "sentence": "Val asks for a fan."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_got_a_gift_for_val.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 82,
+                    "start": 60,
+                    "word": "got"
+                  },
+                  {
+                    "end": 89,
+                    "start": 83,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 90,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 146,
+                    "start": 128,
+                    "word": "for"
+                  },
+                  {
+                    "end": 190,
+                    "start": 147,
+                    "word": "Val"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Sam got a gift for Val"
+              }
+            ],
+            "sentence": "Sam got a gift for Val."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_got_val_a_fan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 96,
+                    "start": 67,
+                    "word": "got"
+                  },
+                  {
+                    "end": 148,
+                    "start": 97,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 151,
+                    "start": 149,
+                    "word": "a"
+                  },
+                  {
+                    "end": 207,
+                    "start": 152,
+                    "word": "fan"
+                  }
+                ],
+                "until": 207,
+                "utterances": "Sam got Val a fan"
+              }
+            ],
+            "sentence": "Sam got Val a fan!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_sun_is_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 24,
+                    "word": "sun"
+                  },
+                  {
+                    "end": 91,
+                    "start": 71,
+                    "word": "is"
+                  },
+                  {
+                    "end": 155,
+                    "start": 92,
+                    "word": "hot"
+                  }
+                ],
+                "until": 155,
+                "utterances": "The sun is hot"
+              }
+            ],
+            "sentence": "The sun is hot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_the_fan_is_on.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 41,
+                    "start": 30,
+                    "word": "the"
+                  },
+                  {
+                    "end": 88,
+                    "start": 42,
+                    "word": "fan"
+                  },
+                  {
+                    "end": 104,
+                    "start": 89,
+                    "word": "is"
+                  },
+                  {
+                    "end": 150,
+                    "start": 105,
+                    "word": "on"
+                  }
+                ],
+                "until": 150,
+                "utterances": "But the fan is on"
+              }
+            ],
+            "sentence": "But the fan is on."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_is_not_hot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 91,
+                    "start": 68,
+                    "word": "is"
+                  },
+                  {
+                    "end": 128,
+                    "start": 92,
+                    "word": "not"
+                  },
+                  {
+                    "end": 189,
+                    "start": 129,
+                    "word": "hot"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Val is not hot"
+              }
+            ],
+            "sentence": "Val is not hot!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "at_last.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "At"
+                  },
+                  {
+                    "end": 114,
+                    "start": 34,
+                    "word": "last"
+                  }
+                ],
+                "until": 114,
+                "utterances": "At last"
+              }
+            ],
+            "sentence": "At last!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "val_is_glad_for_the_fan.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Val"
+                  },
+                  {
+                    "end": 95,
+                    "start": 71,
+                    "word": "is"
+                  },
+                  {
+                    "end": 148,
+                    "start": 96,
+                    "word": "glad"
+                  },
+                  {
+                    "end": 172,
+                    "start": 149,
+                    "word": "for"
+                  },
+                  {
+                    "end": 184,
+                    "start": 173,
+                    "word": "the"
+                  },
+                  {
+                    "end": 239,
+                    "start": 185,
+                    "word": "fan"
+                  }
+                ],
+                "until": 239,
+                "utterances": "Val is glad for the fan"
+              }
+            ],
+            "sentence": "Val is glad for the fan."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Val in the Sun",
+  "titleimage": null
+}

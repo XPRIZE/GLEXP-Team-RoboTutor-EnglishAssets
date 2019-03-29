@@ -1,0 +1,461 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baby.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "baby"
+                  }
+                ],
+                "until": 62,
+                "utterances": "baby"
+              }
+            ],
+            "sentence": "baby "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "day.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "DAY"
+                  }
+                ],
+                "until": 60,
+                "utterances": "DAY"
+              }
+            ],
+            "sentence": "day "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "late.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "late"
+                  }
+                ],
+                "until": 59,
+                "utterances": "late"
+              }
+            ],
+            "sentence": "late "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_a_make_in_the_words_baby_day_and_late.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 80,
+                    "start": 29,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 98,
+                    "start": 81,
+                    "word": "does"
+                  },
+                  {
+                    "end": 105,
+                    "start": 99,
+                    "word": "the"
+                  },
+                  {
+                    "end": 136,
+                    "start": 106,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 177,
+                    "start": 145,
+                    "word": "A"
+                  },
+                  {
+                    "end": 219,
+                    "start": 178,
+                    "word": "make"
+                  },
+                  {
+                    "end": 229,
+                    "start": 220,
+                    "word": "in"
+                  },
+                  {
+                    "end": 236,
+                    "start": 230,
+                    "word": "the"
+                  },
+                  {
+                    "end": 270,
+                    "start": 237,
+                    "word": "words"
+                  },
+                  {
+                    "end": 331,
+                    "start": 277,
+                    "word": "BABY"
+                  },
+                  {
+                    "end": 364,
+                    "start": 353,
+                    "word": "DAY"
+                  },
+                  {
+                    "end": 414,
+                    "start": 365,
+                    "word": "and"
+                  },
+                  {
+                    "end": 466,
+                    "start": 418,
+                    "word": "LATE"
+                  }
+                ],
+                "until": 466,
+                "utterances": "What sound does the Letter A make in the words BABY DAY and LATE"
+              }
+            ],
+            "sentence": "What sound does the letter a make in the words baby, day, and late?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "game.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "GAME"
+                  }
+                ],
+                "until": 48,
+                "utterances": "GAME"
+              }
+            ],
+            "sentence": "game "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "play.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "PLAY"
+                  }
+                ],
+                "until": 48,
+                "utterances": "PLAY"
+              }
+            ],
+            "sentence": "play "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 10,
+                    "word": "SAFE"
+                  }
+                ],
+                "until": 68,
+                "utterances": "SAFE"
+              }
+            ],
+            "sentence": "safe "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "take.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "TAKE"
+                  }
+                ],
+                "until": 49,
+                "utterances": "TAKE"
+              }
+            ],
+            "sentence": "take "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "crazy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "crazy"
+                  }
+                ],
+                "until": 74,
+                "utterances": "crazy"
+              }
+            ],
+            "sentence": "crazy "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Ray"
+                  }
+                ],
+                "until": 60,
+                "utterances": "Ray"
+              },
+              {
+                "audio": "the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "the"
+                  }
+                ],
+                "until": 42,
+                "utterances": "the"
+              },
+              {
+                "audio": "late.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "late"
+                  }
+                ],
+                "until": 59,
+                "utterances": "late"
+              },
+              {
+                "audio": "ape.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "ape"
+                  }
+                ],
+                "until": 39,
+                "utterances": "ape"
+              },
+              {
+                "audio": "was_late_for_a_date.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "was"
+                  },
+                  {
+                    "end": 68,
+                    "start": 37,
+                    "word": "late"
+                  },
+                  {
+                    "end": 87,
+                    "start": 69,
+                    "word": "for"
+                  },
+                  {
+                    "end": 94,
+                    "start": 88,
+                    "word": "a"
+                  },
+                  {
+                    "end": 118,
+                    "start": 95,
+                    "word": "date"
+                  }
+                ],
+                "until": 118,
+                "utterances": "was late for a date"
+              }
+            ],
+            "sentence": "Ray the late ape was late for a date. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_say_have_a_good_day_today.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 80,
+                    "start": 42,
+                    "word": "say"
+                  },
+                  {
+                    "end": 104,
+                    "start": 84,
+                    "word": "have"
+                  },
+                  {
+                    "end": 108,
+                    "start": 105,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 109,
+                    "word": "good"
+                  },
+                  {
+                    "end": 156,
+                    "start": 135,
+                    "word": "day"
+                  },
+                  {
+                    "end": 203,
+                    "start": 157,
+                    "word": "today"
+                  }
+                ],
+                "until": 203,
+                "utterances": "I say have a good day today"
+              }
+            ],
+            "sentence": "I say, have a good day today!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letter A in BABY, DAY, and LATE",
+  "titleimage": null
+}

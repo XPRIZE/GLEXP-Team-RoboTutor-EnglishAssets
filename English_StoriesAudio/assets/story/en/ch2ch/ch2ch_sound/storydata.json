@@ -1,0 +1,410 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chin.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "CHIN"
+                  }
+                ],
+                "until": 57,
+                "utterances": "CHIN"
+              }
+            ],
+            "sentence": "chin "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "CHOP"
+                  }
+                ],
+                "until": 38,
+                "utterances": "CHOP"
+              }
+            ],
+            "sentence": "chop "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "CHAT"
+                  }
+                ],
+                "until": 44,
+                "utterances": "CHAT"
+              }
+            ],
+            "sentence": "chat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_c_h_make_in_the_words_chin_chop_and_chat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 67,
+                    "start": 26,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 74,
+                    "start": 68,
+                    "word": "do"
+                  },
+                  {
+                    "end": 82,
+                    "start": 75,
+                    "word": "the"
+                  },
+                  {
+                    "end": 124,
+                    "start": 83,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 153,
+                    "start": 125,
+                    "word": "C"
+                  },
+                  {
+                    "end": 194,
+                    "start": 158,
+                    "word": "H"
+                  },
+                  {
+                    "end": 225,
+                    "start": 195,
+                    "word": "make"
+                  },
+                  {
+                    "end": 234,
+                    "start": 226,
+                    "word": "in"
+                  },
+                  {
+                    "end": 241,
+                    "start": 235,
+                    "word": "the"
+                  },
+                  {
+                    "end": 278,
+                    "start": 242,
+                    "word": "words"
+                  },
+                  {
+                    "end": 332,
+                    "start": 279,
+                    "word": "CHIN"
+                  },
+                  {
+                    "end": 406,
+                    "start": 357,
+                    "word": "CHOP"
+                  },
+                  {
+                    "end": 444,
+                    "start": 428,
+                    "word": "and"
+                  },
+                  {
+                    "end": 473,
+                    "start": 445,
+                    "word": "CHAT"
+                  }
+                ],
+                "until": 473,
+                "utterances": "What sound do the Letters C H make in the words CHIN CHOP and CHAT"
+              }
+            ],
+            "sentence": "What sound do the Letters c h make in the words chin, chop, and chat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chair.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "CHAIR"
+                  }
+                ],
+                "until": 57,
+                "utterances": "CHAIR"
+              }
+            ],
+            "sentence": "chair "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "check.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "CHECK"
+                  }
+                ],
+                "until": 52,
+                "utterances": "CHECK"
+              }
+            ],
+            "sentence": "check "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "CHUM"
+                  }
+                ],
+                "until": 58,
+                "utterances": "CHUM"
+              }
+            ],
+            "sentence": "chum "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "charlie.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Charlie"
+                  }
+                ],
+                "until": 66,
+                "utterances": "Charlie"
+              }
+            ],
+            "sentence": "charlie "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "church.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "CHURCH"
+                  }
+                ],
+                "until": 57,
+                "utterances": "CHURCH"
+              }
+            ],
+            "sentence": "church "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "charlie.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 10,
+                    "word": "Charlie"
+                  }
+                ],
+                "until": 66,
+                "utterances": "Charlie"
+              },
+              {
+                "audio": "chipmunk.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 10,
+                    "word": "chipmunk"
+                  }
+                ],
+                "until": 73,
+                "utterances": "chipmunk"
+              },
+              {
+                "audio": "chews_cheese.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 10,
+                    "word": "chews"
+                  },
+                  {
+                    "end": 178,
+                    "start": 105,
+                    "word": "cheese"
+                  }
+                ],
+                "until": 178,
+                "utterances": "chews cheese"
+              }
+            ],
+            "sentence": "Charlie chipmunk chews cheese! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "you_are_a_champion.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "You"
+                  },
+                  {
+                    "end": 54,
+                    "start": 40,
+                    "word": "are"
+                  },
+                  {
+                    "end": 60,
+                    "start": 55,
+                    "word": "a"
+                  },
+                  {
+                    "end": 113,
+                    "start": 61,
+                    "word": "champion"
+                  }
+                ],
+                "until": 113,
+                "utterances": "You are a champion"
+              }
+            ],
+            "sentence": "You are a champion! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "A",
+  "title": "The Sound of the Letters C H in CHIN, CHOP, and CHAT",
+  "titleimage": null
+}

@@ -1,0 +1,517 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "GO"
+                  }
+                ],
+                "until": 39,
+                "utterances": "GO"
+              }
+            ],
+            "sentence": "go "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "GUM"
+                  }
+                ],
+                "until": 52,
+                "utterances": "GUM"
+              }
+            ],
+            "sentence": "gum "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "GAS"
+                  }
+                ],
+                "until": 69,
+                "utterances": "GAS"
+              }
+            ],
+            "sentence": "gas "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_g_make_in_the_words_go_gum_and_gas.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 70,
+                    "start": 26,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 82,
+                    "start": 71,
+                    "word": "does"
+                  },
+                  {
+                    "end": 90,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 118,
+                    "start": 91,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 148,
+                    "start": 119,
+                    "word": "G"
+                  },
+                  {
+                    "end": 185,
+                    "start": 149,
+                    "word": "make"
+                  },
+                  {
+                    "end": 200,
+                    "start": 186,
+                    "word": "in"
+                  },
+                  {
+                    "end": 207,
+                    "start": 201,
+                    "word": "the"
+                  },
+                  {
+                    "end": 241,
+                    "start": 208,
+                    "word": "words"
+                  },
+                  {
+                    "end": 300,
+                    "start": 242,
+                    "word": "GO"
+                  },
+                  {
+                    "end": 343,
+                    "start": 308,
+                    "word": "GUM"
+                  },
+                  {
+                    "end": 368,
+                    "start": 344,
+                    "word": "and"
+                  },
+                  {
+                    "end": 429,
+                    "start": 369,
+                    "word": "GAS"
+                  }
+                ],
+                "until": 429,
+                "utterances": "What sound does the Letter G make in the words GO GUM and GAS"
+              }
+            ],
+            "sentence": "What sound does the letter g make in the words go, gum, and gas?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "get.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "GET"
+                  }
+                ],
+                "until": 41,
+                "utterances": "GET"
+              }
+            ],
+            "sentence": "get "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "GUT"
+                  }
+                ],
+                "until": 35,
+                "utterances": "GUT"
+              }
+            ],
+            "sentence": "gut "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "good.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "GOOD"
+                  }
+                ],
+                "until": 43,
+                "utterances": "GOOD"
+              }
+            ],
+            "sentence": "good "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "GLAD"
+                  }
+                ],
+                "until": 59,
+                "utterances": "GLAD"
+              }
+            ],
+            "sentence": "glad "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gold.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "GOLD"
+                  }
+                ],
+                "until": 55,
+                "utterances": "GOLD"
+              }
+            ],
+            "sentence": "gold "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go_get_gum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 75,
+                    "start": 44,
+                    "word": "get"
+                  },
+                  {
+                    "end": 119,
+                    "start": 76,
+                    "word": "gum"
+                  }
+                ],
+                "until": 119,
+                "utterances": "Go get gum"
+              }
+            ],
+            "sentence": "Go get gum... "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go_get_green_gum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 77,
+                    "start": 41,
+                    "word": "get"
+                  },
+                  {
+                    "end": 120,
+                    "start": 78,
+                    "word": "green"
+                  },
+                  {
+                    "end": 166,
+                    "start": 121,
+                    "word": "gum"
+                  }
+                ],
+                "until": 166,
+                "utterances": "Go get green gum"
+              }
+            ],
+            "sentence": "Go get green gum... "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go_get_good_green_gum.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 74,
+                    "start": 39,
+                    "word": "get"
+                  },
+                  {
+                    "end": 114,
+                    "start": 83,
+                    "word": "good"
+                  },
+                  {
+                    "end": 153,
+                    "start": 115,
+                    "word": "green"
+                  },
+                  {
+                    "end": 202,
+                    "start": 154,
+                    "word": "gum"
+                  }
+                ],
+                "until": 202,
+                "utterances": "Go get good green gum"
+              }
+            ],
+            "sentence": "Go get good green gum... "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "got_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Got"
+                  },
+                  {
+                    "end": 21,
+                    "start": 4,
+                    "word": "it"
+                  }
+                ],
+                "until": 21,
+                "utterances": "Got it"
+              }
+            ],
+            "sentence": "Got it! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "great_work_reading_with_the_letter_g.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Great"
+                  },
+                  {
+                    "end": 82,
+                    "start": 43,
+                    "word": "work"
+                  },
+                  {
+                    "end": 116,
+                    "start": 83,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 133,
+                    "start": 117,
+                    "word": "with"
+                  },
+                  {
+                    "end": 142,
+                    "start": 134,
+                    "word": "the"
+                  },
+                  {
+                    "end": 178,
+                    "start": 143,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 227,
+                    "start": 179,
+                    "word": "G"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Great work reading with the letter G"
+              }
+            ],
+            "sentence": "Great work reading with the letter g! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter G in GO, GUM, and GAS",
+  "titleimage": null
+}

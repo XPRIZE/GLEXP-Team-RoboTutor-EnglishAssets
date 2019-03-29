@@ -1,0 +1,543 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_sam_sit_on_the_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 96,
+                    "start": 69,
+                    "word": "and"
+                  },
+                  {
+                    "end": 157,
+                    "start": 97,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 198,
+                    "start": 158,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 260,
+                    "start": 220,
+                    "word": "on"
+                  },
+                  {
+                    "end": 286,
+                    "start": 261,
+                    "word": "the"
+                  },
+                  {
+                    "end": 322,
+                    "start": 287,
+                    "word": "mat"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Dad and Sam sit on the mat"
+              }
+            ],
+            "sentence": "Dad and Sam sit on the mat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mat_is_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 28,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 98,
+                    "start": 73,
+                    "word": "is"
+                  },
+                  {
+                    "end": 132,
+                    "start": 99,
+                    "word": "in"
+                  },
+                  {
+                    "end": 167,
+                    "start": 133,
+                    "word": "the"
+                  },
+                  {
+                    "end": 224,
+                    "start": 168,
+                    "word": "mist"
+                  }
+                ],
+                "until": 224,
+                "utterances": "The mat is in the mist"
+              }
+            ],
+            "sentence": "The mat is in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 75,
+                    "start": 58,
+                    "word": "is"
+                  },
+                  {
+                    "end": 103,
+                    "start": 76,
+                    "word": "in"
+                  },
+                  {
+                    "end": 113,
+                    "start": 104,
+                    "word": "the"
+                  },
+                  {
+                    "end": 170,
+                    "start": 114,
+                    "word": "mist"
+                  }
+                ],
+                "until": 170,
+                "utterances": "Dad is in the mist"
+              }
+            ],
+            "sentence": "Dad is in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_is_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 131,
+                    "start": 82,
+                    "word": "is"
+                  },
+                  {
+                    "end": 168,
+                    "start": 139,
+                    "word": "in"
+                  },
+                  {
+                    "end": 234,
+                    "start": 169,
+                    "word": "the"
+                  },
+                  {
+                    "end": 293,
+                    "start": 235,
+                    "word": "mist"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Sam is in the mist"
+              }
+            ],
+            "sentence": "Sam is in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sam_and_sis_sit_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 137,
+                    "start": 70,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 183,
+                    "start": 152,
+                    "word": "and"
+                  },
+                  {
+                    "end": 259,
+                    "start": 184,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 298,
+                    "start": 260,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 372,
+                    "start": 322,
+                    "word": "in"
+                  },
+                  {
+                    "end": 395,
+                    "start": 373,
+                    "word": "the"
+                  },
+                  {
+                    "end": 455,
+                    "start": 396,
+                    "word": "mist"
+                  }
+                ],
+                "until": 455,
+                "utterances": "Dad Sam and Sis sit in the mist"
+              }
+            ],
+            "sentence": "Dad, Sam, and Sis sit in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sam_and_sis_sit_on_the_mat_in_the_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 96,
+                    "start": 50,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 120,
+                    "start": 97,
+                    "word": "and"
+                  },
+                  {
+                    "end": 176,
+                    "start": 121,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 209,
+                    "start": 177,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 236,
+                    "start": 215,
+                    "word": "on"
+                  },
+                  {
+                    "end": 245,
+                    "start": 237,
+                    "word": "the"
+                  },
+                  {
+                    "end": 282,
+                    "start": 246,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 300,
+                    "start": 288,
+                    "word": "in"
+                  },
+                  {
+                    "end": 314,
+                    "start": 301,
+                    "word": "the"
+                  },
+                  {
+                    "end": 365,
+                    "start": 315,
+                    "word": "mist"
+                  }
+                ],
+                "until": 365,
+                "utterances": "Dad Sam and Sis sit on the mat in the mist"
+              }
+            ],
+            "sentence": "Dad, Sam, and Sis sit on the mat in the mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mist_is_dim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 81,
+                    "start": 25,
+                    "word": "mist"
+                  },
+                  {
+                    "end": 121,
+                    "start": 94,
+                    "word": "is"
+                  },
+                  {
+                    "end": 171,
+                    "start": 122,
+                    "word": "dim"
+                  }
+                ],
+                "until": 171,
+                "utterances": "The mist is dim"
+              }
+            ],
+            "sentence": "The mist is dim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sits_in_dim_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 104,
+                    "start": 50,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 139,
+                    "start": 109,
+                    "word": "in"
+                  },
+                  {
+                    "end": 185,
+                    "start": 146,
+                    "word": "dim"
+                  },
+                  {
+                    "end": 254,
+                    "start": 191,
+                    "word": "mist"
+                  }
+                ],
+                "until": 254,
+                "utterances": "Dad sits in dim mist"
+              }
+            ],
+            "sentence": "Dad sits in dim mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sam_sits_on_the_mat_in_dim_mist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 10,
+                    "word": "Sam"
+                  },
+                  {
+                    "end": 128,
+                    "start": 74,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 163,
+                    "start": 129,
+                    "word": "on"
+                  },
+                  {
+                    "end": 173,
+                    "start": 164,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 174,
+                    "word": "mat"
+                  },
+                  {
+                    "end": 264,
+                    "start": 236,
+                    "word": "in"
+                  },
+                  {
+                    "end": 313,
+                    "start": 270,
+                    "word": "dim"
+                  },
+                  {
+                    "end": 380,
+                    "start": 314,
+                    "word": "mist"
+                  }
+                ],
+                "until": 380,
+                "utterances": "Sam sits on the mat in dim mist"
+              }
+            ],
+            "sentence": "Sam sits on the mat in dim mist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sis_sits_on_the_dim_mat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 10,
+                    "word": "Sis"
+                  },
+                  {
+                    "end": 125,
+                    "start": 79,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 156,
+                    "start": 126,
+                    "word": "on"
+                  },
+                  {
+                    "end": 168,
+                    "start": 157,
+                    "word": "the"
+                  },
+                  {
+                    "end": 212,
+                    "start": 169,
+                    "word": "dim"
+                  },
+                  {
+                    "end": 279,
+                    "start": 218,
+                    "word": "mat"
+                  }
+                ],
+                "until": 279,
+                "utterances": "Sis sits on the dim mat"
+              }
+            ],
+            "sentence": "Sis sits on the dim mat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Dad, Sam, and the Mat",
+  "titleimage": null
+}

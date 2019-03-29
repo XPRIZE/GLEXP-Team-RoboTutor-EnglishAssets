@@ -1,0 +1,702 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_slid_in_the_mud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 85,
+                    "start": 32,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 143,
+                    "start": 86,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 172,
+                    "start": 153,
+                    "word": "in"
+                  },
+                  {
+                    "end": 180,
+                    "start": 173,
+                    "word": "the"
+                  },
+                  {
+                    "end": 225,
+                    "start": 181,
+                    "word": "mud"
+                  }
+                ],
+                "until": 225,
+                "utterances": "The frog slid in the mud"
+              }
+            ],
+            "sentence": "The frog slid in the mud."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_can_not_swim.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 61,
+                    "start": 30,
+                    "word": "can"
+                  },
+                  {
+                    "end": 92,
+                    "start": 62,
+                    "word": "not"
+                  },
+                  {
+                    "end": 185,
+                    "start": 93,
+                    "word": "swim"
+                  }
+                ],
+                "until": 185,
+                "utterances": "It can not swim"
+              }
+            ],
+            "sentence": "It can not swim."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_got_wet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 102,
+                    "start": 49,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 140,
+                    "start": 107,
+                    "word": "got"
+                  },
+                  {
+                    "end": 198,
+                    "start": 141,
+                    "word": "wet"
+                  }
+                ],
+                "until": 198,
+                "utterances": "The frog got wet"
+              }
+            ],
+            "sentence": "The frog got wet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_felt_its_leg_twist.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 28,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 134,
+                    "start": 87,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 165,
+                    "start": 143,
+                    "word": "its"
+                  },
+                  {
+                    "end": 210,
+                    "start": 166,
+                    "word": "leg"
+                  },
+                  {
+                    "end": 289,
+                    "start": 223,
+                    "word": "twist"
+                  }
+                ],
+                "until": 289,
+                "utterances": "The frog felt its leg twist"
+              }
+            ],
+            "sentence": "The frog felt its leg twist."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_the_wet_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 104,
+                    "start": 53,
+                    "word": "got"
+                  },
+                  {
+                    "end": 121,
+                    "start": 105,
+                    "word": "the"
+                  },
+                  {
+                    "end": 158,
+                    "start": 122,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 226,
+                    "start": 162,
+                    "word": "frog"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Dad got the wet frog"
+              }
+            ],
+            "sentence": "Dad got the wet frog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_the_frog_went_to_the_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 91,
+                    "start": 64,
+                    "word": "and"
+                  },
+                  {
+                    "end": 105,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 161,
+                    "start": 106,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 208,
+                    "start": 162,
+                    "word": "went"
+                  },
+                  {
+                    "end": 238,
+                    "start": 213,
+                    "word": "to"
+                  },
+                  {
+                    "end": 253,
+                    "start": 239,
+                    "word": "the"
+                  },
+                  {
+                    "end": 287,
+                    "start": 254,
+                    "word": "vet"
+                  }
+                ],
+                "until": 287,
+                "utterances": "Dad and the frog went to the vet"
+              }
+            ],
+            "sentence": "Dad and the frog went to the vet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_said_the_frog_can_not_lift_its_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 102,
+                    "start": 43,
+                    "word": "said"
+                  },
+                  {
+                    "end": 118,
+                    "start": 103,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 119,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 207,
+                    "start": 181,
+                    "word": "can"
+                  },
+                  {
+                    "end": 247,
+                    "start": 208,
+                    "word": "not"
+                  },
+                  {
+                    "end": 291,
+                    "start": 248,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 313,
+                    "start": 292,
+                    "word": "its"
+                  },
+                  {
+                    "end": 359,
+                    "start": 314,
+                    "word": "leg"
+                  }
+                ],
+                "until": 359,
+                "utterances": "Dad said the frog can not lift its leg"
+              }
+            ],
+            "sentence": "Dad said, \"the frog can not lift its leg.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_vet_felt_the_wet_frog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 104,
+                    "start": 58,
+                    "word": "vet"
+                  },
+                  {
+                    "end": 155,
+                    "start": 110,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 171,
+                    "start": 159,
+                    "word": "the"
+                  },
+                  {
+                    "end": 200,
+                    "start": 172,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 268,
+                    "start": 204,
+                    "word": "frog"
+                  }
+                ],
+                "until": 268,
+                "utterances": "The vet felt the wet frog"
+              }
+            ],
+            "sentence": "The vet felt the wet frog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_vet_bent_its_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 35,
+                    "word": "vet"
+                  },
+                  {
+                    "end": 123,
+                    "start": 90,
+                    "word": "bent"
+                  },
+                  {
+                    "end": 150,
+                    "start": 130,
+                    "word": "its"
+                  },
+                  {
+                    "end": 196,
+                    "start": 151,
+                    "word": "leg"
+                  }
+                ],
+                "until": 196,
+                "utterances": "The vet bent its leg"
+              }
+            ],
+            "sentence": "The vet bent its leg."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_wet_frog_felt_fit.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 8,
+                    "word": "The"
+                  },
+                  {
+                    "end": 100,
+                    "start": 63,
+                    "word": "wet"
+                  },
+                  {
+                    "end": 151,
+                    "start": 101,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 195,
+                    "start": 152,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 233,
+                    "start": 199,
+                    "word": "fit"
+                  }
+                ],
+                "until": 233,
+                "utterances": "The wet frog felt fit"
+              }
+            ],
+            "sentence": "The wet frog felt fit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_frog_can_lift_its_leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 35,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 120,
+                    "start": 96,
+                    "word": "can"
+                  },
+                  {
+                    "end": 159,
+                    "start": 121,
+                    "word": "lift"
+                  },
+                  {
+                    "end": 186,
+                    "start": 160,
+                    "word": "its"
+                  },
+                  {
+                    "end": 237,
+                    "start": 187,
+                    "word": "leg"
+                  }
+                ],
+                "until": 237,
+                "utterances": "The frog can lift its leg"
+              }
+            ],
+            "sentence": "The frog can lift its leg!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_said_you_are_the_best_vet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 83,
+                    "start": 42,
+                    "word": "said"
+                  },
+                  {
+                    "end": 111,
+                    "start": 84,
+                    "word": "You"
+                  },
+                  {
+                    "end": 144,
+                    "start": 112,
+                    "word": "are"
+                  },
+                  {
+                    "end": 158,
+                    "start": 145,
+                    "word": "the"
+                  },
+                  {
+                    "end": 201,
+                    "start": 159,
+                    "word": "best"
+                  },
+                  {
+                    "end": 249,
+                    "start": 202,
+                    "word": "vet"
+                  }
+                ],
+                "until": 249,
+                "utterances": "Dad said You are the best vet"
+              }
+            ],
+            "sentence": "Dad said, \"You are the best vet!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_and_the_frog_left.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 94,
+                    "start": 63,
+                    "word": "and"
+                  },
+                  {
+                    "end": 105,
+                    "start": 95,
+                    "word": "the"
+                  },
+                  {
+                    "end": 150,
+                    "start": 106,
+                    "word": "frog"
+                  },
+                  {
+                    "end": 216,
+                    "start": 151,
+                    "word": "left"
+                  }
+                ],
+                "until": 216,
+                "utterances": "Dad and the frog left"
+              }
+            ],
+            "sentence": "Dad and the frog left."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_went_to_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 77,
+                    "start": 46,
+                    "word": "went"
+                  },
+                  {
+                    "end": 89,
+                    "start": 78,
+                    "word": "to"
+                  },
+                  {
+                    "end": 132,
+                    "start": 90,
+                    "word": "bed"
+                  }
+                ],
+                "until": 132,
+                "utterances": "Dad went to bed"
+              }
+            ],
+            "sentence": "Dad went to bed."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Frog",
+  "titleimage": null
+}

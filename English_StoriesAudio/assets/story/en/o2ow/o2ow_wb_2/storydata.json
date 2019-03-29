@@ -1,0 +1,1250 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_was_at_home.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 85,
+                    "start": 53,
+                    "word": "was"
+                  },
+                  {
+                    "end": 115,
+                    "start": 86,
+                    "word": "at"
+                  },
+                  {
+                    "end": 161,
+                    "start": 116,
+                    "word": "home"
+                  }
+                ],
+                "until": 161,
+                "utterances": "Bob was at home"
+              }
+            ],
+            "sentence": "Bob was at home."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_woke_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 64,
+                    "start": 29,
+                    "word": "woke"
+                  },
+                  {
+                    "end": 89,
+                    "start": 65,
+                    "word": "up"
+                  }
+                ],
+                "until": 89,
+                "utterances": "He woke up"
+              }
+            ],
+            "sentence": "He woke up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_woke_up_at_nine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 75,
+                    "start": 49,
+                    "word": "woke"
+                  },
+                  {
+                    "end": 102,
+                    "start": 76,
+                    "word": "up"
+                  },
+                  {
+                    "end": 122,
+                    "start": 103,
+                    "word": "at"
+                  },
+                  {
+                    "end": 174,
+                    "start": 123,
+                    "word": "nine"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Bob woke up at nine"
+              }
+            ],
+            "sentence": "Bob woke up at nine."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_put_on_his_robe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 68,
+                    "start": 30,
+                    "word": "put"
+                  },
+                  {
+                    "end": 102,
+                    "start": 69,
+                    "word": "on"
+                  },
+                  {
+                    "end": 125,
+                    "start": 108,
+                    "word": "his"
+                  },
+                  {
+                    "end": 162,
+                    "start": 126,
+                    "word": "robe"
+                  }
+                ],
+                "until": 162,
+                "utterances": "He put on his robe"
+              }
+            ],
+            "sentence": "He put on his robe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fire.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 10,
+                    "word": "FIRE"
+                  }
+                ],
+                "until": 79,
+                "utterances": "FIRE"
+              },
+              {
+                "audio": "fire.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 10,
+                    "word": "FIRE"
+                  }
+                ],
+                "until": 79,
+                "utterances": "FIRE"
+              }
+            ],
+            "sentence": "FIRE! FIRE!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_said_is_it_a_joke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 94,
+                    "start": 50,
+                    "word": "said"
+                  },
+                  {
+                    "end": 141,
+                    "start": 117,
+                    "word": "is"
+                  },
+                  {
+                    "end": 164,
+                    "start": 142,
+                    "word": "it"
+                  },
+                  {
+                    "end": 172,
+                    "start": 165,
+                    "word": "a"
+                  },
+                  {
+                    "end": 217,
+                    "start": 173,
+                    "word": "joke"
+                  }
+                ],
+                "until": 217,
+                "utterances": "Bob said is it a joke"
+              }
+            ],
+            "sentence": "Bob said, is it a joke?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_it_is_not_a_joke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 90,
+                    "start": 71,
+                    "word": "it"
+                  },
+                  {
+                    "end": 105,
+                    "start": 91,
+                    "word": "is"
+                  },
+                  {
+                    "end": 127,
+                    "start": 106,
+                    "word": "not"
+                  },
+                  {
+                    "end": 139,
+                    "start": 128,
+                    "word": "a"
+                  },
+                  {
+                    "end": 184,
+                    "start": 140,
+                    "word": "joke"
+                  }
+                ],
+                "until": 184,
+                "utterances": "No it is not a joke"
+              }
+            ],
+            "sentence": "No, it is not a joke!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fire.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 10,
+                    "word": "FIRE"
+                  }
+                ],
+                "until": 79,
+                "utterances": "FIRE"
+              }
+            ],
+            "sentence": "FIRE!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_felt_smoke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 75,
+                    "start": 45,
+                    "word": "felt"
+                  },
+                  {
+                    "end": 133,
+                    "start": 76,
+                    "word": "smoke"
+                  }
+                ],
+                "until": 133,
+                "utterances": "Bob felt smoke"
+              }
+            ],
+            "sentence": "Bob felt smoke."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "his_home_was_on_fire.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "His"
+                  },
+                  {
+                    "end": 89,
+                    "start": 43,
+                    "word": "home"
+                  },
+                  {
+                    "end": 121,
+                    "start": 90,
+                    "word": "was"
+                  },
+                  {
+                    "end": 138,
+                    "start": 122,
+                    "word": "on"
+                  },
+                  {
+                    "end": 194,
+                    "start": 139,
+                    "word": "fire"
+                  }
+                ],
+                "until": 194,
+                "utterances": "His home was on fire"
+              }
+            ],
+            "sentence": "His home was on fire."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_bob_is_brave.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 78,
+                    "start": 34,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 95,
+                    "start": 79,
+                    "word": "is"
+                  },
+                  {
+                    "end": 154,
+                    "start": 96,
+                    "word": "brave"
+                  }
+                ],
+                "until": 154,
+                "utterances": "But Bob is brave"
+              }
+            ],
+            "sentence": "But Bob is brave."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_made_it_out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 61,
+                    "start": 31,
+                    "word": "made"
+                  },
+                  {
+                    "end": 79,
+                    "start": 62,
+                    "word": "it"
+                  },
+                  {
+                    "end": 119,
+                    "start": 80,
+                    "word": "out"
+                  }
+                ],
+                "until": 119,
+                "utterances": "He made it out"
+              }
+            ],
+            "sentence": "He made it out."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_is_safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 70,
+                    "start": 52,
+                    "word": "is"
+                  },
+                  {
+                    "end": 130,
+                    "start": 71,
+                    "word": "safe"
+                  }
+                ],
+                "until": 130,
+                "utterances": "Bob is safe"
+              }
+            ],
+            "sentence": "Bob is safe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_is_the_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 44,
+                    "start": 28,
+                    "word": "is"
+                  },
+                  {
+                    "end": 54,
+                    "start": 45,
+                    "word": "the"
+                  },
+                  {
+                    "end": 69,
+                    "start": 55,
+                    "word": "cat"
+                  }
+                ],
+                "until": 69,
+                "utterances": "Where is the cat"
+              }
+            ],
+            "sentence": "Where is the cat?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_cat_make_it_out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 44,
+                    "start": 35,
+                    "word": "the"
+                  },
+                  {
+                    "end": 63,
+                    "start": 45,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 118,
+                    "start": 87,
+                    "word": "make"
+                  },
+                  {
+                    "end": 130,
+                    "start": 119,
+                    "word": "it"
+                  },
+                  {
+                    "end": 171,
+                    "start": 131,
+                    "word": "out"
+                  }
+                ],
+                "until": 171,
+                "utterances": "Did the cat make it out"
+              }
+            ],
+            "sentence": "Did the cat make it out?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fire_got_close.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 83,
+                    "start": 29,
+                    "word": "fire"
+                  },
+                  {
+                    "end": 114,
+                    "start": 84,
+                    "word": "got"
+                  },
+                  {
+                    "end": 176,
+                    "start": 115,
+                    "word": "close"
+                  }
+                ],
+                "until": 176,
+                "utterances": "The fire got close"
+              }
+            ],
+            "sentence": "The fire got close."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_drove_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 86,
+                    "start": 47,
+                    "word": "drove"
+                  },
+                  {
+                    "end": 123,
+                    "start": 87,
+                    "word": "up"
+                  }
+                ],
+                "until": 123,
+                "utterances": "What drove up"
+              }
+            ],
+            "sentence": "What drove up?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_fire_truck.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 72,
+                    "start": 23,
+                    "word": "fire"
+                  },
+                  {
+                    "end": 119,
+                    "start": 73,
+                    "word": "truck"
+                  }
+                ],
+                "until": 119,
+                "utterances": "A fire truck"
+              }
+            ],
+            "sentence": "A fire truck!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_drove_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 83,
+                    "start": 28,
+                    "word": "drove"
+                  },
+                  {
+                    "end": 146,
+                    "start": 100,
+                    "word": "fast"
+                  }
+                ],
+                "until": 146,
+                "utterances": "It drove fast"
+              }
+            ],
+            "sentence": "It drove fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_drove_up_just_in_time.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 72,
+                    "start": 30,
+                    "word": "drove"
+                  },
+                  {
+                    "end": 95,
+                    "start": 73,
+                    "word": "up"
+                  },
+                  {
+                    "end": 142,
+                    "start": 96,
+                    "word": "just"
+                  },
+                  {
+                    "end": 157,
+                    "start": 143,
+                    "word": "in"
+                  },
+                  {
+                    "end": 202,
+                    "start": 158,
+                    "word": "time"
+                  }
+                ],
+                "until": 202,
+                "utterances": "It drove up just in time"
+              }
+            ],
+            "sentence": "It drove up just in time."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_bob_smile.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 67,
+                    "start": 26,
+                    "word": "made"
+                  },
+                  {
+                    "end": 103,
+                    "start": 68,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 172,
+                    "start": 104,
+                    "word": "smile"
+                  }
+                ],
+                "until": 172,
+                "utterances": "It made Bob smile"
+              }
+            ],
+            "sentence": "It made Bob smile."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_firemen_had_a_rope.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 105,
+                    "start": 37,
+                    "word": "firemen"
+                  },
+                  {
+                    "end": 120,
+                    "start": 106,
+                    "word": "had"
+                  },
+                  {
+                    "end": 157,
+                    "start": 121,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 158,
+                    "word": "rope"
+                  }
+                ],
+                "until": 187,
+                "utterances": "The firemen had a rope"
+              }
+            ],
+            "sentence": "The firemen had a rope."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_broke_a_hole.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 71,
+                    "start": 23,
+                    "word": "broke"
+                  },
+                  {
+                    "end": 77,
+                    "start": 72,
+                    "word": "a"
+                  },
+                  {
+                    "end": 127,
+                    "start": 84,
+                    "word": "hole"
+                  }
+                ],
+                "until": 127,
+                "utterances": "They broke a hole"
+              }
+            ],
+            "sentence": "They broke a hole."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 25,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_firemen_went_in.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 91,
+                    "start": 30,
+                    "word": "firemen"
+                  },
+                  {
+                    "end": 129,
+                    "start": 92,
+                    "word": "went"
+                  },
+                  {
+                    "end": 157,
+                    "start": 130,
+                    "word": "in"
+                  }
+                ],
+                "until": 157,
+                "utterances": "The firemen went in"
+              }
+            ],
+            "sentence": "The firemen went in."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 26,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_had_to_get_close_to_the_fire.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 55,
+                    "start": 24,
+                    "word": "had"
+                  },
+                  {
+                    "end": 69,
+                    "start": 56,
+                    "word": "to"
+                  },
+                  {
+                    "end": 84,
+                    "start": 70,
+                    "word": "get"
+                  },
+                  {
+                    "end": 139,
+                    "start": 85,
+                    "word": "close"
+                  },
+                  {
+                    "end": 154,
+                    "start": 140,
+                    "word": "to"
+                  },
+                  {
+                    "end": 163,
+                    "start": 155,
+                    "word": "the"
+                  },
+                  {
+                    "end": 220,
+                    "start": 164,
+                    "word": "fire"
+                  }
+                ],
+                "until": 220,
+                "utterances": "They had to get close to the fire"
+              }
+            ],
+            "sentence": "They had to get close to the fire."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 27,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_fire_men_made_it_past_the_flame.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 64,
+                    "start": 24,
+                    "word": "fire"
+                  },
+                  {
+                    "end": 95,
+                    "start": 65,
+                    "word": "men"
+                  },
+                  {
+                    "end": 121,
+                    "start": 96,
+                    "word": "made"
+                  },
+                  {
+                    "end": 135,
+                    "start": 122,
+                    "word": "it"
+                  },
+                  {
+                    "end": 183,
+                    "start": 136,
+                    "word": "past"
+                  },
+                  {
+                    "end": 191,
+                    "start": 184,
+                    "word": "the"
+                  },
+                  {
+                    "end": 244,
+                    "start": 192,
+                    "word": "flame"
+                  }
+                ],
+                "until": 244,
+                "utterances": "The fire men made it past the flame"
+              }
+            ],
+            "sentence": "The fire men made it past the flame."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 28,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "they_got_the_cat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "They"
+                  },
+                  {
+                    "end": 71,
+                    "start": 35,
+                    "word": "got"
+                  },
+                  {
+                    "end": 87,
+                    "start": 72,
+                    "word": "the"
+                  },
+                  {
+                    "end": 147,
+                    "start": 88,
+                    "word": "cat"
+                  }
+                ],
+                "until": 147,
+                "utterances": "They got the cat"
+              }
+            ],
+            "sentence": "They got the cat!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 29,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bob_and_the_cat_are_safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "Bob"
+                  },
+                  {
+                    "end": 88,
+                    "start": 61,
+                    "word": "and"
+                  },
+                  {
+                    "end": 103,
+                    "start": 89,
+                    "word": "the"
+                  },
+                  {
+                    "end": 131,
+                    "start": 104,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 158,
+                    "start": 132,
+                    "word": "are"
+                  },
+                  {
+                    "end": 217,
+                    "start": 159,
+                    "word": "safe"
+                  }
+                ],
+                "until": 217,
+                "utterances": "Bob and the cat are safe"
+              }
+            ],
+            "sentence": "Bob and the cat are safe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 30,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 98,
+                    "start": 50,
+                    "word": "end"
+                  }
+                ],
+                "until": 98,
+                "utterances": "The end"
+              }
+            ],
+            "sentence": "The end."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Fire!",
+  "titleimage": null
+}

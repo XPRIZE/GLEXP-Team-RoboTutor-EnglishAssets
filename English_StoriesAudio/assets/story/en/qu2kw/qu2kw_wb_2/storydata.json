@@ -1,0 +1,558 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "where_is_the_queen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Where"
+                  },
+                  {
+                    "end": 57,
+                    "start": 44,
+                    "word": "is"
+                  },
+                  {
+                    "end": 66,
+                    "start": 58,
+                    "word": "the"
+                  },
+                  {
+                    "end": 115,
+                    "start": 67,
+                    "word": "queen"
+                  }
+                ],
+                "until": 115,
+                "utterances": "Where is the queen"
+              }
+            ],
+            "sentence": "Where is the queen?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_must_ask_her_a_question.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 60,
+                    "start": 24,
+                    "word": "must"
+                  },
+                  {
+                    "end": 99,
+                    "start": 68,
+                    "word": "ask"
+                  },
+                  {
+                    "end": 110,
+                    "start": 100,
+                    "word": "her"
+                  },
+                  {
+                    "end": 122,
+                    "start": 111,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 123,
+                    "word": "question"
+                  }
+                ],
+                "until": 187,
+                "utterances": "I must ask her a question"
+              }
+            ],
+            "sentence": "I must ask her a question."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_have_a_question_for_the_queen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 46,
+                    "start": 24,
+                    "word": "have"
+                  },
+                  {
+                    "end": 53,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 109,
+                    "start": 54,
+                    "word": "question"
+                  },
+                  {
+                    "end": 138,
+                    "start": 110,
+                    "word": "for"
+                  },
+                  {
+                    "end": 145,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 189,
+                    "start": 146,
+                    "word": "queen"
+                  }
+                ],
+                "until": 189,
+                "utterances": "I have a question for the queen"
+              }
+            ],
+            "sentence": "I have a question for the queen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "here_i_am_said_the_queen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Here"
+                  },
+                  {
+                    "end": 44,
+                    "start": 42,
+                    "word": "I"
+                  },
+                  {
+                    "end": 87,
+                    "start": 45,
+                    "word": "am"
+                  },
+                  {
+                    "end": 115,
+                    "start": 88,
+                    "word": "said"
+                  },
+                  {
+                    "end": 122,
+                    "start": 116,
+                    "word": "the"
+                  },
+                  {
+                    "end": 175,
+                    "start": 123,
+                    "word": "queen"
+                  }
+                ],
+                "until": 175,
+                "utterances": "Here I am said the queen"
+              }
+            ],
+            "sentence": "\"Here I am,\" said the queen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_is_your_question.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 64,
+                    "start": 44,
+                    "word": "is"
+                  },
+                  {
+                    "end": 85,
+                    "start": 65,
+                    "word": "your"
+                  },
+                  {
+                    "end": 145,
+                    "start": 86,
+                    "word": "question"
+                  }
+                ],
+                "until": 145,
+                "utterances": "What is your question"
+              }
+            ],
+            "sentence": "\"What is your question?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_hear_the_eal_squeal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 51,
+                    "start": 35,
+                    "word": "you"
+                  },
+                  {
+                    "end": 77,
+                    "start": 52,
+                    "word": "hear"
+                  },
+                  {
+                    "end": 103,
+                    "start": 83,
+                    "word": "the"
+                  },
+                  {
+                    "end": 124,
+                    "start": 104,
+                    "word": "eal"
+                  },
+                  {
+                    "end": 181,
+                    "start": 125,
+                    "word": "squeal"
+                  }
+                ],
+                "until": 181,
+                "utterances": "Can you hear the eal squeal"
+              }
+            ],
+            "sentence": "Can you hear the eal squeal?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not_quite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Not"
+                  },
+                  {
+                    "end": 83,
+                    "start": 44,
+                    "word": "quite"
+                  }
+                ],
+                "until": 83,
+                "utterances": "Not quite"
+              }
+            ],
+            "sentence": "\"Not quite.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_feel_the_teal_seal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 37,
+                    "start": 26,
+                    "word": "you"
+                  },
+                  {
+                    "end": 76,
+                    "start": 38,
+                    "word": "feel"
+                  },
+                  {
+                    "end": 88,
+                    "start": 77,
+                    "word": "the"
+                  },
+                  {
+                    "end": 122,
+                    "start": 89,
+                    "word": "teal"
+                  },
+                  {
+                    "end": 174,
+                    "start": 123,
+                    "word": "seal"
+                  }
+                ],
+                "until": 174,
+                "utterances": "Can you feel the teal seal"
+              }
+            ],
+            "sentence": "Can you feel the teal seal?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not_quite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Not"
+                  },
+                  {
+                    "end": 83,
+                    "start": 44,
+                    "word": "quite"
+                  }
+                ],
+                "until": 83,
+                "utterances": "Not quite"
+              }
+            ],
+            "sentence": "\"Not quite.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_you_reach_each_peach.mp3",
+                "from": 8,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 8,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 41,
+                    "start": 27,
+                    "word": "you"
+                  },
+                  {
+                    "end": 80,
+                    "start": 42,
+                    "word": "reach"
+                  },
+                  {
+                    "end": 102,
+                    "start": 81,
+                    "word": "each"
+                  },
+                  {
+                    "end": 157,
+                    "start": 103,
+                    "word": "peach"
+                  }
+                ],
+                "until": 157,
+                "utterances": "Can you reach each peach"
+              }
+            ],
+            "sentence": "Can you reach each peach?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not_quite.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Not"
+                  },
+                  {
+                    "end": 83,
+                    "start": 44,
+                    "word": "quite"
+                  }
+                ],
+                "until": 83,
+                "utterances": "Not quite"
+              },
+              {
+                "audio": "the_queen_said_be_quiet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 61,
+                    "start": 27,
+                    "word": "queen"
+                  },
+                  {
+                    "end": 101,
+                    "start": 62,
+                    "word": "said"
+                  },
+                  {
+                    "end": 128,
+                    "start": 102,
+                    "word": "be"
+                  },
+                  {
+                    "end": 187,
+                    "start": 129,
+                    "word": "quiet"
+                  }
+                ],
+                "until": 187,
+                "utterances": "The queen said be quiet"
+              }
+            ],
+            "sentence": "\"Not quite.\" The queen said, \"be quiet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_more_questions.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 67,
+                    "start": 36,
+                    "word": "more"
+                  },
+                  {
+                    "end": 149,
+                    "start": 68,
+                    "word": "questions"
+                  }
+                ],
+                "until": 149,
+                "utterances": "No more questions"
+              }
+            ],
+            "sentence": "No more questions.\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Questions for the Queen",
+  "titleimage": null
+}

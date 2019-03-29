@@ -1,0 +1,524 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "look_at_the_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Look"
+                  },
+                  {
+                    "end": 92,
+                    "start": 61,
+                    "word": "at"
+                  },
+                  {
+                    "end": 111,
+                    "start": 93,
+                    "word": "the"
+                  },
+                  {
+                    "end": 139,
+                    "start": 112,
+                    "word": "boat"
+                  }
+                ],
+                "until": 139,
+                "utterances": "Look at the boat"
+              }
+            ],
+            "sentence": "Look at the boat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_boat_can_float.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 24,
+                    "word": "boat"
+                  },
+                  {
+                    "end": 117,
+                    "start": 94,
+                    "word": "can"
+                  },
+                  {
+                    "end": 166,
+                    "start": 118,
+                    "word": "float"
+                  }
+                ],
+                "until": 166,
+                "utterances": "The boat can float"
+              }
+            ],
+            "sentence": "The boat can float."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_gets_in_the_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 106,
+                    "start": 62,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 148,
+                    "start": 111,
+                    "word": "in"
+                  },
+                  {
+                    "end": 167,
+                    "start": 149,
+                    "word": "the"
+                  },
+                  {
+                    "end": 206,
+                    "start": 168,
+                    "word": "boat"
+                  }
+                ],
+                "until": 206,
+                "utterances": "Pat gets in the boat"
+              }
+            ],
+            "sentence": "Pat gets in the boat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a_toad_hops_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "A"
+                  },
+                  {
+                    "end": 84,
+                    "start": 42,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 126,
+                    "start": 85,
+                    "word": "hops"
+                  },
+                  {
+                    "end": 165,
+                    "start": 127,
+                    "word": "up"
+                  }
+                ],
+                "until": 165,
+                "utterances": "A toad hops up"
+              }
+            ],
+            "sentence": "A toad hops up!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_jumps_in_the_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 27,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 130,
+                    "start": 81,
+                    "word": "jumps"
+                  },
+                  {
+                    "end": 165,
+                    "start": 137,
+                    "word": "in"
+                  },
+                  {
+                    "end": 181,
+                    "start": 166,
+                    "word": "the"
+                  },
+                  {
+                    "end": 218,
+                    "start": 182,
+                    "word": "boat"
+                  }
+                ],
+                "until": 218,
+                "utterances": "The toad jumps in the boat"
+              }
+            ],
+            "sentence": "The toad jumps in the boat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_sits_on_a_spot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 129,
+                    "start": 74,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 164,
+                    "start": 130,
+                    "word": "on"
+                  },
+                  {
+                    "end": 181,
+                    "start": 165,
+                    "word": "a"
+                  },
+                  {
+                    "end": 230,
+                    "start": 182,
+                    "word": "spot"
+                  }
+                ],
+                "until": 230,
+                "utterances": "The toad sits on a spot"
+              }
+            ],
+            "sentence": "The toad sits on a spot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_pat_grab_the_toad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 85,
+                    "start": 54,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 158,
+                    "start": 102,
+                    "word": "grab"
+                  },
+                  {
+                    "end": 179,
+                    "start": 159,
+                    "word": "the"
+                  },
+                  {
+                    "end": 228,
+                    "start": 183,
+                    "word": "toad"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Can Pat grab the toad"
+              }
+            ],
+            "sentence": "Can Pat grab the toad?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no_the_toad_slips.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "No"
+                  },
+                  {
+                    "end": 73,
+                    "start": 59,
+                    "word": "the"
+                  },
+                  {
+                    "end": 116,
+                    "start": 88,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 188,
+                    "start": 117,
+                    "word": "slips"
+                  }
+                ],
+                "until": 188,
+                "utterances": "No the toad slips"
+              }
+            ],
+            "sentence": "No, the toad slips."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_jumps_from_the_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 94,
+                    "start": 37,
+                    "word": "jumps"
+                  },
+                  {
+                    "end": 155,
+                    "start": 103,
+                    "word": "from"
+                  },
+                  {
+                    "end": 165,
+                    "start": 156,
+                    "word": "the"
+                  },
+                  {
+                    "end": 216,
+                    "start": 166,
+                    "word": "boat"
+                  }
+                ],
+                "until": 216,
+                "utterances": "It jumps from the boat"
+              }
+            ],
+            "sentence": "It jumps from the boat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_toad_went_in_the_water.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 50,
+                    "start": 28,
+                    "word": "toad"
+                  },
+                  {
+                    "end": 124,
+                    "start": 83,
+                    "word": "went"
+                  },
+                  {
+                    "end": 162,
+                    "start": 135,
+                    "word": "in"
+                  },
+                  {
+                    "end": 178,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 232,
+                    "start": 179,
+                    "word": "water"
+                  }
+                ],
+                "until": 232,
+                "utterances": "The toad went in the water"
+              }
+            ],
+            "sentence": "The toad went in the water."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pat_sits_on_a_spot_in_the_boat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "Pat"
+                  },
+                  {
+                    "end": 107,
+                    "start": 51,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 132,
+                    "start": 108,
+                    "word": "on"
+                  },
+                  {
+                    "end": 141,
+                    "start": 133,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 142,
+                    "word": "spot"
+                  },
+                  {
+                    "end": 215,
+                    "start": 199,
+                    "word": "in"
+                  },
+                  {
+                    "end": 225,
+                    "start": 216,
+                    "word": "the"
+                  },
+                  {
+                    "end": 275,
+                    "start": 226,
+                    "word": "boat"
+                  }
+                ],
+                "until": 275,
+                "utterances": "Pat sits on a spot in the boat"
+              }
+            ],
+            "sentence": "Pat sits on a spot in the boat."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Boat",
+  "titleimage": null
+}

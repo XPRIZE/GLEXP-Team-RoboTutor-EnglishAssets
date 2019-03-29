@@ -1,0 +1,715 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_roach_is_big.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 78,
+                    "start": 25,
+                    "word": "roach"
+                  },
+                  {
+                    "end": 110,
+                    "start": 88,
+                    "word": "is"
+                  },
+                  {
+                    "end": 164,
+                    "start": 111,
+                    "word": "big"
+                  }
+                ],
+                "until": 164,
+                "utterances": "The roach is big"
+              }
+            ],
+            "sentence": "The roach is big."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not_the_ants.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Not"
+                  },
+                  {
+                    "end": 65,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 129,
+                    "start": 66,
+                    "word": "ants"
+                  }
+                ],
+                "until": 129,
+                "utterances": "Not the ants"
+              }
+            ],
+            "sentence": "Not the ants."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_are_short.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 18,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 99,
+                    "start": 69,
+                    "word": "are"
+                  },
+                  {
+                    "end": 159,
+                    "start": 100,
+                    "word": "short"
+                  }
+                ],
+                "until": 159,
+                "utterances": "The ants are short"
+              }
+            ],
+            "sentence": "The ants are short."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_flee_the_roach.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 35,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 144,
+                    "start": 90,
+                    "word": "flee"
+                  },
+                  {
+                    "end": 160,
+                    "start": 145,
+                    "word": "the"
+                  },
+                  {
+                    "end": 219,
+                    "start": 161,
+                    "word": "roach"
+                  }
+                ],
+                "until": 219,
+                "utterances": "The ants flee the roach"
+              }
+            ],
+            "sentence": "The ants flee the roach."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "flee_means_run_away_from_something.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 10,
+                    "word": "Flee"
+                  },
+                  {
+                    "end": 131,
+                    "start": 79,
+                    "word": "means"
+                  },
+                  {
+                    "end": 153,
+                    "start": 132,
+                    "word": "run"
+                  },
+                  {
+                    "end": 187,
+                    "start": 154,
+                    "word": "away"
+                  },
+                  {
+                    "end": 210,
+                    "start": 188,
+                    "word": "from"
+                  },
+                  {
+                    "end": 267,
+                    "start": 211,
+                    "word": "something"
+                  }
+                ],
+                "until": 267,
+                "utterances": "Flee means run away from something"
+              }
+            ],
+            "sentence": "Flee means run away from something. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_flee_to_the_fort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 100,
+                    "start": 45,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 170,
+                    "start": 111,
+                    "word": "flee"
+                  },
+                  {
+                    "end": 194,
+                    "start": 171,
+                    "word": "to"
+                  },
+                  {
+                    "end": 202,
+                    "start": 195,
+                    "word": "the"
+                  },
+                  {
+                    "end": 252,
+                    "start": 203,
+                    "word": "fort"
+                  }
+                ],
+                "until": 252,
+                "utterances": "The ants flee to the fort"
+              }
+            ],
+            "sentence": "The ants flee to the fort."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_roach_runs_to_the_fort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 34,
+                    "word": "roach"
+                  },
+                  {
+                    "end": 135,
+                    "start": 87,
+                    "word": "runs"
+                  },
+                  {
+                    "end": 158,
+                    "start": 136,
+                    "word": "to"
+                  },
+                  {
+                    "end": 167,
+                    "start": 159,
+                    "word": "the"
+                  },
+                  {
+                    "end": 220,
+                    "start": 168,
+                    "word": "fort"
+                  }
+                ],
+                "until": 220,
+                "utterances": "The roach runs to the fort"
+              }
+            ],
+            "sentence": "The roach runs to the fort."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shut_the_fort.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Shut"
+                  },
+                  {
+                    "end": 70,
+                    "start": 62,
+                    "word": "the"
+                  },
+                  {
+                    "end": 124,
+                    "start": 71,
+                    "word": "fort"
+                  }
+                ],
+                "until": 124,
+                "utterances": "Shut the fort"
+              }
+            ],
+            "sentence": "Shut the fort!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_moon_is_up.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 77,
+                    "start": 32,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 116,
+                    "start": 78,
+                    "word": "is"
+                  },
+                  {
+                    "end": 129,
+                    "start": 117,
+                    "word": "up"
+                  }
+                ],
+                "until": 129,
+                "utterances": "The moon is up"
+              }
+            ],
+            "sentence": "The moon is up."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_roach_sleeps.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 40,
+                    "word": "roach"
+                  },
+                  {
+                    "end": 176,
+                    "start": 93,
+                    "word": "sleeps"
+                  }
+                ],
+                "until": 176,
+                "utterances": "The roach sleeps"
+              }
+            ],
+            "sentence": "The roach sleeps."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_wait.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 38,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 157,
+                    "start": 90,
+                    "word": "wait"
+                  }
+                ],
+                "until": 157,
+                "utterances": "The ants wait"
+              }
+            ],
+            "sentence": "The ants wait."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_is_morning.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 72,
+                    "start": 48,
+                    "word": "is"
+                  },
+                  {
+                    "end": 175,
+                    "start": 73,
+                    "word": "morning"
+                  }
+                ],
+                "until": 175,
+                "utterances": "It is morning"
+              }
+            ],
+            "sentence": "It is morning."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_hear_a_storm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 11,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 115,
+                    "start": 68,
+                    "word": "hear"
+                  },
+                  {
+                    "end": 126,
+                    "start": 116,
+                    "word": "a"
+                  },
+                  {
+                    "end": 214,
+                    "start": 127,
+                    "word": "storm"
+                  }
+                ],
+                "until": 214,
+                "utterances": "The ants hear a storm"
+              }
+            ],
+            "sentence": "The ants hear a storm."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "run.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "Run"
+                  }
+                ],
+                "until": 65,
+                "utterances": "Run"
+              }
+            ],
+            "sentence": "Run!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_ants_run.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 80,
+                    "start": 36,
+                    "word": "ants"
+                  },
+                  {
+                    "end": 126,
+                    "start": 81,
+                    "word": "run"
+                  }
+                ],
+                "until": 126,
+                "utterances": "The ants run"
+              }
+            ],
+            "sentence": "The ants run."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_storm_gets_the_roach.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 96,
+                    "start": 24,
+                    "word": "storm"
+                  },
+                  {
+                    "end": 135,
+                    "start": 97,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 149,
+                    "start": 136,
+                    "word": "the"
+                  },
+                  {
+                    "end": 213,
+                    "start": 150,
+                    "word": "roach"
+                  }
+                ],
+                "until": 213,
+                "utterances": "The storm gets the roach"
+              }
+            ],
+            "sentence": "The storm gets the roach!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_roach_must_flee_the_storm.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 70,
+                    "start": 24,
+                    "word": "roach"
+                  },
+                  {
+                    "end": 106,
+                    "start": 71,
+                    "word": "must"
+                  },
+                  {
+                    "end": 156,
+                    "start": 107,
+                    "word": "flee"
+                  },
+                  {
+                    "end": 169,
+                    "start": 157,
+                    "word": "the"
+                  },
+                  {
+                    "end": 253,
+                    "start": 170,
+                    "word": "storm"
+                  }
+                ],
+                "until": 253,
+                "utterances": "The roach must flee the storm"
+              }
+            ],
+            "sentence": "The roach must flee the storm."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Roach and the Ants",
+  "titleimage": null
+}

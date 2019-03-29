@@ -1,0 +1,611 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_was_a_gray_day.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 70,
+                    "start": 40,
+                    "word": "was"
+                  },
+                  {
+                    "end": 81,
+                    "start": 71,
+                    "word": "a"
+                  },
+                  {
+                    "end": 141,
+                    "start": 82,
+                    "word": "gray"
+                  },
+                  {
+                    "end": 192,
+                    "start": 152,
+                    "word": "day"
+                  }
+                ],
+                "until": 192,
+                "utterances": "It was a gray day"
+              }
+            ],
+            "sentence": "It was a gray day."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_lay_in_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 121,
+                    "start": 70,
+                    "word": "lay"
+                  },
+                  {
+                    "end": 145,
+                    "start": 127,
+                    "word": "in"
+                  },
+                  {
+                    "end": 192,
+                    "start": 146,
+                    "word": "bed"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Jay lay in bed"
+              }
+            ],
+            "sentence": "Jay lay in bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_lay_in_his_green_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 99,
+                    "start": 46,
+                    "word": "lay"
+                  },
+                  {
+                    "end": 111,
+                    "start": 100,
+                    "word": "in"
+                  },
+                  {
+                    "end": 142,
+                    "start": 112,
+                    "word": "his"
+                  },
+                  {
+                    "end": 196,
+                    "start": 143,
+                    "word": "green"
+                  },
+                  {
+                    "end": 243,
+                    "start": 197,
+                    "word": "bed"
+                  }
+                ],
+                "until": 243,
+                "utterances": "Jay lay in his green bed"
+              }
+            ],
+            "sentence": "Jay lay in his green bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_has_a_sheet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 92,
+                    "start": 52,
+                    "word": "has"
+                  },
+                  {
+                    "end": 105,
+                    "start": 93,
+                    "word": "a"
+                  },
+                  {
+                    "end": 158,
+                    "start": 106,
+                    "word": "sheet"
+                  }
+                ],
+                "until": 158,
+                "utterances": "Jay has a sheet"
+              }
+            ],
+            "sentence": "Jay has a sheet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_has_a_green_sheet_in_his_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 56,
+                    "start": 25,
+                    "word": "has"
+                  },
+                  {
+                    "end": 101,
+                    "start": 65,
+                    "word": "a"
+                  },
+                  {
+                    "end": 141,
+                    "start": 102,
+                    "word": "green"
+                  },
+                  {
+                    "end": 191,
+                    "start": 142,
+                    "word": "sheet"
+                  },
+                  {
+                    "end": 209,
+                    "start": 192,
+                    "word": "in"
+                  },
+                  {
+                    "end": 239,
+                    "start": 210,
+                    "word": "his"
+                  },
+                  {
+                    "end": 279,
+                    "start": 240,
+                    "word": "bed"
+                  }
+                ],
+                "until": 279,
+                "utterances": "Jay has a green sheet in his bed"
+              }
+            ],
+            "sentence": "Jay has a green sheet in his bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_did_not_play.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 85,
+                    "start": 62,
+                    "word": "did"
+                  },
+                  {
+                    "end": 119,
+                    "start": 86,
+                    "word": "not"
+                  },
+                  {
+                    "end": 186,
+                    "start": 135,
+                    "word": "play"
+                  }
+                ],
+                "until": 186,
+                "utterances": "Jay did not play"
+              }
+            ],
+            "sentence": "Jay did not play."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_kept_his_feet_in_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "kept"
+                  },
+                  {
+                    "end": 105,
+                    "start": 85,
+                    "word": "his"
+                  },
+                  {
+                    "end": 148,
+                    "start": 106,
+                    "word": "feet"
+                  },
+                  {
+                    "end": 169,
+                    "start": 149,
+                    "word": "in"
+                  },
+                  {
+                    "end": 205,
+                    "start": 170,
+                    "word": "bed"
+                  }
+                ],
+                "until": 205,
+                "utterances": "He kept his feet in bed"
+              }
+            ],
+            "sentence": "He kept his feet in bed."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "can_jay_stay_in_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Can"
+                  },
+                  {
+                    "end": 77,
+                    "start": 43,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 120,
+                    "start": 85,
+                    "word": "stay"
+                  },
+                  {
+                    "end": 149,
+                    "start": 121,
+                    "word": "in"
+                  },
+                  {
+                    "end": 180,
+                    "start": 150,
+                    "word": "bed"
+                  }
+                ],
+                "until": 180,
+                "utterances": "Can Jay stay in bed"
+              }
+            ],
+            "sentence": "Can Jay stay in bed?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_jay_sleep.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 37,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 77,
+                    "start": 38,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 138,
+                    "start": 81,
+                    "word": "sleep"
+                  }
+                ],
+                "until": 138,
+                "utterances": "Did Jay sleep"
+              }
+            ],
+            "sentence": "Did Jay sleep?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_just_slept.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 115,
+                    "start": 55,
+                    "word": "just"
+                  },
+                  {
+                    "end": 192,
+                    "start": 116,
+                    "word": "slept"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Jay just slept"
+              }
+            ],
+            "sentence": "Jay just slept."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_lay_in_bed_and_slept.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 50,
+                    "start": 28,
+                    "word": "lay"
+                  },
+                  {
+                    "end": 72,
+                    "start": 51,
+                    "word": "in"
+                  },
+                  {
+                    "end": 108,
+                    "start": 73,
+                    "word": "bed"
+                  },
+                  {
+                    "end": 136,
+                    "start": 109,
+                    "word": "and"
+                  },
+                  {
+                    "end": 227,
+                    "start": 166,
+                    "word": "slept"
+                  }
+                ],
+                "until": 227,
+                "utterances": "He lay in bed and slept"
+              }
+            ],
+            "sentence": "He lay in bed and slept."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_had_lunch_on_a_tray.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 90,
+                    "start": 52,
+                    "word": "had"
+                  },
+                  {
+                    "end": 140,
+                    "start": 91,
+                    "word": "lunch"
+                  },
+                  {
+                    "end": 170,
+                    "start": 141,
+                    "word": "on"
+                  },
+                  {
+                    "end": 183,
+                    "start": 171,
+                    "word": "a"
+                  },
+                  {
+                    "end": 228,
+                    "start": 184,
+                    "word": "tray"
+                  }
+                ],
+                "until": 228,
+                "utterances": "Jay had lunch on a tray"
+              }
+            ],
+            "sentence": "Jay had lunch on a tray."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jay_spent_the_day_in_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "Jay"
+                  },
+                  {
+                    "end": 119,
+                    "start": 62,
+                    "word": "spent"
+                  },
+                  {
+                    "end": 138,
+                    "start": 120,
+                    "word": "the"
+                  },
+                  {
+                    "end": 183,
+                    "start": 139,
+                    "word": "day"
+                  },
+                  {
+                    "end": 213,
+                    "start": 184,
+                    "word": "in"
+                  },
+                  {
+                    "end": 254,
+                    "start": 214,
+                    "word": "bed"
+                  }
+                ],
+                "until": 254,
+                "utterances": "Jay spent the day in bed"
+              }
+            ],
+            "sentence": "Jay spent the day in bed."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "A Gray Day",
+  "titleimage": null
+}

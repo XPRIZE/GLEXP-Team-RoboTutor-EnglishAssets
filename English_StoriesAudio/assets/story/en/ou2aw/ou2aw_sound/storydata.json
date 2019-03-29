@@ -1,0 +1,433 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "out.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "OUT"
+                  }
+                ],
+                "until": 52,
+                "utterances": "OUT"
+              }
+            ],
+            "sentence": "out "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "LOUD"
+                  }
+                ],
+                "until": 63,
+                "utterances": "LOUD"
+              }
+            ],
+            "sentence": "loud "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "foul.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 10,
+                    "word": "FOUL"
+                  }
+                ],
+                "until": 65,
+                "utterances": "FOUL"
+              }
+            ],
+            "sentence": "foul "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_do_the_letters_o_u_make_in_the_words_out_loud_and_foul.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 95,
+                    "start": 37,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 112,
+                    "start": 101,
+                    "word": "do"
+                  },
+                  {
+                    "end": 120,
+                    "start": 113,
+                    "word": "the"
+                  },
+                  {
+                    "end": 159,
+                    "start": 121,
+                    "word": "Letters"
+                  },
+                  {
+                    "end": 204,
+                    "start": 160,
+                    "word": "O"
+                  },
+                  {
+                    "end": 259,
+                    "start": 205,
+                    "word": "U"
+                  },
+                  {
+                    "end": 309,
+                    "start": 269,
+                    "word": "make"
+                  },
+                  {
+                    "end": 318,
+                    "start": 310,
+                    "word": "in"
+                  },
+                  {
+                    "end": 325,
+                    "start": 319,
+                    "word": "the"
+                  },
+                  {
+                    "end": 367,
+                    "start": 326,
+                    "word": "words"
+                  },
+                  {
+                    "end": 411,
+                    "start": 372,
+                    "word": "OUT"
+                  },
+                  {
+                    "end": 483,
+                    "start": 428,
+                    "word": "LOUD"
+                  },
+                  {
+                    "end": 494,
+                    "start": 484,
+                    "word": "and"
+                  },
+                  {
+                    "end": 534,
+                    "start": 495,
+                    "word": "FOUL"
+                  }
+                ],
+                "until": 534,
+                "utterances": "What sound do the Letters O U make in the words OUT LOUD and FOUL"
+              }
+            ],
+            "sentence": "What sound do the Letters o u make in the words out, loud, and foul?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "noun.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 54,
+                    "start": 10,
+                    "word": "NOUN"
+                  }
+                ],
+                "until": 54,
+                "utterances": "NOUN"
+              }
+            ],
+            "sentence": "noun "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sound.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "SOUND"
+                  }
+                ],
+                "until": 67,
+                "utterances": "SOUND"
+              }
+            ],
+            "sentence": "sound "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "about.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "ABOUT"
+                  }
+                ],
+                "until": 56,
+                "utterances": "ABOUT"
+              }
+            ],
+            "sentence": "about "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "house.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "HOUSE"
+                  }
+                ],
+                "until": 60,
+                "utterances": "HOUSE"
+              }
+            ],
+            "sentence": "house "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lousy.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "LOUSY"
+                  }
+                ],
+                "until": 52,
+                "utterances": "LOUSY"
+              }
+            ],
+            "sentence": "lousy "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "I"
+                  }
+                ],
+                "until": 38,
+                "utterances": "I"
+              },
+              {
+                "audio": "shouted_at.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 10,
+                    "word": "shouted"
+                  },
+                  {
+                    "end": 84,
+                    "start": 62,
+                    "word": "at"
+                  }
+                ],
+                "until": 84,
+                "utterances": "shouted at"
+              },
+              {
+                "audio": "a_loud_cloud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 17,
+                    "start": 10,
+                    "word": "a"
+                  },
+                  {
+                    "end": 62,
+                    "start": 18,
+                    "word": "loud"
+                  },
+                  {
+                    "end": 109,
+                    "start": 63,
+                    "word": "cloud"
+                  }
+                ],
+                "until": 109,
+                "utterances": "a loud cloud"
+              },
+              {
+                "audio": "around_the_house.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "around"
+                  },
+                  {
+                    "end": 73,
+                    "start": 64,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 74,
+                    "word": "house"
+                  }
+                ],
+                "until": 117,
+                "utterances": "around the house"
+              }
+            ],
+            "sentence": "I shouted at a loud cloud around the house! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "outstanding_work.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 10,
+                    "word": "Outstanding"
+                  },
+                  {
+                    "end": 129,
+                    "start": 85,
+                    "word": "work"
+                  }
+                ],
+                "until": 129,
+                "utterances": "Outstanding work"
+              }
+            ],
+            "sentence": "Outstanding work! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "B",
+  "title": "The Sound of the Letters O U in OUT, LOUD, and FOUL",
+  "titleimage": null
+}

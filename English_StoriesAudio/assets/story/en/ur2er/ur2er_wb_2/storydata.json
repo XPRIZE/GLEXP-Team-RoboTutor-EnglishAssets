@@ -1,0 +1,1031 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 80,
+                    "start": 31,
+                    "word": "turn"
+                  }
+                ],
+                "until": 80,
+                "utterances": "My turn"
+              }
+            ],
+            "sentence": "\"My turn!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 80,
+                    "start": 31,
+                    "word": "turn"
+                  }
+                ],
+                "until": 80,
+                "utterances": "My turn"
+              }
+            ],
+            "sentence": "My turn!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_girl_says_my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 58,
+                    "start": 23,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 110,
+                    "start": 59,
+                    "word": "says"
+                  },
+                  {
+                    "end": 133,
+                    "start": 111,
+                    "word": "My"
+                  },
+                  {
+                    "end": 186,
+                    "start": 134,
+                    "word": "turn"
+                  }
+                ],
+                "until": 186,
+                "utterances": "The girl says My turn"
+              }
+            ],
+            "sentence": "The girl says, \"My turn!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_can_shout_loud.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 65,
+                    "start": 43,
+                    "word": "can"
+                  },
+                  {
+                    "end": 113,
+                    "start": 66,
+                    "word": "shout"
+                  },
+                  {
+                    "end": 158,
+                    "start": 114,
+                    "word": "loud"
+                  }
+                ],
+                "until": 158,
+                "utterances": "She can shout loud"
+              }
+            ],
+            "sentence": "She can shout loud!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "My"
+                  },
+                  {
+                    "end": 80,
+                    "start": 31,
+                    "word": "turn"
+                  }
+                ],
+                "until": 80,
+                "utterances": "My turn"
+              }
+            ],
+            "sentence": "\"My turn!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_girl_is_at_the_fair.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 91,
+                    "start": 37,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 111,
+                    "start": 95,
+                    "word": "is"
+                  },
+                  {
+                    "end": 119,
+                    "start": 112,
+                    "word": "at"
+                  },
+                  {
+                    "end": 140,
+                    "start": 120,
+                    "word": "the"
+                  },
+                  {
+                    "end": 209,
+                    "start": 163,
+                    "word": "fair"
+                  }
+                ],
+                "until": 209,
+                "utterances": "The girl is at the fair"
+              }
+            ],
+            "sentence": "The girl is at the fair."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_wants_to_play_a_game.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 68,
+                    "start": 32,
+                    "word": "wants"
+                  },
+                  {
+                    "end": 44,
+                    "start": 33,
+                    "word": "to"
+                  },
+                  {
+                    "end": 80,
+                    "start": 45,
+                    "word": "play"
+                  },
+                  {
+                    "end": 92,
+                    "start": 81,
+                    "word": "a"
+                  },
+                  {
+                    "end": 132,
+                    "start": 93,
+                    "word": "game"
+                  }
+                ],
+                "until": 132,
+                "utterances": "She wants to play a game"
+              }
+            ],
+            "sentence": "She wants to play a game."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "but_she_has_to_wait_in_line.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "But"
+                  },
+                  {
+                    "end": 45,
+                    "start": 27,
+                    "word": "she"
+                  },
+                  {
+                    "end": 42,
+                    "start": 11,
+                    "word": "has"
+                  },
+                  {
+                    "end": 53,
+                    "start": 43,
+                    "word": "to"
+                  },
+                  {
+                    "end": 90,
+                    "start": 54,
+                    "word": "wait"
+                  },
+                  {
+                    "end": 99,
+                    "start": 91,
+                    "word": "in"
+                  },
+                  {
+                    "end": 156,
+                    "start": 100,
+                    "word": "line"
+                  }
+                ],
+                "until": 156,
+                "utterances": "But she has to wait in line"
+              }
+            ],
+            "sentence": "But she has to wait in line."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sit_and_wait.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Sit"
+                  },
+                  {
+                    "end": 80,
+                    "start": 60,
+                    "word": "and"
+                  },
+                  {
+                    "end": 126,
+                    "start": 81,
+                    "word": "wait"
+                  }
+                ],
+                "until": 126,
+                "utterances": "Sit and wait"
+              }
+            ],
+            "sentence": "Sit and wait."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_girl_sits_on_the_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 33,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 128,
+                    "start": 73,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 162,
+                    "start": 129,
+                    "word": "on"
+                  },
+                  {
+                    "end": 174,
+                    "start": 163,
+                    "word": "the"
+                  },
+                  {
+                    "end": 224,
+                    "start": 175,
+                    "word": "curb"
+                  }
+                ],
+                "until": 224,
+                "utterances": "The girl sits on the curb"
+              }
+            ],
+            "sentence": "The girl sits on the curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_sits_and_sits.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 85,
+                    "start": 32,
+                    "word": "sits"
+                  },
+                  {
+                    "end": 118,
+                    "start": 98,
+                    "word": "and"
+                  },
+                  {
+                    "end": 183,
+                    "start": 119,
+                    "word": "sits"
+                  }
+                ],
+                "until": 183,
+                "utterances": "She sits and sits"
+              }
+            ],
+            "sentence": "She sits and sits."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_do_not_like_this_curb_she_says.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 59,
+                    "start": 26,
+                    "word": "do"
+                  },
+                  {
+                    "end": 91,
+                    "start": 63,
+                    "word": "not"
+                  },
+                  {
+                    "end": 132,
+                    "start": 92,
+                    "word": "like"
+                  },
+                  {
+                    "end": 155,
+                    "start": 133,
+                    "word": "this"
+                  },
+                  {
+                    "end": 208,
+                    "start": 156,
+                    "word": "curb"
+                  },
+                  {
+                    "end": 228,
+                    "start": 209,
+                    "word": "she"
+                  },
+                  {
+                    "end": 287,
+                    "start": 229,
+                    "word": "says"
+                  }
+                ],
+                "until": 287,
+                "utterances": "I do not like this curb she says"
+              }
+            ],
+            "sentence": "\"I do not like this curb,\" she says."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_curb_hurts.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 92,
+                    "start": 48,
+                    "word": "curb"
+                  },
+                  {
+                    "end": 160,
+                    "start": 93,
+                    "word": "hurts"
+                  }
+                ],
+                "until": 160,
+                "utterances": "This curb hurts"
+              }
+            ],
+            "sentence": "\"This curb hurts."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_hurts_to_sit_on_this_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 88,
+                    "start": 34,
+                    "word": "hurts"
+                  },
+                  {
+                    "end": 103,
+                    "start": 89,
+                    "word": "to"
+                  },
+                  {
+                    "end": 146,
+                    "start": 104,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 174,
+                    "start": 147,
+                    "word": "on"
+                  },
+                  {
+                    "end": 204,
+                    "start": 175,
+                    "word": "this"
+                  },
+                  {
+                    "end": 258,
+                    "start": 205,
+                    "word": "curb"
+                  }
+                ],
+                "until": 258,
+                "utterances": "It hurts to sit on this curb"
+              }
+            ],
+            "sentence": "It hurts to sit on this curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "when_is_it_my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "When"
+                  },
+                  {
+                    "end": 68,
+                    "start": 51,
+                    "word": "is"
+                  },
+                  {
+                    "end": 81,
+                    "start": 69,
+                    "word": "it"
+                  },
+                  {
+                    "end": 105,
+                    "start": 85,
+                    "word": "my"
+                  },
+                  {
+                    "end": 181,
+                    "start": 106,
+                    "word": "turn"
+                  }
+                ],
+                "until": 181,
+                "utterances": "When is it my turn"
+              }
+            ],
+            "sentence": "When is it my turn?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_gets_a_hot_dog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 77,
+                    "start": 42,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 93,
+                    "start": 78,
+                    "word": "a"
+                  },
+                  {
+                    "end": 129,
+                    "start": 94,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 168,
+                    "start": 130,
+                    "word": "dog"
+                  }
+                ],
+                "until": 168,
+                "utterances": "She gets a hot dog"
+              }
+            ],
+            "sentence": "She gets a hot dog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_hot_dog_is_burnt.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 60,
+                    "start": 42,
+                    "word": "hot"
+                  },
+                  {
+                    "end": 102,
+                    "start": 68,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 123,
+                    "start": 103,
+                    "word": "is"
+                  },
+                  {
+                    "end": 182,
+                    "start": 124,
+                    "word": "burnt"
+                  }
+                ],
+                "until": 182,
+                "utterances": "This hot dog is burnt"
+              }
+            ],
+            "sentence": "\"This hot dog is burnt!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_gets_a_coke.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 68,
+                    "start": 34,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 84,
+                    "start": 69,
+                    "word": "a"
+                  },
+                  {
+                    "end": 132,
+                    "start": 85,
+                    "word": "Coke"
+                  }
+                ],
+                "until": 132,
+                "utterances": "She gets a Coke"
+              }
+            ],
+            "sentence": "She gets a Coke."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_coke_has_dirt_in_it.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 73,
+                    "start": 36,
+                    "word": "Coke"
+                  },
+                  {
+                    "end": 100,
+                    "start": 74,
+                    "word": "has"
+                  },
+                  {
+                    "end": 143,
+                    "start": 110,
+                    "word": "dirt"
+                  },
+                  {
+                    "end": 153,
+                    "start": 144,
+                    "word": "in"
+                  },
+                  {
+                    "end": 185,
+                    "start": 154,
+                    "word": "it"
+                  }
+                ],
+                "until": 185,
+                "utterances": "This Coke has dirt in it"
+              }
+            ],
+            "sentence": "\"This Coke has dirt in it.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_girl_is_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 95,
+                    "start": 51,
+                    "word": "girl"
+                  },
+                  {
+                    "end": 116,
+                    "start": 96,
+                    "word": "is"
+                  },
+                  {
+                    "end": 200,
+                    "start": 117,
+                    "word": "mad"
+                  }
+                ],
+                "until": 200,
+                "utterances": "The girl is mad"
+              }
+            ],
+            "sentence": "The girl is mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 22,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_s_my_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 29,
+                    "start": 10,
+                    "word": "It's"
+                  },
+                  {
+                    "end": 57,
+                    "start": 30,
+                    "word": "my"
+                  },
+                  {
+                    "end": 108,
+                    "start": 58,
+                    "word": "turn"
+                  }
+                ],
+                "until": 108,
+                "utterances": "It's my turn"
+              }
+            ],
+            "sentence": "\"It's my turn!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 23,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "she_gets_up_from_the_curb.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "She"
+                  },
+                  {
+                    "end": 86,
+                    "start": 37,
+                    "word": "gets"
+                  },
+                  {
+                    "end": 108,
+                    "start": 87,
+                    "word": "up"
+                  },
+                  {
+                    "end": 139,
+                    "start": 109,
+                    "word": "from"
+                  },
+                  {
+                    "end": 151,
+                    "start": 140,
+                    "word": "the"
+                  },
+                  {
+                    "end": 199,
+                    "start": 152,
+                    "word": "curb"
+                  }
+                ],
+                "until": 199,
+                "utterances": "She gets up from the curb"
+              }
+            ],
+            "sentence": "She gets up from the curb."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 24,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_it_is_her_turn.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 76,
+                    "start": 48,
+                    "word": "it"
+                  },
+                  {
+                    "end": 105,
+                    "start": 77,
+                    "word": "is"
+                  },
+                  {
+                    "end": 135,
+                    "start": 106,
+                    "word": "her"
+                  },
+                  {
+                    "end": 192,
+                    "start": 140,
+                    "word": "turn"
+                  }
+                ],
+                "until": 192,
+                "utterances": "Now it is her turn"
+              }
+            ],
+            "sentence": "Now it is her turn."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Whose Turn Is It?",
+  "titleimage": null
+}

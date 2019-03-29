@@ -1,0 +1,871 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_had_a_dream.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 80,
+                    "start": 70,
+                    "word": "had"
+                  },
+                  {
+                    "end": 125,
+                    "start": 81,
+                    "word": "a"
+                  },
+                  {
+                    "end": 183,
+                    "start": 126,
+                    "word": "dream"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Tim had a dream"
+              }
+            ],
+            "sentence": "Tim had a dream."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "this_was_his_dream.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 10,
+                    "word": "This"
+                  },
+                  {
+                    "end": 115,
+                    "start": 58,
+                    "word": "was"
+                  },
+                  {
+                    "end": 146,
+                    "start": 116,
+                    "word": "his"
+                  },
+                  {
+                    "end": 197,
+                    "start": 147,
+                    "word": "dream"
+                  }
+                ],
+                "until": 197,
+                "utterances": "This was his dream"
+              }
+            ],
+            "sentence": "This was his dream..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_got_in_a_big_jet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 84,
+                    "start": 53,
+                    "word": "got"
+                  },
+                  {
+                    "end": 111,
+                    "start": 94,
+                    "word": "in"
+                  },
+                  {
+                    "end": 126,
+                    "start": 112,
+                    "word": "a"
+                  },
+                  {
+                    "end": 170,
+                    "start": 127,
+                    "word": "big"
+                  },
+                  {
+                    "end": 227,
+                    "start": 171,
+                    "word": "jet"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Tim got in a big jet"
+              }
+            ],
+            "sentence": "Tim got in a big jet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jet_had_a_seat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 29,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 104,
+                    "start": 85,
+                    "word": "had"
+                  },
+                  {
+                    "end": 122,
+                    "start": 105,
+                    "word": "a"
+                  },
+                  {
+                    "end": 192,
+                    "start": 141,
+                    "word": "seat"
+                  }
+                ],
+                "until": 192,
+                "utterances": "The jet had a seat"
+              }
+            ],
+            "sentence": "The jet had a seat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_sat_in_the_seat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 77,
+                    "start": 48,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 149,
+                    "start": 117,
+                    "word": "in"
+                  },
+                  {
+                    "end": 171,
+                    "start": 158,
+                    "word": "the"
+                  },
+                  {
+                    "end": 220,
+                    "start": 172,
+                    "word": "seat"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Tim sat in the seat"
+              }
+            ],
+            "sentence": "Tim sat in the seat. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jet_had_a_roof.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 37,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 118,
+                    "start": 88,
+                    "word": "had"
+                  },
+                  {
+                    "end": 121,
+                    "start": 119,
+                    "word": "a"
+                  },
+                  {
+                    "end": 189,
+                    "start": 122,
+                    "word": "roof"
+                  }
+                ],
+                "until": 189,
+                "utterances": "The jet had a roof"
+              }
+            ],
+            "sentence": "The jet had a roof."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_did_not_sit_on_the_roof.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 90,
+                    "start": 63,
+                    "word": "did"
+                  },
+                  {
+                    "end": 125,
+                    "start": 91,
+                    "word": "not"
+                  },
+                  {
+                    "end": 171,
+                    "start": 126,
+                    "word": "sit"
+                  },
+                  {
+                    "end": 216,
+                    "start": 172,
+                    "word": "on"
+                  },
+                  {
+                    "end": 234,
+                    "start": 217,
+                    "word": "the"
+                  },
+                  {
+                    "end": 287,
+                    "start": 235,
+                    "word": "roof"
+                  }
+                ],
+                "until": 287,
+                "utterances": "Tim did not sit on the roof"
+              }
+            ],
+            "sentence": "Tim did not sit on the roof!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_jet_went_zoom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 24,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 25,
+                    "word": "jet"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "went"
+                  },
+                  {
+                    "end": 188,
+                    "start": 117,
+                    "word": "ZOOM"
+                  }
+                ],
+                "until": 188,
+                "utterances": "The jet went ZOOM"
+              }
+            ],
+            "sentence": "The jet went ZOOM!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_went_to_the_moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 82,
+                    "start": 29,
+                    "word": "went"
+                  },
+                  {
+                    "end": 116,
+                    "start": 83,
+                    "word": "to"
+                  },
+                  {
+                    "end": 128,
+                    "start": 117,
+                    "word": "the"
+                  },
+                  {
+                    "end": 180,
+                    "start": 129,
+                    "word": "moon"
+                  }
+                ],
+                "until": 180,
+                "utterances": "It went to the moon"
+              }
+            ],
+            "sentence": "It went to the moon."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yes_the_moon_had_a_zoo.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 10,
+                    "word": "Yes"
+                  },
+                  {
+                    "end": 85,
+                    "start": 71,
+                    "word": "the"
+                  },
+                  {
+                    "end": 133,
+                    "start": 86,
+                    "word": "moon"
+                  },
+                  {
+                    "end": 150,
+                    "start": 134,
+                    "word": "had"
+                  },
+                  {
+                    "end": 178,
+                    "start": 151,
+                    "word": "a"
+                  },
+                  {
+                    "end": 226,
+                    "start": 179,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Yes the moon had a zoo"
+              }
+            ],
+            "sentence": "Yes, the moon had a zoo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_went_to_the_zoo_on_the_moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 92,
+                    "start": 42,
+                    "word": "went"
+                  },
+                  {
+                    "end": 103,
+                    "start": 93,
+                    "word": "to"
+                  },
+                  {
+                    "end": 113,
+                    "start": 104,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 114,
+                    "word": "zoo"
+                  },
+                  {
+                    "end": 202,
+                    "start": 175,
+                    "word": "on"
+                  },
+                  {
+                    "end": 212,
+                    "start": 203,
+                    "word": "the"
+                  },
+                  {
+                    "end": 257,
+                    "start": 213,
+                    "word": "moon"
+                  }
+                ],
+                "until": 257,
+                "utterances": "Tim went to the zoo on the moon"
+              }
+            ],
+            "sentence": "Tim went to the zoo on the moon."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_met_a_seal.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 66,
+                    "start": 27,
+                    "word": "met"
+                  },
+                  {
+                    "end": 70,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 148,
+                    "start": 87,
+                    "word": "seal"
+                  }
+                ],
+                "until": 148,
+                "utterances": "He met a seal"
+              }
+            ],
+            "sentence": "He met a seal."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_met_a_goat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 94,
+                    "start": 43,
+                    "word": "met"
+                  },
+                  {
+                    "end": 108,
+                    "start": 95,
+                    "word": "a"
+                  },
+                  {
+                    "end": 149,
+                    "start": 109,
+                    "word": "goat"
+                  }
+                ],
+                "until": 149,
+                "utterances": "He met a goat"
+              }
+            ],
+            "sentence": "He met a goat."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_met_a_shark.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 64,
+                    "start": 28,
+                    "word": "met"
+                  },
+                  {
+                    "end": 85,
+                    "start": 73,
+                    "word": "a"
+                  },
+                  {
+                    "end": 137,
+                    "start": 86,
+                    "word": "shark"
+                  }
+                ],
+                "until": 137,
+                "utterances": "He met a shark"
+              }
+            ],
+            "sentence": "He met a shark."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_met_a_baboon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 78,
+                    "start": 29,
+                    "word": "met"
+                  },
+                  {
+                    "end": 89,
+                    "start": 79,
+                    "word": "a"
+                  },
+                  {
+                    "end": 170,
+                    "start": 90,
+                    "word": "baboon"
+                  }
+                ],
+                "until": 170,
+                "utterances": "He met a baboon"
+              }
+            ],
+            "sentence": "He met a baboon."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_met_a_seal_a_goat_a_shark_and_a_baboon_at_the_zoo.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 88,
+                    "start": 59,
+                    "word": "met"
+                  },
+                  {
+                    "end": 102,
+                    "start": 100,
+                    "word": "a"
+                  },
+                  {
+                    "end": 169,
+                    "start": 103,
+                    "word": "seal"
+                  },
+                  {
+                    "end": 192,
+                    "start": 173,
+                    "word": "a"
+                  },
+                  {
+                    "end": 246,
+                    "start": 193,
+                    "word": "goat"
+                  },
+                  {
+                    "end": 266,
+                    "start": 257,
+                    "word": "a"
+                  },
+                  {
+                    "end": 330,
+                    "start": 267,
+                    "word": "shark"
+                  },
+                  {
+                    "end": 379,
+                    "start": 339,
+                    "word": "and"
+                  },
+                  {
+                    "end": 389,
+                    "start": 380,
+                    "word": "a"
+                  },
+                  {
+                    "end": 466,
+                    "start": 390,
+                    "word": "baboon"
+                  },
+                  {
+                    "end": 476,
+                    "start": 467,
+                    "word": "at"
+                  },
+                  {
+                    "end": 496,
+                    "start": 477,
+                    "word": "the"
+                  },
+                  {
+                    "end": 557,
+                    "start": 511,
+                    "word": "zoo"
+                  }
+                ],
+                "until": 557,
+                "utterances": "Tim met a seal a goat a shark and a baboon at the zoo"
+              }
+            ],
+            "sentence": "Tim met a seal, a goat, a shark, and a baboon at the zoo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "on_the_moon.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "On"
+                  },
+                  {
+                    "end": 62,
+                    "start": 49,
+                    "word": "the"
+                  },
+                  {
+                    "end": 117,
+                    "start": 63,
+                    "word": "moon"
+                  }
+                ],
+                "until": 117,
+                "utterances": "On the moon"
+              }
+            ],
+            "sentence": "On the moon!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tim_had_a_fun_dream.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Tim"
+                  },
+                  {
+                    "end": 73,
+                    "start": 59,
+                    "word": "had"
+                  },
+                  {
+                    "end": 98,
+                    "start": 74,
+                    "word": "a"
+                  },
+                  {
+                    "end": 181,
+                    "start": 124,
+                    "word": "fun"
+                  },
+                  {
+                    "end": 236,
+                    "start": 182,
+                    "word": "dream"
+                  }
+                ],
+                "until": 236,
+                "utterances": "Tim had a fun dream"
+              }
+            ],
+            "sentence": "Tim had a fun dream."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Tim had a Dream",
+  "titleimage": null
+}

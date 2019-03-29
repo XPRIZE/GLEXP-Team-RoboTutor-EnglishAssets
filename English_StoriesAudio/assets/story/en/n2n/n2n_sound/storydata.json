@@ -1,0 +1,425 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "NAP"
+                  }
+                ],
+                "until": 52,
+                "utterances": "NAP"
+              }
+            ],
+            "sentence": "nap "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "not.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "NOT"
+                  }
+                ],
+                "until": 45,
+                "utterances": "NOT"
+              }
+            ],
+            "sentence": "not "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "new.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 10,
+                    "word": "NEW"
+                  }
+                ],
+                "until": 62,
+                "utterances": "NEW"
+              }
+            ],
+            "sentence": "new "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_n_make_in_the_words_nap_not_and_new.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 84,
+                    "start": 44,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 97,
+                    "start": 85,
+                    "word": "does"
+                  },
+                  {
+                    "end": 106,
+                    "start": 98,
+                    "word": "the"
+                  },
+                  {
+                    "end": 141,
+                    "start": 107,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 174,
+                    "start": 146,
+                    "word": "N"
+                  },
+                  {
+                    "end": 221,
+                    "start": 175,
+                    "word": "make"
+                  },
+                  {
+                    "end": 234,
+                    "start": 222,
+                    "word": "in"
+                  },
+                  {
+                    "end": 241,
+                    "start": 235,
+                    "word": "the"
+                  },
+                  {
+                    "end": 280,
+                    "start": 242,
+                    "word": "words"
+                  },
+                  {
+                    "end": 330,
+                    "start": 281,
+                    "word": "NAP"
+                  },
+                  {
+                    "end": 375,
+                    "start": 331,
+                    "word": "NOT"
+                  },
+                  {
+                    "end": 396,
+                    "start": 376,
+                    "word": "and"
+                  },
+                  {
+                    "end": 439,
+                    "start": 397,
+                    "word": "NEW"
+                  }
+                ],
+                "until": 439,
+                "utterances": "What sound does the Letter N make in the words NAP NOT and NEW"
+              }
+            ],
+            "sentence": "What sound does the letter n make in the words nap, not, and new?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 26,
+                    "start": 10,
+                    "word": "NUT"
+                  }
+                ],
+                "until": 26,
+                "utterances": "NUT"
+              }
+            ],
+            "sentence": "nut "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "net.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "NET"
+                  }
+                ],
+                "until": 47,
+                "utterances": "NET"
+              }
+            ],
+            "sentence": "net "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "neat.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 51,
+                    "start": 10,
+                    "word": "NEAT"
+                  }
+                ],
+                "until": 51,
+                "utterances": "NEAT"
+              }
+            ],
+            "sentence": "neat "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "neck.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "NECK"
+                  }
+                ],
+                "until": 47,
+                "utterances": "NECK"
+              }
+            ],
+            "sentence": "neck "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "NO"
+                  }
+                ],
+                "until": 53,
+                "utterances": "NO"
+              }
+            ],
+            "sentence": "no "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_need_nice.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 60,
+                    "start": 22,
+                    "word": "need"
+                  },
+                  {
+                    "end": 108,
+                    "start": 61,
+                    "word": "nice"
+                  }
+                ],
+                "until": 108,
+                "utterances": "I need nice"
+              },
+              {
+                "audio": "noodles.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 10,
+                    "word": "noodles"
+                  }
+                ],
+                "until": 77,
+                "utterances": "noodles"
+              },
+              {
+                "audio": "now.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "now"
+                  }
+                ],
+                "until": 53,
+                "utterances": "now"
+              }
+            ],
+            "sentence": "I need nice noodles now! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nice_job_reading_about_the_letter_n.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 10,
+                    "word": "Nice"
+                  },
+                  {
+                    "end": 130,
+                    "start": 82,
+                    "word": "job"
+                  },
+                  {
+                    "end": 175,
+                    "start": 131,
+                    "word": "reading"
+                  },
+                  {
+                    "end": 205,
+                    "start": 176,
+                    "word": "about"
+                  },
+                  {
+                    "end": 213,
+                    "start": 206,
+                    "word": "the"
+                  },
+                  {
+                    "end": 254,
+                    "start": 214,
+                    "word": "letter"
+                  },
+                  {
+                    "end": 305,
+                    "start": 265,
+                    "word": "N"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Nice job reading about the letter N"
+              }
+            ],
+            "sentence": "Nice job reading about the letter n! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter N in NAP, NOT, and NEW",
+  "titleimage": null
+}

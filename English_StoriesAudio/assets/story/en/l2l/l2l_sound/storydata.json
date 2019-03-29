@@ -1,0 +1,504 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "leg.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "LEG"
+                  }
+                ],
+                "until": 56,
+                "utterances": "LEG"
+              }
+            ],
+            "sentence": "leg "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lip.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 10,
+                    "word": "LIP"
+                  }
+                ],
+                "until": 60,
+                "utterances": "LIP"
+              }
+            ],
+            "sentence": "lip "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "LOT"
+                  }
+                ],
+                "until": 46,
+                "utterances": "LOT"
+              }
+            ],
+            "sentence": "lot "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "what_sound_does_the_letter_l_make_in_the_words_leg_lip_and_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "What"
+                  },
+                  {
+                    "end": 86,
+                    "start": 41,
+                    "word": "sound"
+                  },
+                  {
+                    "end": 101,
+                    "start": 87,
+                    "word": "does"
+                  },
+                  {
+                    "end": 108,
+                    "start": 102,
+                    "word": "the"
+                  },
+                  {
+                    "end": 141,
+                    "start": 109,
+                    "word": "Letter"
+                  },
+                  {
+                    "end": 176,
+                    "start": 148,
+                    "word": "L"
+                  },
+                  {
+                    "end": 223,
+                    "start": 177,
+                    "word": "make"
+                  },
+                  {
+                    "end": 247,
+                    "start": 234,
+                    "word": "in"
+                  },
+                  {
+                    "end": 254,
+                    "start": 248,
+                    "word": "the"
+                  },
+                  {
+                    "end": 300,
+                    "start": 255,
+                    "word": "words"
+                  },
+                  {
+                    "end": 355,
+                    "start": 301,
+                    "word": "LEG"
+                  },
+                  {
+                    "end": 402,
+                    "start": 362,
+                    "word": "LIP"
+                  },
+                  {
+                    "end": 433,
+                    "start": 411,
+                    "word": "and"
+                  },
+                  {
+                    "end": 464,
+                    "start": 434,
+                    "word": "LOT"
+                  }
+                ],
+                "until": 464,
+                "utterances": "What sound does the Letter L make in the words LEG LIP and LOT"
+              }
+            ],
+            "sentence": "What sound does the letter l make in the words leg, lip, and lot?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "LAP"
+                  }
+                ],
+                "until": 33,
+                "utterances": "LAP"
+              }
+            ],
+            "sentence": "lap "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "let.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "LET"
+                  }
+                ],
+                "until": 40,
+                "utterances": "LET"
+              }
+            ],
+            "sentence": "let "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 63,
+                    "start": 10,
+                    "word": "LID"
+                  }
+                ],
+                "until": 63,
+                "utterances": "LID"
+              }
+            ],
+            "sentence": "lid "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lab.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 10,
+                    "word": "LAB"
+                  }
+                ],
+                "until": 69,
+                "utterances": "LAB"
+              }
+            ],
+            "sentence": "lab "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "long.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 10,
+                    "word": "LONG"
+                  }
+                ],
+                "until": 83,
+                "utterances": "LONG"
+              }
+            ],
+            "sentence": "long "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "now_click_go_to_help_make_a_tongue_twister_about_an_animal_named_lenny.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 10,
+                    "word": "Now"
+                  },
+                  {
+                    "end": 65,
+                    "start": 37,
+                    "word": "click"
+                  },
+                  {
+                    "end": 105,
+                    "start": 72,
+                    "word": "Go"
+                  },
+                  {
+                    "end": 118,
+                    "start": 106,
+                    "word": "to"
+                  },
+                  {
+                    "end": 143,
+                    "start": 119,
+                    "word": "help"
+                  },
+                  {
+                    "end": 169,
+                    "start": 144,
+                    "word": "make"
+                  },
+                  {
+                    "end": 176,
+                    "start": 170,
+                    "word": "a"
+                  },
+                  {
+                    "end": 211,
+                    "start": 177,
+                    "word": "tongue"
+                  },
+                  {
+                    "end": 260,
+                    "start": 212,
+                    "word": "twister"
+                  },
+                  {
+                    "end": 292,
+                    "start": 261,
+                    "word": "about"
+                  },
+                  {
+                    "end": 304,
+                    "start": 293,
+                    "word": "an"
+                  },
+                  {
+                    "end": 350,
+                    "start": 305,
+                    "word": "animal"
+                  },
+                  {
+                    "end": 389,
+                    "start": 351,
+                    "word": "named"
+                  },
+                  {
+                    "end": 438,
+                    "start": 390,
+                    "word": "Lenny"
+                  }
+                ],
+                "until": 438,
+                "utterances": "Now click Go to help make a tongue twister about an animal named Lenny"
+              }
+            ],
+            "sentence": "Now click Go to help make a tongue twister about an animal named Lenny. "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lenny_the.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Lenny"
+                  },
+                  {
+                    "end": 90,
+                    "start": 57,
+                    "word": "the"
+                  }
+                ],
+                "until": 90,
+                "utterances": "Lenny the"
+              },
+              {
+                "audio": "lion.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 10,
+                    "word": "lion"
+                  }
+                ],
+                "until": 76,
+                "utterances": "lion"
+              },
+              {
+                "audio": "loves.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 10,
+                    "word": "loves"
+                  }
+                ],
+                "until": 85,
+                "utterances": "loves"
+              },
+              {
+                "audio": "lunch.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 10,
+                    "word": "lunch"
+                  }
+                ],
+                "until": 78,
+                "utterances": "lunch"
+              }
+            ],
+            "sentence": "Lenny the lion loves lunch! "
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "way_to_go.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Way"
+                  },
+                  {
+                    "end": 56,
+                    "start": 47,
+                    "word": "to"
+                  },
+                  {
+                    "end": 87,
+                    "start": 57,
+                    "word": "go"
+                  }
+                ],
+                "until": 87,
+                "utterances": "Way to go"
+              }
+            ],
+            "sentence": "Way to go! "
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "K",
+  "title": "The Sound of the Letter L in LEG, LIP, and LOT",
+  "titleimage": null
+}

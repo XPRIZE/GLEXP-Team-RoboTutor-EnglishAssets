@@ -1,0 +1,769 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cat_dug_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 63,
+                    "start": 21,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 82,
+                    "start": 49,
+                    "word": "dug"
+                  },
+                  {
+                    "end": 152,
+                    "start": 83,
+                    "word": "fast"
+                  }
+                ],
+                "until": 152,
+                "utterances": "The cat dug fast"
+              }
+            ],
+            "sentence": "The cat dug fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cat_got_cut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 79,
+                    "start": 41,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 114,
+                    "start": 80,
+                    "word": "got"
+                  },
+                  {
+                    "end": 170,
+                    "start": 115,
+                    "word": "cut"
+                  }
+                ],
+                "until": 170,
+                "utterances": "The cat got cut"
+              }
+            ],
+            "sentence": "The cat got cut!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_said_rats.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 91,
+                    "start": 42,
+                    "word": "said"
+                  },
+                  {
+                    "end": 153,
+                    "start": 92,
+                    "word": "Rats"
+                  }
+                ],
+                "until": 153,
+                "utterances": "Dad said Rats"
+              }
+            ],
+            "sentence": "Dad said, \"Rats!\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_got_a_rag.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 88,
+                    "start": 49,
+                    "word": "got"
+                  },
+                  {
+                    "end": 94,
+                    "start": 89,
+                    "word": "a"
+                  },
+                  {
+                    "end": 187,
+                    "start": 172,
+                    "word": "rag"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Dad got a rag"
+              }
+            ],
+            "sentence": "Dad got a rag."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cat_had_a_slit.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 23,
+                    "word": "The"
+                  },
+                  {
+                    "end": 67,
+                    "start": 26,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 90,
+                    "start": 68,
+                    "word": "had"
+                  },
+                  {
+                    "end": 99,
+                    "start": 91,
+                    "word": "a"
+                  },
+                  {
+                    "end": 151,
+                    "start": 100,
+                    "word": "slit"
+                  }
+                ],
+                "until": 151,
+                "utterances": "The cat had a slit"
+              }
+            ],
+            "sentence": "The cat had a slit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_sat_and_got_mad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 76,
+                    "start": 31,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 106,
+                    "start": 87,
+                    "word": "and"
+                  },
+                  {
+                    "end": 141,
+                    "start": 107,
+                    "word": "got"
+                  },
+                  {
+                    "end": 193,
+                    "start": 142,
+                    "word": "mad"
+                  }
+                ],
+                "until": 193,
+                "utterances": "It sat and got mad"
+              }
+            ],
+            "sentence": "It sat and got mad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_mad_cat_sat_on_the_cot.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 17,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 27,
+                    "word": "mad"
+                  },
+                  {
+                    "end": 110,
+                    "start": 73,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 161,
+                    "start": 115,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 186,
+                    "start": 169,
+                    "word": "on"
+                  },
+                  {
+                    "end": 199,
+                    "start": 187,
+                    "word": "the"
+                  },
+                  {
+                    "end": 250,
+                    "start": 200,
+                    "word": "cot"
+                  }
+                ],
+                "until": 250,
+                "utterances": "The mad cat sat on the cot"
+              }
+            ],
+            "sentence": "The mad cat sat on the cot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_got_a_cast_on_the_slit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 71,
+                    "start": 43,
+                    "word": "got"
+                  },
+                  {
+                    "end": 83,
+                    "start": 72,
+                    "word": "a"
+                  },
+                  {
+                    "end": 142,
+                    "start": 84,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 170,
+                    "start": 150,
+                    "word": "on"
+                  },
+                  {
+                    "end": 179,
+                    "start": 171,
+                    "word": "the"
+                  },
+                  {
+                    "end": 218,
+                    "start": 180,
+                    "word": "slit"
+                  }
+                ],
+                "until": 218,
+                "utterances": "It got a cast on the slit"
+              }
+            ],
+            "sentence": "It got a cast on the slit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_cast_fit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 36,
+                    "start": 28,
+                    "word": "the"
+                  },
+                  {
+                    "end": 89,
+                    "start": 37,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 117,
+                    "start": 90,
+                    "word": "fit"
+                  }
+                ],
+                "until": 117,
+                "utterances": "Did the cast fit"
+              }
+            ],
+            "sentence": "Did the cast fit?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cast_fit_on_the_cat_s_slit.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 74,
+                    "start": 28,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 119,
+                    "start": 75,
+                    "word": "fit"
+                  },
+                  {
+                    "end": 138,
+                    "start": 120,
+                    "word": "on"
+                  },
+                  {
+                    "end": 146,
+                    "start": 139,
+                    "word": "the"
+                  },
+                  {
+                    "end": 191,
+                    "start": 147,
+                    "word": "cat's"
+                  },
+                  {
+                    "end": 234,
+                    "start": 196,
+                    "word": "slit"
+                  }
+                ],
+                "until": 234,
+                "utterances": "The cast fit on the cat's slit"
+              }
+            ],
+            "sentence": "The cast fit on the cat's slit."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_slid_it_on.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 88,
+                    "start": 49,
+                    "word": "slid"
+                  },
+                  {
+                    "end": 112,
+                    "start": 89,
+                    "word": "it"
+                  },
+                  {
+                    "end": 152,
+                    "start": 113,
+                    "word": "on"
+                  }
+                ],
+                "until": 152,
+                "utterances": "Dad slid it on"
+              }
+            ],
+            "sentence": "Dad slid it on."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cast_cost_a_lot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 89,
+                    "start": 28,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 143,
+                    "start": 94,
+                    "word": "cost"
+                  },
+                  {
+                    "end": 162,
+                    "start": 152,
+                    "word": "a"
+                  },
+                  {
+                    "end": 215,
+                    "start": 163,
+                    "word": "lot"
+                  }
+                ],
+                "until": 215,
+                "utterances": "The cast cost a lot"
+              }
+            ],
+            "sentence": "The cast cost a lot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_sat_with_the_cat_on_the_cot.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 94,
+                    "start": 48,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 114,
+                    "start": 95,
+                    "word": "with"
+                  },
+                  {
+                    "end": 125,
+                    "start": 115,
+                    "word": "the"
+                  },
+                  {
+                    "end": 169,
+                    "start": 126,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 192,
+                    "start": 176,
+                    "word": "on"
+                  },
+                  {
+                    "end": 199,
+                    "start": 193,
+                    "word": "the"
+                  },
+                  {
+                    "end": 250,
+                    "start": 200,
+                    "word": "cot"
+                  }
+                ],
+                "until": 250,
+                "utterances": "Dad sat with the cat on the cot"
+              }
+            ],
+            "sentence": "Dad sat with the cat on the cot."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dad_is_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Dad"
+                  },
+                  {
+                    "end": 73,
+                    "start": 54,
+                    "word": "is"
+                  },
+                  {
+                    "end": 135,
+                    "start": 74,
+                    "word": "glad"
+                  }
+                ],
+                "until": 135,
+                "utterances": "Dad is glad"
+              }
+            ],
+            "sentence": "Dad is glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_cat_is_glad.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 68,
+                    "start": 28,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 100,
+                    "start": 83,
+                    "word": "is"
+                  },
+                  {
+                    "end": 250,
+                    "start": 101,
+                    "word": "glad"
+                  }
+                ],
+                "until": 250,
+                "utterances": "The cat is glad"
+              }
+            ],
+            "sentence": "The cat is glad."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i_am_glad_the_cat_got_a_cast_on_its_cut.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 10,
+                    "word": "I"
+                  },
+                  {
+                    "end": 90,
+                    "start": 75,
+                    "word": "am"
+                  },
+                  {
+                    "end": 142,
+                    "start": 91,
+                    "word": "glad"
+                  },
+                  {
+                    "end": 154,
+                    "start": 143,
+                    "word": "the"
+                  },
+                  {
+                    "end": 198,
+                    "start": 155,
+                    "word": "cat"
+                  },
+                  {
+                    "end": 234,
+                    "start": 202,
+                    "word": "got"
+                  },
+                  {
+                    "end": 251,
+                    "start": 235,
+                    "word": "a"
+                  },
+                  {
+                    "end": 305,
+                    "start": 252,
+                    "word": "cast"
+                  },
+                  {
+                    "end": 330,
+                    "start": 312,
+                    "word": "on"
+                  },
+                  {
+                    "end": 352,
+                    "start": 331,
+                    "word": "its"
+                  },
+                  {
+                    "end": 416,
+                    "start": 353,
+                    "word": "cut"
+                  }
+                ],
+                "until": 416,
+                "utterances": "I am glad the cat got a cast on its cut"
+              }
+            ],
+            "sentence": "I am glad the cat got a cast on its cut."
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "The Cat",
+  "titleimage": null
+}

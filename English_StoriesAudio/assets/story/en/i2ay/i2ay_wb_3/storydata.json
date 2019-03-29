@@ -1,0 +1,911 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_got_a_gift.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 46,
+                    "start": 26,
+                    "word": "got"
+                  },
+                  {
+                    "end": 52,
+                    "start": 47,
+                    "word": "a"
+                  },
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "gift"
+                  }
+                ],
+                "until": 99,
+                "utterances": "Mike got a gift"
+              }
+            ],
+            "sentence": "Mike got a gift."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_gift_came_in_a_big_crate.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 75,
+                    "start": 33,
+                    "word": "gift"
+                  },
+                  {
+                    "end": 114,
+                    "start": 76,
+                    "word": "came"
+                  },
+                  {
+                    "end": 126,
+                    "start": 115,
+                    "word": "in"
+                  },
+                  {
+                    "end": 137,
+                    "start": 127,
+                    "word": "a"
+                  },
+                  {
+                    "end": 185,
+                    "start": 138,
+                    "word": "big"
+                  },
+                  {
+                    "end": 236,
+                    "start": 186,
+                    "word": "crate"
+                  }
+                ],
+                "until": 236,
+                "utterances": "The gift came in a big crate"
+              }
+            ],
+            "sentence": "The gift came in a big crate."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_s_mom_got_him_a_bike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 10,
+                    "word": "Mike's"
+                  },
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "mom"
+                  },
+                  {
+                    "end": 88,
+                    "start": 57,
+                    "word": "got"
+                  },
+                  {
+                    "end": 104,
+                    "start": 89,
+                    "word": "him"
+                  },
+                  {
+                    "end": 114,
+                    "start": 105,
+                    "word": "a"
+                  },
+                  {
+                    "end": 164,
+                    "start": 115,
+                    "word": "bike"
+                  }
+                ],
+                "until": 164,
+                "utterances": "Mike's mom got him a bike"
+              }
+            ],
+            "sentence": "Mike's mom got him a bike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_said_is_the_bike_mine.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 94,
+                    "start": 44,
+                    "word": "said"
+                  },
+                  {
+                    "end": 109,
+                    "start": 95,
+                    "word": "is"
+                  },
+                  {
+                    "end": 120,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 155,
+                    "start": 121,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 200,
+                    "start": 156,
+                    "word": "mine"
+                  }
+                ],
+                "until": 200,
+                "utterances": "Mike said is the bike mine"
+              }
+            ],
+            "sentence": "Mike said, \"is the bike mine?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_likes_his_bike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 90,
+                    "start": 50,
+                    "word": "likes"
+                  },
+                  {
+                    "end": 44,
+                    "start": 30,
+                    "word": "his"
+                  },
+                  {
+                    "end": 91,
+                    "start": 45,
+                    "word": "bike"
+                  }
+                ],
+                "until": 91,
+                "utterances": "Mike likes his bike"
+              }
+            ],
+            "sentence": "Mike likes his bike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bike_is_red.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 28,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 83,
+                    "start": 67,
+                    "word": "is"
+                  },
+                  {
+                    "end": 122,
+                    "start": 84,
+                    "word": "red"
+                  }
+                ],
+                "until": 122,
+                "utterances": "The bike is red"
+              }
+            ],
+            "sentence": "The bike is red."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_can_ride_his_bike_fast.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 77,
+                    "start": 65,
+                    "word": "can"
+                  },
+                  {
+                    "end": 108,
+                    "start": 78,
+                    "word": "ride"
+                  },
+                  {
+                    "end": 125,
+                    "start": 109,
+                    "word": "his"
+                  },
+                  {
+                    "end": 159,
+                    "start": 126,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 229,
+                    "start": 160,
+                    "word": "fast"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Mike can ride his bike fast"
+              }
+            ],
+            "sentence": "Mike can ride his bike fast."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bike_has_brakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 20,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 51,
+                    "start": 21,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 82,
+                    "start": 52,
+                    "word": "has"
+                  },
+                  {
+                    "end": 139,
+                    "start": 83,
+                    "word": "brakes"
+                  }
+                ],
+                "until": 139,
+                "utterances": "The bike has brakes"
+              }
+            ],
+            "sentence": "The bike has brakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_hits_the_brakes.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 49,
+                    "start": 21,
+                    "word": "hits"
+                  },
+                  {
+                    "end": 59,
+                    "start": 50,
+                    "word": "the"
+                  },
+                  {
+                    "end": 121,
+                    "start": 60,
+                    "word": "brakes"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Mike hits the brakes"
+              }
+            ],
+            "sentence": "Mike hits the brakes."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_brakes_make_the_bike_stop.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 90,
+                    "start": 40,
+                    "word": "brakes"
+                  },
+                  {
+                    "end": 124,
+                    "start": 91,
+                    "word": "make"
+                  },
+                  {
+                    "end": 132,
+                    "start": 125,
+                    "word": "the"
+                  },
+                  {
+                    "end": 167,
+                    "start": 133,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 247,
+                    "start": 168,
+                    "word": "stop"
+                  }
+                ],
+                "until": 247,
+                "utterances": "The brakes make the bike stop"
+              }
+            ],
+            "sentence": "The brakes make the bike stop."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "did_the_bike_slide.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 10,
+                    "word": "Did"
+                  },
+                  {
+                    "end": 43,
+                    "start": 33,
+                    "word": "the"
+                  },
+                  {
+                    "end": 72,
+                    "start": 44,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 140,
+                    "start": 73,
+                    "word": "slide"
+                  }
+                ],
+                "until": 140,
+                "utterances": "Did the bike slide"
+              }
+            ],
+            "sentence": "Did the bike slide?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_did.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 66,
+                    "start": 32,
+                    "word": "did"
+                  }
+                ],
+                "until": 66,
+                "utterances": "It did"
+              }
+            ],
+            "sentence": "It did."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_bike_slid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 73,
+                    "start": 31,
+                    "word": "bike"
+                  },
+                  {
+                    "end": 175,
+                    "start": 74,
+                    "word": "slid"
+                  }
+                ],
+                "until": 175,
+                "utterances": "The bike slid"
+              }
+            ],
+            "sentence": "The bike slid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "it_made_a_skid.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 10,
+                    "word": "It"
+                  },
+                  {
+                    "end": 66,
+                    "start": 35,
+                    "word": "made"
+                  },
+                  {
+                    "end": 77,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 175,
+                    "start": 78,
+                    "word": "skid"
+                  }
+                ],
+                "until": 175,
+                "utterances": "It made a skid"
+              }
+            ],
+            "sentence": "It made a skid."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_can_ride_a_mile.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 84,
+                    "start": 66,
+                    "word": "can"
+                  },
+                  {
+                    "end": 122,
+                    "start": 85,
+                    "word": "ride"
+                  },
+                  {
+                    "end": 132,
+                    "start": 123,
+                    "word": "a"
+                  },
+                  {
+                    "end": 184,
+                    "start": 133,
+                    "word": "mile"
+                  }
+                ],
+                "until": 184,
+                "utterances": "Mike can ride a mile"
+              }
+            ],
+            "sentence": "Mike can ride a mile."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_is_safe.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 65,
+                    "start": 47,
+                    "word": "is"
+                  },
+                  {
+                    "end": 119,
+                    "start": 66,
+                    "word": "safe"
+                  }
+                ],
+                "until": 119,
+                "utterances": "Mike is safe"
+              }
+            ],
+            "sentence": "Mike is safe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 18,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he_has_a_helmet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 27,
+                    "start": 10,
+                    "word": "He"
+                  },
+                  {
+                    "end": 66,
+                    "start": 28,
+                    "word": "has"
+                  },
+                  {
+                    "end": 79,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 140,
+                    "start": 80,
+                    "word": "helmet"
+                  }
+                ],
+                "until": 140,
+                "utterances": "He has a helmet"
+              }
+            ],
+            "sentence": "He has a helmet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 19,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mike_can_ride_and_wave_his_hand.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 10,
+                    "word": "Mike"
+                  },
+                  {
+                    "end": 68,
+                    "start": 50,
+                    "word": "can"
+                  },
+                  {
+                    "end": 97,
+                    "start": 69,
+                    "word": "ride"
+                  },
+                  {
+                    "end": 120,
+                    "start": 98,
+                    "word": "and"
+                  },
+                  {
+                    "end": 168,
+                    "start": 121,
+                    "word": "wave"
+                  },
+                  {
+                    "end": 186,
+                    "start": 169,
+                    "word": "his"
+                  },
+                  {
+                    "end": 231,
+                    "start": 187,
+                    "word": "hand"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Mike can ride and wave his hand"
+              },
+              {
+                "audio": "hi_mom_says_mike.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 10,
+                    "word": "Hi"
+                  },
+                  {
+                    "end": 78,
+                    "start": 47,
+                    "word": "Mom"
+                  },
+                  {
+                    "end": 112,
+                    "start": 79,
+                    "word": "says"
+                  },
+                  {
+                    "end": 150,
+                    "start": 113,
+                    "word": "Mike"
+                  }
+                ],
+                "until": 150,
+                "utterances": "Hi Mom says Mike"
+              }
+            ],
+            "sentence": "Mike can ride and wave his hand. \"Hi, Mom,\" says Mike."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 20,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_to_stop_says_mom.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 43,
+                    "start": 10,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 54,
+                    "start": 44,
+                    "word": "to"
+                  },
+                  {
+                    "end": 112,
+                    "start": 55,
+                    "word": "stop"
+                  },
+                  {
+                    "end": 141,
+                    "start": 113,
+                    "word": "says"
+                  },
+                  {
+                    "end": 179,
+                    "start": 142,
+                    "word": "Mom"
+                  }
+                ],
+                "until": 179,
+                "utterances": "Time to stop says Mom"
+              }
+            ],
+            "sentence": "\"Time to stop,\" says Mom."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 21,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "time_for_bed.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 44,
+                    "start": 10,
+                    "word": "Time"
+                  },
+                  {
+                    "end": 62,
+                    "start": 45,
+                    "word": "for"
+                  },
+                  {
+                    "end": 101,
+                    "start": 63,
+                    "word": "bed"
+                  }
+                ],
+                "until": 101,
+                "utterances": "Time for bed"
+              }
+            ],
+            "sentence": "\"Time for bed.\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Mike's Red Bike",
+  "titleimage": null
+}

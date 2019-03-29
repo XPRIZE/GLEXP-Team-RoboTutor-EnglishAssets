@@ -1,0 +1,688 @@
+{
+  "author": "Project LISTEN",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pam_had_a_pet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 52,
+                    "start": 10,
+                    "word": "Pam"
+                  },
+                  {
+                    "end": 64,
+                    "start": 53,
+                    "word": "had"
+                  },
+                  {
+                    "end": 96,
+                    "start": 65,
+                    "word": "a"
+                  },
+                  {
+                    "end": 121,
+                    "start": 97,
+                    "word": "pet"
+                  }
+                ],
+                "until": 121,
+                "utterances": "Pam had a pet"
+              }
+            ],
+            "sentence": "Pam had a pet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dan_had_a_pet.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 49,
+                    "start": 10,
+                    "word": "Dan"
+                  },
+                  {
+                    "end": 63,
+                    "start": 55,
+                    "word": "had"
+                  },
+                  {
+                    "end": 83,
+                    "start": 64,
+                    "word": "a"
+                  },
+                  {
+                    "end": 107,
+                    "start": 84,
+                    "word": "pet"
+                  }
+                ],
+                "until": 107,
+                "utterances": "Dan had a pet"
+              }
+            ],
+            "sentence": "Dan had a pet."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pam_had_a_pig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 10,
+                    "word": "Pam"
+                  },
+                  {
+                    "end": 70,
+                    "start": 60,
+                    "word": "had"
+                  },
+                  {
+                    "end": 88,
+                    "start": 71,
+                    "word": "a"
+                  },
+                  {
+                    "end": 134,
+                    "start": 89,
+                    "word": "pig"
+                  }
+                ],
+                "until": 134,
+                "utterances": "Pam had a pig"
+              }
+            ],
+            "sentence": "Pam had a pig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dan_had_a_dog.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 47,
+                    "start": 10,
+                    "word": "Dan"
+                  },
+                  {
+                    "end": 66,
+                    "start": 51,
+                    "word": "had"
+                  },
+                  {
+                    "end": 86,
+                    "start": 67,
+                    "word": "a"
+                  },
+                  {
+                    "end": 136,
+                    "start": 87,
+                    "word": "dog"
+                  }
+                ],
+                "until": 136,
+                "utterances": "Dan had a dog"
+              }
+            ],
+            "sentence": "Dan had a dog."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_sat_on_a_twig.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 86,
+                    "start": 42,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 122,
+                    "start": 87,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 156,
+                    "start": 123,
+                    "word": "on"
+                  },
+                  {
+                    "end": 166,
+                    "start": 157,
+                    "word": "a"
+                  },
+                  {
+                    "end": 219,
+                    "start": 167,
+                    "word": "twig"
+                  }
+                ],
+                "until": 219,
+                "utterances": "The pig sat on a twig"
+              }
+            ],
+            "sentence": "The pig sat on a twig."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_sat_on_a_log.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 82,
+                    "start": 32,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 106,
+                    "start": 83,
+                    "word": "sat"
+                  },
+                  {
+                    "end": 143,
+                    "start": 107,
+                    "word": "on"
+                  },
+                  {
+                    "end": 148,
+                    "start": 144,
+                    "word": "a"
+                  },
+                  {
+                    "end": 213,
+                    "start": 149,
+                    "word": "log"
+                  }
+                ],
+                "until": 213,
+                "utterances": "The dog sat on a log"
+              }
+            ],
+            "sentence": "The dog sat on a log."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_said_yap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 28,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 66,
+                    "start": 29,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 105,
+                    "start": 67,
+                    "word": "said"
+                  },
+                  {
+                    "end": 207,
+                    "start": 106,
+                    "word": "yap"
+                  }
+                ],
+                "until": 207,
+                "utterances": "The pig said yap"
+              }
+            ],
+            "sentence": "The pig said, \"yap.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_said_yelp.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 41,
+                    "start": 24,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 103,
+                    "start": 67,
+                    "word": "said"
+                  },
+                  {
+                    "end": 144,
+                    "start": 104,
+                    "word": "yelp"
+                  }
+                ],
+                "until": 144,
+                "utterances": "The dog said yelp"
+              }
+            ],
+            "sentence": "The dog said, \"yelp.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_had_a_nap.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 21,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 59,
+                    "start": 22,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 70,
+                    "start": 60,
+                    "word": "had"
+                  },
+                  {
+                    "end": 88,
+                    "start": 71,
+                    "word": "a"
+                  },
+                  {
+                    "end": 119,
+                    "start": 89,
+                    "word": "nap"
+                  }
+                ],
+                "until": 119,
+                "utterances": "The pig had a nap"
+              }
+            ],
+            "sentence": "The pig had a nap."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_got_help.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 71,
+                    "start": 31,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 102,
+                    "start": 72,
+                    "word": "got"
+                  },
+                  {
+                    "end": 168,
+                    "start": 103,
+                    "word": "help"
+                  }
+                ],
+                "until": 168,
+                "utterances": "The dog got help"
+              }
+            ],
+            "sentence": "The dog got help."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_went_in_the_pen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 23,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 65,
+                    "start": 24,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 97,
+                    "start": 66,
+                    "word": "went"
+                  },
+                  {
+                    "end": 118,
+                    "start": 98,
+                    "word": "in"
+                  },
+                  {
+                    "end": 127,
+                    "start": 119,
+                    "word": "the"
+                  },
+                  {
+                    "end": 192,
+                    "start": 128,
+                    "word": "pen"
+                  }
+                ],
+                "until": 192,
+                "utterances": "The pig went in the pen"
+              }
+            ],
+            "sentence": "The pig went in the pen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_went_in_the_den.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 22,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 41,
+                    "start": 23,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 98,
+                    "start": 57,
+                    "word": "went"
+                  },
+                  {
+                    "end": 122,
+                    "start": 99,
+                    "word": "in"
+                  },
+                  {
+                    "end": 133,
+                    "start": 123,
+                    "word": "the"
+                  },
+                  {
+                    "end": 222,
+                    "start": 134,
+                    "word": "den"
+                  }
+                ],
+                "until": 222,
+                "utterances": "The dog went in the den"
+              }
+            ],
+            "sentence": "The dog went in the den."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_pig_met_the_hen.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 25,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 72,
+                    "start": 26,
+                    "word": "pig"
+                  },
+                  {
+                    "end": 96,
+                    "start": 73,
+                    "word": "met"
+                  },
+                  {
+                    "end": 113,
+                    "start": 97,
+                    "word": "the"
+                  },
+                  {
+                    "end": 154,
+                    "start": 123,
+                    "word": "hen"
+                  }
+                ],
+                "until": 154,
+                "utterances": "The pig met the hen"
+              }
+            ],
+            "sentence": "The pig met the hen."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "the_dog_met_the_men.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 30,
+                    "start": 10,
+                    "word": "The"
+                  },
+                  {
+                    "end": 48,
+                    "start": 31,
+                    "word": "dog"
+                  },
+                  {
+                    "end": 109,
+                    "start": 81,
+                    "word": "met"
+                  },
+                  {
+                    "end": 118,
+                    "start": 110,
+                    "word": "the"
+                  },
+                  {
+                    "end": 195,
+                    "start": 119,
+                    "word": "men"
+                  }
+                ],
+                "until": 195,
+                "utterances": "The dog met the men"
+              }
+            ],
+            "sentence": "The dog met the men."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pam_and_dan_said_the_end.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 48,
+                    "start": 10,
+                    "word": "Pam"
+                  },
+                  {
+                    "end": 75,
+                    "start": 49,
+                    "word": "and"
+                  },
+                  {
+                    "end": 114,
+                    "start": 76,
+                    "word": "Dan"
+                  },
+                  {
+                    "end": 164,
+                    "start": 118,
+                    "word": "said"
+                  },
+                  {
+                    "end": 190,
+                    "start": 165,
+                    "word": "the"
+                  },
+                  {
+                    "end": 245,
+                    "start": 207,
+                    "word": "end"
+                  }
+                ],
+                "until": 245,
+                "utterances": "Pam and Dan said the end"
+              }
+            ],
+            "sentence": "Pam and Dan said, \"the end!\""
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "WORD",
+  "title": "Pam had a Pet",
+  "titleimage": null
+}
