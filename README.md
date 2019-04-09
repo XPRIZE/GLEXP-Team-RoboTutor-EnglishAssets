@@ -7,7 +7,7 @@
 1 Clone this repo to your development computer
 
 ```
- git clone https://github.com/synaptek/RTAsset_Publisher.git
+git clone https://github.com/XPRIZE/GLEXP-Team-RoboTutor-EnglishAssets
 ```
 
 2 Note that cloning this support repo will require up to a GB of space.
@@ -15,11 +15,12 @@
 3 Once you have cloned the assets:
 
   * Attach your target device to the development machine.
+  * Ensure the target device is connected by running `adb devices`.
   * Execute:
      * `PUSH_English_StoriesAudio.sh`      (or the respective .bat file if you use Windows)
      * `PUSH_English_TutorAudio.sh` (or .bat)
 
-4 RoboTutor will then have the assets required on the target device.
+4 RoboTutor will then have the assets required on the target device (check the _robotutor_assets_ folder).
 
 5 Continue to [build RoboTutor](https://github.com/XPRIZE/GLEXP-Team-RoboTutor-RoboTutor).
 
