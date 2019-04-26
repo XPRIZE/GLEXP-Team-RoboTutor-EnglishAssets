@@ -20,6 +20,10 @@ git clone https://github.com/XPRIZE/GLEXP-Team-RoboTutor-EnglishAssets
      * `PUSH_English_StoriesAudio.sh`      (or the respective .bat file if you use Windows)
      * `PUSH_English_TutorAudio.sh` (or .bat)
 
+4. **If you have Windows** you must run these two commands to push the assets: 
+    * `adb push English_TutorAudio.1.1.0\assets sdcard/robotutor_assets`
+    * `adb push English_StoriesAudio.1.1.0\assets sdcard/robotutor_assets`
+  
 4 RoboTutor will then have the assets required on the target device (check the _robotutor_assets_ folder).
 
 5 Continue to [build RoboTutor](https://github.com/XPRIZE/GLEXP-Team-RoboTutor-RoboTutor).
